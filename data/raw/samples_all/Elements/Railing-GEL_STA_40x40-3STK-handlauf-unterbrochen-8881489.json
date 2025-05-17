@@ -1,0 +1,157 @@
+{
+  "Element Metadata": {
+    "Name": "Railing:GEL_STA_40x40 3STK-handlauf unterbrochen:8881489",
+    "UID": "1533448",
+    "GlobalId": "172H11BnD5veWc7SEgj_uF",
+    "Type": "IfcRailing",
+    "ObjectType": "Railing:GEL_STA_40x40 3STK-handlauf unterbrochen",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": "Not defined",
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Length": 1.2,
+      "Length unit": "METRE"
+    },
+    "Geometric Representation": [
+      "SweptSolid"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.0045,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 0.4599,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 1.2,
+      "Y": 0.04,
+      "Z": 0.64,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.0307,
+    "Real Volume to Bounding Box Volume Ratio": 0.1474,
+    "Face Count (tessellated element)": {
+      "Face Count": 1500
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 1518
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 3009
+    },
+    "Primary Object Axis (Cardinal Direction)": "N"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Height": "0.9",
+      "Type": "Railing: GEL_STA_40x40 3STK-handlauf unterbrochen",
+      "Use Top Rail": "True",
+      "Category": "Railings",
+      "Family Name": "Railing",
+      "Assembly Code": "",
+      "Assembly Description": "",
+      "Workset": "A-Fassade",
+      "Edited by": "graser@graser.ch",
+      "Type Name": "GEL_STA_40x40 3STK-handlauf unterbrochen",
+      "Position": "None",
+      "Angled Joins": "No Connector",
+      "Baluster Offset": "0.0",
+      "Tangent Joins": "Extend Rails to Meet",
+      "Use Landing Height Adjustment": "False",
+      "Landing Height Adjustment": "0.0",
+      "Rail Connections": "Weld",
+      "Railing Height": "0.9",
+      "Reference": "GEL_STA_40x40 3STK-handlauf unterbrochen",
+      "IsExternal": "False",
+      "Bauteilklasse": "A_Sicherung",
+      "Bauteilart": "Gelaender",
+      "eBKP-H": "E 2.6",
+      "Typname": "GEL_STA_40x40 3STK-handlauf unterbrochen",
+      "Base Offset": "0.0",
+      "Base Level": "Level: 02",
+      "Offset from Path": "0.02",
+      "Length": "1.20000000044047",
+      "Family": "Railing: GEL_STA_40x40 3STK-handlauf unterbrochen",
+      "Family and Type": "Railing: GEL_STA_40x40 3STK-handlauf unterbrochen",
+      "Type Id": "Railing: GEL_STA_40x40 3STK-handlauf unterbrochen",
+      "Phase Created": "Neubau"
+    },
+    "Psets Object Type": {}
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": [
+      {
+        "IfcEntity": "IfcGroup",
+        "Group Name": "Model Group:Fassade OG - 210107:6177253",
+        "Group Description": "Not defined"
+      }
+    ]
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "98": {
+        "Elevation": -6.67,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.8,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 4.95,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.85,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.75,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.65,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.55,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.45,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "02",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "02",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "993d0c82ac"
+}

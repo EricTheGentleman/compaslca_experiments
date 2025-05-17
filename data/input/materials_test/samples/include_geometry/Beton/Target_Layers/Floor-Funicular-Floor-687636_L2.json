@@ -1,0 +1,80 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Beton, Ortbeton",
+        "Thickness": 0.35000000000000003,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Floor:Funicular Floor:687636",
+            "Type": "IfcSlab",
+            "ObjectType": "Floor:Funicular Floor"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Spachtelmasse Boden",
+                "Thickness": 0.01,
+                "Thickness Unit": "METRE",
+                "Layer Number": 1
+            }
+        ],
+        "Element Geometry Data": {
+            "Quantities (IFC)": {
+                "Width": 0.36,
+                "Width unit": "METRE",
+                "Gross Volume": 8.0793,
+                "Gross Volume unit": "CUBIC_METRE",
+                "Net Volume": 8.0793,
+                "Net Volume unit": "CUBIC_METRE"
+            },
+            "Quantities (COMPAS)": {
+                "Net Volume": 8.07931,
+                "Net Volume unit": "CUBIC_METRE",
+                "Entire Surface Area": 51.74754,
+                "Entire Surface Area unit": "SQUARE_METRE"
+            },
+            "Bounding Box Dimensions (OBB - local frame)": {
+                "X": 5.22,
+                "Y": 0.36,
+                "Z": 5.22,
+                "Bounding Box Dimensions Unit": "METRE"
+            },
+            "Bounding Box Volume": 9.8094,
+            "Real Volume to Bounding Box Volume Ratio": 0.82363
+        },
+        "Element Property Sets": {
+            "Psets Element": {
+                "Related to Mass": "False",
+                "Room Bounding": "True",
+                "Level": "Level: 01_Galerie",
+                "Area": "22.4425",
+                "Elevation at Bottom": "2445.0",
+                "Perimeter": "19062.428",
+                "Thickness": "360.0",
+                "Volume": "8.0793",
+                "Workset": "Tragwerk",
+                "Category": "Floors",
+                "Family": "Floor: Funicular Floor",
+                "Type": "Floor: Funicular Floor",
+                "Phase Created": "Zu Bauen",
+                "Structural": "True"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "3.0",
+                "Analytical Properties.Absorptance": "0.7",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "2.9886",
+                "Analytical Properties.Thermal Mass": "49.135",
+                "Analytical Properties.Thermal Resistance (R)": "0.3346",
+                "Construction.Function": "Interior",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Floor Types",
+                "Identity Data.Type Name": "Funicular Floor",
+                "Materials and Finishes.Structural Material": "Beton, Ortbeton",
+                "Other.Category": "Floors",
+                "Other.Family Name": "Floor"
+            }
+        }
+    },
+    "CompilationGroupID": "50141ec7a2"
+}

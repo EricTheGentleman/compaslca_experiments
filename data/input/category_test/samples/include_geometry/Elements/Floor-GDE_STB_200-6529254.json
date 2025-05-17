@@ -1,0 +1,94 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:GDE_STB_200:6529254",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:GDE_STB_200"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:GDE_STB_200",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Beton - Ortbeton bewehrt",
+                    "Thickness": 0.2,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Net Volume": 13.8186,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 13.8186,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 162.4038,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 18.66,
+            "Y": 5.8,
+            "Z": 0.2,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 21.6456,
+        "Real Volume to Bounding Box Volume Ratio": 0.6384
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Roughness": "0.3048",
+            "Category": "Floors",
+            "Reference": "GDE_STB_200",
+            "Description": "STB_200",
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "ThermalTransmittance": "5.23",
+            "unter Terrain": "False",
+            "Geschoss ID": "Level: 02",
+            "Umfang": "48.92",
+            "Fläche": "69.0929",
+            "Volumen": "13.8186",
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Level": "Level: 02",
+            "Area": "69.0929",
+            "Elevation at Bottom": "8.55",
+            "Perimeter": "48.92",
+            "Thickness": "0.2",
+            "Volume": "13.8186",
+            "Workset": "S-Struktur",
+            "Family": "Floor: GDE_STB_200",
+            "Type": "Floor: GDE_STB_200",
+            "Phase Created": "Neubau",
+            "Structural": "True"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "5.23",
+            "Analytical Properties.Thermal Mass": "28.0772",
+            "Analytical Properties.Thermal Resistance (R)": "0.1912",
+            "Construction.Lage Aussen": "False",
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Description": "STB_200",
+            "Identity Data.Type Name": "GDE_STB_200",
+            "Materials and Finishes.Structural Material": "Beton - Ortbeton bewehrt",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor",
+            "Structural.Filter Tragend / Nichttragend": "True",
+            "Pset_ProductRequirements.Category": "Floors",
+            "Pset_QuantityTakeOff.Reference": "GDE_STB_200",
+            "Gewerbebau.Material": "Beton - Ortbeton bewehrt",
+            "Gewerbebau.Bauteilklasse": "A_Decke",
+            "Gewerbebau.Bauteilart": "Deckenplatte",
+            "Gewerbebau.Typname": "GDE_STB_200"
+        }
+    },
+    "CompilationGroupID": "ef5a39258a"
+}

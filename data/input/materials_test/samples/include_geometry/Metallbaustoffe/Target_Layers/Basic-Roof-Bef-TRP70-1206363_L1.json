@@ -1,0 +1,56 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Tape Covered Tin Roof - Black",
+        "Thickness": 0.005,
+        "Thickness Unit": "METRE",
+        "Layer Number": 1
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Roof:Bef TRP70:1206363",
+            "Type": "IfcSlab",
+            "ObjectType": "Basic Roof:Bef TRP70"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Insulation - Mineral wool",
+                "Thickness": 0.308,
+                "Thickness Unit": "METRE",
+                "Layer Number": 2
+            }
+        ],
+        "Element Geometry Data": {
+            "Quantities (COMPAS)": {
+                "Net Volume": 4.00357,
+                "Net Volume unit": "CUBIC_METRE",
+                "Entire Surface Area": 30.12276,
+                "Entire Surface Area unit": "SQUARE_METRE"
+            },
+            "Bounding Box Dimensions (OBB - local frame)": {
+                "X": 4.23,
+                "Y": 3.03,
+                "Z": 0.31,
+                "Bounding Box Dimensions Unit": "METRE"
+            },
+            "Bounding Box Volume": 3.9732,
+            "Real Volume to Bounding Box Volume Ratio": 1.00764
+        },
+        "Element Property Sets": {
+            "Psets Element": {
+                "Workset": "Workset1",
+                "Absorptance": "0.1",
+                "Roughness": "1.0",
+                "Room Bounding": "True",
+                "Related to Mass": "False",
+                "Volume": "4.0036",
+                "Thickness": "313.0",
+                "Area": "12.791",
+                "Phase Created": "New",
+                "Reference": "Bef TRP70",
+                "IsExternal": "True",
+                "LoadBearing": "True"
+            }
+        }
+    },
+    "CompilationGroupID": "98538c3a61"
+}

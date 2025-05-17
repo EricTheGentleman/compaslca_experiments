@@ -1,0 +1,45 @@
+{
+    "Element Metadata": {
+        "Name": "Wall Foundation:Bearing Footing - 900 x 300:186596",
+        "Type": "IfcFooting",
+        "ObjectType": "Wall Foundation:Bearing Footing - 900 x 300"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 4.9364,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 44.4192,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 18.28,
+            "Y": 0.9,
+            "Z": 0.3,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 4.9356,
+        "Real Volume to Bounding Box Volume Ratio": 1.0002
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Length": "17.383",
+            "Width": "0.9",
+            "Volume": "4.9364",
+            "Elevation at Bottom": "-1.55",
+            "Phase Created": "New Construction",
+            "Material": "Material",
+            "Foundation Thickness": "0.3",
+            "Structural Usage": "1.0",
+            "Manufacturer": "Manufacturer",
+            "Color": "Color",
+            "Features": "Features",
+            "Finish": "Finish",
+            "Reference": "Reference",
+            "Shape": "Shape",
+            "Size": "Size",
+            "Classification Description": "Shallow Foundations"
+        }
+    },
+    "CompilationGroupID": "90314bd481"
+}

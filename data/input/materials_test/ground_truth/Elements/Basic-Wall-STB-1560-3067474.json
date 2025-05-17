@@ -1,0 +1,25 @@
+{
+    "name": "Basic-Wall-STB-1560-3067474",
+    "category": "Beton",
+    "material_entries": [
+        "Hochbaubeton (ohne Bewehrung)",
+        "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, zirkulit® NPK A, 280kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, Möckli Primärbeton, NPK A, 280 kg CEM II/B-LL (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon Light C25/E30, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon C50/E25, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon RC-M10/E20, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "reason": [
+        "very thick concrete wall(1.56m)",
+        "must be in situ concrete (ortbeton)",
+        "must be structural (loadbearing = true)",
+        "no strucutral specs are given (i.e., how load-bearing etc)",
+        "all concrete mixes are chosen"
+    ]
+}

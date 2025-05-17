@@ -1,0 +1,107 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:FUN_STB_1500:3010518",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:FUN_STB_1500"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:FUN_STB_1500",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Beton - Ortbeton bewehrt",
+                    "Thickness": 1.5,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 1.5,
+            "Width unit": "METRE",
+            "Length": 5.88,
+            "Length unit": "METRE",
+            "Height": 0.5,
+            "Height unit": "METRE",
+            "Net Side Area": 2.94,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Gross Footprint Area": 8.82,
+            "Gross Footprint Area unit": "SQUARE_METRE",
+            "Net Volume": 4.41,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 4.41,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 25.02,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 5.88,
+            "Y": 1.5,
+            "Z": 0.5,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 4.41,
+        "Real Volume to Bounding Box Volume Ratio": 1.0
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Location Line": "Finish Face: Interior",
+            "Base Constraint": "Level: 98",
+            "Area": "2.94",
+            "Length": "5.88",
+            "Volume": "4.41",
+            "Workset": "S-Struktur",
+            "unter Terrain": "True",
+            "Category": "Walls",
+            "Family": "Basic Wall: FUN_STB_1500",
+            "Type": "Basic Wall: FUN_STB_1500",
+            "Phase Created": "Neubau",
+            "Structural": "True",
+            "Structural Usage": "Bearing",
+            "Roughness": "0.3048",
+            "Reference": "FUN_STB_1500",
+            "Description": "STB_1300",
+            "LoadBearing": "True",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "ThermalTransmittance": "0.6973",
+            "Geschoss ID": "Level: 98",
+            "Länge": "5.88",
+            "Fläche": "2.94",
+            "Volumen": "4.41"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "0.6973",
+            "Analytical Properties.Thermal Mass": "210.5787",
+            "Analytical Properties.Thermal Resistance (R)": "1.434",
+            "Construction.Lage Aussen": "True",
+            "Construction.Function": "Foundation",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "STB_1300",
+            "Identity Data.Type Name": "FUN_STB_1500",
+            "Materials and Finishes.Structural Material": "Beton - Ortbeton bewehrt",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall",
+            "Structural.Filter Tragend / Nichttragend": "True",
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_QuantityTakeOff.Reference": "FUN_STB_1500",
+            "Pset_WallCommon.IsExternal": "False",
+            "Pset_WallCommon.ThermalTransmittance": "0.6973",
+            "Gewerbebau.Material": "Beton - Ortbeton bewehrt",
+            "Gewerbebau.Bauteilklasse": "A_Wand",
+            "Gewerbebau.Bauteilart": "Massivwand",
+            "Gewerbebau.Typname": "FUN_STB_1500"
+        }
+    },
+    "CompilationGroupID": "3903913194"
+}

@@ -1,0 +1,69 @@
+{
+    "Element Metadata": {
+        "Name": "Storen_ZIP:SOS_STO_275x395:14112561",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "Storen_ZIP:SOS_STO_275x395"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Aluminum"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0444,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 2.9723,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 4.01,
+            "Y": 2.75,
+            "Z": 0.15,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 1.6541,
+        "Real Volume to Bounding Box Volume Ratio": 0.0268
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "SOS_STO_275x395",
+            "Category": "Mechanical Equipment",
+            "Geschoss ID": "0.0",
+            "Breite": "2.75",
+            "Dicke": "0.06",
+            "Fläche": "10.45",
+            "Material": "Aluminum",
+            "Lage Aussen ": "True",
+            "Bauteilklasse": "A_Sonnenschutz",
+            "Bauteilart": "Sonnenschutz",
+            "Typname": "SOS_STO_275x395",
+            "Level": "0.0",
+            "Elevation from Level": "4.735",
+            "Host": "Rechteckiger Pfosten : VF_REK_70 x 200",
+            "Area": "1.5208",
+            "Volume": "0.0447",
+            "Workset": "A-Fassade",
+            "Family": "Storen_ZIP",
+            "Type": "SOS_STO_275x395",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "SOS_STO_275x395",
+            "Identity Data.Workset": "Family  : Mechanical Equipment : Storen_ZIP",
+            "Materials and Finishes.Rahmen": "Aluminum",
+            "Other.Category": "Mechanical Equipment",
+            "Other.Family Name": "Storen_ZIP",
+            "Pset_ProductRequirements.Category": "Mechanical Equipment",
+            "Gewerbebau.Material": "Aluminum",
+            "Gewerbebau.Bauteilklasse": "A_Sonnenschutz",
+            "Gewerbebau.Bauteilart": "Sonnenschutz",
+            "Gewerbebau.Typname": "SOS_STO_275x395"
+        }
+    },
+    "CompilationGroupID": "9842903d10"
+}

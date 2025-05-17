@@ -1,0 +1,45 @@
+{
+    "Element Metadata": {
+        "Name": "Railing:GEL_STA_40x40 3STK-handlauf unterbrochen:8881489",
+        "Type": "IfcRailing",
+        "ObjectType": "Railing:GEL_STA_40x40 3STK-handlauf unterbrochen"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Length": 1.2,
+            "Length unit": "METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0045,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 0.4599,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.2,
+            "Y": 0.04,
+            "Z": 0.64,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0307,
+        "Real Volume to Bounding Box Volume Ratio": 0.1474
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Height": "0.9",
+            "Type": "Railing: GEL_STA_40x40 3STK-handlauf unterbrochen",
+            "Category": "Railings",
+            "Workset": "A-Fassade",
+            "Reference": "GEL_STA_40x40 3STK-handlauf unterbrochen",
+            "IsExternal": "False",
+            "Bauteilklasse": "A_Sicherung",
+            "Bauteilart": "Gelaender",
+            "Typname": "GEL_STA_40x40 3STK-handlauf unterbrochen",
+            "Length": "1.2",
+            "Family": "Railing: GEL_STA_40x40 3STK-handlauf unterbrochen",
+            "Phase Created": "Neubau"
+        }
+    },
+    "CompilationGroupID": "993d0c82ac"
+}

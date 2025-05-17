@@ -1,0 +1,253 @@
+{
+  "Element Metadata": {
+    "Name": "Basic Wall:WAN_ASW_MW_145:10993756",
+    "UID": "615015",
+    "GlobalId": "1M_mcDR4rCHQoRUv$$zUMU",
+    "Type": "IfcWallStandardCase",
+    "ObjectType": "Basic Wall:WAN_ASW_MW_145",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Basic Wall:WAN_ASW_MW_145",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layers": [
+        {
+          "IfcEntity": "IfcMaterialLayer",
+          "Material Name": "Mauerwerk - Kalksandstein bewehrt",
+          "Description": "Unknown",
+          "Category": "Unknown",
+          "Thickness": 0.145,
+          "Thickness unit": "METRE"
+        }
+      ]
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Width": 0.145,
+      "Width unit": "METRE",
+      "Length": 12.7,
+      "Length unit": "METRE",
+      "Height": 3.65,
+      "Height unit": "METRE",
+      "Gross Side Area": 46.355,
+      "Gross Side Area unit": "SQUARE_METRE",
+      "Net Side Area": 46.355,
+      "Net Side Area unit": "SQUARE_METRE",
+      "Gross Footprint Area": 1.8415,
+      "Gross Footprint Area unit": "SQUARE_METRE",
+      "Gross Volume": 6.7215,
+      "Gross Volume unit": "CUBIC_METRE",
+      "Net Volume": 6.7215,
+      "Net Volume unit": "CUBIC_METRE"
+    },
+    "Geometric Representation": [
+      "SweptSolid",
+      "Curve2D"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 6.7215,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 97.4515,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 0.14,
+      "Y": 12.7,
+      "Z": 3.65,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 6.4897,
+    "Real Volume to Bounding Box Volume Ratio": 1.0357,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "N"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Room Bounding": "True",
+      "Related to Mass": "False",
+      "Base Extension Distance": "0.0",
+      "Base is Attached": "False",
+      "Top Extension Distance": "0.0",
+      "Top is Attached": "False",
+      "Location Line": "Finish Face: Exterior",
+      "Base Constraint": "02",
+      "Top Constraint": "Up to level: 03",
+      "Base Offset": "-0.12",
+      "Top Offset": "-0.32",
+      "Unconnected Height": "3.6499999999999986",
+      "Cross-Section": "Vertical",
+      "unter Terrain": "False",
+      "Area": "46.355",
+      "Length": "12.7",
+      "Volume": "6.721475000000077",
+      "Edited by": "",
+      "Workset": "S-Struktur",
+      "Category": "Walls",
+      "Family": "Basic Wall",
+      "Family and Type": "Basic Wall: WAN_ASW_MW_145",
+      "Type": "WAN_ASW_MW_145",
+      "Type Id": "12025908",
+      "Phase Created": "Neubau",
+      "Enable Analytical Model": "False",
+      "Structural": "False",
+      "Structural Usage": "Non-bearing",
+      "Roughness": "0.3048",
+      "Reference": "WAN_ASW_MW_145",
+      "Description": "Kalksandstein 145 - 1'800 kg/m³",
+      "IsExternal": "True",
+      "ExtendToStructure": "False",
+      "LoadBearing": "False",
+      "ThermalTransmittance": "20.0",
+      "Geschoss ID": "02",
+      "Höhe": "3.6499999999999986",
+      "Länge": "12.7",
+      "Fläche": "46.355",
+      "Volumen": "6.721475000000077"
+    },
+    "Psets Object Type": {
+      "Analytical Properties.Roughness": "1",
+      "Analytical Properties.Absorptance": "0.1",
+      "Analytical Properties.Heat Transfer Coefficient (U)": "20.0",
+      "Analytical Properties.Thermal Mass": "334.94999999999993",
+      "Analytical Properties.Thermal Resistance (R)": "0.049999999999999996",
+      "Construction.Function": "Exterior",
+      "Construction.Lage Aussen": "True",
+      "Construction.Wrapping at Ends": "None",
+      "Construction.Wrapping at Inserts": "Do not wrap",
+      "Construction.Width": "0.145",
+      "General.Gebäudenummer": "72557",
+      "General.Standortcode": "GG",
+      "Graphics.Coarse Scale Fill Color": "0",
+      "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+      "Identity Data.Edited by": "",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Type Comments": "",
+      "Identity Data.Ausbau": "True",
+      "Identity Data.Workset": "Wall Types",
+      "Identity Data.Keynote": "",
+      "Identity Data.Description": "Kalksandstein 145 - 1'800 kg/m³",
+      "Identity Data.Type Name": "WAN_ASW_MW_145",
+      "Layers.EN Layers": "Mauerwerk - Kalksandstein",
+      "Layers.EN Layers and Widths": "Mauerwerk - Kalksandstein 14.5cm",
+      "Layers.EN Type String": "<L><M>Mauerwerk - Kalksandstein</M><T>14.5</T></L",
+      "Layers.EN Widths": "14.5cm",
+      "Materials and Finishes.Structural Material": "Mauerwerk - Kalksandstein bewehrt",
+      "Other.Category": "Walls",
+      "Other.Family Name": "Basic Wall",
+      "Structural.Filter Tragend / Nichttragend": "False",
+      "Pset_ElementShading.Roughness": "0.3048",
+      "Pset_ProductRequirements.Category": "Walls",
+      "Pset_ReinforcementBarPitchOfWall.Description": "Kalksandstein 145 - 1'800 kg/m³",
+      "Pset_WallCommon.IsExternal": "True",
+      "Pset_WallCommon.ThermalTransmittance": "20.0",
+      "Gewerbebau.Dicke": "0.145",
+      "Gewerbebau.Material": "Mauerwerk - Kalksandstein bewehrt",
+      "Gewerbebau.Ausbau": "True",
+      "Gewerbebau.Lage Aussen ": "True",
+      "Gewerbebau.Tragende Funktion": "False",
+      "Gewerbebau.Liegenschaft ID": "72557",
+      "Gewerbebau.Gebäude ID": "GG",
+      "Gewerbebau.Bauteilklasse": "A_Wand",
+      "Gewerbebau.Bauteilart": "Massivwand",
+      "Gewerbebau.eBKP-H": "C 2.1",
+      "Gewerbebau.Typname": "WAN_ASW_MW_145"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": [
+      {
+        "IfcEntity": "IfcGroup",
+        "Group Name": "Model Group:Struktur Brüstung OG:10717729",
+        "Group Description": "Not defined"
+      }
+    ]
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "02",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "02",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "eeb827ee38"
+}

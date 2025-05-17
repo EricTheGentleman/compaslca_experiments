@@ -1,0 +1,48 @@
+{
+    "Element Metadata": {
+        "Name": "Beam Gluelam:90x225:1335823",
+        "Type": "IfcBeam",
+        "ObjectType": "Beam Gluelam:90x225:1335804"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Wood - Gluelam"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.12393,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 3.8961,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 6.12,
+            "Y": 0.09,
+            "Z": 0.23,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.1267,
+        "Real Volume to Bounding Box Volume Ratio": 0.97814
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Structural Area": "0.0203",
+            "OmniClass Title": "Beams",
+            "Workset": "Workset1",
+            "OmniClass Number": "23.25.30.11.14.14",
+            "H": "225.0",
+            "Volume": "0.1239",
+            "Length": "6120.0",
+            "Structural Material": "Wood - Gluelam",
+            "Structural Usage": "Other",
+            "Phase Created": "New",
+            "Reference": "90x225",
+            "LoadBearing": "True",
+            "IsExternal": "False",
+            "Span": "6120.0"
+        }
+    },
+    "CompilationGroupID": "c1fa8c6d03"
+}

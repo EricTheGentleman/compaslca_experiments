@@ -1,0 +1,60 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:Brick- Existing - 200:1441293",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:Brick- Existing - 200:555824"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:Brick- Existing - 200",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Brick, Common",
+                    "Thickness": 0.2,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Structural Material": "Brick, Common",
+            "Workset": "Workset1",
+            "Thermal Resistance (R)": "0.3704",
+            "Roughness": "1.0",
+            "Thermal mass": "260400.0",
+            "Heat Transfer Coefficient (U)": "2.7",
+            "Absorptance": "0.1",
+            "Width": "200.0",
+            "Function": "Interior",
+            "Related to Mass": "False",
+            "Base Constraint": "Level: VÅN 3",
+            "Room Bounding": "True",
+            "Location Line": "Core Face: Interior",
+            "Structural": "True",
+            "Structural Usage": "Bearing",
+            "Area": "2.88",
+            "Volume": "0.576",
+            "Length": "2400.0",
+            "Phase Created": "New",
+            "Reference": "Brick- Existing - 200",
+            "LoadBearing": "True",
+            "ExtendToStructure": "False",
+            "IsExternal": "False",
+            "ThermalTransmittance": "2.7"
+        },
+        "Psets Object Type": {
+            "Construction.Function": "Interior",
+            "Analytical Properties.Thermal Resistance (R)": "0.3704",
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "2.7",
+            "Analytical Properties.Absorptance": "0.1",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Assembly Description": "",
+            "Materials and Finishes.Structural Material": "Brick, Common"
+        }
+    },
+    "CompilationGroupID": "4783a09dff"
+}

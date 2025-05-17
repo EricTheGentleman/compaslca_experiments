@@ -1,0 +1,34 @@
+{
+    "Element Metadata": {
+        "Name": "Assembled Stair:Stair:11892954 Landing 1",
+        "Type": "IfcSlab",
+        "ObjectType": "Non-Monolithic Landing:Podest (nicht massiv)"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Gitterrost"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Category": "Stairs: Landings",
+            "Reference": "Podest (nicht massiv)",
+            "IsExternal": "False",
+            "Typname": "Podest (nicht massiv)",
+            "Workset": "A-Innenausbau",
+            "Family": "Non-Monolithic Landing",
+            "Type": "Podest (nicht massiv)",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Stair Types",
+            "Identity Data.Type Name": "Podest (nicht massiv)",
+            "Other.Category": "Stairs: Landings",
+            "Other.Family Name": "Non-Monolithic Landing",
+            "Pset_ProductRequirements.Category": "Stairs: Landings",
+            "Gewerbebau.Typname": "Podest (nicht massiv)"
+        }
+    }
+}

@@ -1,0 +1,211 @@
+{
+  "Target Layer of Material Inference": {
+    "Material Name": "Dachdeckung - Bitumenbahn",
+    "Thickness": 0.01,
+    "Thickness Unit": "METRE",
+    "Layer Number": 2
+  },
+  "Building Element Context": {
+    "Element Metadata": {
+      "Name": "Floor:DCH_BLECH_53:13862065",
+      "UID": "1046629",
+      "GlobalId": "1pBGsaCvTFpgfJZ_O$O$sd",
+      "Type": "IfcSlab",
+      "ObjectType": "Floor:DCH_BLECH_53",
+      "Classification": "Not defined",
+      "Decomposes": {
+        "Name": "Floor:DCH_BLECH_53:13862065",
+        "IfcEntity": "IfcSlab",
+        "GlobalId": "1pBGsaCvTFpgfJZ_C$O$sd"
+      },
+      "Is Decomposed By": []
+    },
+    "Other Material Layers": [
+      {
+        "Material Name": "Dachdeckung - Blechdach",
+        "Thickness": 0.007999999999999998,
+        "Thickness Unit": "METRE",
+        "Layer Number": 1
+      },
+      {
+        "Material Name": "Dachdeckung - Holz",
+        "Thickness": 0.025,
+        "Thickness Unit": "METRE",
+        "Layer Number": 3
+      },
+      {
+        "Material Name": "Dachdeckung - Bitumenbahn",
+        "Thickness": 0.01,
+        "Thickness Unit": "METRE",
+        "Layer Number": 4
+      }
+    ],
+    "Layer Set Metadata": {
+      "IfcEntity": "IfcMaterialLayerSet"
+    },
+    "Element Geometry Data": {
+      "Quantities (IFC)": {
+        "Width": 0.0529,
+        "Width unit": "METRE",
+        "Gross Volume": 0.0197,
+        "Gross Volume unit": "CUBIC_METRE",
+        "Net Volume": 0.6112,
+        "Net Volume unit": "CUBIC_METRE"
+      },
+      "Geometric Representation": [
+        "SweptSolid"
+      ],
+      "Quantities (COMPAS)": {
+        "Net Volume": 0.2124,
+        "Net Volume unit": "CUBIC_METRE",
+        "Entire Surface Area": 9.4967,
+        "Entire Surface Area unit": "SQUARE_METRE"
+      },
+      "Bounding Box Dimensions (OBB - local frame)": {
+        "X": 13.66,
+        "Y": 0.3,
+        "Z": 0.05,
+        "Bounding Box Dimensions Unit": "METRE"
+      },
+      "Bounding Box Volume": 0.2049,
+      "Real Volume to Bounding Box Volume Ratio": 1.0367,
+      "Face Count (tessellated element)": {
+        "Face Count": 12
+      },
+      "Vertex Count (tessellated element)": {
+        "Vertex Count": 24
+      },
+      "Edge Count (tessellated element)": {
+        "Edge Count": 30
+      },
+      "Primary Object Axis (Cardinal Direction)": "N"
+    },
+    "Element Property Sets": {
+      "Psets Element": {
+        "Roughness": "0.3048",
+        "Category": "Floors",
+        "Reference": "DCH_BLECH_53",
+        "Description": "DCH_300",
+        "IsExternal": "True",
+        "LoadBearing": "False",
+        "ThermalTransmittance": "24.978279756733276",
+        "PitchAngle": "4.00417294070912",
+        "unter Terrain": "False",
+        "Geschoss ID": "07",
+        "Umfang": "76.8800000000058",
+        "Fläche": "11.56021887413295",
+        "Volumen": "0.6126916003290465",
+        "Dicke": "0.053000000000000005",
+        "Ausbau": "False",
+        "Lage Aussen ": "True",
+        "Tragende Funktion": "False",
+        "Liegenschaft ID": "72557",
+        "Gebäude ID": "GG",
+        "Bauteilklasse": "A_Dachbekleidung",
+        "Bauteilart": "Dachabdeckung",
+        "eBKP-H": "F 1.2",
+        "Typname": "DCH_BLECH_53"
+      },
+      "Psets Object Type": {
+        "Analytical Properties.Roughness": "1",
+        "Analytical Properties.Absorptance": "0.1",
+        "Analytical Properties.Heat Transfer Coefficient (U)": "24.978279756733276",
+        "Analytical Properties.Thermal Mass": "53.3752",
+        "Analytical Properties.Thermal Resistance (R)": "0.040034782608695654",
+        "Construction.Function": "Exterior",
+        "Construction.Lage Aussen": "True",
+        "Construction.Default Thickness": "0.053000000000000005",
+        "General.Gebäudenummer": "72557",
+        "General.Standortcode": "GG",
+        "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+        "Graphics.Coarse Scale Fill Color": "12632256",
+        "Identity Data.Edited by": "",
+        "Identity Data.Ausbau": "False",
+        "Identity Data.Assembly Code": "",
+        "Identity Data.Assembly Description": "",
+        "Identity Data.Type Comments": "",
+        "Identity Data.Workset": "Floor Types",
+        "Identity Data.Description": "DCH_300",
+        "Identity Data.Type Name": "DCH_BLECH_53",
+        "Layers.EN Layers": "Dachdeckung - BlechdachDachdeckung - BitumenbahnDachdeckung - HolzDämmung - weichDachdeckung - Bitumenbahn",
+        "Layers.EN Layers and Widths": "Dachdeckung - Blechdach 0.8cmDachdeckung - Bitumenbahn 1cmDachdeckung - Holz 2.5cmDämmung - weich 6cmDachdeckung - Bitumenbahn 1cm",
+        "Layers.EN Type String": "<L><M>Dachdeckung - Blechdach</M><T>0.8</T></L><L><M>Dachdeckung - Bitumenbahn</M><T>1</T></L><L><M>Dachdeckung - Holz</M><T>2.5</T></L><L><M>Dämmung - weich</M><T>6</T></L><L><M>Dachdeckung - Bitumenbahn</M><T>1</T></L",
+        "Layers.EN Widths": "0.8cm1cm2.5cm6cm1cm",
+        "Other.Category": "Floors",
+        "Other.Family Name": "Floor",
+        "Structural.Filter Tragend / Nichttragend": "False",
+        "Pset_ElementShading.Roughness": "0.3048",
+        "Pset_ProductRequirements.Category": "Floors",
+        "Pset_ReinforcementBarPitchOfSlab.Description": "DCH_300",
+        "Pset_SlabCommon.IsExternal": "True",
+        "Pset_SlabCommon.ThermalTransmittance": "24.978279756733276",
+        "Gewerbebau.Dicke": "0.053000000000000005",
+        "Gewerbebau.Ausbau": "False",
+        "Gewerbebau.Lage Aussen ": "True",
+        "Gewerbebau.Tragende Funktion": "False",
+        "Gewerbebau.Liegenschaft ID": "72557",
+        "Gewerbebau.Gebäude ID": "GG",
+        "Gewerbebau.Bauteilklasse": "A_Dachbekleidung",
+        "Gewerbebau.Bauteilart": "Dachabdeckung",
+        "Gewerbebau.eBKP-H": "F 1.2",
+        "Gewerbebau.Typname": "DCH_BLECH_53"
+      }
+    },
+    "Element Location": {
+      "Storeys Map": {
+        "97": {
+          "Elevation": -7.94,
+          "Unit": "meters"
+        },
+        "98": {
+          "Elevation": -6.71,
+          "Unit": "meters"
+        },
+        "99": {
+          "Elevation": -3.81,
+          "Unit": "meters"
+        },
+        "00": {
+          "Elevation": 0.0,
+          "Unit": "meters"
+        },
+        "01": {
+          "Elevation": 5.02,
+          "Unit": "meters"
+        },
+        "02": {
+          "Elevation": 8.87,
+          "Unit": "meters"
+        },
+        "03": {
+          "Elevation": 12.72,
+          "Unit": "meters"
+        },
+        "04": {
+          "Elevation": 16.57,
+          "Unit": "meters"
+        },
+        "05": {
+          "Elevation": 20.42,
+          "Unit": "meters"
+        },
+        "06": {
+          "Elevation": 24.27,
+          "Unit": "meters"
+        },
+        "07": {
+          "Elevation": 27.55,
+          "Unit": "meters"
+        }
+      },
+      "Element Located in Storey": "07",
+      "Spatial Relationship": [
+        {
+          "name": "Unknown",
+          "type": "Unknown"
+        }
+      ]
+    }
+  },
+  "CompilationGroupID": "7f5297254d"
+}

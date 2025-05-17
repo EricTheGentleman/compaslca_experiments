@@ -1,0 +1,88 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:WAT_KWA_STB_785:7556581",
+        "Type": "IfcWall",
+        "ObjectType": "Basic Wall:WAT_KWA_STB_785"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Beton - Ortbeton bewehrt"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 4.1698,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 29.1555,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 3.4,
+            "Y": 0.78,
+            "Z": 3.35,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 8.8842,
+        "Real Volume to Bounding Box Volume Ratio": 0.4694
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Base Constraint": "Level: 99",
+            "Location Line": "Core Face: Exterior",
+            "Area": "5.4168",
+            "Length": "3.7",
+            "Volume": "4.1698",
+            "Workset": "S-Struktur",
+            "unter Terrain": "True",
+            "Category": "Walls",
+            "Family": "Basic Wall: WAT_KWA_STB_785",
+            "Type": "Basic Wall: WAT_KWA_STB_785",
+            "Phase Created": "Neubau",
+            "Structural": "True",
+            "Structural Usage": "Bearing",
+            "FireRating": "REI 60",
+            "Roughness": "0.3048",
+            "Reference": "WAT_KWA_STB_785",
+            "Description": "STB_560",
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "ExtendToStructure": "False",
+            "ThermalTransmittance": "1.3325",
+            "Geschoss ID": "Level: 99",
+            "Länge": "3.7",
+            "Fläche": "5.4168",
+            "Volumen": "4.1698"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "1.3325",
+            "Analytical Properties.Thermal Mass": "110.2028",
+            "Analytical Properties.Thermal Resistance (R)": "0.7505",
+            "Construction.Lage Aussen": "False",
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "STB_560",
+            "Identity Data.Fire Rating": "REI 60",
+            "Identity Data.Type Name": "WAT_KWA_STB_785",
+            "Materials and Finishes.Structural Material": "Beton - Ortbeton bewehrt",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall",
+            "Structural.Filter Tragend / Nichttragend": "True",
+            "Pset_ConcreteElementGeneral.FireRating": "REI 60",
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_QuantityTakeOff.Reference": "WAT_KWA_STB_785",
+            "Pset_WallCommon.IsExternal": "False",
+            "Pset_WallCommon.ThermalTransmittance": "1.3325",
+            "Gewerbebau.Feuerwiderstandsklasse": "REI 60",
+            "Gewerbebau.Material": "Beton - Ortbeton bewehrt",
+            "Gewerbebau.Bauteilklasse": "A_Wand",
+            "Gewerbebau.Bauteilart": "Massivwand",
+            "Gewerbebau.Typname": "WAT_KWA_STB_785"
+        }
+    }
+}

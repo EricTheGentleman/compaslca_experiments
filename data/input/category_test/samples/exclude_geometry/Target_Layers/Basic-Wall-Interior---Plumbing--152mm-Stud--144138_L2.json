@@ -1,0 +1,57 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Metal - Stud Layer",
+        "Thickness": 0.152,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Wall:Interior - Plumbing (152mm Stud):144138",
+            "Type": "IfcWallStandardCase",
+            "ObjectType": "Basic Wall:Interior - Plumbing (152mm Stud):128382"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Plasterboard",
+                "Thickness": 0.016,
+                "Thickness Unit": "METRE",
+                "Layer Number": 1
+            },
+            {
+                "Material Name": "Plasterboard",
+                "Thickness": 0.016,
+                "Thickness Unit": "METRE",
+                "Layer Number": 3
+            }
+        ],
+        "Element Property Sets": {
+            "Psets Element": {
+                "Reference": "Reference",
+                "LoadBearing": "False",
+                "ExtendToStructure": "False",
+                "IsExternal": "False",
+                "Location Line": "2.0",
+                "Base Constraint": "Level 2",
+                "Room Bounding": "True",
+                "Related to Mass": "False",
+                "Phase Created": "New Construction",
+                "Structural Usage": "0.0",
+                "Length": "1.956",
+                "Area": "4.6951",
+                "Volume": "0.8639",
+                "Width": "0.184",
+                "Function": "0.0",
+                "Manufacturer": "Manufacturer",
+                "Color": "Color",
+                "Features": "Features",
+                "Finish": "Finish",
+                "Material": "Material",
+                "Shape": "Shape",
+                "Size": "Size",
+                "Classification Description": "Metal-Framed Gypsum Board Fixed Partitions"
+            }
+        }
+    },
+    "CompilationGroupID": "b25c08d722"
+}

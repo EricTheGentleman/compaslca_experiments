@@ -1,0 +1,118 @@
+{
+  "Element Metadata": {
+    "Name": "Surface:2872326",
+    "UID": "319",
+    "GlobalId": "1Yk98I39j3TRcgfgRc5J0i",
+    "Type": "IfcBuildingElementProxy",
+    "ObjectType": null,
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": "Not defined",
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": [
+      "SurfaceModel"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.0,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 20492.2291,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 156.28,
+      "Y": 149.64,
+      "Z": 0.0,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.0,
+    "Real Volume to Bounding Box Volume Ratio": null,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 36
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 36
+    },
+    "Primary Object Axis (Cardinal Direction)": "SW"
+  },
+  "Element Property Sets": {
+    "Psets Element": {},
+    "Psets Object Type": {}
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "UG 2.5": {
+        "Elevation": -8.55,
+        "Unit": "meters"
+      },
+      "UG 2": {
+        "Elevation": -6.67,
+        "Unit": "meters"
+      },
+      "UG 1": {
+        "Elevation": -3.8,
+        "Unit": "meters"
+      },
+      "EG": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "OG 1": {
+        "Elevation": 4.95,
+        "Unit": "meters"
+      },
+      "OG 2": {
+        "Elevation": 8.85,
+        "Unit": "meters"
+      },
+      "OG 3": {
+        "Elevation": 12.75,
+        "Unit": "meters"
+      },
+      "OG 4": {
+        "Elevation": 16.65,
+        "Unit": "meters"
+      },
+      "OG 5": {
+        "Elevation": 20.55,
+        "Unit": "meters"
+      },
+      "Dach": {
+        "Elevation": 24.45,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "EG",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Default",
+        "type": "IfcSite"
+      },
+      {
+        "name": "",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "EG",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  }
+}

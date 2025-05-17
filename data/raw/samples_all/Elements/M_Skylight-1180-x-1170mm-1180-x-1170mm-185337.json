@@ -1,0 +1,152 @@
+{
+  "Element Metadata": {
+    "Name": "M_Skylight:1180 x 1170mm:1180 x 1170mm:185337",
+    "UID": "23162",
+    "GlobalId": "1Eo2$BaHX42AEkDvQQDocD",
+    "Type": "IfcWindow",
+    "ObjectType": "1180 x 1170mm",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": "Not defined",
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": [
+      "MappedRepresentation"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.1206,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 5.4582,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 1.17,
+      "Y": 1.22,
+      "Z": 0.18,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.2569,
+    "Real Volume to Bounding Box Volume Ratio": 0.4696,
+    "Face Count (tessellated element)": {
+      "Face Count": 140
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 280
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 350
+    },
+    "Primary Object Axis (Cardinal Direction)": "E"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Reference": "Reference",
+      "IsExternal": "False",
+      "FireRating": "FireRating",
+      "Level": "Roof",
+      "Moves With Nearby Elements": "False",
+      "Mark": "33",
+      "InstallationDate": "InstallationDate",
+      "SerialNumber": "SerialNumber",
+      "WarrantyStartDate": "WarrantyStartDate",
+      "BarCode": "BarCode",
+      "AssetIdentifier": "AssetIdentifier",
+      "TagNumber": "TagNumber",
+      "Phase Created": "New Construction",
+      "Sash Material": "Metal - Bronze, Light Brush",
+      "Glass Pane Material": "Glass",
+      "Frame Material": "Metal - Bronze, Light Brush",
+      "Height": "1.17",
+      "Width": "1.118",
+      "Type Comments": "",
+      "Manufacturer": "Manufacturer",
+      "Assembly Description": "",
+      "Assembly Code": "",
+      "Type Mark": "36",
+      "OmniClass Number": "23.30.20.21.14",
+      "OmniClass Title": "Roof Windows",
+      "Construction Type": "Construction Type",
+      "AccessibilityPerformance": "AccessibilityPerformance",
+      "CodePerformance": "CodePerformance",
+      "ConfigurationType": "ConfigurationType",
+      "ConstructionType": "ConstructionType",
+      "GlazingAreaFraction": "GlazingAreaFraction",
+      "OperationType": "OperationType",
+      "Area": "Area",
+      "Color": "Color",
+      "Constituents": "Constituents",
+      "Features": "Features",
+      "Finish": "Finish",
+      "Grade": "Grade",
+      "Material": "Material",
+      "ModelReference": "ModelReference",
+      "NominalHeight": "NominalHeight",
+      "NominalLength": "NominalLength",
+      "NominalWidth": "NominalWidth",
+      "ProductionYear": "ProductionYear",
+      "Shape": "Shape",
+      "Size": "Size",
+      "SustainabilityPerformance": "SustainabilityPerformance",
+      "WarrantyDescription": "WarrantyDescription",
+      "WarrantyDurationLabor": "WarrantyDurationLabor",
+      "WarrantyDurationParts": "WarrantyDurationParts",
+      "WarrantyGuarantorLabor": "WarrantyGuarantorLabor",
+      "WarrantyGuarantorParts": "WarrantyGuarantorParts",
+      "ExpectedLife": "ExpectedLife",
+      "ReplacementCost": "ReplacementCost",
+      "AssetAccountingType": "FIXED",
+      "ModelLabel": "ModelLabel"
+    },
+    "Psets Object Type": {}
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "T/FDN": {
+        "Elevation": -1.25,
+        "Unit": "meters"
+      },
+      "Level 1": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "Level 2": {
+        "Elevation": 3.1,
+        "Unit": "meters"
+      },
+      "Roof": {
+        "Elevation": 6.0,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "Roof",
+    "Spatial Relationship": [
+      {
+        "name": "0001",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Default",
+        "type": "IfcSite"
+      },
+      {
+        "name": null,
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "Roof",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "3f3b6b5cb5"
+}

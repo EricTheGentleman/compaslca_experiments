@@ -1,0 +1,29 @@
+{
+    "Element Metadata": {
+        "Name": "1OG-Tür-1-1",
+        "Type": "IfcDoor"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0913,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 6.1415,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.79,
+            "Y": 2.53,
+            "Z": 0.2,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.3997,
+        "Real Volume to Bounding Box Volume Ratio": 0.2284
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "False",
+            "ThermalTransmittance": "2.0"
+        }
+    }
+}

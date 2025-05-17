@@ -1,0 +1,16 @@
+{
+    "name": "Shell_V12-Shell_V12-5294566",
+    "category": "Beton",
+    "material_entries": [
+        "Magerbeton (ohne Bewehrung)",
+        "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon Light C25/E30, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "reason": [
+        "concrete lightweight refers to low-density concrete with low cement content",
+        "ifcbuildingelementproxy gives no indication for what it might be",
+        "shell v12 is very unclear in use",
+        "no structural reinforcement explicitly mentioned",
+        "the viable structural and non-structural lightweight options were chosen"
+    ]
+}

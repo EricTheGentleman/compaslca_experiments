@@ -1,0 +1,49 @@
+{
+    "Element Metadata": {
+        "Name": "Kemper Wandtresor:TRES_350x350:15539713",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "Kemper Wandtresor:TRES_350x350"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Edelstahl"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "TRES_350x350",
+            "FireRating": "-",
+            "Category": "Generic Models",
+            "Geschoss ID": "0.0",
+            "Lage Aussen ": "True",
+            "Bauteilklasse": "A_Fassadenbekleidung",
+            "Bauteilart": "Fassadenelement",
+            "Typname": "TRES_350x350",
+            "Level": "0.0",
+            "Elevation from Level": "0.415",
+            "unter Terrain": "False",
+            "Area": "0.4528",
+            "Volume": "0.0145",
+            "Workset": "A-Fassade",
+            "Family": "Kemper Wandtresor",
+            "Type": "TRES_350x350",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "TRES_350x350",
+            "Identity Data.Workset": "Family  : Generic Models : Kemper Wandtresor",
+            "Other.Category": "Generic Models",
+            "Other.Family Name": "Kemper Wandtresor",
+            "Pset_ConcreteElementGeneral.FireRating": "-",
+            "Pset_ProductRequirements.Category": "Generic Models",
+            "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+            "Gewerbebau.Bauteilart": "Fassadenelement",
+            "Gewerbebau.Typname": "TRES_350x350"
+        }
+    },
+    "CompilationGroupID": "c4e170f453"
+}

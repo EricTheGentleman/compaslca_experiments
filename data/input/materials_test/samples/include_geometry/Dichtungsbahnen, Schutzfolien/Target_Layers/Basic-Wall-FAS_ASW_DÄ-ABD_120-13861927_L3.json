@@ -1,0 +1,99 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Dachdeckung - Bitumenbahn",
+        "Thickness": 0.01,
+        "Thickness Unit": "METRE",
+        "Layer Number": 3
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Wall:FAS_ASW_DÄ-ABD_120:13861927",
+            "Type": "IfcWall",
+            "ObjectType": "Basic Wall:FAS_ASW_DÄ-ABD_120"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Dachdeckung - Bitumenbahn",
+                "Thickness": 0.01,
+                "Thickness Unit": "METRE",
+                "Layer Number": 1
+            },
+            {
+                "Material Name": "Dämmung - weich",
+                "Thickness": 0.1,
+                "Thickness Unit": "METRE",
+                "Layer Number": 2
+            }
+        ],
+        "Element Geometry Data": {
+            "Quantities (COMPAS)": {
+                "Net Volume": 0.0968,
+                "Net Volume unit": "CUBIC_METRE",
+                "Entire Surface Area": 3.0128,
+                "Entire Surface Area unit": "SQUARE_METRE"
+            },
+            "Bounding Box Dimensions (OBB - local frame)": {
+                "X": 5.68,
+                "Y": 0.12,
+                "Z": 0.15,
+                "Bounding Box Dimensions Unit": "METRE"
+            },
+            "Bounding Box Volume": 0.1022,
+            "Real Volume to Bounding Box Volume Ratio": 0.9471
+        },
+        "Element Property Sets": {
+            "Psets Element": {
+                "Room Bounding": "True",
+                "Related to Mass": "False",
+                "Location Line": "Finish Face: Interior",
+                "Base Constraint": "7.0",
+                "Area": "0.8202",
+                "Length": "5.68",
+                "Volume": "0.0968",
+                "Workset": "A-Fassade",
+                "Category": "Walls",
+                "Family": "Basic Wall",
+                "Type": "FAS_ASW_DÄ-ABD_120",
+                "Phase Created": "Neubau",
+                "Structural": "False",
+                "Structural Usage": "Non-bearing",
+                "Roughness": "0.3048",
+                "Reference": "FAS_ASW_DÄ-ABD_120",
+                "Description": "Dachtand_120",
+                "IsExternal": "True",
+                "ExtendToStructure": "True",
+                "LoadBearing": "False",
+                "ThermalTransmittance": "0.3354",
+                "Geschoss ID": "7.0",
+                "Länge": "5.68",
+                "Fläche": "0.8202",
+                "Volumen": "0.0968"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "1.0",
+                "Analytical Properties.Absorptance": "0.1",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "0.3354",
+                "Analytical Properties.Thermal Mass": "48.2",
+                "Analytical Properties.Thermal Resistance (R)": "2.9812",
+                "Construction.Function": "Exterior",
+                "Construction.Lage Aussen": "True",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Wall Types",
+                "Identity Data.Description": "Dachtand_120",
+                "Identity Data.Type Name": "FAS_ASW_DÄ-ABD_120",
+                "Layers.EN Layers and Widths": "Dachdeckung - Bitumenbahn 1cmDämmung - PIR 10cmDachdeckung - Bitumenbahn 1cm",
+                "Other.Category": "Walls",
+                "Other.Family Name": "Basic Wall",
+                "Structural.Filter Tragend / Nichttragend": "False",
+                "Pset_ProductRequirements.Category": "Walls",
+                "Pset_WallCommon.IsExternal": "True",
+                "Pset_WallCommon.ThermalTransmittance": "0.3354",
+                "Gewerbebau.Material": "Dachdeckung - Bitumenbahn, Dämmung - weich, Dachdeckung - Bitumenbahn",
+                "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+                "Gewerbebau.Bauteilart": "Fassadenbekleidung",
+                "Gewerbebau.Typname": "FAS_ASW_DÄ-ABD_120"
+            }
+        }
+    },
+    "CompilationGroupID": "e22ade172d"
+}

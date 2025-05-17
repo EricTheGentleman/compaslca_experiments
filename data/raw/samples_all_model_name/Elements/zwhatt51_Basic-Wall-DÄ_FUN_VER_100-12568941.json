@@ -1,0 +1,245 @@
+{
+  "Element Metadata": {
+    "Name": "Basic Wall:DÄ_FUN_VER_100:12568941",
+    "UID": "807871",
+    "GlobalId": "1OpBvmVqr4OA6d52fcPC6x",
+    "Type": "IfcWallStandardCase",
+    "ObjectType": "Basic Wall:DÄ_FUN_VER_100",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Basic Wall:DÄ_FUN_VER_100",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layers": [
+        {
+          "IfcEntity": "IfcMaterialLayer",
+          "Material Name": "Dämmung - hart",
+          "Description": "Unknown",
+          "Category": "Unknown",
+          "Thickness": 0.1,
+          "Thickness unit": "METRE"
+        }
+      ]
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Width": 0.1,
+      "Width unit": "METRE",
+      "Length": 6.38,
+      "Length unit": "METRE",
+      "Height": 1.32,
+      "Height unit": "METRE",
+      "Gross Side Area": 8.4216,
+      "Gross Side Area unit": "SQUARE_METRE",
+      "Net Side Area": 8.4216,
+      "Net Side Area unit": "SQUARE_METRE",
+      "Gross Footprint Area": 0.638,
+      "Gross Footprint Area unit": "SQUARE_METRE",
+      "Gross Volume": 0.8422,
+      "Gross Volume unit": "CUBIC_METRE",
+      "Net Volume": 0.8422,
+      "Net Volume unit": "CUBIC_METRE"
+    },
+    "Geometric Representation": [
+      "SweptSolid",
+      "Curve2D"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.8422,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 18.3832,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 6.38,
+      "Y": 0.1,
+      "Z": 1.32,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.8422,
+    "Real Volume to Bounding Box Volume Ratio": 1.0,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "E"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Room Bounding": "True",
+      "Related to Mass": "False",
+      "Base Extension Distance": "0.0",
+      "Base is Attached": "False",
+      "Top Extension Distance": "0.0",
+      "Top is Attached": "False",
+      "Base Constraint": "97",
+      "Location Line": "Finish Face: Interior",
+      "Top Constraint": "Up to level: 97",
+      "Base Offset": "-1.42",
+      "Top Offset": "-0.1",
+      "Unconnected Height": "1.3199999999999998",
+      "Cross-Section": "Vertical",
+      "unter Terrain": "True",
+      "Area": "8.42159999797715",
+      "Length": "6.279999998467537",
+      "Volume": "0.8421599997977424",
+      "Edited by": "",
+      "Workset": "S-Struktur",
+      "Category": "Walls",
+      "Family": "Basic Wall",
+      "Family and Type": "Basic Wall: DÄ_FUN_VER_100",
+      "Type": "DÄ_FUN_VER_100",
+      "Type Id": "12568847",
+      "Phase Created": "Neubau",
+      "Enable Analytical Model": "False",
+      "Structural": "False",
+      "Structural Usage": "Non-bearing",
+      "Roughness": "0.3048",
+      "Reference": "DÄ_FUN_VER_100",
+      "Description": "Dämmung_100",
+      "IsExternal": "True",
+      "ExtendToStructure": "False",
+      "LoadBearing": "False",
+      "ThermalTransmittance": "0.26999999999999996",
+      "Geschoss ID": "97",
+      "Höhe": "1.3199999999999998",
+      "Länge": "6.279999998467537",
+      "Fläche": "8.42159999797715",
+      "Volumen": "0.8421599997977424"
+    },
+    "Psets Object Type": {
+      "Analytical Properties.Roughness": "1",
+      "Analytical Properties.Absorptance": "0.1",
+      "Analytical Properties.Heat Transfer Coefficient (U)": "0.26999999999999996",
+      "Analytical Properties.Thermal Mass": "5.145000000000001",
+      "Analytical Properties.Thermal Resistance (R)": "3.703703703703704",
+      "Construction.Function": "Exterior",
+      "Construction.Lage Aussen": "True",
+      "Construction.Wrapping at Ends": "None",
+      "Construction.Wrapping at Inserts": "Do not wrap",
+      "Construction.Width": "0.1",
+      "General.Gebäudenummer": "72557",
+      "General.Standortcode": "GG",
+      "Graphics.Coarse Scale Fill Color": "0",
+      "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+      "Identity Data.Edited by": "",
+      "Identity Data.Ausbau": "False",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Type Comments": "",
+      "Identity Data.Workset": "Wall Types",
+      "Identity Data.Keynote": "",
+      "Identity Data.Description": "Dämmung_100",
+      "Identity Data.Type Name": "DÄ_FUN_VER_100",
+      "Layers.EN Layers": "Dämmung - hart",
+      "Layers.EN Layers and Widths": "Dämmung - hart 10cm",
+      "Layers.EN Type String": "<L><M>Dämmung - weich</M><T>10</T></L",
+      "Layers.EN Widths": "10cm",
+      "Other.Category": "Walls",
+      "Other.Family Name": "Basic Wall",
+      "Structural.Filter Tragend / Nichttragend": "False",
+      "Pset_ElementShading.Roughness": "0.3048",
+      "Pset_ProductRequirements.Category": "Walls",
+      "Pset_ReinforcementBarPitchOfWall.Description": "Dämmung_100",
+      "Pset_WallCommon.IsExternal": "True",
+      "Pset_WallCommon.ThermalTransmittance": "0.26999999999999996",
+      "Gewerbebau.Dicke": "0.1",
+      "Gewerbebau.Material": "Dämmung - hart",
+      "Gewerbebau.Ausbau": "False",
+      "Gewerbebau.Lage Aussen ": "True",
+      "Gewerbebau.Tragende Funktion": "False",
+      "Gewerbebau.Liegenschaft ID": "72557",
+      "Gewerbebau.Gebäude ID": "GG",
+      "Gewerbebau.Bauteilklasse": "A_Unterkonstruktion",
+      "Gewerbebau.Bauteilart": "Daemmung",
+      "Gewerbebau.Typname": "DÄ_FUN_VER_100"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "97",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "97",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "1d4e22da2a"
+}

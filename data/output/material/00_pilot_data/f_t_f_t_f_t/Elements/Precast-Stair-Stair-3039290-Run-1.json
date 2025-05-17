@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element Type: IfcStairFlight, Material Name: Betonfertigteil, Object Type: Monolithic Run:Beton Fertigteil 180",
+    "Matched Materials": [
+      "Betonfertigteil, hochfester Beton, ab Werk",
+      "Betonfertigteil, Normalbeton, ab Werk"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 84,
+      "prompt_tokens": 1404,
+      "total_tokens": 1488,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.149,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.0087
+  }
+}

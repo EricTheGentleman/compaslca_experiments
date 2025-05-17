@@ -1,0 +1,25 @@
+{
+    "name": "Basic-Wall-WAN_DCK_DÄ_100-8137387",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Glaswolle",
+        "Glaswolle, Isover, phenolbasiertes Bindemittel",
+        "Glaswolle, Isover, pflanzliches Bindemittel",
+        "Glaswolle, SUPAFIL",
+        "Steinwolle",
+        "Steinwolle, Flumroc",
+        "Flachsfasern",
+        "Flachsfasern, MAGRIPOL, Premium",
+        "Flachsfasern, feuerfest",
+        "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+        "Zellulosefasern",
+        "Zellulosefasern, Isofloc"
+        ],
+    "reason": [
+        "insulation soft (weich)",
+        "0.34Wm^2K & 10cm is moderate insulation and nothing extreme",
+        "located below grade (unter terrain: true)",
+        "is interior / protected from weather exposure (workset: innenausbau)",
+        "all materials that match these criteria re chosen"
+    ]
+}

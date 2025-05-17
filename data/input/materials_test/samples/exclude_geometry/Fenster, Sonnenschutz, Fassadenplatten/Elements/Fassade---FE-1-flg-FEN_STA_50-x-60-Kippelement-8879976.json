@@ -1,0 +1,51 @@
+{
+    "Element Metadata": {
+        "Name": "Fassade - FE 1 flg:FEN_STA_50 x 60-Kippelement:8879976",
+        "Type": "IfcWindow",
+        "ObjectType": "Fassade - FE 1 flg:FEN_STA_50 x 60-Kippelement"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "Level: 02",
+            "Area": "0.8339",
+            "Fläche": "0.8339",
+            "Height": "0.62",
+            "Volume": "0.0417",
+            "Width": "1.345",
+            "unter Terrain": "False",
+            "Workset": "A-Fassade",
+            "Category": "Windows",
+            "Family": "Fassade - FE 1 flg: FEN_STA_50 x 60-Kippelement",
+            "Type": "Fassade - FE 1 flg: FEN_STA_50 x 60-Kippelement",
+            "Phase Created": "Neubau",
+            "Reference": "FEN_STA_50 x 60-Kippelement",
+            "IsExternal": "True",
+            "ThermalTransmittance": "1.533",
+            "Breite": "1.345",
+            "Glasfläche": "0.6125"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Heat Transfer Coefficient (U)": "1.533",
+            "Analytical Properties.Thermal Resistance (R)": "0.6523",
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Description": "Fassadenelemente",
+            "Identity Data.Type Name": "FEN_STA_50 x 60-Kippelement",
+            "Identity Data.Workset": "Family  : Windows : Fassade - FE 1 flg",
+            "Materials and Finishes.Flügel": "Aluminum",
+            "Materials and Finishes.Glas": "Glas - klar",
+            "Materials and Finishes.Rahmen": "Metall Stahl",
+            "Other.Category": "Windows",
+            "Other.Family Name": "Fassade - FE 1 flg",
+            "Pset_ProductRequirements.Category": "Windows",
+            "Pset_QuantityTakeOff.Reference": "FEN_STA_50 x 60-Kippelement",
+            "Gewerbebau.Material": "Metall Stahl",
+            "Gewerbebau.Bauteilklasse": "A_Fenster",
+            "Gewerbebau.Bauteilart": "Fenster",
+            "Gewerbebau.Typname": "FEN_STA_50 x 60-Kippelement"
+        }
+    },
+    "CompilationGroupID": "a8a95bae5f"
+}

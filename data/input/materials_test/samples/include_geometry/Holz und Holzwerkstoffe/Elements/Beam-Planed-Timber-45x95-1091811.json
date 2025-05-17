@@ -1,0 +1,48 @@
+{
+    "Element Metadata": {
+        "Name": "Beam Planed Timber:45x95:1091811",
+        "Type": "IfcMember",
+        "ObjectType": "45x95"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Wood"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.00398,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 0.26897,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.1,
+            "Y": 0.93,
+            "Z": 0.04,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0037,
+        "Real Volume to Bounding Box Volume Ratio": 1.07568
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Structural Area": "0.0043",
+            "H": "95.0",
+            "OmniClass Title": "Beams",
+            "Workset": "Workset1",
+            "OmniClass Number": "23.25.30.11.14.14",
+            "Structural Usage": "Web",
+            "Structural Material": "Wood",
+            "Phase Created": "New",
+            "Volume": "0.004",
+            "Length": "1085.1413",
+            "Reference": "45x95",
+            "LoadBearing": "True",
+            "IsExternal": "False",
+            "Span": "1085.1413"
+        }
+    },
+    "CompilationGroupID": "fd80e9f580"
+}

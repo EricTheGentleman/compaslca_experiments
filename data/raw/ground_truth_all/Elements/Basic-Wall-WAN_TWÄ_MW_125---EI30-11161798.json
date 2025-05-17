@@ -1,0 +1,11 @@
+{
+    "name": "Basic-Wall-WAN_TWÄ_MW_125---EI30-11161798",
+    "category": "Mauersteine",
+    "material_entries": [
+        "Backstein"
+    ],
+    "reason": [
+        "masonry, ziegel -> must be backstein",
+        "would only match backstein and not perlitgefüllt, because leichtbauwand & interior"
+    ]
+}

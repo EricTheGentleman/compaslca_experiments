@@ -1,0 +1,78 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:BBA_ASP_50:9567604",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:BBA_ASP_50"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Default"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Net Volume": 26.5529,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 26.5529,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 1069.8958,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 32.55,
+            "Y": 16.35,
+            "Z": 0.17,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 90.4727,
+        "Real Volume to Bounding Box Volume Ratio": 0.2935
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Roughness": "0.3048",
+            "Category": "Floors",
+            "Reference": "BBA_ASP_50",
+            "Description": "Gussasphalt 50",
+            "IsExternal": "False",
+            "LoadBearing": "False",
+            "unter Terrain": "True",
+            "Geschoss ID": "Level: 99",
+            "Umfang": "97.8",
+            "Fläche": "532.251",
+            "Volumen": "26.6125",
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Level": "Level: 99",
+            "Area": "532.251",
+            "Perimeter": "97.8",
+            "Thickness": "0.05",
+            "Volume": "26.6125",
+            "Workset": "A-Innenausbau",
+            "Family": "Floor: BBA_ASP_50",
+            "Type": "Floor: BBA_ASP_50",
+            "Phase Created": "Neubau",
+            "Structural": "False"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Construction.Lage Aussen": "False",
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Description": "Gussasphalt 50",
+            "Identity Data.Type Name": "BBA_ASP_50",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Floors",
+            "Pset_QuantityTakeOff.Reference": "BBA_ASP_50",
+            "Gewerbebau.Bauteilklasse": "A_Bodenaufbau",
+            "Gewerbebau.Bauteilart": "Bodenbelag",
+            "Gewerbebau.Typname": "BBA_ASP_50"
+        }
+    }
+}

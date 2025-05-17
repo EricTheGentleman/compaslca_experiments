@@ -1,0 +1,113 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Trockenbau - Gipsplatte",
+        "Thickness": 0.025,
+        "Thickness Unit": "METRE",
+        "Layer Number": 1
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Wall:WAN_TWÄ_GK_100_VS:4246877",
+            "Type": "IfcWallStandardCase",
+            "ObjectType": "Basic Wall:WAN_TWÄ_GK_100_VS"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Dämmung - weich",
+                "Thickness": 0.075,
+                "Thickness Unit": "METRE",
+                "Layer Number": 2
+            }
+        ],
+        "Element Geometry Data": {
+            "Quantities (IFC)": {
+                "Width": 0.1,
+                "Width unit": "METRE",
+                "Length": 1.88,
+                "Length unit": "METRE",
+                "Height": 4.7,
+                "Height unit": "METRE",
+                "Net Side Area": 8.836,
+                "Net Side Area unit": "SQUARE_METRE",
+                "Gross Footprint Area": 0.188,
+                "Gross Footprint Area unit": "SQUARE_METRE",
+                "Net Volume": 0.8836,
+                "Net Volume unit": "CUBIC_METRE"
+            },
+            "Quantities (COMPAS)": {
+                "Net Volume": 0.8836,
+                "Net Volume unit": "CUBIC_METRE",
+                "Entire Surface Area": 18.988,
+                "Entire Surface Area unit": "SQUARE_METRE"
+            },
+            "Bounding Box Dimensions (OBB - local frame)": {
+                "X": 0.1,
+                "Y": 1.88,
+                "Z": 4.7,
+                "Bounding Box Dimensions Unit": "METRE"
+            },
+            "Bounding Box Volume": 0.8836,
+            "Real Volume to Bounding Box Volume Ratio": 1.0
+        },
+        "Element Property Sets": {
+            "Psets Element": {
+                "Room Bounding": "True",
+                "Related to Mass": "False",
+                "Location Line": "Finish Face: Interior",
+                "Base Constraint": "Level: 00",
+                "Area": "8.836",
+                "Length": "1.88",
+                "Volume": "0.8836",
+                "unter Terrain": "False",
+                "Workset": "A-Innenausbau",
+                "Category": "Walls",
+                "Family": "Basic Wall: WAN_TWÄ_GK_100_VS",
+                "Type": "Basic Wall: WAN_TWÄ_GK_100_VS",
+                "Phase Created": "Neubau",
+                "Structural": "False",
+                "Structural Usage": "Non-bearing",
+                "FireRating": "REI 60-RF1",
+                "Roughness": "0.3048",
+                "Reference": "WAN_TWÄ_GK_100_VS",
+                "Description": "GK_VS_100",
+                "IsExternal": "False",
+                "ExtendToStructure": "False",
+                "LoadBearing": "False",
+                "ThermalTransmittance": "0.4456",
+                "Geschoss ID": "Level: 00",
+                "Länge": "1.88",
+                "Fläche": "8.836",
+                "Volumen": "0.8836"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "1.0",
+                "Analytical Properties.Absorptance": "0.1",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "0.4456",
+                "Analytical Properties.Thermal Mass": "3.1355",
+                "Analytical Properties.Thermal Resistance (R)": "2.2443",
+                "Construction.Lage Aussen": "False",
+                "Construction.Function": "Interior",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Wall Types",
+                "Identity Data.Description": "GK_VS_100",
+                "Identity Data.Fire Rating": "REI 60-RF1",
+                "Identity Data.Type Name": "WAN_TWÄ_GK_100_VS",
+                "Materials and Finishes.Structural Material": "Dämmung - weich",
+                "Other.Category": "Walls",
+                "Other.Family Name": "Basic Wall",
+                "Structural.Filter Tragend / Nichttragend": "False",
+                "Pset_ConcreteElementGeneral.FireRating": "REI 60-RF1",
+                "Pset_ProductRequirements.Category": "Walls",
+                "Pset_QuantityTakeOff.Reference": "WAN_TWÄ_GK_100_VS",
+                "Pset_WallCommon.IsExternal": "False",
+                "Pset_WallCommon.ThermalTransmittance": "0.4456",
+                "Gewerbebau.Feuerwiderstandsklasse": "REI 60-RF1",
+                "Gewerbebau.Material": "Dämmung - weich",
+                "Gewerbebau.Bauteilklasse": "A_Wand",
+                "Gewerbebau.Bauteilart": "Leichtbauwand",
+                "Gewerbebau.Typname": "WAN_TWÄ_GK_100_VS"
+            }
+        }
+    },
+    "CompilationGroupID": "eb63ebcc99"
+}

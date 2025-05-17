@@ -1,0 +1,25 @@
+{
+    "Element Metadata": {
+        "Name": "Fire Protection_Beam 3 sides:200x190:1171719",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "200x190"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Mineral Wool"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "H": "190.0",
+            "OmniClass Title": "",
+            "Workset": "Workset1",
+            "OmniClass Number": "",
+            "Volume": "0.1186",
+            "Phase Created": "New",
+            "FireIsolationMaterial": "Mineral Wool",
+            "Reference": "200x190"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "Element Metadata": {
+        "Name": "TU DF 1 - Rahmenstock flächenbündig:TUI_ZAR_STA_MÖ - 1100 x 2200_EI 30:10129091",
+        "Type": "IfcDoor",
+        "ObjectType": "TU DF 1 - Rahmenstock flächenbündig:TUI_ZAR_STA_MÖ - 1100 x 2200_EI 30"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Metall - Edelstahl satiniert"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "FireRating": "EI 30",
+            "ConstructionType": "Typ 6 - Bockfutter",
+            "IsExternal": "False",
+            "Reference": "TUI_ZAR_STA_MÖ - 1100 x 2200_EI 30",
+            "Category": "Doors",
+            "Türbezeichnung": "Typ 6 - Bockfutter",
+            "Feuerwiderstandsklasse": "EI 30",
+            "Bauteilklasse": "A_Tuer",
+            "Bauteilart": "Tuer",
+            "Typname": "TUI_ZAR_STA_MÖ - 1100 x 2200_EI 30",
+            "Level": "Level: 99",
+            "Area": "6.1824",
+            "Height": "2.2",
+            "Volume": "0.0002",
+            "Fluchttür": "False",
+            "Workset": "S-Struktur",
+            "Finish": "Opak",
+            "Frame Material": "Stahl",
+            "Family": "TU DF 1 - Rahmenstock flächenbündig: TUI_ZAR_STA_MÖ - 1100 x 2200_EI 30",
+            "Type": "TU DF 1 - Rahmenstock flächenbündig: TUI_ZAR_STA_MÖ - 1100 x 2200_EI 30",
+            "Wandstärke": "0.3",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Function": "Interior",
+            "Data.Form Tür": "rechteckig",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Description": "BF 1.1",
+            "Identity Data.Fire Rating": "EI 30",
+            "Identity Data.OmniClass Title": "Doors",
+            "Identity Data.Type Name": "TUI_ZAR_STA_MÖ - 1100 x 2200_EI 30",
+            "Identity Data.Workset": "Family  : Doors : TU DF 1 - Rahmenstock flächenbündig",
+            "Other.Category": "Doors",
+            "Other.Family Name": "TU DF 1 - Rahmenstock flächenbündig",
+            "Pset_ConcreteElementGeneral.FireRating": "EI 30",
+            "Pset_ConcreteElementGeneral.ConstructionType": "Typ 6 - Bockfutter",
+            "Pset_ProductRequirements.Category": "Doors",
+            "Pset_QuantityTakeOff.Reference": "TUI_ZAR_STA_MÖ - 1100 x 2200_EI 30",
+            "Gewerbebau.Türbezeichnung": "Typ 6 - Bockfutter",
+            "Gewerbebau.Feuerwiderstandsklasse": "EI 30",
+            "Gewerbebau.Bauteilklasse": "A_Tuer",
+            "Gewerbebau.Bauteilart": "Tuer",
+            "Gewerbebau.Typname": "TUI_ZAR_STA_MÖ - 1100 x 2200_EI 30"
+        }
+    },
+    "CompilationGroupID": "9536353255"
+}

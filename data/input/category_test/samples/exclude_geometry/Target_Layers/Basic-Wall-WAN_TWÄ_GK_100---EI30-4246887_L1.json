@@ -1,0 +1,88 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Trockenbau - Gipsplatte",
+        "Thickness": 0.025,
+        "Thickness Unit": "METRE",
+        "Layer Number": 1
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Wall:WAN_TWÄ_GK_100 - EI30:4246887",
+            "Type": "IfcWallStandardCase",
+            "ObjectType": "Basic Wall:WAN_TWÄ_GK_100 - EI30"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Dämmung - weich",
+                "Thickness": 0.05,
+                "Thickness Unit": "METRE",
+                "Layer Number": 2
+            },
+            {
+                "Material Name": "Trockenbau - Gipsplatte",
+                "Thickness": 0.025,
+                "Thickness Unit": "METRE",
+                "Layer Number": 3
+            }
+        ],
+        "Element Property Sets": {
+            "Psets Element": {
+                "Room Bounding": "True",
+                "Related to Mass": "False",
+                "Location Line": "Finish Face: Interior",
+                "Base Constraint": "0.0",
+                "unter Terrain": "False",
+                "Area": "6.7151",
+                "Length": "1.93",
+                "Volume": "0.6715",
+                "Workset": "A-Innenausbau",
+                "Category": "Walls",
+                "Family": "Basic Wall",
+                "Type": "WAN_TWÄ_GK_100 - EI30",
+                "Phase Created": "Neubau",
+                "Structural": "False",
+                "Structural Usage": "Non-bearing",
+                "FireRating": "EI 30",
+                "Roughness": "0.3048",
+                "Reference": "WAN_TWÄ_GK_100 - EI30",
+                "Description": "GK_100",
+                "IsExternal": "False",
+                "ExtendToStructure": "False",
+                "LoadBearing": "False",
+                "ThermalTransmittance": "0.6462",
+                "Geschoss ID": "0.0",
+                "Länge": "1.93",
+                "Fläche": "6.7151",
+                "Volumen": "0.6715"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "1.0",
+                "Analytical Properties.Absorptance": "0.1",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "0.6462",
+                "Analytical Properties.Thermal Mass": "53.3",
+                "Analytical Properties.Thermal Resistance (R)": "1.5475",
+                "Construction.Lage Aussen": "False",
+                "Construction.Function": "Interior",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Wall Types",
+                "Identity Data.Description": "GK_100",
+                "Identity Data.Fire Rating": "EI 30",
+                "Identity Data.Type Name": "WAN_TWÄ_GK_100 - EI30",
+                "Layers.EN Layers and Widths": "Trockenbau - Gipsplatte 2.5cmDämmung - weich 5cmTrockenbau - Gipsplatte 2.5cm",
+                "Other.Category": "Walls",
+                "Other.Family Name": "Basic Wall",
+                "Structural.Filter Tragend / Nichttragend": "False",
+                "Pset_ConcreteElementGeneral.FireRating": "EI 30",
+                "Pset_ProductRequirements.Category": "Walls",
+                "Pset_WallCommon.IsExternal": "False",
+                "Pset_WallCommon.ThermalTransmittance": "0.6462",
+                "Gewerbebau.Feuerwiderstandsklasse": "EI 30",
+                "Gewerbebau.Material": "Trockenbau - Gipsplatte, Dämmung - weich, Trockenbau - Gipsplatte",
+                "Gewerbebau.Bauteilklasse": "A_Wand",
+                "Gewerbebau.Bauteilart": "Leichtbauwand",
+                "Gewerbebau.Typname": "WAN_TWÄ_GK_100 - EI30"
+            }
+        }
+    },
+    "CompilationGroupID": "72eb6a5548"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Basic-Wall-FUN_STB_1500-3010518",
+    "category": "Beton",
+    "material_entries": [
+        "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+        "Tiefbaubeton (ohne Bewehrung)"
+    ],
+    "reason": [
+        "entity is wall",
+        "wall is 1.5m thick, no delicate residential wall but larger chonker",
+        "name says FUN inside, and object type pset says foundation, so it is a foundation",
+        "needs strong concrete mix"
+    ]
+}

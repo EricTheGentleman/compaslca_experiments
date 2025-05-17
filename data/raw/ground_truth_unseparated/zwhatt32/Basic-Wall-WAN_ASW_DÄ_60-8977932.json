@@ -1,0 +1,23 @@
+{
+    "name": "Basic-Wall-WAN_ASW_DÄ_60-8977932",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Glaswolle",
+        "Glaswolle, Isover, phenolbasiertes Bindemittel",
+        "Glaswolle, Isover, pflanzliches Bindemittel",
+        "Glaswolle, SUPAFIL",
+        "Steinwolle",
+        "Steinwolle, Flumroc",
+        "Flachsfasern",
+        "Flachsfasern, MAGRIPOL, Premium",
+        "Flachsfasern, feuerfest",
+        "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+        "Zellulosefasern",
+        "Zellulosefasern, Isofloc"
+    ],
+    "reason": [
+        "non-loadbearing external insulation",
+        "soft excludes rigid foams like xps, pur",
+        "6cm thickness matches typical values of wool and natural fibers"
+    ]
+}

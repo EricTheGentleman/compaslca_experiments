@@ -1,0 +1,11 @@
+{
+    "name": "TU-DF-1---Rahmenstock-flächenbündig-TUI_ZAR_STA_MÖ---1100-x-2200_EI-30-10129091",
+    "category": "Türen",
+    "material_entries": [
+        "Innentüre, Funktionstüre, Holz, Stahlzarge"
+    ],
+    "reason": [
+        "while there is no interior door with steel paneling",
+        "there is a door with steel framing, so best approximation..."
+    ]
+}

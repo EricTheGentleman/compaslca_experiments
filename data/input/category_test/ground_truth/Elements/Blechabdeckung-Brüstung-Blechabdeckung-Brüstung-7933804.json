@@ -1,0 +1,17 @@
+{
+    "name": "Blechabdeckung-Brüstung-Blechabdeckung-Brüstung-7933804",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Aluminiumblech, blank",
+        "Chromstahlblech blank",
+        "Kupferblech, blank",
+        "Stahlblech, blank",
+        "Stahlblech, verzinkt",
+        "Titanzinkblech"
+    ],
+    "reason": [
+        "metal capping for parapet, requires metal flashing",
+        "not specified if interior or exterior",
+        "therefore stahlblech, blank is also included"
+    ]
+}

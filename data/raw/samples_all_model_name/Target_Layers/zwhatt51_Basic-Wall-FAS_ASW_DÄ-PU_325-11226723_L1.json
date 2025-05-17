@@ -1,0 +1,243 @@
+{
+  "Target Layer of Material Inference": {
+    "Material Name": "Putz Kieselwurf",
+    "Thickness": 0.025,
+    "Thickness Unit": "METRE",
+    "Layer Number": 1
+  },
+  "Building Element Context": {
+    "Element Metadata": {
+      "Name": "Basic Wall:FAS_ASW_DÄ-PU_325:11226723",
+      "UID": "527040",
+      "GlobalId": "2WEsQfQp12GRD172eLZVN6",
+      "Type": "IfcWallStandardCase",
+      "ObjectType": "Basic Wall:FAS_ASW_DÄ-PU_325",
+      "Classification": "Not defined",
+      "Decomposes": {},
+      "Is Decomposed By": []
+    },
+    "Other Material Layers": [
+      {
+        "Material Name": "Dämmung - weich",
+        "Thickness": 0.29999999999999993,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+      }
+    ],
+    "Layer Set Metadata": {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Basic Wall:FAS_ASW_DÄ-PU_325",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layer Direction and Growth description": "Layers are stacked perpendicular to the element's length, growing in the opposite direction from its reference surface."
+    },
+    "Element Geometry Data": {
+      "Quantities (IFC)": {
+        "Width": 0.325,
+        "Width unit": "METRE",
+        "Length": 13.3,
+        "Length unit": "METRE",
+        "Height": 3.85,
+        "Height unit": "METRE",
+        "Gross Side Area": 51.205,
+        "Gross Side Area unit": "SQUARE_METRE",
+        "Net Side Area": 51.205,
+        "Net Side Area unit": "SQUARE_METRE",
+        "Gross Footprint Area": 4.3225,
+        "Gross Footprint Area unit": "SQUARE_METRE",
+        "Gross Volume": 16.6416,
+        "Gross Volume unit": "CUBIC_METRE",
+        "Net Volume": 16.6416,
+        "Net Volume unit": "CUBIC_METRE"
+      },
+      "Geometric Representation": [
+        "SweptSolid",
+        "Curve2D"
+      ],
+      "Quantities (COMPAS)": {
+        "Net Volume": 16.6416,
+        "Net Volume unit": "CUBIC_METRE",
+        "Entire Surface Area": 113.5575,
+        "Entire Surface Area unit": "SQUARE_METRE"
+      },
+      "Bounding Box Dimensions (OBB - local frame)": {
+        "X": 13.3,
+        "Y": 0.33,
+        "Z": 3.85,
+        "Bounding Box Dimensions Unit": "METRE"
+      },
+      "Bounding Box Volume": 16.8977,
+      "Real Volume to Bounding Box Volume Ratio": 0.9848,
+      "Face Count (tessellated element)": {
+        "Face Count": 12
+      },
+      "Vertex Count (tessellated element)": {
+        "Vertex Count": 24
+      },
+      "Edge Count (tessellated element)": {
+        "Edge Count": 30
+      },
+      "Primary Object Axis (Cardinal Direction)": "E"
+    },
+    "Element Property Sets": {
+      "Psets Element": {
+        "Room Bounding": "True",
+        "Related to Mass": "False",
+        "Base Extension Distance": "0.0",
+        "Base is Attached": "False",
+        "Top Extension Distance": "0.0",
+        "Top is Attached": "False",
+        "Location Line": "Finish Face: Exterior",
+        "Base Constraint": "03",
+        "Top Constraint": "Up to level: 04",
+        "Base Offset": "-0.29",
+        "Top Offset": "-0.29",
+        "Unconnected Height": "3.8499999999999996",
+        "Cross-Section": "Vertical",
+        "unter Terrain": "False",
+        "Area": "51.20500000338216",
+        "Length": "13.300000000878484",
+        "Volume": "16.641625001099413",
+        "Edited by": "",
+        "Workset": "A-Fassade",
+        "Category": "Walls",
+        "Family": "Basic Wall",
+        "Family and Type": "Basic Wall: FAS_ASW_DÄ-PU_325",
+        "Type": "FAS_ASW_DÄ-PU_325",
+        "Type Id": "6150983",
+        "Phase Created": "Neubau",
+        "Enable Analytical Model": "False",
+        "Structural": "False",
+        "Structural Usage": "Non-bearing",
+        "Roughness": "0.3048",
+        "Reference": "FAS_ASW_DÄ-PU_325",
+        "IsExternal": "True",
+        "ExtendToStructure": "False",
+        "LoadBearing": "False",
+        "ThermalTransmittance": "0.11270718232044201",
+        "Geschoss ID": "03",
+        "Höhe": "3.8499999999999996",
+        "Länge": "13.300000000878484",
+        "Fläche": "51.20500000338216",
+        "Volumen": "16.641625001099413"
+      },
+      "Psets Object Type": {
+        "Analytical Properties.Roughness": "1",
+        "Analytical Properties.Absorptance": "0.1",
+        "Analytical Properties.Heat Transfer Coefficient (U)": "0.11270718232044201",
+        "Analytical Properties.Thermal Mass": "69.48",
+        "Analytical Properties.Thermal Resistance (R)": "8.872549019607842",
+        "Construction.Function": "Exterior",
+        "Construction.Lage Aussen": "True",
+        "Construction.Wrapping at Ends": "Exterior",
+        "Construction.Width": "0.32499999999999996",
+        "Construction.Wrapping at Inserts": "Exterior",
+        "General.Gebäudenummer": "72557",
+        "General.Standortcode": "GG",
+        "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+        "Graphics.Coarse Scale Fill Color": "16777215",
+        "Identity Data.Edited by": "",
+        "Identity Data.Ausbau": "False",
+        "Identity Data.Assembly Code": "",
+        "Identity Data.Assembly Description": "",
+        "Identity Data.Type Comments": "",
+        "Identity Data.Workset": "Wall Types",
+        "Identity Data.Keynote": "",
+        "Identity Data.Description": "",
+        "Identity Data.Type Mark": "M6 - AW1.1_Fassade_WDVS_KS",
+        "Identity Data.Type Name": "FAS_ASW_DÄ-PU_325",
+        "Layers.EN Layers": "PutzDämmung - weich",
+        "Layers.EN Layers and Widths": "Putz 2cmDämmung - weich 30.5cm",
+        "Layers.EN Type String": "<L><M>Putz</M><T>2</T></L><L><M>Dämmung - weich</M><T>30.5</T></L",
+        "Layers.EN Widths": "2cm30.5cm",
+        "Other.Category": "Walls",
+        "Other.Family Name": "Basic Wall",
+        "Structural.Filter Tragend / Nichttragend": "False",
+        "Text.Aufbau": "145 mm - Kalksandsteine 1800 kg/m³300 mm - Flumroc-Dämmplatte COMPACT PRO  25 mm - Aussenputz",
+        "Pset_ElementShading.Roughness": "0.3048",
+        "Pset_ProductRequirements.Category": "Walls",
+        "Pset_WallCommon.IsExternal": "True",
+        "Pset_WallCommon.ThermalTransmittance": "0.11270718232044201",
+        "Gewerbebau.Dicke": "0.32499999999999996",
+        "Gewerbebau.Material": "Putz Kieselwurf, Dämmung - weich",
+        "Gewerbebau.Ausbau": "False",
+        "Gewerbebau.Lage Aussen ": "True",
+        "Gewerbebau.Tragende Funktion": "False",
+        "Gewerbebau.Liegenschaft ID": "72557",
+        "Gewerbebau.Gebäude ID": "GG",
+        "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+        "Gewerbebau.Bauteilart": "Fassadenbekleidung",
+        "Gewerbebau.eBKP-H": "E 2.2",
+        "Gewerbebau.Typname": "FAS_ASW_DÄ-PU_325"
+      }
+    },
+    "Element Location": {
+      "Storeys Map": {
+        "97": {
+          "Elevation": -7.94,
+          "Unit": "meters"
+        },
+        "98": {
+          "Elevation": -6.71,
+          "Unit": "meters"
+        },
+        "99": {
+          "Elevation": -3.81,
+          "Unit": "meters"
+        },
+        "00": {
+          "Elevation": 0.0,
+          "Unit": "meters"
+        },
+        "01": {
+          "Elevation": 5.02,
+          "Unit": "meters"
+        },
+        "02": {
+          "Elevation": 8.87,
+          "Unit": "meters"
+        },
+        "03": {
+          "Elevation": 12.72,
+          "Unit": "meters"
+        },
+        "04": {
+          "Elevation": 16.57,
+          "Unit": "meters"
+        },
+        "05": {
+          "Elevation": 20.42,
+          "Unit": "meters"
+        },
+        "06": {
+          "Elevation": 24.27,
+          "Unit": "meters"
+        },
+        "07": {
+          "Elevation": 27.55,
+          "Unit": "meters"
+        }
+      },
+      "Element Located in Storey": "03",
+      "Spatial Relationship": [
+        {
+          "name": "110",
+          "type": "IfcProject"
+        },
+        {
+          "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+          "type": "IfcSite"
+        },
+        {
+          "name": "Zwhatt",
+          "type": "IfcBuilding"
+        },
+        {
+          "name": "03",
+          "type": "IfcBuildingStorey"
+        }
+      ]
+    }
+  },
+  "CompilationGroupID": "a910fa886b"
+}

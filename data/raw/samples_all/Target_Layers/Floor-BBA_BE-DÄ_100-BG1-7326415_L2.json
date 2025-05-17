@@ -1,0 +1,197 @@
+{
+  "Target Layer of Material Inference": {
+    "Material Name": "Dämmung - Trittschall",
+    "Thickness": 0.02,
+    "Thickness Unit": "METRE",
+    "Layer Number": 2
+  },
+  "Building Element Context": {
+    "Element Metadata": {
+      "Name": "Floor:BBA_BE-DÄ_100-BG1:7326415",
+      "UID": "361493",
+      "GlobalId": "1aSYjoAk1BauwC2Z6wqDfV",
+      "Type": "IfcCovering",
+      "ObjectType": "Floor:BBA_BE-DÄ_100-BG1",
+      "Classification": "Not defined",
+      "Decomposes": {},
+      "Is Decomposed By": []
+    },
+    "Other Material Layers": [
+      {
+        "Material Name": "Beton - CTF",
+        "Thickness": 0.08,
+        "Thickness Unit": "METRE",
+        "Layer Number": 1
+      }
+    ],
+    "Layer Set Metadata": {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Floor:BBA_BE-DÄ_100-BG1",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layer Direction and Growth description": "Layers are stacked vertically, defining the element’s buildup."
+    },
+    "Element Geometry Data": {
+      "Quantities (IFC)": {},
+      "Geometric Representation": [
+        "SweptSolid"
+      ],
+      "Quantities (COMPAS)": {
+        "Net Volume": 30.7202,
+        "Net Volume unit": "CUBIC_METRE",
+        "Entire Surface Area": 622.382,
+        "Entire Surface Area unit": "SQUARE_METRE"
+      },
+      "Bounding Box Dimensions (OBB - local frame)": {
+        "X": 18.34,
+        "Y": 0.1,
+        "Z": 19.15,
+        "Bounding Box Dimensions Unit": "METRE"
+      },
+      "Bounding Box Volume": 35.1211,
+      "Real Volume to Bounding Box Volume Ratio": 0.8747,
+      "Face Count (tessellated element)": {
+        "Face Count": 124
+      },
+      "Vertex Count (tessellated element)": {
+        "Vertex Count": 180
+      },
+      "Edge Count (tessellated element)": {
+        "Edge Count": 276
+      },
+      "Primary Object Axis (Cardinal Direction)": "Undefined"
+    },
+    "Element Property Sets": {
+      "Psets Element": {
+        "Reference": "BBA_BE-DÄ_100-BG1",
+        "TotalThickness": "0.1",
+        "Roughness": "0.3048",
+        "Category": "Floors",
+        "unter Terrain": "False",
+        "Geschoss ID": "Level: 01",
+        "Umfang": "75.4800000000003",
+        "Fläche": "307.202000000003",
+        "Volumen": "30.7202000000003",
+        "Level": "Level: 01",
+        "Room Bounding": "True",
+        "Related to Mass": "False",
+        "Height Offset From Level": "0.0",
+        "Area": "307.202000000003",
+        "Elevation at Bottom": "4.84999999999972",
+        "Elevation at Top": "4.94999999999972",
+        "Perimeter": "75.4800000000003",
+        "Thickness": "0.1",
+        "Volume": "30.7202000000003",
+        "Workset": "A-Innenausbau",
+        "Edited by": "graser@graser.ch",
+        "Family": "Floor: BBA_BE-DÄ_100-BG1",
+        "Family and Type": "Floor: BBA_BE-DÄ_100-BG1",
+        "Type": "Floor: BBA_BE-DÄ_100-BG1",
+        "Type Id": "Floor: BBA_BE-DÄ_100-BG1",
+        "Phase Created": "Neubau",
+        "Enable Analytical Model": "False",
+        "Structural": "False"
+      },
+      "Psets Object Type": {
+        "Analytical Properties.Roughness": "1",
+        "Analytical Properties.Absorptance": "0.1",
+        "Analytical Properties.Heat Transfer Coefficient (U)": "13.075",
+        "Analytical Properties.Thermal Mass": "11.23086269952",
+        "Analytical Properties.Thermal Resistance (R)": "0.0764818355640535",
+        "Construction.Lage Aussen": "False",
+        "Construction.Function": "Interior",
+        "Construction.Default Thickness": "0.1",
+        "General.Gebäudenummer": "72557",
+        "General.Standortcode": "GG",
+        "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+        "Graphics.Coarse Scale Fill Color": "12632256",
+        "Identity Data.Ausbau": "True",
+        "Identity Data.Assembly Code": "",
+        "Identity Data.Assembly Description": "",
+        "Identity Data.Type Comments": "",
+        "Identity Data.Workset": "Floor Types",
+        "Identity Data.Description": "Zementfliessestrich 80, Trittschalldämmung 20",
+        "Identity Data.Edited by": "graser@graser.ch",
+        "Identity Data.Type Mark": "SikaScreed CTF (C30-F6)",
+        "Identity Data.Type Name": "BBA_BE-DÄ_100-BG1",
+        "Other.Category": "Floors",
+        "Other.Family Name": "Floor",
+        "Structural.Filter Tragend / Nichttragend": "False",
+        "Pset_CoveringCommon.Reference": "BBA_BE-DÄ_100-BG1",
+        "Pset_ElementShading.Roughness": "0.3048",
+        "Pset_ProductRequirements.Category": "Floors",
+        "Pset_QuantityTakeOff.Reference": "BBA_BE-DÄ_100-BG1",
+        "Gewerbebau.Lage Aussen ": "False",
+        "Gewerbebau.Ausbau": "True",
+        "Gewerbebau.Tragende": "False",
+        "Gewerbebau.Dicke": "0.1",
+        "Gewerbebau.Liegenschaft ID": "72557",
+        "Gewerbebau.Gebäude ID": "GG",
+        "Gewerbebau.Bauteilklasse": "A_Bodenaufbau",
+        "Gewerbebau.Bauteilart": "Bodenbelag",
+        "Gewerbebau.eBKP-H": "G 2.2",
+        "Gewerbebau.Typname": "BBA_BE-DÄ_100-BG1"
+      }
+    },
+    "Element Location": {
+      "Storeys Map": {
+        "98": {
+          "Elevation": -6.67,
+          "Unit": "meters"
+        },
+        "99": {
+          "Elevation": -3.8,
+          "Unit": "meters"
+        },
+        "00": {
+          "Elevation": 0.0,
+          "Unit": "meters"
+        },
+        "01": {
+          "Elevation": 4.95,
+          "Unit": "meters"
+        },
+        "02": {
+          "Elevation": 8.85,
+          "Unit": "meters"
+        },
+        "03": {
+          "Elevation": 12.75,
+          "Unit": "meters"
+        },
+        "04": {
+          "Elevation": 16.65,
+          "Unit": "meters"
+        },
+        "05": {
+          "Elevation": 20.55,
+          "Unit": "meters"
+        },
+        "06": {
+          "Elevation": 24.45,
+          "Unit": "meters"
+        }
+      },
+      "Element Located in Storey": "01",
+      "Spatial Relationship": [
+        {
+          "name": "110",
+          "type": "IfcProject"
+        },
+        {
+          "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+          "type": "IfcSite"
+        },
+        {
+          "name": "Zwhatt",
+          "type": "IfcBuilding"
+        },
+        {
+          "name": "01",
+          "type": "IfcBuildingStorey"
+        }
+      ]
+    }
+  },
+  "CompilationGroupID": "86ca150c6f"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Floor-Gitterrost-schwarz-354156",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Stahlblech, verzinkt",
+        "Titanzinkblech"
+    ],
+    "reason": [
+        "terrassenkonstruktion -> outdoors",
+        "entity -> slab, so it's a floor panel",
+        "zink gitter strongly galvanized steel grating, which is common in outdoor flooring",
+        "both zink blechs are matched"
+    ]
+}

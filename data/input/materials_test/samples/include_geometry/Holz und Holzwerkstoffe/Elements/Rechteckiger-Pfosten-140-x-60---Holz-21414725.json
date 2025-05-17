@@ -1,0 +1,38 @@
+{
+    "Element Metadata": {
+        "Name": "Rechteckiger Pfosten:140 x 60 - Holz:21414725",
+        "Type": "IfcMember",
+        "ObjectType": "Rechteckiger Pfosten:140 x 60 - Holz"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Length": 2.38,
+            "Length unit": "METRE",
+            "Net Volume": 0.02,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.02,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 0.9688,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.06,
+            "Y": 2.38,
+            "Z": 0.14,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.02,
+        "Real Volume to Bounding Box Volume Ratio": 0.9996
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "True",
+            "Reference": "140 x 60 - Holz",
+            "Span": "2.38"
+        }
+    },
+    "CompilationGroupID": "2bb1f1bc28"
+}

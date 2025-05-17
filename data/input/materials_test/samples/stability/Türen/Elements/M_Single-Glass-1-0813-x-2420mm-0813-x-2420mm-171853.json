@@ -1,0 +1,38 @@
+{
+    "Element Metadata": {
+        "Name": "M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171853",
+        "Type": "IfcDoor",
+        "ObjectType": "0813 x 2420mm"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "Reference",
+            "IsExternal": "True",
+            "FireRating": "Fire Rating",
+            "Level": "Level 1",
+            "Phase Created": "New Construction",
+            "Thickness": "0.051",
+            "Height": "2.42",
+            "Width": "0.813",
+            "Function": "1.0",
+            "Construction Type": "Construction Type",
+            "Door Material": "Door - Panel",
+            "Frame Material": "Door - Frame",
+            "Manufacturer": "Manufacturer",
+            "OmniClass Number": "23.30.10.00",
+            "OmniClass Title": "Doors",
+            "IsFireExit": "IsFireExit",
+            "ConstructionType": "ConstructionType",
+            "GlazingAreaFraction": "GlazingAreaFraction",
+            "Area": "Area",
+            "Color": "Color",
+            "Features": "Features",
+            "Finish": "Finish",
+            "Material": "Material",
+            "Shape": "Shape",
+            "Size": "Size"
+        }
+    },
+    "CompilationGroupID": "a8c0aa7437"
+}

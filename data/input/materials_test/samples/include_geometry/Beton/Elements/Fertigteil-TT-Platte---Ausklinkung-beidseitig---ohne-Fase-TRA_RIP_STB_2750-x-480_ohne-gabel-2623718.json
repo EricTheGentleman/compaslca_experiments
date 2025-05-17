@@ -1,0 +1,90 @@
+{
+    "Element Metadata": {
+        "Name": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase:TRA_RIP_STB_2750 x 480_ohne gabel:2623718",
+        "Type": "IfcBeam",
+        "ObjectType": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase:TRA_RIP_STB_2750 x 480_ohne gabel"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Betonfertigteil"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Length": 18.34,
+            "Length unit": "METRE",
+            "Gross Volume": 6.0889,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 6.0889,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 6.0889,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 133.8124,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 18.34,
+            "Y": 2.75,
+            "Z": 0.48,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 24.2088,
+        "Real Volume to Bounding Box Volume Ratio": 0.2515
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "TRA_RIP_STB_2750 x 480_ohne gabel",
+            "Span": "18.34",
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "FireRating": "REI 60",
+            "Category": "Structural Framing",
+            "Geschoss ID": "1.0",
+            "Länge": "18.34",
+            "Volumen": "6.0889",
+            "unter Terrain": "False",
+            "Breite": "2.75",
+            "Höhe ": "0.48",
+            "Lage Aussen ": "False",
+            "Tragende": "True",
+            "Feuerwiderstandsklasse": "REI 60",
+            "Material": "Betonfertigteil",
+            "Bauteilklasse": "A_Unterzug",
+            "Bauteilart": "Unterzug",
+            "Typname": "TRA_RIP_STB_2750 x 480_ohne gabel",
+            "Elevation at Bottom": "0.49",
+            "Length": "18.34",
+            "Volume": "6.0889",
+            "Workset": "S-Struktur",
+            "Family": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase: TRA_RIP_STB_2750 x 480_ohne gabel",
+            "Type": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase: TRA_RIP_STB_2750 x 480_ohne gabel",
+            "Phase Created": "Neubau",
+            "Structural Usage": "Other"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "False",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Fire Rating": "REI 60",
+            "Identity Data.OmniClass Title": "Beams",
+            "Identity Data.Type Name": "TRA_RIP_STB_2750 x 480_ohne gabel",
+            "Identity Data.Workset": "Family  : Structural Framing : Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase",
+            "Materials and Finishes.Structural Material": "Betonfertigteil",
+            "Materials and Finishes.Überbeton Material": "Beton - Überbeton",
+            "Other.Category": "Structural Framing",
+            "Other.Family Name": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase",
+            "Structural.Filter Tragend / Nichttragend": "True",
+            "Pset_ConcreteElementGeneral.FireRating": "REI 60",
+            "Pset_ProductRequirements.Category": "Structural Framing",
+            "Pset_QuantityTakeOff.Reference": "TRA_RIP_STB_2750 x 480_ohne gabel",
+            "Gewerbebau.Feuerwiderstandsklasse": "REI 60",
+            "Gewerbebau.Material": "Betonfertigteil",
+            "Gewerbebau.Bauteilklasse": "A_Unterzug",
+            "Gewerbebau.Bauteilart": "Unterzug",
+            "Gewerbebau.Typname": "TRA_RIP_STB_2750 x 480_ohne gabel"
+        }
+    },
+    "CompilationGroupID": "af9e165982"
+}

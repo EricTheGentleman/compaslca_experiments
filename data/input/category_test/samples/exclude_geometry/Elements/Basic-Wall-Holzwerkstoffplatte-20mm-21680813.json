@@ -1,0 +1,18 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:Holzwerkstoffplatte 20mm:21680813",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:Holzwerkstoffplatte 20mm"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "FireRating": "REI 60",
+            "Reference": "Holzwerkstoffplatte 20mm",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "LoadBearing": "False"
+        }
+    },
+    "CompilationGroupID": "27e9b38257"
+}

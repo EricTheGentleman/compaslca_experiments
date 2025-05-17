@@ -1,0 +1,180 @@
+{
+  "Element Metadata": {
+    "Name": "Systemelement:PAN_GLAS_45 - OG:11226128",
+    "UID": "627602",
+    "GlobalId": "2WEsQfQp12GRD172eLZVUr",
+    "Type": "IfcPlate",
+    "ObjectType": "Systemelement:PAN_GLAS_45 - OG",
+    "Classification": "Not defined",
+    "Decomposes": {
+      "Name": "Curtain Wall:FAS_MET_1375x65-OG:11226127",
+      "IfcEntity": "IfcCurtainWall",
+      "GlobalId": "2WEsQfQp12GRD172eLZVUg"
+    },
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterial",
+      "Material Name": "Glas - Isolierverglasung klar",
+      "Material Description": "Unknown",
+      "Material Category": "Unknown",
+      "Thickness": "Unknown",
+      "Thickness unit": "Unknown"
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Net Volume": 0.045,
+      "Net Volume unit": "CUBIC_METRE"
+    },
+    "Geometric Representation": [
+      "MappedRepresentation"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.045,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 2.2036,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 1.63,
+      "Y": 0.04,
+      "Z": 0.61,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.0398,
+    "Real Volume to Bounding Box Volume Ratio": 1.1316,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "W"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Level": "03",
+      "unter Terrain": "False",
+      "Area": "1.0008199999995209",
+      "Height": "0.613999999999999",
+      "Volume": "0.045036899999978425",
+      "Width": "1.6299999999992223",
+      "Edited by": "",
+      "Workset": "A-Fassade",
+      "Category": "Curtain Panels",
+      "Family": "Systemelement",
+      "Family and Type": "Systemelement: PAN_GLAS_45 - OG",
+      "Type": "PAN_GLAS_45 - OG",
+      "Type Id": "8857868",
+      "Host Id": "11226127",
+      "Phase Created": "Neubau",
+      "IsExternal": "False",
+      "Reference": "PAN_GLAS_45 - OG",
+      "Fläche": "1.0008199999995209",
+      "Volumen": "0.045036899999978425"
+    },
+    "Psets Object Type": {
+      "Analytical Properties.Define Thermal Properties by": "Schematic Type",
+      "Analytical Properties.Analytic Construction": "<None",
+      "Constraints.Offset": "-0.0275",
+      "Construction.Lage Aussen": "True",
+      "Dimensions.Thickness": "0.045",
+      "Identity Data.Edited by": "",
+      "Identity Data.Ausbau": "False",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Code Name": "",
+      "Identity Data.OmniClass Number": "",
+      "Identity Data.OmniClass Title": "",
+      "Identity Data.Type Name": "PAN_GLAS_45 - OG",
+      "Identity Data.Workset": "Family  : Curtain Panels : Systemelement",
+      "Materials and Finishes.Material": "Glas - Isolierverglasung klar",
+      "Other.Category": "Curtain Panels",
+      "Other.Family Name": "Systemelement",
+      "Pset_PlateCommon.IsExternal": "False",
+      "Pset_ProductRequirements.Category": "Curtain Panels",
+      "Gewerbebau.Material": "Glas - Isolierverglasung klar",
+      "Gewerbebau.Ausbau": "False",
+      "Gewerbebau.Lage Aussen ": "True",
+      "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+      "Gewerbebau.Bauteilart": "Fassadenelement",
+      "Gewerbebau.eBKP-H": "E 2.4",
+      "Gewerbebau.Typname": "PAN_GLAS_45 - OG"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": [
+      {
+        "IfcEntity": "IfcGroup",
+        "Group Name": "Model Group:Fassade - 2-5.OG:11226125",
+        "Group Description": "Not defined"
+      }
+    ]
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "03",
+    "Spatial Relationship": [
+      {
+        "name": "Unknown",
+        "type": "Unknown"
+      }
+    ]
+  },
+  "CompilationGroupID": "7cba03312a"
+}

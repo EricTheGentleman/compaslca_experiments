@@ -1,0 +1,27 @@
+{
+    "Element Metadata": {
+        "Name": "2OG-Balkon-1-1",
+        "Type": "IfcSlab"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Stahlbeton",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Stahlbeton",
+                    "Thickness": 0.12,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "ThermalTransmittance": "0.6",
+            "IsExternal": "True",
+            "LoadBearing": "True"
+        }
+    }
+}

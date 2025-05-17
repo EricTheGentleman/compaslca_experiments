@@ -1,0 +1,107 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:WAN_BRÜ_STB_160-dachrand:8113151",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:WAN_BRÜ_STB_160-dachrand"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:WAN_BRÜ_STB_160-dachrand",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Beton - Ortbeton bewehrt",
+                    "Thickness": 0.16,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.16,
+            "Width unit": "METRE",
+            "Length": 77.32,
+            "Length unit": "METRE",
+            "Height": 0.3,
+            "Height unit": "METRE",
+            "Net Side Area": 23.196,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Gross Footprint Area": 12.3712,
+            "Gross Footprint Area unit": "SQUARE_METRE",
+            "Net Volume": 3.7114,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 3.7114,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 71.2304,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 77.32,
+            "Y": 0.16,
+            "Z": 0.3,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 3.7114,
+        "Real Volume to Bounding Box Volume Ratio": 1.0
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Location Line": "Finish Face: Interior",
+            "Base Constraint": "Level: 06",
+            "Area": "23.196",
+            "Length": "77.16",
+            "Volume": "3.7114",
+            "unter Terrain": "False",
+            "Workset": "A-Fassade",
+            "Category": "Walls",
+            "Family": "Basic Wall: WAN_BRÜ_STB_160-dachrand",
+            "Type": "Basic Wall: WAN_BRÜ_STB_160-dachrand",
+            "Phase Created": "Neubau",
+            "Structural": "True",
+            "Structural Usage": "Bearing",
+            "Roughness": "0.3048",
+            "Reference": "WAN_BRÜ_STB_160-dachrand",
+            "Description": "Beton_Fertigteil ohne Dämmeigenschaften",
+            "LoadBearing": "True",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "ThermalTransmittance": "6.5375",
+            "Geschoss ID": "Level: 06",
+            "Länge": "77.16",
+            "Fläche": "23.196",
+            "Volumen": "3.7114"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "6.5375",
+            "Analytical Properties.Thermal Mass": "22.4617",
+            "Analytical Properties.Thermal Resistance (R)": "0.153",
+            "Construction.Function": "Exterior",
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "Beton_Fertigteil ohne Dämmeigenschaften",
+            "Identity Data.Type Name": "WAN_BRÜ_STB_160-dachrand",
+            "Materials and Finishes.Structural Material": "Beton - Ortbeton bewehrt",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_QuantityTakeOff.Reference": "WAN_BRÜ_STB_160-dachrand",
+            "Pset_WallCommon.IsExternal": "False",
+            "Pset_WallCommon.ThermalTransmittance": "6.5375",
+            "Gewerbebau.Material": "Beton - Ortbeton bewehrt",
+            "Gewerbebau.Bauteilklasse": "A_Wand",
+            "Gewerbebau.Bauteilart": "Massivwand",
+            "Gewerbebau.Typname": "WAN_BRÜ_STB_160-dachrand"
+        }
+    },
+    "CompilationGroupID": "63a18c2851"
+}

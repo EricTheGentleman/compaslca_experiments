@@ -1,0 +1,23 @@
+{
+    "Element Metadata": {
+        "Name": "Window Opening Circle:120:2373865",
+        "Type": "IfcWindow",
+        "ObjectType": "120"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {},
+    "Element Property Sets": {
+        "Psets Element": {
+            "Width": "120.0",
+            "Height": "0.0",
+            "Workset": "Workset1",
+            "OmniClass Number": "",
+            "OmniClass Title": "",
+            "Level": "Level: VÅN 2",
+            "Phase Created": "New",
+            "Reference": "120.0",
+            "IsExternal": "False"
+        }
+    },
+    "CompilationGroupID": "a3e451c031"
+}

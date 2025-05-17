@@ -1,0 +1,12 @@
+{
+    "name": "Anfahrschutz-Rohr-2350-x-400-13363728",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Stahlblech, verzinkt",
+        "Titanzinkblech"
+    ],
+    "reason": [
+        "material descriptor say metall-zink (metal galvanized)",
+        "these are the only sheets (for protection of pipe) available with galvanized attribute"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:Gitterrost schwarz:354156",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:Gitterrost schwarz"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:Gitterrost schwarz",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Zink Gitter",
+                    "Thickness": 0.03,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.03,
+            "Width unit": "METRE",
+            "Gross Volume": 0.042,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.042,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.042,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 3.08417,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.58,
+            "Y": 4.18,
+            "Z": 0.03,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0727,
+        "Real Volume to Bounding Box Volume Ratio": 0.57772
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "Level: 00_Eingang",
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Area": "1.4",
+            "Elevation at Bottom": "-45.0",
+            "Perimeter": "9470.6204",
+            "Thickness": "30.0",
+            "Volume": "0.042",
+            "Workset": "Terrassenkonstruktion",
+            "Category": "Floors",
+            "Family": "Floor: Gitterrost schwarz",
+            "Type": "Floor: Gitterrost schwarz",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Absorptance": "0.7",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "7666.6667",
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Thermal Mass": "6.7501",
+            "Analytical Properties.Thermal Resistance (R)": "0.0001",
+            "Construction.Function": "Exterior",
+            "Data.Unternehmer": "Pletscher",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Type Name": "Gitterrost schwarz",
+            "Identity Data.Workset": "Floor Types",
+            "Materials and Finishes.Structural Material": "Zink Gitter",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor"
+        }
+    }
+}

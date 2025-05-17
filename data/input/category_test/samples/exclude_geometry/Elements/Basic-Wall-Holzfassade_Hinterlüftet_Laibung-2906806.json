@@ -1,0 +1,51 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:Holzfassade_Hinterlüftet_Laibung:2906806",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:Holzfassade_Hinterlüftet_Laibung"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:Holzfassade_Hinterlüftet_Laibung",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Holzschalung Vertikal, Nadelholz,  schwarz gestrichen",
+                    "Thickness": 0.02,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Base Constraint": "Level: 00_Eingang",
+            "Location Line": "Finish Face: Exterior",
+            "Area": "1.627",
+            "Length": "505.2775",
+            "Volume": "0.0322",
+            "Workset": "Architecture",
+            "Category": "Walls",
+            "Family": "Basic Wall: Holzfassade_Hinterlüftet_Laibung",
+            "Type": "Basic Wall: Holzfassade_Hinterlüftet_Laibung",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Construction.Function": "Exterior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Type Name": "Holzfassade_Hinterlüftet_Laibung",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall"
+        }
+    },
+    "CompilationGroupID": "ff0919332f"
+}

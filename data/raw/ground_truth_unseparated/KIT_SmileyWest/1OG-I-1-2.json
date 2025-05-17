@@ -1,0 +1,12 @@
+{
+    "name": "1OG-I-1-2",
+    "category": "Mörtel und Putze",
+    "material_entries": [
+        "Gips-Kalk-Putz",
+        "Gips-/Weissputz"
+    ],
+    "reason": [
+        "0.1 meters seems kind of thick for plaster",
+        "but its the closest match with regards to the descriptor gips"
+    ]
+}

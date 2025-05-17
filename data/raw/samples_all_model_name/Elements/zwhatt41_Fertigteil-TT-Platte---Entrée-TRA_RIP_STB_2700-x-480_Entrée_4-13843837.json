@@ -1,0 +1,288 @@
+{
+  "Element Metadata": {
+    "Name": "Fertigteil-TT-Platte - Entrée:TRA_RIP_STB_2700 x 480_Entrée_4:13843837",
+    "UID": "1045757",
+    "GlobalId": "10JdpjXTPCyADv93Nwf6MQ",
+    "Type": "IfcBeam",
+    "ObjectType": "Fertigteil-TT-Platte - Entrée:TRA_RIP_STB_2700 x 480_Entrée_4",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterial",
+      "Material Name": "Betonfertigteil",
+      "Material Description": "Unknown",
+      "Material Category": "Unknown",
+      "Thickness": "Unknown",
+      "Thickness unit": "Unknown"
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Net Volume": 1.0221,
+      "Net Volume unit": "CUBIC_METRE"
+    },
+    "Geometric Representation": [
+      "Curve2D",
+      "Brep"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 1.0221,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 21.4499,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 2.7,
+      "Y": 2.98,
+      "Z": 0.48,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 3.8621,
+    "Real Volume to Bounding Box Volume Ratio": 0.2647,
+    "Face Count (tessellated element)": {
+      "Face Count": 152
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 376
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 416
+    },
+    "Primary Object Axis (Cardinal Direction)": "N"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Slope": "0.0",
+      "IsExternal": "False",
+      "LoadBearing": "True",
+      "Reference": "TRA_RIP_STB_2700 x 480_Entrée_4",
+      "Span": "2.980000000000868",
+      "FireRating": "REI 60",
+      "Category": "Structural Framing",
+      "unter Terrain": "False",
+      "Geschoss ID": "01",
+      "Länge": "2.9799999999999516",
+      "Volumen": "1.0221178173888057",
+      "Dicke": "2.7499999999999996",
+      "Höhe ": "0.48",
+      "Feuerwiderstandsklasse": "REI 60",
+      "Material": "Betonfertigteil",
+      "Rippenplattentyp": "08",
+      "Lage Aussen ": "False",
+      "Tragende Funktion": "True",
+      "Ausbau": "False",
+      "Liegenschaft ID": "72557",
+      "Gebäude ID": "GG",
+      "Bauteilklasse": "A_Decke",
+      "Bauteilart": "Rippenplatte",
+      "Typname": "TRA_RIP_STB_2700 x 480_Entrée_4",
+      "Cross-Section Rotation": "0.0",
+      "End Level Offset": "0.0",
+      "Links Fugenverkürzung": "0.0",
+      "Rechts Fugenverkürzung": "0.0",
+      "Reference Level": "01 - -0.22",
+      "Start Level Offset": "0.0",
+      "Orientation": "Normal",
+      "Reference Level Elevation": "4.779999999999721",
+      "Work Plane": "Level : 01 - -0.22",
+      "Elevation at Bottom": "0.5399999999997186",
+      "Elevation at Top": "4.77999999999972",
+      "Length": "2.980000000000868",
+      "Volume": "1.0221178173888057",
+      "End Extension": "0.0",
+      "Start Extension": "0.0",
+      "y Justification": "Origin",
+      "y Offset Value": "0.0",
+      "yz Justification": "Uniform",
+      "z Justification": "Top",
+      "z Offset Value": "0.0",
+      "Join Status": "One or two joins disabled",
+      "Edited by": "",
+      "Comments": "",
+      "Workset": "S-Struktur",
+      "Family": "Fertigteil-TT-Platte - Entrée",
+      "Breite Beschriftung": "2.75",
+      "Family and Type": "Fertigteil-TT-Platte - Entrée: TRA_RIP_STB_2700 x 480_Entrée_4",
+      "Gabelhöhe Beschriftung": "0.08",
+      "Länge Beschriftung": "2.98",
+      "Type": "TRA_RIP_STB_2700 x 480_Entrée_4",
+      "Type Id": "13835664",
+      "Phase Created": "Neubau",
+      "Rebar Cover - Bottom Face": "c=2.0cm <2.0 cm",
+      "Rebar Cover - Other Faces": "c=2.0cm <2.0 cm",
+      "Rebar Cover - Top Face": "c=2.0cm <2.0 cm",
+      "Structural Usage": "Other",
+      "Enable Analytical Model": "True",
+      "Cut Length": "2.9799999999999516",
+      "Overhead Line Links": "True",
+      "Overhead Line Rechts": "True"
+    },
+    "Psets Object Type": {
+      "Constraints.Aussparung Elektro": "True",
+      "Constraints.Platte mit Rand": "False",
+      "Constraints.Schnitt Gabel": "True",
+      "Constraints.Abstand Aussparung rechts": "0.625",
+      "Constraints.Durchmesser Aussparung": "0.08",
+      "Constraints.Gabelhöhe": "0.08",
+      "Constraints.Links Gabelbreite": "0.16",
+      "Constraints.Links Quersteg Breite": "0.16",
+      "Constraints.Rechts Gabelbreite": "0.16",
+      "Constraints.Rechts Quersteg Breite": "0.16",
+      "Construction.Geschoss": "False",
+      "Construction.Lage Aussen": "False",
+      "Dimensions.Installationstoleranz Längsseite": "0.0",
+      "Dimensions.Installationstoleranz Stirnseite": "0.0",
+      "Dimensions.ar": "1.375",
+      "Dimensions.au": "1.195",
+      "Dimensions.bo": "0.18",
+      "Dimensions.bu": "0.18",
+      "Dimensions.Geschossdicke": "0.06",
+      "Dimensions.Height": "0.48",
+      "Dimensions.ho": "0.08",
+      "Dimensions.hu": "0.4",
+      "Dimensions.Width": "2.7499999999999996",
+      "General.Gebäudenummer": "72557",
+      "General.Standortcode": "GG",
+      "Graphics.Schalungssymbol": "False",
+      "Identity Data.Edited by": "",
+      "Identity Data.Ausbau": "False",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Code Name": "",
+      "Identity Data.Workset": "Family  : Structural Framing : Fertigteil-TT-Platte - Entrée",
+      "Identity Data.Basierend auf": "FDB - Fachvereinigung Deutscher Betonfertigteilbau",
+      "Identity Data.Fire Rating": "REI 60",
+      "Identity Data.OmniClass Number": "23.25.30.11.14.14",
+      "Identity Data.OmniClass Title": "Beams",
+      "Identity Data.Rippenplattentyp": "08",
+      "Identity Data.Type Name": "TRA_RIP_STB_2700 x 480_Entrée_4",
+      "Materials and Finishes.Structural Material": "Betonfertigteil",
+      "Materials and Finishes.Überbeton Material": "Beton - Ortbeton - Überbeton",
+      "Other.Category": "Structural Framing",
+      "Other.Platte ohne Rand": "True",
+      "Other.Schnitt S2 Seite": "False",
+      "Other.Verbreiterung S1": "0.0",
+      "Other.Verbreiterung S2": "0.0",
+      "Other.Schnitt S1 Seite": "True",
+      "Other.Aussparung Wand Seite 1": "False",
+      "Other.Aussparung Wand Seite 2": "False",
+      "Other.Aussparung Stütze Seite 1": "True",
+      "Other.Aussparung Stütze Seite 2": "False",
+      "Other.Achse Aussparung Wand": "0.6000000000000001",
+      "Other.Aussparung Stütze Breite": "0.225",
+      "Other.Aussparung Stütze Länge": "0.30000000000000004",
+      "Other.Aussparung Wand Breite": "0.25",
+      "Other.Aussparung Wand Länge": "0.15000000000000002",
+      "Other.Family Name": "Fertigteil-TT-Platte - Entrée",
+      "Other.L1": "0.48000000000000004",
+      "Other.Radius Aussparung": "0.04",
+      "Other.Schalungssymbol Versatz": "0.05",
+      "Other.Schnittbreite Seite gesamt S1": "0.05",
+      "Other.Schnittbreite Seite gesamt S2": "0.05",
+      "Other.Schnittbreite Seite S1": "0.05",
+      "Other.Schnittbreite Seite S2": "0.05",
+      "Structural.Filter Tragend / Nichttragend": "True",
+      "Structural.Section Shape": "0",
+      "Visibility.Location Line Abstand Seite Links": "0.16",
+      "Visibility.Location Line Abstand Seite Rechts": "0.4",
+      "Visibility.Location Line Längsträger Breite": "0.29999999999999993",
+      "Visibility.Location Line projizieren": "4.0",
+      "Pset_BeamCommon.IsExternal": "False",
+      "Pset_BeamCommon.LoadBearing": "True",
+      "Pset_BeamCommon.FireRating": "REI 60",
+      "Pset_ConcreteElementGeneral.FireRating": "REI 60",
+      "Pset_ProductRequirements.Category": "Structural Framing",
+      "Gewerbebau.Dicke": "2.7499999999999996",
+      "Gewerbebau.Höhe ": "0.48",
+      "Gewerbebau.Feuerwiderstandsklasse": "REI 60",
+      "Gewerbebau.Material": "Betonfertigteil",
+      "Gewerbebau.Rippenplattentyp": "08",
+      "Gewerbebau.Lage Aussen ": "False",
+      "Gewerbebau.Tragende Funktion": "True",
+      "Gewerbebau.Ausbau": "False",
+      "Gewerbebau.Liegenschaft ID": "72557",
+      "Gewerbebau.Gebäude ID": "GG",
+      "Gewerbebau.Bauteilklasse": "A_Decke",
+      "Gewerbebau.Bauteilart": "Rippenplatte",
+      "Gewerbebau.Typname": "TRA_RIP_STB_2700 x 480_Entrée_4"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "01",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "01",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  }
+}

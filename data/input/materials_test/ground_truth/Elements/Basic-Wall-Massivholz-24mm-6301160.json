@@ -1,0 +1,17 @@
+{
+    "name": "Basic-Wall-Massivholz-24mm-6301160",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+        "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+        "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+        "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz",
+        "Massivholz Fichte / Tanne, kammergetr., Vollholzhaus holzpur"
+    ],
+    "reason": [
+        "material descriptor says massivholz fichte",
+        "workset says innenausbau, so assumption is its an interior element",
+        "gehobelt surface is appropriate for interior applications with finished surface",
+        "therefore the entries with rau (rough) are not considered"
+    ]
+}

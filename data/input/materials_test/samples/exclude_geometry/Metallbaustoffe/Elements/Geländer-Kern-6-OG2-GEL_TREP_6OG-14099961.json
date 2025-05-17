@@ -1,0 +1,47 @@
+{
+    "Element Metadata": {
+        "Name": "Geländer Kern 6.OG2:GEL_TREP_6OG:14099961",
+        "Type": "IfcRailing",
+        "ObjectType": "Geländer Kern 6.OG2:GEL_TREP_6OG"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Metall Stahl Geländer"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Category": "Railings",
+            "Reference": "GEL_TREP_6OG",
+            "IsExternal": "False",
+            "unter Terrain": "False",
+            "Fläche": "2.1156",
+            "Volumen": "0.0218",
+            "Lage Aussen ": "False",
+            "Bauteilklasse": "A_Sicherung",
+            "Bauteilart": "Gelaender",
+            "Typname": "GEL_TREP_6OG",
+            "Elevation from Level": "0.0",
+            "Area": "2.1156",
+            "Volume": "0.0218",
+            "Workset": "A-Innenausbau",
+            "Family": "Geländer Kern 6.OG2",
+            "Type": "GEL_TREP_6OG",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "False",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Workset": "A-Innenausbau",
+            "Identity Data.Type Name": "GEL_TREP_6OG",
+            "Other.Category": "Railings",
+            "Other.Family Name": "Geländer Kern 6.OG2",
+            "Pset_ProductRequirements.Category": "Railings",
+            "Gewerbebau.Bauteilklasse": "A_Sicherung",
+            "Gewerbebau.Bauteilart": "Gelaender",
+            "Gewerbebau.Typname": "GEL_TREP_6OG"
+        }
+    }
+}

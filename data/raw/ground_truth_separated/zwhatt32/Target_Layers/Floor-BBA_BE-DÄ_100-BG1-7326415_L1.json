@@ -1,0 +1,13 @@
+{
+    "name": "Floor-BBA_BE-DÄ_100-BG1-7326415_L1",
+    "category": "Beton",
+    "material_entries": [
+        "Magerbeton (ohne Bewehrung)",
+        "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "reason": [
+        "CTF refers to cementitious topping floor, so its screed",
+        "further supported by thickness of 0.08m",
+        "lean concrete chosen for screed"
+    ]
+}

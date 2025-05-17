@@ -1,0 +1,52 @@
+{
+    "Element Metadata": {
+        "Name": "1OG-I-1-1",
+        "Type": "IfcWallStandardCase"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Kalksandstein",
+            "Layer Direction and Growth description": "Layers are stacked perpendicular to the element's length, growing in the opposite direction from its reference surface.",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Kalksandstein",
+                    "Thickness": 0.175,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Net Side Area": 13.6206,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Net Footprint Area": 0.4545,
+            "Net Footprint Area unit": "SQUARE_METRE",
+            "Net Volume": 2.3836,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 2.3836,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 31.7789,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 7.18,
+            "Y": 0.17,
+            "Z": 2.52,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 3.0759,
+        "Real Volume to Bounding Box Volume Ratio": 0.7749
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "ThermalTransmittance": "1.99",
+            "IsExternal": "False",
+            "LoadBearing": "False"
+        }
+    }
+}

@@ -1,0 +1,261 @@
+{
+  "Element Metadata": {
+    "Name": "TU DF 1 - Pfostenstock Falztüre verglast:TUI_ZAR_MET_ML - 1100 x 2375_E 30:7560858",
+    "UID": "462949",
+    "GlobalId": "1MLlFlIen6wBOqtvrebLu0",
+    "Type": "IfcDoor",
+    "ObjectType": "TU DF 1 - Pfostenstock Falztüre verglast:TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterial",
+      "Material Name": "Glas - klar",
+      "Material Description": "Unknown",
+      "Material Category": "Unknown",
+      "Thickness": "Unknown",
+      "Thickness unit": "Unknown"
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Width": 1.1,
+      "Width unit": "METRE",
+      "Height": 2.375,
+      "Height unit": "METRE"
+    },
+    "Geometric Representation": [
+      "MappedRepresentation"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.1075,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 7.7092,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 1.1,
+      "Y": 0.18,
+      "Z": 2.38,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.4712,
+    "Real Volume to Bounding Box Volume Ratio": 0.2282,
+    "Face Count (tessellated element)": {
+      "Face Count": 1792
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 3492
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 4434
+    },
+    "Primary Object Axis (Cardinal Direction)": "E"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "FireRating": "E 30",
+      "ConstructionType": "Typ 1 - Tür Metall Glas",
+      "IsExternal": "False",
+      "Reference": "TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+      "Category": "Doors",
+      "Türnummer": "TUE01",
+      "Breite licht": "1.0",
+      "Höhe licht": "2.325",
+      "Wanddicke": "0.3",
+      "Breite roh": "1.1",
+      "Höhe roh": "2.375",
+      "Anzahl Flügel": "einflügelig",
+      "Türbezeichnung": "Typ 1 - Tür Metall Glas",
+      "Feuerwiderstandsklasse": "E 30",
+      "Bauteilklasse": "A_Tuer",
+      "Bauteilart": "Tuer",
+      "eBKP-H": "G 1.4",
+      "Typname": "TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+      "ANF Brandschutz": "E 30",
+      "Level": "Level: 98",
+      "Einbautiefe": "0.0",
+      "Pfostenstock Wandmittig eingebaut": "False",
+      "Sill Height": "0.0",
+      "Wandaufbau Bandseite": "0.0",
+      "Wandaufbau Gegenbandseite": "0.0",
+      "Winkel Öffnungsbogen": "90.0",
+      "Fußbodenaufbau": "0.05",
+      "SOFiSTiK_HeadProject": "-4.29999999999972",
+      "SOFiSTiK_HeadShared": "435.2",
+      "SOFiSTiK_SillProject": "-6.72499999999972",
+      "SOFiSTiK_SillShared": "432.775",
+      "Area": "0.220543224854864",
+      "Height": "2.375",
+      "Rough Height": "2.425",
+      "Volume": "0.000217187499999998",
+      "Fluchttür": "True",
+      "Grundrissdarstellung Türsturz": "False",
+      "Kollisionskörper einschalten": "False",
+      "Tür mit Anschlag": "False",
+      "Workset": "S-Struktur",
+      "Edited by": "graser@graser.ch",
+      "Mark": "TU 368",
+      "Tür ID": "15.98101.101=TUE01",
+      "Drücker Bandseite": "True",
+      "Drücker Gegenbandseite": "True",
+      "Zylinderrosette": "True",
+      "Finish": "Opak",
+      "Frame Material": "Stahl",
+      "Host Id": "Basic Wall: WAT_KWA_STB_300",
+      "Family": "TU DF 1 - Pfostenstock Falztüre verglast: TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+      "Family and Type": "TU DF 1 - Pfostenstock Falztüre verglast: TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+      "Head Height": "2.375",
+      "Type": "TU DF 1 - Pfostenstock Falztüre verglast: TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+      "Type Id": "TU DF 1 - Pfostenstock Falztüre verglast: TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+      "B_Einbautiefe": "0.0",
+      "Knauf Außenseite": "False",
+      "Knauf Innenseite": "False",
+      "Wandstärke": "0.3",
+      "Wandstärke Gesamt": "0.299999999999985",
+      "Phase Created": "Neubau"
+    },
+    "Psets Object Type": {
+      "Analytical Properties.Define Thermal Properties by": "Schematic Type",
+      "Analytical Properties.Analytic Construction": "<None",
+      "Construction.Function": "Interior",
+      "Construction.Wall Closure": "By host",
+      "Construction.Construction Type": "Typ 1 - Tür Metall Glas",
+      "Construction.Drückerhöhe": "1.05",
+      "Construction.Falzaufschlag": "0.017",
+      "Construction.Rahmendicke": "0.05",
+      "Construction.Rahmentiefe": "0.1",
+      "Data.Anschlag- / Bewegungsart Tür": "Drehflügeltür",
+      "Data.Anzahl Flügel": "einflügelig",
+      "Data.Anzahl Oberlichter": "0",
+      "Data.Anzahl Seitenteile": "0",
+      "Data.Ausführung Zarge": "Blockzarge",
+      "Data.Form Tür": "rechteckig",
+      "Dimensions.Größenberechnung über Lichten Durchgang": "False",
+      "Dimensions.Größenberechnung über Maueröffnungsmaß": "True",
+      "Dimensions.Höhe ab FBOK berechnen": "True",
+      "Dimensions.Randabstand Öffnungssymbol": "0.0",
+      "Dimensions.Angabe Lichter Durchgang Breite": "1.0",
+      "Dimensions.Angabe Lichter Durchgang Höhe": "2.365",
+      "Dimensions.Angabe Maueröffnungsmaß Breite": "1.1",
+      "Dimensions.Angabe Maueröffnungsmaß Höhe": "2.375",
+      "Dimensions.Durchgangsbreite": "1.0",
+      "Dimensions.Durchgangshöhe": "2.325",
+      "Dimensions.Höhe ab FBOK": "2.375",
+      "Dimensions.Rough Width": "1.1",
+      "Dimensions.Thickness": "0.06",
+      "Dimensions.Width": "1.1",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Code Name": "",
+      "Identity Data.URL": "",
+      "Identity Data.Türschliesser": "True",
+      "Identity Data.Workset": "Family  : Doors : TU DF 1 - Pfostenstock Falztüre verglast",
+      "Identity Data.Description": "MG 1.1",
+      "Identity Data.Edited by": "graser@graser.ch",
+      "Identity Data.Fire Rating": "E 30",
+      "Identity Data.OmniClass Number": "23.30.10.00",
+      "Identity Data.OmniClass Title": "Doors",
+      "Identity Data.Type Comments": "Metallrahmen",
+      "Identity Data.Type Mark": "398",
+      "Identity Data.Type Name": "TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+      "Other.Category": "Doors",
+      "Other.Family Name": "TU DF 1 - Pfostenstock Falztüre verglast",
+      "Overall Legend.Falztiefe": "0.043",
+      "Pset_ConcreteElementGeneral.FireRating": "E 30",
+      "Pset_ConcreteElementGeneral.ConstructionType": "Typ 1 - Tür Metall Glas",
+      "Pset_DoorCommon.IsExternal": "False",
+      "Pset_DoorCommon.Reference": "TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+      "Pset_DoorCommon.FireRating": "E 30",
+      "Pset_ProductRequirements.Category": "Doors",
+      "Pset_QuantityTakeOff.Reference": "TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+      "Gewerbebau.Breite licht": "1.0",
+      "Gewerbebau.Höhe licht": "2.325",
+      "Gewerbebau.Breite roh": "1.1",
+      "Gewerbebau.Höhe roh": "2.375",
+      "Gewerbebau.Anzahl Flügel": "einflügelig",
+      "Gewerbebau.Türbezeichnung": "Typ 1 - Tür Metall Glas",
+      "Gewerbebau.Feuerwiderstandsklasse": "E 30",
+      "Gewerbebau.Bauteilklasse": "A_Tuer",
+      "Gewerbebau.Bauteilart": "Tuer",
+      "Gewerbebau.eBKP-H": "G 1.4",
+      "Gewerbebau.Typname": "TUI_ZAR_MET_ML - 1100 x 2375_E 30"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": [
+      {
+        "IfcEntity": "IfcGroup",
+        "Group Name": "Model Group:Kern UG 2:7562674",
+        "Group Description": "Not defined"
+      }
+    ]
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "98": {
+        "Elevation": -6.67,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.8,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 4.95,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.85,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.75,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.65,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.55,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.45,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "98",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "98",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "36444c6e35"
+}

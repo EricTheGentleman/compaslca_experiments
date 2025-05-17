@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is a hard insulation with a thickness of 0.15 meters, part of an IfcSlab element named 'Floor:DCH_DÄ-AS_250'. The element is categorized as a floor, is external, non-load bearing, and has a thermal transmittance of 0.1782. It is part of the 'A_Unterkonstruktion' class and 'Bodenunterkonstruktion' type.",
+    "Matched Materials": [
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Schaumglas",
+      "Schaumglas, GLAPOR",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 182,
+      "prompt_tokens": 1675,
+      "total_tokens": 1857,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.544,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.012015
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "Target Layer of Material Inference": {
+    "Material Name": "Luftschicht",
+    "Thickness": 0.02,
+    "Thickness Unit": "METRE",
+    "Layer Number": 3
+  },
+  "Building Element Context": {
+    "Element Metadata": {
+      "Name": "Basic Wall:WAN_TWÄ_MW+VS_300 - EI60:11586674",
+      "UID": "852455",
+      "GlobalId": "2h7JHYcQHE2RtMX27WqVGb",
+      "Type": "IfcWall",
+      "ObjectType": "Basic Wall:WAN_TWÄ_MW+VS_300 - EI60",
+      "Classification": "Not defined",
+      "Decomposes": {},
+      "Is Decomposed By": []
+    },
+    "Other Material Layers": [
+      {
+        "Material Name": "Trockenbau - Gipsplatte",
+        "Thickness": 0.03,
+        "Thickness Unit": "METRE",
+        "Layer Number": 1
+      },
+      {
+        "Material Name": "Dämmung - weich",
+        "Thickness": 0.05,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+      },
+      {
+        "Material Name": "Mauerwerk - Kalksandstein",
+        "Thickness": 0.2,
+        "Thickness Unit": "METRE",
+        "Layer Number": 4
+      }
+    ],
+    "Layer Set Metadata": {
+      "IfcEntity": "IfcMaterialLayerSet"
+    },
+    "Element Geometry Data": {
+      "Quantities (IFC)": {},
+      "Geometric Representation": [
+        "SweptSolid",
+        "Curve2D"
+      ],
+      "Quantities (COMPAS)": {
+        "Net Volume": 9.5091,
+        "Net Volume unit": "CUBIC_METRE",
+        "Entire Surface Area": 75.958,
+        "Entire Surface Area unit": "SQUARE_METRE"
+      },
+      "Bounding Box Dimensions (OBB - local frame)": {
+        "X": 7.75,
+        "Y": 0.3,
+        "Z": 4.82,
+        "Bounding Box Dimensions Unit": "METRE"
+      },
+      "Bounding Box Volume": 11.2065,
+      "Real Volume to Bounding Box Volume Ratio": 0.8485,
+      "Face Count (tessellated element)": {
+        "Face Count": 96
+      },
+      "Vertex Count (tessellated element)": {
+        "Vertex Count": 192
+      },
+      "Edge Count (tessellated element)": {
+        "Edge Count": 240
+      },
+      "Primary Object Axis (Cardinal Direction)": "W"
+    },
+    "Element Property Sets": {
+      "Psets Element": {
+        "Room Bounding": "True",
+        "Related to Mass": "False",
+        "Base Extension Distance": "0.0",
+        "Base is Attached": "False",
+        "Top Extension Distance": "0.0",
+        "Location Line": "Wall Centerline",
+        "Top is Attached": "False",
+        "Base Constraint": "00",
+        "Top Constraint": "Up to level: 01",
+        "Base Offset": "-0.12",
+        "Top Offset": "-0.32",
+        "Unconnected Height": "4.819999999999999",
+        "Cross-Section": "Vertical",
+        "unter Terrain": "False",
+        "Area": "31.69700000000002",
+        "Length": "7.8000000000000025",
+        "Volume": "9.509100000000005",
+        "Edited by": "",
+        "Workset": "A-Innenausbau",
+        "Category": "Walls",
+        "Family": "Basic Wall",
+        "Family and Type": "Basic Wall: WAN_TWÄ_MW+VS_300 - EI60",
+        "Type": "WAN_TWÄ_MW+VS_300 - EI60",
+        "Type Id": "12757325",
+        "Phase Created": "Neubau",
+        "Enable Analytical Model": "False",
+        "Structural": "False",
+        "Structural Usage": "Non-bearing",
+        "FireRating": "EI 60-RF1",
+        "Roughness": "0.3048",
+        "Reference": "WAN_TWÄ_MW+VS_300 - EI60",
+        "Description": "Leichtbauwand 200",
+        "IsExternal": "False",
+        "ExtendToStructure": "False",
+        "LoadBearing": "False",
+        "ThermalTransmittance": "0.4191628515369522",
+        "Geschoss ID": "00",
+        "Höhe": "4.819999999999999",
+        "Länge": "7.8000000000000025",
+        "Fläche": "31.69700000000002",
+        "Volumen": "9.509100000000005"
+      },
+      "Psets Object Type": {
+        "Analytical Properties.Roughness": "1",
+        "Analytical Properties.Absorptance": "0.1",
+        "Analytical Properties.Heat Transfer Coefficient (U)": "0.4191628515369522",
+        "Analytical Properties.Thermal Mass": "496.844084",
+        "Analytical Properties.Thermal Resistance (R)": "2.3857075986893435",
+        "Construction.Lage Aussen": "False",
+        "Construction.Function": "Interior",
+        "Construction.Wrapping at Ends": "None",
+        "Construction.Wrapping at Inserts": "Do not wrap",
+        "Construction.Width": "0.30000000000000004",
+        "General.Gebäudenummer": "72557",
+        "General.Standortcode": "GG",
+        "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+        "Graphics.Coarse Scale Fill Color": "16777215",
+        "Identity Data.Edited by": "",
+        "Identity Data.Ausbau": "False",
+        "Identity Data.Assembly Code": "",
+        "Identity Data.Assembly Description": "",
+        "Identity Data.Workset": "Wall Types",
+        "Identity Data.Description": "Leichtbauwand 200",
+        "Identity Data.Fire Rating": "EI 60-RF1",
+        "Identity Data.Type Comments": "GG03.2",
+        "Identity Data.Type Name": "WAN_TWÄ_MW+VS_300 - EI60",
+        "Layers.EN Layers": "Trockenbau - GipsplatteDämmung - weichTrockenbau - Gipsplatte",
+        "Layers.EN Layers and Widths": "Trockenbau - Gipsplatte 2.5cmDämmung - weich 25cmTrockenbau - Gipsplatte 2.5cm",
+        "Layers.EN Type String": "<L><M>Trockenbau - Gipsplatte</M><T>2.5</T></L><L><M>Dämmung - weich</M><T>25</T></L><L><M>Trockenbau - Gipsplatte</M><T>2.5</T></L",
+        "Layers.EN Widths": "2.5cm25cm2.5cm",
+        "Other.Category": "Walls",
+        "Other.Family Name": "Basic Wall",
+        "Structural.Filter Tragend / Nichttragend": "False",
+        "Pset_ConcreteElementGeneral.FireRating": "EI 60-RF1",
+        "Pset_ElementShading.Roughness": "0.3048",
+        "Pset_ProductRequirements.Category": "Walls",
+        "Pset_ReinforcementBarPitchOfWall.Description": "Leichtbauwand 200",
+        "Pset_WallCommon.IsExternal": "False",
+        "Pset_WallCommon.FireRating": "EI 60-RF1",
+        "Pset_WallCommon.ThermalTransmittance": "0.4191628515369522",
+        "Gewerbebau.Dicke": "0.30000000000000004",
+        "Gewerbebau.Feuerwiderstandsklasse": "EI 60-RF1",
+        "Gewerbebau.Material": "Trockenbau - Gipsplatte, Dämmung - weich, Luftschicht, Mauerwerk - Kalksandstein",
+        "Gewerbebau.Lage Aussen ": "False",
+        "Gewerbebau.Ausbau": "False",
+        "Gewerbebau.Tragende Funktion": "False",
+        "Gewerbebau.Liegenschaft ID": "72557",
+        "Gewerbebau.Gebäude ID": "GG",
+        "Gewerbebau.Bauteilklasse": "A_Wand",
+        "Gewerbebau.Bauteilart": "Leichtbauwand",
+        "Gewerbebau.eBKP-H": "G 1.1",
+        "Gewerbebau.Typname": "WAN_TWÄ_MW+VS_300 - EI60"
+      }
+    },
+    "Element Location": {
+      "Storeys Map": {
+        "97": {
+          "Elevation": -7.94,
+          "Unit": "meters"
+        },
+        "98": {
+          "Elevation": -6.71,
+          "Unit": "meters"
+        },
+        "99": {
+          "Elevation": -3.81,
+          "Unit": "meters"
+        },
+        "00": {
+          "Elevation": 0.0,
+          "Unit": "meters"
+        },
+        "01": {
+          "Elevation": 5.02,
+          "Unit": "meters"
+        },
+        "02": {
+          "Elevation": 8.87,
+          "Unit": "meters"
+        },
+        "03": {
+          "Elevation": 12.72,
+          "Unit": "meters"
+        },
+        "04": {
+          "Elevation": 16.57,
+          "Unit": "meters"
+        },
+        "05": {
+          "Elevation": 20.42,
+          "Unit": "meters"
+        },
+        "06": {
+          "Elevation": 24.27,
+          "Unit": "meters"
+        },
+        "07": {
+          "Elevation": 27.55,
+          "Unit": "meters"
+        }
+      },
+      "Element Located in Storey": "00",
+      "Spatial Relationship": [
+        {
+          "name": "110",
+          "type": "IfcProject"
+        },
+        {
+          "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+          "type": "IfcSite"
+        },
+        {
+          "name": "Zwhatt",
+          "type": "IfcBuilding"
+        },
+        {
+          "name": "00",
+          "type": "IfcBuildingStorey"
+        }
+      ]
+    }
+  },
+  "CompilationGroupID": "a47851708f"
+}

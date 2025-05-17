@@ -1,0 +1,123 @@
+{
+  "Element Metadata": {
+    "Name": "Stufen Dach5:Stufen Dach:13656116",
+    "UID": "1030584",
+    "GlobalId": "0lCYn_OpD2nQvzedfOgukY",
+    "Type": "IfcStair",
+    "ObjectType": "Stufen Dach5:Stufen Dach",
+    "Classification": "Not defined",
+    "Decomposes": {
+      "Name": "Stufen Dach5:Stufen Dach:13656116",
+      "IfcEntity": "IfcStair",
+      "GlobalId": "0lCYn_OpD2nQvzedXOgukY"
+    },
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterial",
+      "Material Name": "Betonfertigteil",
+      "Material Description": "Unknown",
+      "Material Category": "Unknown",
+      "Thickness": "Unknown",
+      "Thickness unit": "Unknown"
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": [
+      "SweptSolid"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.0983,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 1.5398,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 0.27,
+      "Y": 1.2,
+      "Z": 0.3,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.0972,
+    "Real Volume to Bounding Box Volume Ratio": 1.0111,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "W"
+  },
+  "Element Property Sets": {
+    "Psets Element": {},
+    "Psets Object Type": {}
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "05",
+    "Spatial Relationship": [
+      {
+        "name": "Unknown",
+        "type": "Unknown"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+    "Element Metadata": {
+        "Name": "TO - Brandschutztor:TOI_SIT_MET_ST - 2180 x 2200:8609379",
+        "Type": "IfcDoor",
+        "ObjectType": "TO - Brandschutztor:TOI_SIT_MET_ST - 2180 x 2200"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": " <Unnamed>"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 2.18,
+            "Width unit": "METRE",
+            "Height": 2.2,
+            "Height unit": "METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.5426,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 11.7848,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 2.38,
+            "Y": 0.1,
+            "Z": 2.28,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.5426,
+        "Real Volume to Bounding Box Volume Ratio": 1.0001
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "FireRating": "EI 30",
+            "ConstructionType": "Typ 3 - Brandschutztor",
+            "IsExternal": "False",
+            "Reference": "TOI_SIT_MET_ST - 2180 x 2200",
+            "Category": "Doors",
+            "unter Terrain": "True",
+            "Türbezeichnung": "Typ 3 - Brandschutztor",
+            "Feuerwiderstandsklasse": "EI 30",
+            "Bauteilklasse": "A_Tuer",
+            "Bauteilart": "Tor",
+            "Typname": "TOI_SIT_MET_ST - 2180 x 2200",
+            "Level": "Level: 98",
+            "Area": "5.8924",
+            "Volume": "0.5426",
+            "Fluchttür": "False",
+            "Workset": "A-Innenausbau",
+            "Family": "TO - Brandschutztor: TOI_SIT_MET_ST - 2180 x 2200",
+            "Type": "TO - Brandschutztor: TOI_SIT_MET_ST - 2180 x 2200",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Description": "BT 1.1",
+            "Identity Data.Fire Rating": "EI 30",
+            "Identity Data.Type Name": "TOI_SIT_MET_ST - 2180 x 2200",
+            "Identity Data.Workset": "Family  : Doors : TO - Brandschutztor",
+            "Other.Category": "Doors",
+            "Other.Family Name": "TO - Brandschutztor",
+            "Pset_ConcreteElementGeneral.FireRating": "EI 30",
+            "Pset_ConcreteElementGeneral.ConstructionType": "Typ 3 - Brandschutztor",
+            "Pset_ProductRequirements.Category": "Doors",
+            "Pset_QuantityTakeOff.Reference": "TOI_SIT_MET_ST - 2180 x 2200",
+            "Gewerbebau.Türbezeichnung": "Typ 3 - Brandschutztor",
+            "Gewerbebau.Feuerwiderstandsklasse": "EI 30",
+            "Gewerbebau.Bauteilklasse": "A_Tuer",
+            "Gewerbebau.Bauteilart": "Tor",
+            "Gewerbebau.Typname": "TOI_SIT_MET_ST - 2180 x 2200"
+        }
+    },
+    "CompilationGroupID": "64c8a2a562"
+}

@@ -1,0 +1,19 @@
+{
+    "Element Metadata": {
+        "Name": "Rebar Bar:12 B500C-T : Shape A:2111867",
+        "Type": "IfcReinforcingBar",
+        "ObjectType": "Rebar Bar:12 B500C-T:167310"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "Bar Diameter": "0.0394",
+            "Standard Bend Diameter": "0.1575",
+            "Material": "B500C-T",
+            "Workset": "Workset1",
+            "Phase Created": "New",
+            "Shape": "Rebar Shape: A"
+        }
+    },
+    "CompilationGroupID": "abb5dc92c5"
+}

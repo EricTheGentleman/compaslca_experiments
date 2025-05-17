@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab with a material layer named 'Umgebung - Asphalt' with a thickness of 0.04 meters. The element is external, non-load bearing, and part of the 'A_Unterkonstruktion' class. It is located under terrain and is associated with the type 'DCH_DÄ-AS_250'.",
+    "Preliminary Selection": [
+      "Gussasphalt, 27.5 mm"
+    ],
+    "Matched Materials": [
+      "Gussasphalt, 27.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 119,
+      "prompt_tokens": 2254,
+      "total_tokens": 2373,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.103,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01365
+  }
+}

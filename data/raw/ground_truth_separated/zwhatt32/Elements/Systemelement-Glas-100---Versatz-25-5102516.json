@@ -1,0 +1,16 @@
+{
+    "name": "Systemelement-Glas-100---Versatz-25-5102516",
+    "category": "Fenster, Sonnenschutz, Fassadenverkleidungen",
+    "material_entries": [
+        "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K, Dicke 40 mm",
+        "Isolierverglasung 3-fach, ESG/ESG, Ug-Wert 0.6 W/m2K",
+        "Isolierverglasung 3-fach, ESG/ESG/ESG, Ug-Wert 0.6 W/m2K",
+        "Isolierverglasung 3-fach, VSG, Ug-Wert 0.6 W/m2K",
+        "Isolierverglasung 3-fach, ESG/VSG, Ug-Wert 0.6 W/m2K"
+    ],
+    "reason": [
+        "obb dimension implies thickness (0.05)",
+        "this would be a large facade glazing panel",
+        "due to thickness, the triple glazed glass is assigned"
+    ]
+}

@@ -1,0 +1,102 @@
+{
+  "Element Metadata": {
+    "Name": "1OG-Tür-1-1",
+    "UID": "131776",
+    "GlobalId": "3eHAqo55n3zuJScIjlr0Zk",
+    "Type": "IfcDoor",
+    "ObjectType": null,
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": "Not defined",
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": [
+      "MappedRepresentation"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.0913,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 6.1415,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 0.79,
+      "Y": 2.53,
+      "Z": 0.2,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.3997,
+    "Real Volume to Bounding Box Volume Ratio": 0.2284,
+    "Face Count (tessellated element)": {
+      "Face Count": 1200
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 2096
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 2848
+    },
+    "Primary Object Axis (Cardinal Direction)": "S"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "IsExternal": "False",
+      "ThermalTransmittance": "2.0",
+      "HandicapAccessible": "False"
+    },
+    "Psets Object Type": {}
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "KG": {
+        "Elevation": -2.81,
+        "Unit": "meters"
+      },
+      "EG": {
+        "Elevation": -0.25,
+        "Unit": "meters"
+      },
+      "1.OG": {
+        "Elevation": 2.53,
+        "Unit": "meters"
+      },
+      "2.OG": {
+        "Elevation": 5.23,
+        "Unit": "meters"
+      },
+      "Dach": {
+        "Elevation": 7.93,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "1.OG",
+    "Spatial Relationship": [
+      {
+        "name": "Project-Smiley-West",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Gelaende-Smiley-West",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Gebaeude-Smiley-West",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "1.OG",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  }
+}

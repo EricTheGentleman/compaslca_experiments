@@ -1,0 +1,110 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:DÄ_FUN_VER_100:12568941",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:DÄ_FUN_VER_100"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:DÄ_FUN_VER_100",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Dämmung - hart",
+                    "Thickness": 0.1,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.1,
+            "Width unit": "METRE",
+            "Length": 6.38,
+            "Length unit": "METRE",
+            "Height": 1.32,
+            "Height unit": "METRE",
+            "Gross Side Area": 8.4216,
+            "Gross Side Area unit": "SQUARE_METRE",
+            "Net Side Area": 8.4216,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Gross Footprint Area": 0.638,
+            "Gross Footprint Area unit": "SQUARE_METRE",
+            "Gross Volume": 0.8422,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.8422,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.8422,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 18.3832,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 6.38,
+            "Y": 0.1,
+            "Z": 1.32,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.8422,
+        "Real Volume to Bounding Box Volume Ratio": 1.0
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Base Constraint": "97.0",
+            "Location Line": "Finish Face: Interior",
+            "unter Terrain": "True",
+            "Area": "8.4216",
+            "Length": "6.28",
+            "Volume": "0.8422",
+            "Workset": "S-Struktur",
+            "Category": "Walls",
+            "Family": "Basic Wall",
+            "Type": "DÄ_FUN_VER_100",
+            "Phase Created": "Neubau",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing",
+            "Roughness": "0.3048",
+            "Reference": "DÄ_FUN_VER_100",
+            "Description": "Dämmung_100",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "LoadBearing": "False",
+            "ThermalTransmittance": "0.27",
+            "Geschoss ID": "97.0",
+            "Länge": "6.28",
+            "Fläche": "8.4216",
+            "Volumen": "0.8422"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "0.27",
+            "Analytical Properties.Thermal Mass": "5.145",
+            "Analytical Properties.Thermal Resistance (R)": "3.7037",
+            "Construction.Function": "Exterior",
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "Dämmung_100",
+            "Identity Data.Type Name": "DÄ_FUN_VER_100",
+            "Layers.EN Layers and Widths": "Dämmung - hart 10cm",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_WallCommon.IsExternal": "True",
+            "Pset_WallCommon.ThermalTransmittance": "0.27",
+            "Gewerbebau.Material": "Dämmung - hart",
+            "Gewerbebau.Bauteilklasse": "A_Unterkonstruktion",
+            "Gewerbebau.Bauteilart": "Daemmung",
+            "Gewerbebau.Typname": "DÄ_FUN_VER_100"
+        }
+    },
+    "CompilationGroupID": "1d4e22da2a"
+}

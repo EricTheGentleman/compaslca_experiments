@@ -1,0 +1,154 @@
+{
+  "Element Metadata": {
+    "Name": "Basic Wall:STB 1560:3067474",
+    "UID": "110664",
+    "GlobalId": "1pRGKNs1rEXvtIppfVT8zE",
+    "Type": "IfcWallStandardCase",
+    "ObjectType": "Basic Wall:STB 1560",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Basic Wall:STB 1560",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layers": [
+        {
+          "IfcEntity": "IfcMaterialLayer",
+          "Material Name": "Beton - Ortbeton - bewehrt",
+          "Description": "Unknown",
+          "Category": "Unknown",
+          "Thickness": 1.56,
+          "Thickness unit": "METRE"
+        }
+      ]
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": [
+      "SweptSolid",
+      "Curve2D"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 3.3189,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 17.593,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 3.7,
+      "Y": 0.57,
+      "Z": 1.56,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 3.29,
+    "Real Volume to Bounding Box Volume Ratio": 1.0088,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "Undefined"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Roughness": "0.3048",
+      "Category": "Walls",
+      "Reference": "STB 1560",
+      "Description": "STB_250",
+      "LoadBearing": "True",
+      "IsExternal": "True",
+      "ExtendToStructure": "False",
+      "ThermalTransmittance": "0.670512820512821"
+    },
+    "Psets Object Type": {
+      "Pset_ElementShading.Roughness": "0.3048",
+      "Pset_ProductRequirements.Category": "Walls",
+      "Pset_QuantityTakeOff.Reference": "STB 1560",
+      "Pset_ReinforcementBarPitchOfWall.Description": "STB_250",
+      "Pset_ReinforcementBarPitchOfWall.Reference": "STB 1560",
+      "Pset_WallCommon.IsExternal": "False",
+      "Pset_WallCommon.Reference": "STB 1560",
+      "Pset_WallCommon.ThermalTransmittance": "0.670512820512821"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "UG 2.5": {
+        "Elevation": -8.55,
+        "Unit": "meters"
+      },
+      "UG 2": {
+        "Elevation": -6.67,
+        "Unit": "meters"
+      },
+      "UG 1": {
+        "Elevation": -3.8,
+        "Unit": "meters"
+      },
+      "EG": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "OG 1": {
+        "Elevation": 4.95,
+        "Unit": "meters"
+      },
+      "OG 2": {
+        "Elevation": 8.85,
+        "Unit": "meters"
+      },
+      "OG 3": {
+        "Elevation": 12.75,
+        "Unit": "meters"
+      },
+      "OG 4": {
+        "Elevation": 16.65,
+        "Unit": "meters"
+      },
+      "OG 5": {
+        "Elevation": 20.55,
+        "Unit": "meters"
+      },
+      "Dach": {
+        "Elevation": 24.45,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "UG 2",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Default",
+        "type": "IfcSite"
+      },
+      {
+        "name": "",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "UG 2",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  }
+}

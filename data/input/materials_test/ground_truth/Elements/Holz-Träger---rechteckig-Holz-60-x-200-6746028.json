@@ -1,0 +1,16 @@
+{
+    "name": "Holz-Träger---rechteckig-Holz-60-x-200-6746028",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "Konstruktionsvollholz",
+        "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+        "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz"
+    ],
+    "reason": [
+        "träger implies load bearing wood beam",
+        "C24 is a grading class for solid structural timber",
+        "used for konstruktionsvollholz (KVH) and massivholz",
+        "massivholz kammergetrocknet, because interior",
+        "and only softwood (spurce) for structural"
+    ]
+}

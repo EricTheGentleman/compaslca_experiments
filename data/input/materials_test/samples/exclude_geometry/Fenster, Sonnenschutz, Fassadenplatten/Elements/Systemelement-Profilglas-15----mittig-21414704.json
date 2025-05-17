@@ -1,0 +1,15 @@
+{
+    "Element Metadata": {
+        "Name": "Systemelement:Profilglas 15 -  mittig:21414704",
+        "Type": "IfcPlate",
+        "ObjectType": "Systemelement:Profilglas 15 -  mittig"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "True",
+            "Reference": "Profilglas 15 -  mittig"
+        }
+    },
+    "CompilationGroupID": "6c859e364f"
+}

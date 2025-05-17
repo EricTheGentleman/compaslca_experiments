@@ -1,0 +1,16 @@
+{
+    "name": "1OG-Tür-1-1",
+    "category": "Türen",
+    "material_entries": [
+        "Innentüre, Aluminium, Glaseinsatz",
+        "Innentüre, Zimmertüre, Holz, Glaseinsatz, Holzrahmen",
+        "Innentüre, Zimmertüre, Holz, Glaseinsatz, Stahlzarge",
+        "Innentüre, Zimmertüre, Holz, Holzrahmen",
+        "Innentüre, Zimmertüre, Holz, Stahlzarge"
+    ],
+    "reason": [
+        "pset isExternal = false",
+        "u value of 2 is typical for timber doors, not optimized insulated doors",
+        "assumption that it is not a funktionstüre, since nothing specific specified"
+    ]
+}

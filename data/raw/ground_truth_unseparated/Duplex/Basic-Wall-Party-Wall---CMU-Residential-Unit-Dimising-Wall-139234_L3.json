@@ -1,0 +1,13 @@
+{
+    "name": "Basic-Wall-Party-Wall---CMU-Residential-Unit-Dimising-Wall-139234_L3",
+    "category": "Mauersteine",
+    "material_entries": [
+        "Leichtzementstein, Blähton",
+        "Leichtzementstein, Naturbims"
+    ],
+    "reason": [
+        "Concrete block refers to zementstein",
+        "the entry zementstein was not chosen",
+        "only leichtzementstein, because element is not loadbearing"
+    ]
+}

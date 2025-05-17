@@ -1,0 +1,17 @@
+{
+    "name": "Basic-Wall-Wärmedämmung_Mineralwolle_130-1839774",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Glaswolle",
+        "Glaswolle, Isover, phenolbasiertes Bindemittel",
+        "Glaswolle, Isover, pflanzliches Bindemittel",
+        "Glaswolle, SUPAFIL",
+        "Steinwolle",
+        "Steinwolle, Flumroc"
+    ],
+    "reason": [
+        "Mineralwolle is a general term",
+        "includes both glass wool and stone wool",
+        "all mineral wool variants of kbob are considered valid matches"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "Element Metadata": {
+        "Name": "Rechteckiger Pfosten:VF_PFT T_L_60 x 200:8880687",
+        "Type": "IfcMember",
+        "ObjectType": "Rechteckiger Pfosten:VF_PFT T_L_60 x 200"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Aluminum"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "Level: 02",
+            "Area": "0.4636",
+            "Length": "1.665",
+            "Volume": "0.0096",
+            "Workset": "A-Fassade",
+            "Category": "Curtain Wall Mullions",
+            "Family": "Rechteckiger Pfosten: VF_PFT T_L_60 x 200",
+            "Type": "Rechteckiger Pfosten: VF_PFT T_L_60 x 200",
+            "Phase Created": "Neubau",
+            "IsExternal": "True",
+            "Reference": "VF_PFT T_L_60 x 200",
+            "Span": "1.665",
+            "Bauteilklasse": "A_Fassadenbekleidung",
+            "Bauteilart": "Fassadenelement",
+            "Typname": "VF_PFT T_L_60 x 200"
+        },
+        "Psets Object Type": {
+            "Construction.Profile": "Vorhangfassade Pfost L Seite T: 60 x 200",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Workset": "Family  : Curtain Wall Mullions : Rechteckiger Pfosten",
+            "Identity Data.Type Name": "VF_PFT T_L_60 x 200",
+            "Other.Category": "Curtain Wall Mullions",
+            "Other.Family Name": "Rechteckiger Pfosten",
+            "Pset_ProductRequirements.Category": "Curtain Wall Mullions",
+            "Pset_QuantityTakeOff.Reference": "VF_PFT T_L_60 x 200",
+            "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+            "Gewerbebau.Bauteilart": "Fassadenelement",
+            "Gewerbebau.Typname": "VF_PFT T_L_60 x 200"
+        }
+    },
+    "CompilationGroupID": "5d7a5c8915"
+}

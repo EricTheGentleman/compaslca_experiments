@@ -1,0 +1,51 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcSlab named 'Floor:DCH_DÄ+AB_300' with a material layer 'Dämmung - weich' and a thickness of 0.2 meters. It is categorized as a floor, specifically a roof covering (Dachabdeckung), and is non-load bearing. The thermal transmittance is 0.17, indicating insulation properties.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 282,
+      "prompt_tokens": 1912,
+      "total_tokens": 2194,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.449,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.0152
+  }
+}

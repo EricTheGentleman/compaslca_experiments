@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab with a material layer named 'Fußbodenaufbau' with a thickness of 0.05 meters. The context suggests it is part of a floor build-up with concrete as another layer. The element is not external and is load-bearing.",
+    "Preliminary Selection": [
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Steinholz versiegelt, 16.5 mm"
+    ],
+    "Matched Materials": [
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Steinholz versiegelt, 16.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 139,
+      "prompt_tokens": 1668,
+      "total_tokens": 1807,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.273,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01112
+  }
+}

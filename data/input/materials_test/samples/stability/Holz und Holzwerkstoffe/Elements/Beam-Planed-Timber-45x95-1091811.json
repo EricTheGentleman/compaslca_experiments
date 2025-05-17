@@ -1,0 +1,32 @@
+{
+    "Element Metadata": {
+        "Name": "Beam Planed Timber:45x95:1091811",
+        "Type": "IfcMember",
+        "ObjectType": "45x95"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Wood"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Structural Area": "0.0043",
+            "H": "95.0",
+            "OmniClass Title": "Beams",
+            "Workset": "Workset1",
+            "OmniClass Number": "23.25.30.11.14.14",
+            "Structural Usage": "Web",
+            "Structural Material": "Wood",
+            "Phase Created": "New",
+            "Volume": "0.004",
+            "Length": "1085.1413",
+            "Reference": "45x95",
+            "LoadBearing": "True",
+            "IsExternal": "False",
+            "Span": "1085.1413"
+        }
+    },
+    "CompilationGroupID": "fd80e9f580"
+}

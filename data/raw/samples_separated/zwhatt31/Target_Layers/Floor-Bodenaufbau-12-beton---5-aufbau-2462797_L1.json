@@ -1,0 +1,151 @@
+{
+  "Target Layer of Material Inference": {
+    "Material Name": "Fußbodenaufbau",
+    "Thickness": 0.05,
+    "Thickness Unit": "METRE",
+    "Layer Number": 1
+  },
+  "Building Element Context": {
+    "Element Metadata": {
+      "Name": "Floor:Bodenaufbau 12 beton + 5 aufbau:2462797",
+      "UID": "602",
+      "GlobalId": "2_rSU1ddTChOWG8EV2U1JP",
+      "Type": "IfcSlab",
+      "ObjectType": "Floor:Bodenaufbau 12 beton + 5 aufbau",
+      "Classification": "Not defined",
+      "Decomposes": {},
+      "Is Decomposed By": []
+    },
+    "Other Material Layers": [
+      {
+        "Material Name": "Beton - Ortbeton - Überbeton",
+        "Thickness": 0.12,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+      }
+    ],
+    "Layer Set Metadata": {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Floor:Bodenaufbau 12 beton + 5 aufbau",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layer Direction and Growth description": "Layers are stacked vertically, defining the element’s buildup."
+    },
+    "Element Geometry Data": {
+      "Quantities (IFC)": {},
+      "Geometric Representation": [
+        "SweptSolid"
+      ],
+      "Quantities (COMPAS)": {
+        "Net Volume": 222.9975,
+        "Net Volume unit": "CUBIC_METRE",
+        "Entire Surface Area": 2673.956,
+        "Entire Surface Area unit": "SQUARE_METRE"
+      },
+      "Bounding Box Dimensions (OBB - local frame)": {
+        "X": 77.5,
+        "Y": 18.9,
+        "Z": 0.17,
+        "Bounding Box Dimensions Unit": "METRE"
+      },
+      "Bounding Box Volume": 249.0075,
+      "Real Volume to Bounding Box Volume Ratio": 0.8955,
+      "Face Count (tessellated element)": {
+        "Face Count": 380
+      },
+      "Vertex Count (tessellated element)": {
+        "Vertex Count": 504
+      },
+      "Edge Count (tessellated element)": {
+        "Edge Count": 822
+      },
+      "Primary Object Axis (Cardinal Direction)": "NW"
+    },
+    "Element Property Sets": {
+      "Psets Element": {
+        "Roughness": "0.3048",
+        "Category": "Floors",
+        "Reference": "Bodenaufbau 12 beton + 5 aufbau",
+        "Description": "FB_100",
+        "ThermalTransmittance": "8.71666666666667",
+        "IsExternal": "False",
+        "LoadBearing": "True",
+        "PitchAngle": "0.0"
+      },
+      "Psets Object Type": {
+        "Pset_ElementShading.Roughness": "0.3048",
+        "Pset_ProductRequirements.Category": "Floors",
+        "Pset_QuantityTakeOff.Reference": "Bodenaufbau 12 beton + 5 aufbau",
+        "Pset_ReinforcementBarPitchOfSlab.Description": "FB_100",
+        "Pset_ReinforcementBarPitchOfSlab.Reference": "Bodenaufbau 12 beton + 5 aufbau",
+        "Pset_SlabCommon.Reference": "Bodenaufbau 12 beton + 5 aufbau",
+        "Pset_SlabCommon.IsExternal": "False",
+        "Pset_SlabCommon.ThermalTransmittance": "8.71666666666667"
+      }
+    },
+    "Element Location": {
+      "Storeys Map": {
+        "UG 2.5": {
+          "Elevation": -8.55,
+          "Unit": "meters"
+        },
+        "UG 2": {
+          "Elevation": -6.67,
+          "Unit": "meters"
+        },
+        "UG 1": {
+          "Elevation": -3.8,
+          "Unit": "meters"
+        },
+        "EG": {
+          "Elevation": 0.0,
+          "Unit": "meters"
+        },
+        "OG 1": {
+          "Elevation": 4.95,
+          "Unit": "meters"
+        },
+        "OG 2": {
+          "Elevation": 8.85,
+          "Unit": "meters"
+        },
+        "OG 3": {
+          "Elevation": 12.75,
+          "Unit": "meters"
+        },
+        "OG 4": {
+          "Elevation": 16.65,
+          "Unit": "meters"
+        },
+        "OG 5": {
+          "Elevation": 20.55,
+          "Unit": "meters"
+        },
+        "Dach": {
+          "Elevation": 24.45,
+          "Unit": "meters"
+        }
+      },
+      "Element Located in Storey": "OG 1",
+      "Spatial Relationship": [
+        {
+          "name": "110",
+          "type": "IfcProject"
+        },
+        {
+          "name": "Default",
+          "type": "IfcSite"
+        },
+        {
+          "name": "",
+          "type": "IfcBuilding"
+        },
+        {
+          "name": "OG 1",
+          "type": "IfcBuildingStorey"
+        }
+      ]
+    }
+  },
+  "CompilationGroupID": "42f527a9ce"
+}

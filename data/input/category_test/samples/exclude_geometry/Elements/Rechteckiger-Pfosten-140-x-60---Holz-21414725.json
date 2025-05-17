@@ -1,0 +1,16 @@
+{
+    "Element Metadata": {
+        "Name": "Rechteckiger Pfosten:140 x 60 - Holz:21414725",
+        "Type": "IfcMember",
+        "ObjectType": "Rechteckiger Pfosten:140 x 60 - Holz"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "True",
+            "Reference": "140 x 60 - Holz",
+            "Span": "2.38"
+        }
+    },
+    "CompilationGroupID": "2bb1f1bc28"
+}

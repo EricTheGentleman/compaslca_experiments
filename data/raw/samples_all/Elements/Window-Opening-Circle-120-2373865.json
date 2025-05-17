@@ -1,0 +1,105 @@
+{
+  "Element Metadata": {
+    "Name": "Window Opening Circle:120:2373865",
+    "UID": "818157",
+    "GlobalId": "3bW6NAJtjAafqxCYAK0tp6",
+    "Type": "IfcWindow",
+    "ObjectType": "120",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": "Not defined",
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": "Not defined",
+    "Quantities (COMPAS)": {},
+    "Bounding Box Dimensions (OBB - local frame)": {},
+    "Bounding Box Volume": null,
+    "Real Volume to Bounding Box Volume Ratio": null,
+    "Face Count (tessellated element)": {},
+    "Vertex Count (tessellated element)": {},
+    "Edge Count (tessellated element)": {},
+    "Primary Object Axis (Cardinal Direction)": "Not defined"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Width": "120.0",
+      "Sill Height": "2807.99447006824",
+      "Height": "0.0",
+      "r": "60.0",
+      "Analytic Construction": "<None",
+      "Assembly Description": "",
+      "Workset": "Workset1",
+      "OmniClass Number": "",
+      "Type Mark": "106",
+      "OmniClass Title": "",
+      "URL": "www.cad-q.no",
+      "Assembly Code": "",
+      "Edited by": "",
+      "Mark": "466",
+      "Level": "Level: VÅN 2",
+      "Phase Created": "New",
+      "Head Height": "2807.99447006824",
+      "Reference": "120",
+      "IsExternal": "False"
+    },
+    "Psets Object Type": {}
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "Ref.": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "VÅN 1": {
+        "Elevation": 2.7,
+        "Unit": "meters"
+      },
+      "VÅN 2": {
+        "Elevation": 6.0,
+        "Unit": "meters"
+      },
+      "VÅN 3": {
+        "Elevation": 9.3,
+        "Unit": "meters"
+      },
+      "VÅN 4": {
+        "Elevation": 12.0,
+        "Unit": "meters"
+      },
+      "VÅN 5": {
+        "Elevation": 16.0,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "VÅN 2",
+    "Spatial Relationship": [
+      {
+        "name": "1018 4979",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Default",
+        "type": "IfcSite"
+      },
+      {
+        "name": "",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "VÅN 2",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "a3e451c031"
+}

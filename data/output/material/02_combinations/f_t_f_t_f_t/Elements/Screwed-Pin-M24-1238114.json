@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element Name: Screwed Pin:M24:1238114, Type: IfcBuildingElementProxy, Material: Steel, Host: Steel Foundation Plate",
+    "Matched Materials": [
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 54,
+      "prompt_tokens": 1016,
+      "total_tokens": 1070,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.395,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00616
+  }
+}

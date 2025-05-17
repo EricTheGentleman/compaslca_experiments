@@ -1,0 +1,85 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:Holzfassade_Hinterlüftet_Laibung:2906806",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:Holzfassade_Hinterlüftet_Laibung"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:Holzfassade_Hinterlüftet_Laibung",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Holzschalung Vertikal, Nadelholz,  schwarz gestrichen",
+                    "Thickness": 0.02,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.02,
+            "Width unit": "METRE",
+            "Length": 0.5053,
+            "Length unit": "METRE",
+            "Height": 3.22,
+            "Height unit": "METRE",
+            "Gross Side Area": 1.627,
+            "Gross Side Area unit": "SQUARE_METRE",
+            "Net Side Area": 1.627,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Gross Footprint Area": 0.0101,
+            "Gross Footprint Area unit": "SQUARE_METRE",
+            "Gross Volume": 0.0325,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.0322,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.03219,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 3.37679,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.51,
+            "Y": 0.02,
+            "Z": 3.22,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0328,
+        "Real Volume to Bounding Box Volume Ratio": 0.9814
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Base Constraint": "Level: 00_Eingang",
+            "Location Line": "Finish Face: Exterior",
+            "Area": "1.627",
+            "Length": "505.2775",
+            "Volume": "0.0322",
+            "Workset": "Architecture",
+            "Category": "Walls",
+            "Family": "Basic Wall: Holzfassade_Hinterlüftet_Laibung",
+            "Type": "Basic Wall: Holzfassade_Hinterlüftet_Laibung",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Construction.Function": "Exterior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Type Name": "Holzfassade_Hinterlüftet_Laibung",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall"
+        }
+    },
+    "CompilationGroupID": "ff0919332f"
+}

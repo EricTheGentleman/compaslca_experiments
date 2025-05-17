@@ -1,0 +1,24 @@
+{
+    "name": "Floor-Betonauflager-15cm-3980840",
+    "category": "Beton",
+    "material_entries": [
+        "Hochbaubeton (ohne Bewehrung)",
+        "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, zirkulit® NPK A, 280kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, Möckli Primärbeton, NPK A, 280 kg CEM II/B-LL (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon Light C25/E30, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon C50/E25, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon RC-M10/E20, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "reason": [
+        "type is ifcslab with material name beton and name 15cm betonauflager",
+        "structureal = true",
+        "cast in place concrete floor slab",
+        "no indication that its precast, lightweight or hempcrete",
+        "needs medium to high compressive strength suited to hochbaubeton",
+        "280kg-300 CEM is good enough, otherwise its overdesigned"
+    ]
+}

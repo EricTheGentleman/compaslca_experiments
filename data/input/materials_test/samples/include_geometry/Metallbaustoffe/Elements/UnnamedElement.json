@@ -1,0 +1,34 @@
+{
+    "Element Metadata": {
+        "Name": "",
+        "Type": "IfcRailing"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Stahl"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0076,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 2.039,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 2.7,
+            "Y": 0.1,
+            "Z": 1.0,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.27,
+        "Real Volume to Bounding Box Volume Ratio": 0.0283
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Height": "0.8",
+            "IsExternal": "True"
+        }
+    }
+}

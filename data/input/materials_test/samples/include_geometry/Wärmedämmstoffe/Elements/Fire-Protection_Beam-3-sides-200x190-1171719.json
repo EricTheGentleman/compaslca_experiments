@@ -1,0 +1,41 @@
+{
+    "Element Metadata": {
+        "Name": "Fire Protection_Beam 3 sides:200x190:1171719",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "200x190"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Mineral Wool"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.1186,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 16.21994,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 12.96,
+            "Y": 0.23,
+            "Z": 0.21,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.626,
+        "Real Volume to Bounding Box Volume Ratio": 0.18946
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "H": "190.0",
+            "OmniClass Title": "",
+            "Workset": "Workset1",
+            "OmniClass Number": "",
+            "Volume": "0.1186",
+            "Phase Created": "New",
+            "FireIsolationMaterial": "Mineral Wool",
+            "Reference": "200x190"
+        }
+    }
+}

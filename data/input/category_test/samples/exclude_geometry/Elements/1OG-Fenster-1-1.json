@@ -1,0 +1,13 @@
+{
+    "Element Metadata": {
+        "Name": "1OG-Fenster-1-1",
+        "Type": "IfcWindow"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "True",
+            "ThermalTransmittance": "1.4"
+        }
+    }
+}

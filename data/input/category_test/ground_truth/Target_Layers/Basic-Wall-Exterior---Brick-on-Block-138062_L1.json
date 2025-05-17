@@ -1,0 +1,11 @@
+{
+    "name": "Basic-Wall-Exterior---Brick-on-Block-138062_L1",
+    "category": "Mauersteine",
+    "material_entries": [
+        "Backstein"
+    ],
+    "reason": [
+        "Explicitly named masonry - brick, which translates to backstein",
+        "Perlitgefüllt not considered due to insulation and wall is internal"
+    ]
+}

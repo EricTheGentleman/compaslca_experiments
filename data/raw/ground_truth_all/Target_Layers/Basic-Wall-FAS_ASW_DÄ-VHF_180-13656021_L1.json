@@ -1,0 +1,20 @@
+{
+    "name": "Basic-Wall-FAS_ASW_DÄ-VHF_180-13656021_L1",
+    "category": "Mörtel und Putze",
+    "material_entries": [
+        "Kunststoffputz (Dispersionsputz)",
+        "Silikatputz (Dispersionssilikatputz)",
+        "Silikonharzputz",
+        "Kalk-Zement/Zement-Kalk-Putz",
+        "Leichtputz mineralisch",
+        "Zementputz",
+        "Weisszementputz"
+    ],
+    "reason": [
+        "very thick plaster layer (6cm)",
+        "probably base or heavy protective layer",
+        "is exterior, because used on fassade (FAS), but this is not very clear",
+        "assumption is that it's exterior. but would need to understand more",
+        "especially of the pset location line: finish face: interior"
+    ]
+}

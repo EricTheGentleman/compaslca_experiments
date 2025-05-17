@@ -1,0 +1,11 @@
+{
+    "name": "Floor-DÄ_FUN_HOR_100-12567832",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Polystyrol extrudiert (XPS)",
+        "Polystyrol extrudiert, SwissporXPS"
+    ],
+    "reason": [
+        "specifies xps in objecttype psets"
+    ]
+}

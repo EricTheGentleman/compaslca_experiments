@@ -1,0 +1,35 @@
+{
+    "Element Metadata": {
+        "Name": "Rebar Bar:12 B500C-T : Shape A:2111867",
+        "Type": "IfcReinforcingBar",
+        "ObjectType": "Rebar Bar:12 B500C-T:167310"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.00051,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 0.171,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.01,
+            "Y": 4.53,
+            "Z": 0.01,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0005,
+        "Real Volume to Bounding Box Volume Ratio": 1.02
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Bar Diameter": "0.0394",
+            "Standard Bend Diameter": "0.1575",
+            "Material": "B500C-T",
+            "Workset": "Workset1",
+            "Phase Created": "New",
+            "Shape": "Rebar Shape: A"
+        }
+    },
+    "CompilationGroupID": "abb5dc92c5"
+}

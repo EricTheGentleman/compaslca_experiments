@@ -1,0 +1,14 @@
+{
+    "name": "Railing-GEL_STA_40x40-3STK-handlauf-unterbrochen-8881489",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Stahlprofil, blank",
+        "Stahlblech, verzinkt",
+        "Stahlblech, blank"
+    ],
+    "reason": [
+        "STA probably stands for Stahl, so metall category is chosen",
+        "also railings are usually made of steel, so there's that",
+        "railings can be made out of folded sheet or profiles"        
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "System-Panel-PAN_DÄM_ALU_50-11227867",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "material_entries": [
+        "Fassadenplatte, Aluverbund, 4 mm"
+    ],
+    "reason": [
+        "says IfcPlate, and is system panel",
+        "name abbreviation has ALU in it, so only viable option"
+    ]
+}

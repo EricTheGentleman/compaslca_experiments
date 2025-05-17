@@ -1,0 +1,192 @@
+{
+  "Element Metadata": {
+    "Name": "M_W-Wide Flange:W310X60:W310X60:207325",
+    "UID": "36686",
+    "GlobalId": "2OrWItJ6zAwBNp0OUxK_l8",
+    "Type": "IfcBeam",
+    "ObjectType": "M_W-Wide Flange:W310X60:208816",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterial",
+      "Material Name": "Metal - Steel - 345 MPa",
+      "Material Description": "Unknown",
+      "Material Category": "Unknown",
+      "Thickness": "Unknown",
+      "Thickness unit": "Unknown"
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": [
+      "Curve2D",
+      "SweptSolid"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.0574,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 10.174,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 7.42,
+      "Y": 0.2,
+      "Z": 0.3,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.4452,
+    "Real Volume to Bounding Box Volume Ratio": 0.1289,
+    "Face Count (tessellated element)": {
+      "Face Count": 556
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 592
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 1130
+    },
+    "Primary Object Axis (Cardinal Direction)": "S"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Reference": "Reference",
+      "IsExternal": "False",
+      "LoadBearing": "True",
+      "Span": "7.421299999999966",
+      "Slope": "0.0",
+      "Start Extension Calculation": "3.0",
+      "End Extension Calculation": "3.0",
+      "InstallationDate": "InstallationDate",
+      "SerialNumber": "SerialNumber",
+      "WarrantyStartDate": "WarrantyStartDate",
+      "BarCode": "BarCode",
+      "AssetIdentifier": "AssetIdentifier",
+      "TagNumber": "TagNumber",
+      "Start Extension": "-0.0127",
+      "End Extension": "-0.0127",
+      "Beam Material": "Metal - Steel - 345 MPa",
+      "Length": "7.52299999999997",
+      "Volume": "0.0548775449799998",
+      "Stick Symbol Location": "0",
+      "Cut Length": "7.421299999999966",
+      "Structural Usage": "3",
+      "Start Release": "3",
+      "Start Fx": "False",
+      "Start Fy": "False",
+      "Start Fz": "False",
+      "Start Mx": "False",
+      "Start My": "True",
+      "Start Mz": "True",
+      "End Release": "1",
+      "End Fx": "False",
+      "End Fy": "False",
+      "End Fz": "False",
+      "End Mx": "True",
+      "End My": "True",
+      "End Mz": "True",
+      "Analyze As": "1",
+      "Rigid Links": "0",
+      "Horizontal Projection": "Default",
+      "Reference Level": "Level 2",
+      "Work Plane": "Level : Level 2",
+      "Start Level Offset": "0.0",
+      "End Level Offset": "0.0",
+      "z-Direction Justification": "0",
+      "z-Direction Offset Value": "0.0",
+      "Lateral Justification": "0",
+      "Orientation": "0",
+      "Cross-Section Rotation": "0.0",
+      "Phase Created": "New Construction",
+      "W": "0.58",
+      "A": "0.00753",
+      "Assembly Code": "",
+      "Manufacturer": "Manufacturer",
+      "Assembly Description": "",
+      "OmniClass Number": "23.25.30.11.14.14",
+      "OmniClass Title": "Beams",
+      "bf": "0.203",
+      "d": "0.303",
+      "k": "0.033",
+      "kr": "0.0199",
+      "tf": "0.0131",
+      "tw": "0.0075",
+      "AccessibilityPerformance": "AccessibilityPerformance",
+      "CodePerformance": "CodePerformance",
+      "Color": "Color",
+      "Constituents": "Constituents",
+      "Features": "Features",
+      "Finish": "Finish",
+      "Grade": "Grade",
+      "Material": "Material",
+      "ModelReference": "ModelReference",
+      "NominalHeight": "NominalHeight",
+      "NominalLength": "NominalLength",
+      "NominalWidth": "NominalWidth",
+      "ProductionYear": "ProductionYear",
+      "Shape": "Shape",
+      "Size": "Size",
+      "SustainabilityPerformance": "SustainabilityPerformance",
+      "WarrantyDescription": "WarrantyDescription",
+      "WarrantyDurationLabor": "WarrantyDurationLabor",
+      "WarrantyDurationParts": "WarrantyDurationParts",
+      "WarrantyGuarantorLabor": "WarrantyGuarantorLabor",
+      "WarrantyGuarantorParts": "WarrantyGuarantorParts",
+      "ExpectedLife": "ExpectedLife",
+      "ReplacementCost": "ReplacementCost",
+      "AssetAccountingType": "FIXED",
+      "ModelLabel": "ModelLabel"
+    },
+    "Psets Object Type": {}
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "T/FDN": {
+        "Elevation": -1.25,
+        "Unit": "meters"
+      },
+      "Level 1": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "Level 2": {
+        "Elevation": 3.1,
+        "Unit": "meters"
+      },
+      "Roof": {
+        "Elevation": 6.0,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "Level 1",
+    "Spatial Relationship": [
+      {
+        "name": "0001",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Default",
+        "type": "IfcSite"
+      },
+      {
+        "name": null,
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "Level 1",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "45e3254100"
+}

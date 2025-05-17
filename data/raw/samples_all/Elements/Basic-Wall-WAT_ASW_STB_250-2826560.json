@@ -1,0 +1,234 @@
+{
+  "Element Metadata": {
+    "Name": "Basic Wall:WAT_ASW_STB_250:2826560",
+    "UID": "35776",
+    "GlobalId": "3qM0MIQ_P0m8GgHcEnU2uP",
+    "Type": "IfcWall",
+    "ObjectType": "Basic Wall:WAT_ASW_STB_250",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterialLayerSet",
+      "Layers": [
+        {
+          "IfcEntity": "IfcMaterialLayer",
+          "Material Name": "Beton - Ortbeton bewehrt",
+          "Description": "Unknown",
+          "Category": "Unknown",
+          "Thickness": 0.24999999999999997,
+          "Thickness unit": "METRE"
+        }
+      ]
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": [
+      "Brep",
+      "Curve2D"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 43.886,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 389.353,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 0.25,
+      "Y": 77.32,
+      "Z": 2.5,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 48.325,
+    "Real Volume to Bounding Box Volume Ratio": 0.9081,
+    "Face Count (tessellated element)": {
+      "Face Count": 74
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 110
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 166
+    },
+    "Primary Object Axis (Cardinal Direction)": "N"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Room Bounding": "True",
+      "Related to Mass": "False",
+      "Base Extension Distance": "0.0",
+      "Base is Attached": "False",
+      "Top Extension Distance": "0.0",
+      "Location Line": "Core Face: Interior",
+      "Top is Attached": "False",
+      "Base Constraint": "98",
+      "Top Constraint": "Up to level: 99",
+      "Base Offset": "-0.03",
+      "Top Offset": "-0.4300000000000072",
+      "Unconnected Height": "2.499999999999994",
+      "Cross-Section": "Vertical",
+      "unter Terrain": "True",
+      "Area": "175.54399999999956",
+      "Length": "77.01999999999991",
+      "Volume": "43.88599999999985",
+      "Edited by": "",
+      "Workset": "S-Struktur",
+      "Category": "Walls",
+      "Family": "Basic Wall",
+      "Family and Type": "Basic Wall: WAT_ASW_STB_250",
+      "Type": "WAT_ASW_STB_250",
+      "Type Id": "3629383",
+      "Phase Created": "Neubau",
+      "Enable Analytical Model": "False",
+      "Rebar Cover - Other Faces": "c=2.0cm <2.0 cm",
+      "Structural": "True",
+      "Rebar Cover - Exterior Face": "c=2.0cm <2.0 cm",
+      "Rebar Cover - Interior Face": "c=2.0cm <2.0 cm",
+      "Structural Usage": "Bearing",
+      "FireRating": "REI 60",
+      "Roughness": "0.3048",
+      "Reference": "WAT_ASW_STB_250",
+      "Description": "STB_300",
+      "LoadBearing": "True",
+      "IsExternal": "True",
+      "ExtendToStructure": "False",
+      "ThermalTransmittance": "4.184",
+      "Geschoss ID": "98",
+      "Höhe": "2.499999999999994",
+      "Länge": "77.01999999999991",
+      "Fläche": "175.54399999999956",
+      "Volumen": "43.88599999999985"
+    },
+    "Psets Object Type": {
+      "Analytical Properties.Roughness": "1",
+      "Analytical Properties.Absorptance": "0.1",
+      "Analytical Properties.Heat Transfer Coefficient (U)": "4.184",
+      "Analytical Properties.Thermal Mass": "377.7749999999999",
+      "Analytical Properties.Thermal Resistance (R)": "0.2390057361376673",
+      "Construction.Function": "Exterior",
+      "Construction.Lage Aussen": "True",
+      "Construction.Wrapping at Ends": "None",
+      "Construction.Wrapping at Inserts": "Do not wrap",
+      "Construction.Width": "0.24999999999999997",
+      "General.Gebäudenummer": "72557",
+      "General.Standortcode": "GG",
+      "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+      "Graphics.Coarse Scale Fill Color": "32768",
+      "Identity Data.Edited by": "",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Type Comments": "",
+      "Identity Data.Ausbau": "True",
+      "Identity Data.Workset": "Wall Types",
+      "Identity Data.Description": "STB_300",
+      "Identity Data.Fire Rating": "REI 60",
+      "Identity Data.Type Name": "WAT_ASW_STB_250",
+      "Layers.EN Layers": "Beton - Ortbeton bewehrt",
+      "Layers.EN Layers and Widths": "Beton - Ortbeton bewehrt 25cm",
+      "Layers.EN Type String": "<L><M>Beton - Ortbeton bewehrt</M><T>25</T></L",
+      "Layers.EN Widths": "25cm",
+      "Materials and Finishes.Structural Material": "Beton - Ortbeton bewehrt",
+      "Other.Category": "Walls",
+      "Other.Family Name": "Basic Wall",
+      "Structural.Filter Tragend / Nichttragend": "True",
+      "Pset_ConcreteElementGeneral.FireRating": "REI 60",
+      "Pset_ElementShading.Roughness": "0.3048",
+      "Pset_ProductRequirements.Category": "Walls",
+      "Pset_ReinforcementBarPitchOfWall.Description": "STB_300",
+      "Pset_WallCommon.IsExternal": "True",
+      "Pset_WallCommon.FireRating": "REI 60",
+      "Pset_WallCommon.ThermalTransmittance": "4.184",
+      "Gewerbebau.Dicke": "0.24999999999999997",
+      "Gewerbebau.Feuerwiderstandsklasse": "REI 60",
+      "Gewerbebau.Material": "Beton - Ortbeton bewehrt",
+      "Gewerbebau.Tragende Funktion": "True",
+      "Gewerbebau.Ausbau": "True",
+      "Gewerbebau.Lage Aussen ": "True",
+      "Gewerbebau.Liegenschaft ID": "72557",
+      "Gewerbebau.Gebäude ID": "GG",
+      "Gewerbebau.Bauteilklasse": "A_Wand",
+      "Gewerbebau.Bauteilart": "Massivwand",
+      "Gewerbebau.eBKP-H": "C 2.1",
+      "Gewerbebau.Typname": "WAT_ASW_STB_250"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "98",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "98",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "b722f3c92f"
+}

@@ -1,0 +1,158 @@
+{
+  "Element Metadata": {
+    "Name": "Stair:Concrete:716803:1",
+    "UID": "168146",
+    "GlobalId": "2vRt0f4Hr4n8mp5Py6SD$K",
+    "Type": "IfcStairFlight",
+    "ObjectType": "Stair:Concrete:166770",
+    "Classification": "Not defined",
+    "Decomposes": {
+      "Name": "Stair:Concrete:716803",
+      "IfcEntity": "IfcStair",
+      "GlobalId": "13j2Csz_D1GwS7M6kUVOKd"
+    },
+    "Is Decomposed By": []
+  },
+  "Element Material Data": "Not defined",
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": [
+      "Brep",
+      "GeometricSet",
+      "Curve2D"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 1.94438,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 31.92928,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 4.1,
+      "Y": 4.33,
+      "Z": 2.16,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 38.3465,
+    "Real Volume to Bounding Box Volume Ratio": 0.05071,
+    "Face Count (tessellated element)": {
+      "Face Count": 184
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 284
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 418
+    },
+    "Primary Object Axis (Cardinal Direction)": "E"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Rebar Cover": "Rebar Cover Settings: 20mm",
+      "Actual Tread Depth": "299.999999999782",
+      "Width": "1400.0",
+      "Desired Number of Risers": "20",
+      "Actual Number of Risers": "20",
+      "Actual Riser Height": "165.000000000109",
+      "Down label": "False",
+      "Up label": "False",
+      "Show Up arrow in all views": "False",
+      "Up text": "UP",
+      "Up arrow": "True",
+      "Down text": "DN",
+      "Down arrow": "True",
+      "Workset": "Stair Types",
+      "Edited by": "",
+      "Phase Created": "New",
+      "Base Offset": "0.0",
+      "Top Level": "Level: VÅN 2",
+      "Base Level": "Level: VÅN 1",
+      "Top Offset": "0.0",
+      "Reference": "Concrete",
+      "NumberOfRiser": "20.0",
+      "NumberOfTreads": "19.0",
+      "RiserHeight": "165.000000000109",
+      "TreadLength": "299.999999999782",
+      "TreadLengthAtOffset": "299.999999999782",
+      "NosingLength": "299.999999999782",
+      "WalkingLineOffset": "699.999999999997",
+      "WaistThickness": "1399.99999999999",
+      "Nosing Length": "0.0",
+      "Apply Nosing Profile": "Front Only",
+      "Tread Thickness": "0.0",
+      "Begin with Riser": "True",
+      "Riser Thickness": "0.0",
+      "End with Riser": "True",
+      "Riser to Tread Connection": "Extend Riser Behind Tread",
+      "Riser Type": "Straight",
+      "Minimum Tread Depth": "250.0",
+      "Maximum Riser Height": "180.0",
+      "Monolithic Stairs": "True",
+      "Extend Below Base": "0.0",
+      "Underside of Winder": "Smooth",
+      "Landing Overlap": "0.0",
+      "Function": "Interior",
+      "Text Font": "ISOCPEUR",
+      "Break Symbol in Plan": "False",
+      "Text Size": "0.00820209973753281",
+      "Right Stringer": "Closed",
+      "Stringer Carriage Height": "80.0",
+      "Stringer Thickness": "50.0",
+      "Open Stringer Offset": "0.0",
+      "Landing Carriage Height": "150.0",
+      "Trim Stringers at Top": "Match Level",
+      "Left Stringer": "Closed",
+      "Middle Stringers": "0",
+      "Stringer Height": "400.0",
+      "Assembly Description": "",
+      "URL": "www.cad-q.se",
+      "Assembly Code": "",
+      "Keynote": "45.CB"
+    },
+    "Psets Object Type": {}
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "Ref.": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "VÅN 1": {
+        "Elevation": 2.7,
+        "Unit": "meters"
+      },
+      "VÅN 2": {
+        "Elevation": 6.0,
+        "Unit": "meters"
+      },
+      "VÅN 3": {
+        "Elevation": 9.3,
+        "Unit": "meters"
+      },
+      "VÅN 4": {
+        "Elevation": 12.0,
+        "Unit": "meters"
+      },
+      "VÅN 5": {
+        "Elevation": 16.0,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "VÅN 1",
+    "Spatial Relationship": [
+      {
+        "name": "Unknown",
+        "type": "Unknown"
+      }
+    ]
+  },
+  "CompilationGroupID": "820bf6690e"
+}

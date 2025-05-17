@@ -1,0 +1,13 @@
+{
+    "name": "TO---Brandschutztor-TOI_SIT_MET_ST---2180-x-2200-8609379",
+    "category": "Türen",
+    "material_entries": [
+        "Innentüre, Funktionstüre, Holz, Stahlzarge"
+    ],
+    "reason": [
+        "interior door",
+        "funktionstüre (brandschutz) EI30",
+        "MET implies metal",
+        "there is no funktionstüre made out of total steel, so maybe no match"
+    ]
+}

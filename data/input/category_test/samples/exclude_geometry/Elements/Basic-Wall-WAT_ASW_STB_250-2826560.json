@@ -1,0 +1,79 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:WAT_ASW_STB_250:2826560",
+        "Type": "IfcWall",
+        "ObjectType": "Basic Wall:WAT_ASW_STB_250"
+    },
+    "Element Material Data": [
+        {
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Beton - Ortbeton bewehrt",
+                    "Thickness": 0.24999999999999997,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Location Line": "Core Face: Interior",
+            "Base Constraint": "98.0",
+            "unter Terrain": "True",
+            "Area": "175.544",
+            "Length": "77.02",
+            "Volume": "43.886",
+            "Workset": "S-Struktur",
+            "Category": "Walls",
+            "Family": "Basic Wall",
+            "Type": "WAT_ASW_STB_250",
+            "Phase Created": "Neubau",
+            "Structural": "True",
+            "Structural Usage": "Bearing",
+            "FireRating": "REI 60",
+            "Roughness": "0.3048",
+            "Reference": "WAT_ASW_STB_250",
+            "Description": "STB_300",
+            "LoadBearing": "True",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "ThermalTransmittance": "4.184",
+            "Geschoss ID": "98.0",
+            "Länge": "77.02",
+            "Fläche": "175.544",
+            "Volumen": "43.886"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "4.184",
+            "Analytical Properties.Thermal Mass": "377.775",
+            "Analytical Properties.Thermal Resistance (R)": "0.239",
+            "Construction.Function": "Exterior",
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "STB_300",
+            "Identity Data.Fire Rating": "REI 60",
+            "Identity Data.Type Name": "WAT_ASW_STB_250",
+            "Layers.EN Layers and Widths": "Beton - Ortbeton bewehrt 25cm",
+            "Materials and Finishes.Structural Material": "Beton - Ortbeton bewehrt",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall",
+            "Structural.Filter Tragend / Nichttragend": "True",
+            "Pset_ConcreteElementGeneral.FireRating": "REI 60",
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_WallCommon.IsExternal": "True",
+            "Pset_WallCommon.ThermalTransmittance": "4.184",
+            "Gewerbebau.Feuerwiderstandsklasse": "REI 60",
+            "Gewerbebau.Material": "Beton - Ortbeton bewehrt",
+            "Gewerbebau.Bauteilklasse": "A_Wand",
+            "Gewerbebau.Bauteilart": "Massivwand",
+            "Gewerbebau.Typname": "WAT_ASW_STB_250"
+        }
+    },
+    "CompilationGroupID": "b722f3c92f"
+}

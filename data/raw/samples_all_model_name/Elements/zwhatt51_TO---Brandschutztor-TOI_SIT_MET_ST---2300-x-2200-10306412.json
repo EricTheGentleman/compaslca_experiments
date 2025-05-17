@@ -1,0 +1,246 @@
+{
+  "Element Metadata": {
+    "Name": "TO - Brandschutztor:TOI_SIT_MET_ST - 2300 x 2200:10306412",
+    "UID": "436031",
+    "GlobalId": "1YYa6SvXL5PRb6Hp7rCot0",
+    "Type": "IfcDoor",
+    "ObjectType": "TO - Brandschutztor:TOI_SIT_MET_ST - 2300 x 2200",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterial",
+      "Material Name": "<Unnamed>",
+      "Material Description": "Unknown",
+      "Material Category": "Unknown",
+      "Thickness": "Unknown",
+      "Thickness unit": "Unknown"
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Width": 2.3,
+      "Width unit": "METRE",
+      "Height": 2.28,
+      "Height unit": "METRE"
+    },
+    "Geometric Representation": [
+      "MappedRepresentation"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.5036,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 17.1437,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 0.15,
+      "Y": 5.27,
+      "Z": 2.4,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 1.8972,
+    "Real Volume to Bounding Box Volume Ratio": 0.2655,
+    "Face Count (tessellated element)": {
+      "Face Count": 330
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 718
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 854
+    },
+    "Primary Object Axis (Cardinal Direction)": "N"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "FireRating": "EI 30",
+      "ConstructionType": "Typ 3 - Brandschutztor",
+      "IsExternal": "False",
+      "Reference": "TOI_SIT_MET_ST - 2300 x 2200",
+      "Category": "Doors",
+      "Zugang ID": "14",
+      "Geschoss ID": "98",
+      "Nutzungseinheit ID": "14.98401",
+      "Raumnummer": "14.98401.01",
+      "Türnummer": "TUE01",
+      "Breite licht": "2.3",
+      "Höhe licht": "2.28",
+      "Türfläche": "5.923599999999999",
+      "Öffnungsrichtung": "DIN-links",
+      "Türbezeichnung": "TO 1.1_L",
+      "Anzahl Flügel": "1 F",
+      "Feuerwiderstandsklasse": "EI 30",
+      "Lage Aussen ": "False",
+      "Ausbau": "True",
+      "Liegenschaft ID": "72557",
+      "Gebäude ID": "GG",
+      "Bauteilklasse": "A_Tuer",
+      "Bauteilart": "Tor",
+      "eBKP-H": "G 1.4",
+      "Typname": "TOI_SIT_MET_ST - 2300 x 2200",
+      "ANF Brandschutz": "EI 30",
+      "Level": "98",
+      "Sill Height": "0.0",
+      "SOFiSTiK_HeadProject": "-5.56773503822181",
+      "SOFiSTiK_HeadShared": "433.9322649617781",
+      "SOFiSTiK_SillProject": "-6.7100000000002264",
+      "SOFiSTiK_SillShared": "432.78999999999957",
+      "Wandtyp": "WAT_KWA_STB_1065",
+      "Abstand unten": "0.015",
+      "Area": "6.23005000000018",
+      "Volume": "0.4118665000002116",
+      "Fluchttür": "False",
+      "Edited by": "",
+      "Workset": "A-Innenausbau",
+      "Mark": "TU 390",
+      "Tür ID": "14.98401.01_TUE01",
+      "Typ ID": "TO 1.1_L",
+      "Zugang": "14",
+      "Host Id": "7562834",
+      "Family": "TO - Brandschutztor",
+      "Family and Type": "TO - Brandschutztor: TOI_SIT_MET_ST - 2300 x 2200",
+      "Type": "TOI_SIT_MET_ST - 2300 x 2200",
+      "Type Id": "8878155",
+      "Head Height": "2.28",
+      "Phase Created": "Neubau"
+    },
+    "Psets Object Type": {
+      "Analytical Properties.Define Thermal Properties by": "Schematic Type",
+      "Analytical Properties.Analytic Construction": "<None",
+      "Constraints.Default Elevation": "0.0",
+      "Construction.Lage Aussen": "False",
+      "Construction.Function": "Interior",
+      "Construction.Construction Type": "Typ 3 - Brandschutztor",
+      "Data.Anzahl Flügel": "1 F",
+      "Dimensions.Abdeck Breite Öffnung": "0.08",
+      "Dimensions.Abdeck Breite Seite": "0.13",
+      "Dimensions.Abstand Wand - Flügel": "0.03",
+      "Dimensions.Abstellbereich Öffnungsseite": "2.75",
+      "Dimensions.Durchgangsbreite": "2.3",
+      "Dimensions.Durchgangshöhe": "2.28",
+      "Dimensions.Einlaufbereich Schliessseite": "0.22",
+      "Dimensions.Height": "2.28",
+      "Dimensions.Laufschiene Höhe": "0.09",
+      "Dimensions.Rough Height": "2.3599999999999994",
+      "Dimensions.Rough Width": "2.5100000000000002",
+      "Dimensions.Thickness": "0.07",
+      "Dimensions.Türfläche": "5.923599999999999",
+      "Dimensions.Width": "2.3",
+      "General.Gebäudenummer": "72557",
+      "General.Standortcode": "GG",
+      "Identity Data.Edited by": "",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Code Name": "",
+      "Identity Data.OmniClass Number": "",
+      "Identity Data.OmniClass Title": "",
+      "Identity Data.Ausbau": "True",
+      "Identity Data.Türschliesser": "True",
+      "Identity Data.Description": "TO 1.1",
+      "Identity Data.Fire Rating": "EI 30",
+      "Identity Data.Type Comments": "Schiebetor mit Brandfallsteuerung",
+      "Identity Data.Type Mark": "376",
+      "Identity Data.Type Name": "TOI_SIT_MET_ST - 2300 x 2200",
+      "Identity Data.Workset": "Family  : Doors : TO - Brandschutztor",
+      "Other.Category": "Doors",
+      "Other.Family Name": "TO - Brandschutztor",
+      "Pset_ConcreteElementGeneral.FireRating": "EI 30",
+      "Pset_ConcreteElementGeneral.ConstructionType": "Typ 3 - Brandschutztor",
+      "Pset_DoorCommon.IsExternal": "False",
+      "Pset_DoorCommon.FireRating": "EI 30",
+      "Pset_ProductRequirements.Category": "Doors",
+      "Gewerbebau.Breite licht": "2.3",
+      "Gewerbebau.Höhe licht": "2.28",
+      "Gewerbebau.Türfläche": "5.923599999999999",
+      "Gewerbebau.Anzahl Flügel": "1 F",
+      "Gewerbebau.Feuerwiderstandsklasse": "EI 30",
+      "Gewerbebau.Lage Aussen ": "False",
+      "Gewerbebau.Ausbau": "True",
+      "Gewerbebau.Liegenschaft ID": "72557",
+      "Gewerbebau.Gebäude ID": "GG",
+      "Gewerbebau.Bauteilklasse": "A_Tuer",
+      "Gewerbebau.Bauteilart": "Tor",
+      "Gewerbebau.eBKP-H": "G 1.4",
+      "Gewerbebau.Typname": "TOI_SIT_MET_ST - 2300 x 2200"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "98",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "98",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "bb7151fba0"
+}

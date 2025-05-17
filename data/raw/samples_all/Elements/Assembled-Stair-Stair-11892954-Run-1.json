@@ -1,0 +1,183 @@
+{
+  "Element Metadata": {
+    "Name": "Assembled Stair:Stair:11892954 Run 1",
+    "UID": "739854",
+    "GlobalId": "2UBGMLBdnAmR_n6hgwYqzu",
+    "Type": "IfcStairFlight",
+    "ObjectType": "Non-Monolithic Run:Stahl_40 mm Auftritt",
+    "Classification": "Not defined",
+    "Decomposes": {
+      "Name": "Assembled Stair:Stair:11892954",
+      "IfcEntity": "IfcStair",
+      "GlobalId": "2UBGMLBdnAmR_n6hgwYqzv"
+    },
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterial",
+      "Material Name": "Gitterrost-Treppe",
+      "Material Description": "Unknown",
+      "Material Category": "Unknown",
+      "Thickness": "Unknown",
+      "Thickness unit": "Unknown"
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Length": 0.5,
+      "Length unit": "METRE",
+      "Gross Volume": 0.0104,
+      "Gross Volume unit": "CUBIC_METRE",
+      "Net Volume": 0.0208,
+      "Net Volume unit": "CUBIC_METRE"
+    },
+    "Geometric Representation": [
+      "SweptSolid"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.0208,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 1.2416,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 0.55,
+      "Y": 1.0,
+      "Z": 0.19,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.1045,
+    "Real Volume to Bounding Box Volume Ratio": 0.199,
+    "Face Count (tessellated element)": {
+      "Face Count": 24
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 48
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 60
+    },
+    "Primary Object Axis (Cardinal Direction)": "W"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Category": "Stairs: Runs",
+      "Reference": "Stahl_40 mm Auftritt",
+      "NumberOfRiser": "3.0",
+      "NumberOfTreads": "2.0",
+      "RiserHeight": "0.19999999999999998",
+      "TreadLength": "0.24999999999999997",
+      "NosingLength": "0.01",
+      "WalkingLineOffset": "1.6404199475065633",
+      "TreadLengthAtOffset": "0.24999999999999997",
+      "TreadLengthAtInnerSide": "0.24999999999999997",
+      "Breite": "1.000000000000001",
+      "Typname": "Stahl_40 mm Auftritt",
+      "Location Line": "Run: Right",
+      "Relative Base Height": "0.0",
+      "Relative Top Height": "0.5999999999999999",
+      "Run Height": "0.5999999999999999",
+      "Begin with Riser": "True",
+      "End with Riser": "True",
+      "Extend Below Riser Base": "0.0",
+      "Actual Number of Risers": "3",
+      "Actual Number of Treads": "2",
+      "Actual Riser Height": "0.19999999999999998",
+      "Actual Run Width": "1.000000000000001",
+      "Actual Tread Depth": "0.24999999999999997",
+      "Edited by": "",
+      "Workset": "A-Innenausbau",
+      "Family": "Non-Monolithic Run",
+      "Family and Type": "Non-Monolithic Run: Stahl_40 mm Auftritt",
+      "Type": "Stahl_40 mm Auftritt",
+      "Type Id": "11867917",
+      "Phase Created": "Neubau"
+    },
+    "Psets Object Type": {
+      "Identity Data.Edited by": "",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Workset": "Stair Types",
+      "Identity Data.Type Name": "Stahl_40 mm Auftritt",
+      "Materials and Finishes.Tread Material": "Gitterrost-Treppe",
+      "Other.Category": "Stairs: Runs",
+      "Other.Family Name": "Non-Monolithic Run",
+      "Risers.Riser": "False",
+      "Risers.Riser Thickness": "0.0",
+      "Risers.Riser To Tread Connection": "Extend Riser Behind Tread",
+      "Risers.Slanted": "False",
+      "Treads.Apply Nosing Profile": "Front Only",
+      "Treads.Nosing Length": "0.01",
+      "Treads.Tread": "True",
+      "Treads.Tread Thickness": "0.04",
+      "Pset_ProductRequirements.Category": "Stairs: Runs",
+      "Pset_StairFlightCommon.NosingLength": "0.01",
+      "Gewerbebau.Typname": "Stahl_40 mm Auftritt"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "00",
+    "Spatial Relationship": [
+      {
+        "name": "Unknown",
+        "type": "Unknown"
+      }
+    ]
+  },
+  "CompilationGroupID": "984fe78def"
+}

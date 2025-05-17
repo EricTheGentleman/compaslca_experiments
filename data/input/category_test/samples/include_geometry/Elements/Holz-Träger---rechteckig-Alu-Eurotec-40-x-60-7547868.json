@@ -1,0 +1,59 @@
+{
+    "Element Metadata": {
+        "Name": "Holz Träger - rechteckig:Alu Eurotec 40 x 60:7547868",
+        "Type": "IfcBeam",
+        "ObjectType": "Holz Träger - rechteckig:Alu Eurotec 40 x 60"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Aluminum - Flat - Version 1.1"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Length": 7.755,
+            "Length unit": "METRE",
+            "Net Volume": 0.0186,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.01861,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 1.5558,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 7.76,
+            "Y": 0.06,
+            "Z": 0.04,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0186,
+        "Real Volume to Bounding Box Volume Ratio": 1.00054
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Elevation at Bottom": "-81.0",
+            "Length": "7755.0",
+            "Volume": "0.0186",
+            "Workset": "Architecture",
+            "Category": "Structural Framing",
+            "Family": "Holz Träger - rechteckig: Alu Eurotec 40 x 60",
+            "Type": "Holz Träger - rechteckig: Alu Eurotec 40 x 60",
+            "Phase Created": "Zu Bauen",
+            "Structural Usage": "Other"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Workset": "Family  : Structural Framing : Holz Träger - rechteckig",
+            "Identity Data.Type Name": "Alu Eurotec 40 x 60",
+            "Materials and Finishes.Structural Material": "Aluminum - Flat - Version 1.1",
+            "Other.Category": "Structural Framing",
+            "Other.Family Name": "Holz Träger - rechteckig",
+            "Structural.Filter Tragend / Nichttragend": "False"
+        }
+    },
+    "CompilationGroupID": "0a91634d5e"
+}

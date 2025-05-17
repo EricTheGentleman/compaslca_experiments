@@ -1,0 +1,52 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:Panel Holz beidseitig gelocht mit Dämmung 54mm:22849485",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:Panel Holz beidseitig gelocht mit Dämmung 54mm"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.054,
+            "Width unit": "METRE",
+            "Length": 0.6275,
+            "Length unit": "METRE",
+            "Height": 2.38,
+            "Height unit": "METRE",
+            "Gross Side Area": 1.4934,
+            "Gross Side Area unit": "SQUARE_METRE",
+            "Net Side Area": 1.4934,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Gross Footprint Area": 0.0339,
+            "Gross Footprint Area unit": "SQUARE_METRE",
+            "Gross Volume": 0.0806,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.0806,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0806,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 3.3117,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.63,
+            "Y": 2.38,
+            "Z": 0.05,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.075,
+        "Real Volume to Bounding Box Volume Ratio": 1.0753
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "FireRating": "REI 60",
+            "Reference": "Panel Holz beidseitig gelocht mit Dämmung 54mm",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "LoadBearing": "False"
+        }
+    },
+    "CompilationGroupID": "a1d3bd51f0"
+}

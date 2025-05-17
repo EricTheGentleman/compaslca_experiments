@@ -1,0 +1,77 @@
+{
+    "Element Metadata": {
+        "Name": "Vierkantstahl Stütze:140 x 80:12651870",
+        "Type": "IfcColumn",
+        "ObjectType": "Vierkantstahl Stütze:140 x 80"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Metall - Baustahl S235-farbig"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Length": 3.84,
+            "Length unit": "METRE",
+            "Gross Volume": 0.043,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.043,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.043,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 1.712,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.14,
+            "Y": 3.84,
+            "Z": 0.08,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.043,
+        "Real Volume to Bounding Box Volume Ratio": 1.0002
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "Reference": "140 x 80",
+            "Category": "Structural Columns",
+            "unter Terrain": "False",
+            "Geschoss ID": "0.0",
+            "Volumen": "0.043",
+            "Breite": "0.08",
+            "Länge": "0.14",
+            "Material": "Metall - Baustahl S235-farbig",
+            "Lage Aussen ": "False",
+            "Bauteilklasse": "A_Fassadenbekleidung",
+            "Bauteilart": "Fassadenelement",
+            "Typname": "140 x 80",
+            "Level": "0.0",
+            "Length": "3.84",
+            "Volume": "0.043",
+            "Workset": "A-Fassade",
+            "Structural Material": "Metall - Baustahl S235-farbig",
+            "Family": "Vierkantstahl Stütze",
+            "Type": "140 x 80",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "False",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Assembly Description": "Superstructure",
+            "Identity Data.Type Name": "140 x 80",
+            "Identity Data.Workset": "Family  : Structural Columns : Vierkantstahl Stütze",
+            "Other.Category": "Structural Columns",
+            "Other.Family Name": "Vierkantstahl Stütze",
+            "Pset_ProductRequirements.Category": "Structural Columns",
+            "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+            "Gewerbebau.Bauteilart": "Fassadenelement",
+            "Gewerbebau.Typname": "140 x 80"
+        }
+    },
+    "CompilationGroupID": "8db3ee2f15"
+}

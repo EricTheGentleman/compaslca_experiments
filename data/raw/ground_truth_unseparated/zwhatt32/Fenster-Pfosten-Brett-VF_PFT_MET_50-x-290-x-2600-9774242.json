@@ -1,0 +1,13 @@
+{
+    "name": "Fenster-Pfosten-Brett-VF_PFT_MET_50-x-290-x-2600-9774242",
+    "category": "Fenster, Sonnenschutz, Fassadenverkleidungen",
+    "material_entries": [
+        "Fensterrahmen Aluminium"
+    ],
+    "reason": [
+        "says fenster-pfosten brett and entity is ifcmember",
+        "due to emphasis on the word fenster, the category is chosen",
+        "probably refers to mullion / bar between panes of glass",
+        "strong indication of metal in abbreviation MET"
+    ]
+}

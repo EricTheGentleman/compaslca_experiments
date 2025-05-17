@@ -1,0 +1,13 @@
+{
+    "name": "Holz-Träger---rechteckig-Alu-Eurotec-40-x-60-7547868",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Aluminiumprofil, blank",
+        "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R"
+    ],
+    "reason": [
+        "ifcbeam, made out of aluminum",
+        "likely a support beam or substructured",
+        "aluminum profile is the best match"
+    ]
+}

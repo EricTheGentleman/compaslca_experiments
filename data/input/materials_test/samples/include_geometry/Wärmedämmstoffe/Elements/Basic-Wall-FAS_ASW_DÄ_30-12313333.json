@@ -1,0 +1,88 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:FAS_ASW_DÄ_30:12313333",
+        "Type": "IfcWall",
+        "ObjectType": "Basic Wall:FAS_ASW_DÄ_30"
+    },
+    "Element Material Data": [
+        {
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Dämmung - weich",
+                    "Thickness": 0.03,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.009,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 0.7418,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.03,
+            "Y": 0.59,
+            "Z": 0.56,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0099,
+        "Real Volume to Bounding Box Volume Ratio": 0.9042
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Location Line": "Finish Face: Interior",
+            "Base Constraint": "0.0",
+            "unter Terrain": "True",
+            "Area": "0.3304",
+            "Length": "0.59",
+            "Volume": "0.009",
+            "Workset": "A-Fassade",
+            "Category": "Walls",
+            "Family": "Basic Wall",
+            "Type": "FAS_ASW_DÄ_30",
+            "Phase Created": "Neubau",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing",
+            "Roughness": "0.3048",
+            "Reference": "FAS_ASW_DÄ_30",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "LoadBearing": "False",
+            "ThermalTransmittance": "1.1333",
+            "Geschoss ID": "0.0",
+            "Länge": "0.59",
+            "Fläche": "0.3304",
+            "Volumen": "0.009"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "1.1333",
+            "Analytical Properties.Thermal Mass": "4.26",
+            "Analytical Properties.Thermal Resistance (R)": "0.8824",
+            "Construction.Function": "Exterior",
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "",
+            "Identity Data.Type Name": "FAS_ASW_DÄ_30",
+            "Layers.EN Layers and Widths": "Dämmung - hart 3cm",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_WallCommon.IsExternal": "True",
+            "Pset_WallCommon.ThermalTransmittance": "1.1333",
+            "Gewerbebau.Material": "Dämmung - weich",
+            "Gewerbebau.Bauteilklasse": "A_Wand",
+            "Gewerbebau.Bauteilart": "Wandbekleidung",
+            "Gewerbebau.Typname": "FAS_ASW_DÄ_30"
+        }
+    }
+}

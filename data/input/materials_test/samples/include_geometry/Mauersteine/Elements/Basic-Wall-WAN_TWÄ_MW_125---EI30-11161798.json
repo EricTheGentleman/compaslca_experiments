@@ -1,0 +1,114 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:WAN_TWÄ_MW_125 - EI30:11161798",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:WAN_TWÄ_MW_125 - EI30"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:WAN_TWÄ_MW_125 - EI30",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Mauerwerk - Ziegel",
+                    "Thickness": 0.12499999999999999,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.125,
+            "Width unit": "METRE",
+            "Length": 1.93,
+            "Length unit": "METRE",
+            "Height": 3.65,
+            "Height unit": "METRE",
+            "Gross Side Area": 7.0445,
+            "Gross Side Area unit": "SQUARE_METRE",
+            "Net Side Area": 7.0445,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Gross Footprint Area": 0.2413,
+            "Gross Footprint Area unit": "SQUARE_METRE",
+            "Gross Volume": 0.8806,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.8806,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.8806,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 15.484,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.93,
+            "Y": 3.65,
+            "Z": 0.12,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.8453,
+        "Real Volume to Bounding Box Volume Ratio": 1.0417
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Location Line": "Finish Face: Interior",
+            "Base Constraint": "4.0",
+            "unter Terrain": "False",
+            "Area": "7.0445",
+            "Length": "1.93",
+            "Volume": "0.8806",
+            "Workset": "A-Innenausbau",
+            "Category": "Walls",
+            "Family": "Basic Wall",
+            "Type": "WAN_TWÄ_MW_125 - EI30",
+            "Phase Created": "Neubau",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing",
+            "FireRating": "EI 30",
+            "Roughness": "0.3048",
+            "Reference": "WAN_TWÄ_MW_125 - EI30",
+            "Description": "GK_100",
+            "IsExternal": "False",
+            "ExtendToStructure": "False",
+            "LoadBearing": "False",
+            "ThermalTransmittance": "4.32",
+            "Geschoss ID": "4.0",
+            "Länge": "1.93",
+            "Fläche": "7.0445",
+            "Volumen": "0.8806"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "4.32",
+            "Analytical Properties.Thermal Mass": "162.75",
+            "Analytical Properties.Thermal Resistance (R)": "0.2315",
+            "Construction.Lage Aussen": "False",
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "GK_100",
+            "Identity Data.Fire Rating": "EI 30",
+            "Identity Data.Type Name": "WAN_TWÄ_MW_125 - EI30",
+            "Layers.EN Layers and Widths": "Mauerwerk - Ziegel 12.5cm",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ConcreteElementGeneral.FireRating": "EI 30",
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_WallCommon.IsExternal": "False",
+            "Pset_WallCommon.ThermalTransmittance": "4.32",
+            "Gewerbebau.Feuerwiderstandsklasse": "EI 30",
+            "Gewerbebau.Material": "Mauerwerk - Ziegel",
+            "Gewerbebau.Bauteilklasse": "A_Wand",
+            "Gewerbebau.Bauteilart": "Leichtbauwand",
+            "Gewerbebau.Typname": "WAN_TWÄ_MW_125 - EI30"
+        }
+    },
+    "CompilationGroupID": "a396e572f9"
+}

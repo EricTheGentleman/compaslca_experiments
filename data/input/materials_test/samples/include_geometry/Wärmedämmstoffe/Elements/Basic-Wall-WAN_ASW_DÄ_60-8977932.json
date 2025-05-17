@@ -1,0 +1,105 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:WAN_ASW_DÄ_60:8977932",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:WAN_ASW_DÄ_60"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:WAN_ASW_DÄ_60",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Dämmung - weich",
+                    "Thickness": 0.06,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.06,
+            "Width unit": "METRE",
+            "Length": 33.0,
+            "Length unit": "METRE",
+            "Height": 0.65,
+            "Height unit": "METRE",
+            "Net Side Area": 21.45,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Gross Footprint Area": 1.98,
+            "Gross Footprint Area unit": "SQUARE_METRE",
+            "Net Volume": 1.287,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 1.287,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 46.938,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 33.0,
+            "Y": 0.06,
+            "Z": 0.65,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 1.287,
+        "Real Volume to Bounding Box Volume Ratio": 1.0
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Base Constraint": "Level: 00",
+            "Location Line": "Finish Face: Exterior",
+            "Area": "21.45",
+            "Length": "33.0",
+            "Volume": "1.287",
+            "unter Terrain": "False",
+            "Workset": "A-Fassade",
+            "Category": "Walls",
+            "Family": "Basic Wall: WAN_ASW_DÄ_60",
+            "Type": "Basic Wall: WAN_ASW_DÄ_60",
+            "Phase Created": "Neubau",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing",
+            "Roughness": "0.3048",
+            "Reference": "WAN_ASW_DÄ_60",
+            "Description": "None",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "LoadBearing": "False",
+            "ThermalTransmittance": "0.5667",
+            "Geschoss ID": "Level: 00",
+            "Länge": "33.0",
+            "Fläche": "21.45",
+            "Volumen": "1.287"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "0.5667",
+            "Analytical Properties.Thermal Mass": "0.7915",
+            "Analytical Properties.Thermal Resistance (R)": "1.7647",
+            "Construction.Function": "Exterior",
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "",
+            "Identity Data.Type Name": "WAN_ASW_DÄ_60",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_QuantityTakeOff.Reference": "WAN_ASW_DÄ_60",
+            "Pset_WallCommon.IsExternal": "False",
+            "Pset_WallCommon.ThermalTransmittance": "0.5667",
+            "Gewerbebau.Bauteilklasse": "A_Wand",
+            "Gewerbebau.Bauteilart": "Wandbekleidung",
+            "Gewerbebau.Typname": "WAN_ASW_DÄ_60"
+        }
+    },
+    "CompilationGroupID": "67c85dba88"
+}

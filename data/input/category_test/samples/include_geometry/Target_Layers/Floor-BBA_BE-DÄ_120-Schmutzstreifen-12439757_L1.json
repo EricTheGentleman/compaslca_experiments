@@ -1,0 +1,100 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Standard - Fußboden-Schmutzabstreifer",
+        "Thickness": 0.025,
+        "Thickness Unit": "METRE",
+        "Layer Number": 1
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Floor:BBA_BE-DÄ_120-Schmutzstreifen:12439757",
+            "Type": "IfcCovering",
+            "ObjectType": "Floor:BBA_BE-DÄ_120-Schmutzstreifen"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Beton - CT",
+                "Thickness": 0.06499999999999999,
+                "Thickness Unit": "METRE",
+                "Layer Number": 2
+            },
+            {
+                "Material Name": "Dämmung - Trittschall",
+                "Thickness": 0.03,
+                "Thickness Unit": "METRE",
+                "Layer Number": 3
+            }
+        ],
+        "Element Geometry Data": {
+            "Quantities (COMPAS)": {
+                "Net Volume": 1.9116,
+                "Net Volume unit": "CUBIC_METRE",
+                "Entire Surface Area": 34.0533,
+                "Entire Surface Area unit": "SQUARE_METRE"
+            },
+            "Bounding Box Dimensions (OBB - local frame)": {
+                "X": 6.0,
+                "Y": 0.12,
+                "Z": 3.86,
+                "Bounding Box Dimensions Unit": "METRE"
+            },
+            "Bounding Box Volume": 2.7792,
+            "Real Volume to Bounding Box Volume Ratio": 0.6878
+        },
+        "Element Property Sets": {
+            "Psets Element": {
+                "Reference": "BBA_BE-DÄ_120-Schmutzstreifen",
+                "Roughness": "0.3048",
+                "Category": "Floors",
+                "unter Terrain": "False",
+                "Geschoss ID": "0.0",
+                "Umfang": "18.2807",
+                "Fläche": "15.9306",
+                "Volumen": "1.9116",
+                "Dicke": "0.12",
+                "Material": "Beton - CT",
+                "Lage Aussen ": "False",
+                "Bauteilklasse": "A_Bodenaufbau",
+                "Bauteilart": "Bodenbelag",
+                "Typname": "BBA_BE-DÄ_120-Schmutzstreifen",
+                "Room Bounding": "True",
+                "Level": "0.0",
+                "Related to Mass": "False",
+                "Area": "15.9306",
+                "Elevation at Bottom": "-0.12",
+                "Perimeter": "18.2807",
+                "Thickness": "0.12",
+                "Volume": "1.9116",
+                "Workset": "A-Innenausbau",
+                "Family": "Floor",
+                "Type": "BBA_BE-DÄ_120-Schmutzstreifen",
+                "Phase Created": "Neubau",
+                "Structural": "False"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "1.0",
+                "Analytical Properties.Absorptance": "0.1",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "16.0923",
+                "Analytical Properties.Thermal Mass": "98.2215",
+                "Analytical Properties.Thermal Resistance (R)": "0.0621",
+                "Construction.Lage Aussen": "False",
+                "Construction.Function": "Interior",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Floor Types",
+                "Identity Data.Description": "Zementestrich 100, geschliffen",
+                "Identity Data.Type Name": "BBA_BE-DÄ_120-Schmutzstreifen",
+                "Layers.EN Layers and Widths": "Beton - CT 10cmDämmung - Trittschall 2cm",
+                "Materials and Finishes.Structural Material": "Beton - CT",
+                "Other.Category": "Floors",
+                "Other.Family Name": "Floor",
+                "Structural.Filter Tragend / Nichttragend": "False",
+                "Pset_ProductRequirements.Category": "Floors",
+                "Gewerbebau.Material": "Beton - CT",
+                "Gewerbebau.Bauteilklasse": "A_Bodenaufbau",
+                "Gewerbebau.Bauteilart": "Bodenbelag",
+                "Gewerbebau.Typname": "BBA_BE-DÄ_120-Schmutzstreifen"
+            }
+        }
+    },
+    "CompilationGroupID": "146e26dfee"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Basic-Wall-WAN_ASW_VKL_10-12099875",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Stahlblech, verzinkt"
+    ],
+    "reason": [
+        "metall - verzinkt tor, is metal -galvanized",
+        "stahlblech verzinkt (galvanized metal sheet) is the only material",
+        "titanium zinc sheet is not a galvanized coating, but rather zinc alloy",
+        "ifc data suggest galvanized steel"
+    ]
+}

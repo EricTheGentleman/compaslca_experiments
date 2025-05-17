@@ -1,0 +1,58 @@
+{
+    "Element Metadata": {
+        "Name": "Assembled Stair:Stair:11892954 Landing 1",
+        "Type": "IfcSlab",
+        "ObjectType": "Non-Monolithic Landing:Podest (nicht massiv)"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Gitterrost"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.04,
+            "Width unit": "METRE",
+            "Gross Volume": 0.1241,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.1241,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.1241,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 6.5533,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 3.45,
+            "Y": 0.9,
+            "Z": 0.04,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.1242,
+        "Real Volume to Bounding Box Volume Ratio": 0.9993
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Category": "Stairs: Landings",
+            "Reference": "Podest (nicht massiv)",
+            "IsExternal": "False",
+            "Typname": "Podest (nicht massiv)",
+            "Workset": "A-Innenausbau",
+            "Family": "Non-Monolithic Landing",
+            "Type": "Podest (nicht massiv)",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Stair Types",
+            "Identity Data.Type Name": "Podest (nicht massiv)",
+            "Other.Category": "Stairs: Landings",
+            "Other.Family Name": "Non-Monolithic Landing",
+            "Pset_ProductRequirements.Category": "Stairs: Landings",
+            "Gewerbebau.Typname": "Podest (nicht massiv)"
+        }
+    }
+}

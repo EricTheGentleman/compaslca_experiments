@@ -1,0 +1,76 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:AHD_DÄ_160:12312285",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:AHD_DÄ_160"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:AHD_DÄ_160",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Dämmung - weich",
+                    "Thickness": 0.16,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Roughness": "0.3048",
+            "Category": "Floors",
+            "Reference": "AHD_DÄ_160",
+            "Description": "DÄ_100",
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "ThermalTransmittance": "0.2125",
+            "Geschoss ID": "GH 0.00",
+            "Umfang": "27.13",
+            "Fläche": "4.818",
+            "Volumen": "0.7709",
+            "Dicke": "0.16",
+            "Lage Aussen ": "False",
+            "Bauteilklasse": "A_Deckenbekleidung",
+            "Bauteilart": "Deckenbekleidung",
+            "Typname": "AHD_DÄ_160",
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Level": "GH 0.00",
+            "Area": "4.818",
+            "Elevation at Bottom": "-1.16",
+            "Perimeter": "27.13",
+            "Thickness": "0.16",
+            "Volume": "0.7709",
+            "Workset": "A-Fassade",
+            "Family": "Floor",
+            "Type": "AHD_DÄ_160",
+            "Phase Created": "Neubau",
+            "Structural": "True"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "0.2125",
+            "Analytical Properties.Thermal Mass": "22.72",
+            "Analytical Properties.Thermal Resistance (R)": "4.7059",
+            "Construction.Lage Aussen": "False",
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Description": "DÄ_100",
+            "Identity Data.Type Name": "AHD_DÄ_160",
+            "Layers.EN Layers and Widths": "Dämmung - weich 14cm",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Floors",
+            "Gewerbebau.Bauteilklasse": "A_Deckenbekleidung",
+            "Gewerbebau.Bauteilart": "Deckenbekleidung",
+            "Gewerbebau.Typname": "AHD_DÄ_160"
+        }
+    },
+    "CompilationGroupID": "1bc5dc9ed6"
+}

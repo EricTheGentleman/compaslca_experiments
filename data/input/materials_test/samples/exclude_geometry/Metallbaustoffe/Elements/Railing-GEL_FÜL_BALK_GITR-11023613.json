@@ -1,0 +1,30 @@
+{
+    "Element Metadata": {
+        "Name": "Railing:GEL_FÜL_BALK_GITR:11023613",
+        "Type": "IfcRailing",
+        "ObjectType": "Railing:GEL_FÜL_BALK_GITR"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "Category": "Railings",
+            "Reference": "GEL_FÜL_BALK_GITR",
+            "IsExternal": "False",
+            "Height": "1.02",
+            "unter Terrain": "False",
+            "Geschoss ID": "1.0",
+            "Länge": "1.2",
+            "Lage Aussen ": "True",
+            "Material": "Drahtgitter verzinkt",
+            "Bauteilklasse": "A_Sicherung",
+            "Bauteilart": "Gelaender",
+            "Typname": "GEL_FÜL_BALK_GITR",
+            "Length": "1.2",
+            "Workset": "Railing Types",
+            "Family": "Railing",
+            "Type": "Holm oben 60 x 60",
+            "Phase Created": "Neubau"
+        }
+    },
+    "CompilationGroupID": "bcee518664"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Systemelement-PAN_GLAS_45---OG-11226128",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "material_entries": [
+        "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K, Dicke 40 mm",
+        "Isolierverglasung 3-fach, ESG/ESG, Ug-Wert 0.6 W/m2K",
+        "Isolierverglasung 3-fach, ESG/ESG/ESG, Ug-Wert 0.6 W/m2K",
+        "Isolierverglasung 3-fach, VSG, Ug-Wert 0.6 W/m2K",
+        "Isolierverglasung 3-fach, ESG/VSG, Ug-Wert 0.6 W/m2K"
+    ],
+    "reason": [
+        "45 mm strongly implies triple glazing"
+    ]
+}

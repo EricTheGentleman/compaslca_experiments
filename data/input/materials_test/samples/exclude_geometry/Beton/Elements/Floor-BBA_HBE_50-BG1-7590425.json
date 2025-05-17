@@ -1,0 +1,68 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:BBA_HBE_50-BG1:7590425",
+        "Type": "IfcCovering",
+        "ObjectType": "Floor:BBA_HBE_50-BG1"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:BBA_HBE_50-BG1",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Beton - CT",
+                    "Thickness": 0.05,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "BBA_HBE_50-BG1",
+            "Roughness": "0.3048",
+            "Category": "Floors",
+            "unter Terrain": "False",
+            "Geschoss ID": "Level: 00",
+            "Umfang": "77.7",
+            "Fläche": "310.1058",
+            "Volumen": "15.5053",
+            "Room Bounding": "True",
+            "Level": "Level: 00",
+            "Related to Mass": "False",
+            "Area": "310.1058",
+            "Elevation at Bottom": "-0.05",
+            "Perimeter": "77.7",
+            "Thickness": "0.05",
+            "Volume": "15.5053",
+            "Workset": "A-Innenausbau",
+            "Family": "Floor: BBA_HBE_50-BG1",
+            "Type": "Floor: BBA_HBE_50-BG1",
+            "Phase Created": "Neubau",
+            "Structural": "False"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "20.92",
+            "Analytical Properties.Thermal Mass": "7.0193",
+            "Analytical Properties.Thermal Resistance (R)": "0.0478",
+            "Construction.Lage Aussen": "False",
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Description": "Hartbeton 50",
+            "Identity Data.Type Name": "BBA_HBE_50-BG1",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Floors",
+            "Pset_QuantityTakeOff.Reference": "BBA_HBE_50-BG1",
+            "Gewerbebau.Bauteilklasse": "A_Bodenaufbau",
+            "Gewerbebau.Bauteilart": "Bodenbelag",
+            "Gewerbebau.Typname": "BBA_HBE_50-BG1"
+        }
+    },
+    "CompilationGroupID": "e0b296804e"
+}

@@ -1,0 +1,78 @@
+{
+    "Element Metadata": {
+        "Name": "STB Stütze - rechteckig:STZ_RTE_STB_450 x 450:2634854",
+        "Type": "IfcColumn",
+        "ObjectType": "STB Stütze - rechteckig:STZ_RTE_STB_450 x 450"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Betonfertigteil"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Gross Volume": 0.6784,
+            "Gross Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.6784,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 6.435,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.45,
+            "Y": 0.45,
+            "Z": 3.35,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.6784,
+        "Real Volume to Bounding Box Volume Ratio": 1.0
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "Reference": "STZ_RTE_STB_450 x 450",
+            "Category": "Structural Columns",
+            "unter Terrain": "True",
+            "Geschoss ID": "Level: 99",
+            "Volumen": "0.6784",
+            "Lage Aussen ": "False",
+            "Tragende": "True",
+            "Breite": "0.45",
+            "Dicke": "0.45",
+            "Material": "Betonfertigteil",
+            "Bauteilklasse": "A_Stuetze",
+            "Bauteilart": "Stuetze",
+            "Typname": "STZ_RTE_STB_450 x 450",
+            "Room Bounding": "True",
+            "Level": "Level: 99",
+            "Length": "3.35",
+            "Volume": "0.6784",
+            "Workset": "S-Struktur",
+            "Family": "STB Stütze - rechteckig: STZ_RTE_STB_450 x 450",
+            "Type": "STB Stütze - rechteckig: STZ_RTE_STB_450 x 450",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "False",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "STZ_RTE_STB_450 x 450",
+            "Identity Data.Workset": "Family  : Structural Columns : STB Stütze - rechteckig",
+            "Materials and Finishes.Structural Material": "Betonfertigteil",
+            "Other.Category": "Structural Columns",
+            "Other.Family Name": "STB Stütze - rechteckig",
+            "Structural.Filter Tragend / Nichttragend": "True",
+            "Pset_ProductRequirements.Category": "Structural Columns",
+            "Pset_QuantityTakeOff.Reference": "STZ_RTE_STB_450 x 450",
+            "Gewerbebau.Material": "Betonfertigteil",
+            "Gewerbebau.Bauteilklasse": "A_Stuetze",
+            "Gewerbebau.Bauteilart": "Stuetze",
+            "Gewerbebau.Typname": "STZ_RTE_STB_450 x 450"
+        }
+    },
+    "CompilationGroupID": "ec13681ed2"
+}

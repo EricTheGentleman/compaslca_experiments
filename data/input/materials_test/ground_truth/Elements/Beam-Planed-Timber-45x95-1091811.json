@@ -1,0 +1,18 @@
+{
+    "name": "Beam-Planed-Timber-45x95-1091811",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "Konstruktionsvollholz",
+        "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+        "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+        "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+        "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz"
+    ],
+    "reason": [
+        "fichte/tanne/lärche are softwoods, which are commonly used in structural applications",
+        "buche/eiche are hardwoods, used for interior finishing or furniture",
+        "both drying methods (kammergetrocknet and luftgetrocknet) are plausible for structural timber",
+        "name specifies planed timber, which indicates planed surface, which means gehobelt",
+        "vollholzhaus holzpur not chosen, because no indication that its a full wood building"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Precast-Stair-Stair-3039290-Run-1",
+    "category": "Beton",
+    "material_entries": [
+        "Betonfertigteil, hochfester Beton, ab Werk",
+        "Betonfertigteil, Normalbeton, ab Werk"
+    ],
+    "reason": [
+        "exact semantic match of betonfertigteil"
+    ]
+}

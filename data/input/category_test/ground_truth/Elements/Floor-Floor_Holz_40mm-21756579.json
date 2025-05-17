@@ -1,0 +1,19 @@
+{
+    "name": "Floor-Floor_Holz_40mm-21756579",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "3- und 5-Schicht Massivholzplatte",
+        "Brettsperrholz",
+        "Brettsperrholz, Produktion Schweiz",
+        "OSB Platte, PF-gebunden, Feuchtbereich",
+        "Spanplatte, UF-gebunden, beschichtet, Trockenbereich",
+        "Spanplatte, UF-gebunden, Trockenbereich",
+        "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+        "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ],
+    "reason": [
+        "it says floor, entity is slab",
+        "thickness specified as 4 cm, so thin and probably not loadbearing",
+        "all woodbased board products suitable for thin non structural floor layer are chosen"
+    ]
+}

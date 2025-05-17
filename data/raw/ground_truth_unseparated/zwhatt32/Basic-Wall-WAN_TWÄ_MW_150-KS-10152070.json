@@ -1,0 +1,11 @@
+{
+    "name": "Basic-Wall-WAN_TWÄ_MW_150-KS-10152070",
+    "category": "Mauersteine",
+    "material_entries": [
+        "Kalksandstein",
+        "Kalksandstein, FBB"
+    ],
+    "reason": [
+        "exact semantic match in pset and KS probably means kalksandstein"
+    ]
+}

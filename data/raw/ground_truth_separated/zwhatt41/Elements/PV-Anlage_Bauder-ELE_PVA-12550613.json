@@ -1,0 +1,9 @@
+{
+    "name": "PV-Anlage_Bauder-ELE_PVA-12550613",
+    "category": "None",
+    "material_entries": [],
+    "reason": [
+        "cannot be matched to a material (perhaps fassade or metall)",
+        "clear true negative, as there is no pv match"
+    ]
+}

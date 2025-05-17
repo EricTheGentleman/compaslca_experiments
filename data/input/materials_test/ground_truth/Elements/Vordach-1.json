@@ -1,0 +1,11 @@
+{
+    "name": "Vordach-1",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Aluminiumblech, blank"
+    ],
+    "reason": [
+        "canopy, implying flat plate like form, so might be blech",
+        "but thickness is large (10cm), which would imply a aluminum stud function"
+    ]
+}

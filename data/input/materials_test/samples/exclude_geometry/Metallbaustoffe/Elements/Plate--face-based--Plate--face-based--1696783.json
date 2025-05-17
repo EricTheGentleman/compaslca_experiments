@@ -1,0 +1,26 @@
+{
+    "Element Metadata": {
+        "Name": "Plate (face based):Plate (face based):1696783",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "Plate (face based)"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Steel"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "OmniClass Title": "",
+            "Workset": "Workset1",
+            "OmniClass Number": "",
+            "Phase Created": "New",
+            "Host": "Beam UPE : UPE270",
+            "Structural Material": "Steel",
+            "Volume": "0.0001",
+            "Reference": "Plate (face based)"
+        }
+    },
+    "CompilationGroupID": "3213930748"
+}

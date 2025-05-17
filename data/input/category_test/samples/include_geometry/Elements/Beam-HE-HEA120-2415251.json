@@ -1,0 +1,47 @@
+{
+    "Element Metadata": {
+        "Name": "Beam HE:HEA120:2415251",
+        "Type": "IfcBeam",
+        "ObjectType": "Beam HE:HEA120:2482569"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Steel"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.00372,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 0.99881,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.47,
+            "Y": 0.12,
+            "Z": 0.11,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0194,
+        "Real Volume to Bounding Box Volume Ratio": 0.19175
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "H": "114.0",
+            "OmniClass Number": "",
+            "OmniClass Title": "",
+            "Workset": "Workset1",
+            "Structural Usage": "Other",
+            "Volume": "0.0035",
+            "Length": "1467.0",
+            "Phase Created": "New",
+            "Structural Material": "Steel",
+            "Reference": "HEA120",
+            "LoadBearing": "True",
+            "IsExternal": "False",
+            "Span": "1467.0"
+        }
+    },
+    "CompilationGroupID": "79bbc6eaa2"
+}

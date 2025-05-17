@@ -1,0 +1,58 @@
+{
+    "Element Metadata": {
+        "Name": "Holz Träger - rechteckig:Holz 60 x 200:6746028",
+        "Type": "IfcBeam",
+        "ObjectType": "Holz Träger - rechteckig:Holz 60 x 200"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Holz - C 24 Cl.1"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Length": 1.438,
+            "Length unit": "METRE",
+            "Net Volume": 0.019,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.01898,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 0.83168,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.44,
+            "Y": 0.06,
+            "Z": 0.22,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.019,
+        "Real Volume to Bounding Box Volume Ratio": 0.99895
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Elevation at Bottom": "-405.0",
+            "Length": "1438.0",
+            "Volume": "0.019",
+            "Workset": "Architecture",
+            "Category": "Structural Framing",
+            "Family": "Holz Träger - rechteckig: Holz 60 x 200",
+            "Type": "Holz Träger - rechteckig: Holz 60 x 200",
+            "Phase Created": "Zu Bauen",
+            "Structural Usage": "Joist"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "Holz 60 x 200",
+            "Identity Data.Workset": "Family  : Structural Framing : Holz Träger - rechteckig",
+            "Materials and Finishes.Structural Material": "Holz - C 24 Cl.1",
+            "Other.Category": "Structural Framing",
+            "Other.Family Name": "Holz Träger - rechteckig"
+        }
+    },
+    "CompilationGroupID": "4d32a54e8e"
+}

@@ -1,0 +1,91 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Insulation / Thermal Barriers - Rigid insulation",
+        "Thickness": 0.05,
+        "Thickness Unit": "METRE",
+        "Layer Number": 3
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Wall:Exterior - Brick on Block:138062",
+            "Type": "IfcWallStandardCase",
+            "ObjectType": "Basic Wall:Exterior - Brick on Block:130892"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Masonry - Brick",
+                "Thickness": 0.092,
+                "Thickness Unit": "METRE",
+                "Layer Number": 1
+            },
+            {
+                "Material Name": "Misc. Air Layers - Air Space",
+                "Thickness": 0.025,
+                "Thickness Unit": "METRE",
+                "Layer Number": 2
+            },
+            {
+                "Material Name": "Masonry - Concrete Block",
+                "Thickness": 0.193,
+                "Thickness Unit": "METRE",
+                "Layer Number": 4
+            },
+            {
+                "Material Name": "Metal - Stud Layer",
+                "Thickness": 0.041,
+                "Thickness Unit": "METRE",
+                "Layer Number": 5
+            },
+            {
+                "Material Name": "Plasterboard",
+                "Thickness": 0.016,
+                "Thickness Unit": "METRE",
+                "Layer Number": 6
+            }
+        ],
+        "Element Geometry Data": {
+            "Quantities (COMPAS)": {
+                "Net Volume": 5.6761,
+                "Net Volume unit": "CUBIC_METRE",
+                "Entire Surface Area": 45.2172,
+                "Entire Surface Area unit": "SQUARE_METRE"
+            },
+            "Bounding Box Dimensions (OBB - local frame)": {
+                "X": 0.42,
+                "Y": 8.8,
+                "Z": 3.1,
+                "Bounding Box Dimensions Unit": "METRE"
+            },
+            "Bounding Box Volume": 11.4576,
+            "Real Volume to Bounding Box Volume Ratio": 0.4954
+        },
+        "Element Property Sets": {
+            "Psets Element": {
+                "Reference": "Reference",
+                "LoadBearing": "False",
+                "ExtendToStructure": "False",
+                "IsExternal": "True",
+                "Location Line": "2.0",
+                "Base Constraint": "Level 1",
+                "Room Bounding": "True",
+                "Related to Mass": "False",
+                "Phase Created": "New Construction",
+                "Structural Usage": "0.0",
+                "Length": "8.383",
+                "Area": "13.6118",
+                "Volume": "5.6761",
+                "Width": "0.417",
+                "Function": "1.0",
+                "Manufacturer": "Manufacturer",
+                "Color": "Color",
+                "Features": "Features",
+                "Finish": "Finish",
+                "Material": "Material",
+                "Shape": "Shape",
+                "Size": "Size",
+                "Classification Description": "Masonry Structural Walls"
+            }
+        }
+    },
+    "CompilationGroupID": "d163496a7a"
+}

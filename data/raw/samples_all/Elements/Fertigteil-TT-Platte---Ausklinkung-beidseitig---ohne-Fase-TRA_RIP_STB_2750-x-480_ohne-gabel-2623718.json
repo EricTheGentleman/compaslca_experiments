@@ -1,0 +1,264 @@
+{
+  "Element Metadata": {
+    "Name": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase:TRA_RIP_STB_2750 x 480_ohne gabel:2623718",
+    "UID": "41762",
+    "GlobalId": "1oTM$NEuH2cwWgH2c6OAcC",
+    "Type": "IfcBeam",
+    "ObjectType": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase:TRA_RIP_STB_2750 x 480_ohne gabel",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterial",
+      "Material Name": "Betonfertigteil",
+      "Material Description": "Unknown",
+      "Material Category": "Unknown",
+      "Thickness": "Unknown",
+      "Thickness unit": "Unknown"
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Length": 18.34,
+      "Length unit": "METRE",
+      "Gross Volume": 6.0889,
+      "Gross Volume unit": "CUBIC_METRE",
+      "Net Volume": 6.0889,
+      "Net Volume unit": "CUBIC_METRE"
+    },
+    "Geometric Representation": [
+      "SweptSolid",
+      "Curve2D"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 6.0889,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 133.8124,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 18.34,
+      "Y": 2.75,
+      "Z": 0.48,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 24.2088,
+    "Real Volume to Bounding Box Volume Ratio": 0.2515,
+    "Face Count (tessellated element)": {
+      "Face Count": 44
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 72
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 102
+    },
+    "Primary Object Axis (Cardinal Direction)": "E"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Reference": "TRA_RIP_STB_2750 x 480_ohne gabel",
+      "Span": "18.3400000000001",
+      "Slope": "0.0",
+      "IsExternal": "False",
+      "LoadBearing": "True",
+      "FireRating": "REI 60",
+      "Category": "Structural Framing",
+      "Geschoss ID": "01",
+      "Länge": "18.34",
+      "Volumen": "6.08888000000014",
+      "unter Terrain": "False",
+      "Breite": "2.75",
+      "Höhe ": "0.48",
+      "Lage Aussen ": "False",
+      "Tragende": "True",
+      "Ausbau": "True",
+      "Feuerwiderstandsklasse": "REI 60",
+      "Material": "Betonfertigteil",
+      "Bauteilklasse": "A_Unterzug",
+      "Bauteilart": "Unterzug",
+      "eBKP-H": "C 4.1",
+      "Typname": "TRA_RIP_STB_2750 x 480_ohne gabel",
+      "Cross-Section Rotation": "0.0",
+      "End Level Offset": "0.0",
+      "Links Fugenverkürzung": "0.0",
+      "Rechts Fugenverkürzung": "0.0",
+      "Reference Level": "Level: 01 - -0.22",
+      "Reference Level Elevation": "4.72999999999972",
+      "Start Level Offset": "0.0",
+      "Elevation at Bottom": "0.48999999999972",
+      "Elevation at Top": "4.72999999999972",
+      "Length": "18.3400000000001",
+      "Volume": "6.08888000000014",
+      "End Extension": "0.0",
+      "End Join Cutback": "0.0",
+      "Join Status": "Both joins enabled",
+      "Start Extension": "0.0",
+      "Start Join Cutback": "0.0",
+      "y Justification": "Origin",
+      "y Offset Value": "0.0",
+      "yz Justification": "Uniform",
+      "z Justification": "Top",
+      "z Offset Value": "0.0",
+      "Comments": "",
+      "Edited by": "graser@graser.ch",
+      "Workset": "S-Struktur",
+      "Family": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase: TRA_RIP_STB_2750 x 480_ohne gabel",
+      "Family and Type": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase: TRA_RIP_STB_2750 x 480_ohne gabel",
+      "Gabelhöhe Beschriftung": "0.08",
+      "Type": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase: TRA_RIP_STB_2750 x 480_ohne gabel",
+      "Type Id": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase: TRA_RIP_STB_2750 x 480_ohne gabel",
+      "Phase Created": "Neubau",
+      "Cut Length": "18.34",
+      "Enable Analytical Model": "False",
+      "Rebar Cover - Bottom Face": "Rebar Cover Settings: c=2.0cm",
+      "Rebar Cover - Other Faces": "Rebar Cover Settings: c=2.0cm",
+      "Rebar Cover - Top Face": "Rebar Cover Settings: c=2.0cm",
+      "Structural Usage": "Other",
+      "Overhead Line Links": "True",
+      "Overhead Line Rechts": "True"
+    },
+    "Psets Object Type": {
+      "Constraints.Gabelhöhe": "0.08",
+      "Constraints.Links Gabelbreite": "0.0",
+      "Constraints.Rechts Gabelbreite": "0.0",
+      "Construction.Geschoss": "False",
+      "Construction.Lage Aussen": "False",
+      "Dimensions.ar": "1.375",
+      "Dimensions.au": "1.235",
+      "Dimensions.bo": "0.14",
+      "Dimensions.bu": "0.14",
+      "Dimensions.Fase": "0.001",
+      "Dimensions.Geschossdicke": "0.06",
+      "Dimensions.Height": "0.48",
+      "Dimensions.ho": "0.08",
+      "Dimensions.hu": "0.4",
+      "Dimensions.Installationstoleranz": "0.0",
+      "Dimensions.Width": "2.75",
+      "Graphics.Schalungssymbol": "False",
+      "Identity Data.Ausbau": "True",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Basierend auf": "FDB - Fachvereinigung Deutscher Betonfertigteilbau",
+      "Identity Data.Code Name": "",
+      "Identity Data.Edited by": "graser@graser.ch",
+      "Identity Data.Fire Rating": "REI 60",
+      "Identity Data.OmniClass Number": "23.25.30.11.14.14",
+      "Identity Data.OmniClass Title": "Beams",
+      "Identity Data.Type Name": "TRA_RIP_STB_2750 x 480_ohne gabel",
+      "Identity Data.Workset": "Family  : Structural Framing : Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase",
+      "Materials and Finishes.Structural Material": "Betonfertigteil",
+      "Materials and Finishes.Überbeton Material": "Beton - Überbeton",
+      "Other.Category": "Structural Framing",
+      "Other.Family Name": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase",
+      "Other.L1": "0.48",
+      "Other.L2": "0.0",
+      "Other.L3": "0.025",
+      "Other.Schalungssymbol Versatz": "0.0",
+      "Other.Schnitt Gabel": "False",
+      "Other.Schnitt Mitte Breite": "0.15",
+      "Other.Schnitt S1 Mitte": "False",
+      "Other.Schnitt S1 Seite": "False",
+      "Other.Schnitt S2 Mitte": "False",
+      "Other.Schnitt S2 Seite": "False",
+      "Other.Schnitt Seite Breite": "0.0500000000000006",
+      "Other.Verbreiterung S1": "0.0",
+      "Other.Verbreiterung S2": "0.0",
+      "Structural.Filter Tragend / Nichttragend": "True",
+      "Structural.Section Shape": "0",
+      "Visibility.Location Line - Abstand Seite Links": "2.52",
+      "Visibility.Location Line - Abstand Seite Rechts": "2.52",
+      "Visibility.Location Line - Längsträger Breite": "0.3",
+      "Visibility.Location Line projizieren": "4.0",
+      "Pset_BeamCommon.Reference": "TRA_RIP_STB_2750 x 480_ohne gabel",
+      "Pset_BeamCommon.IsExternal": "False",
+      "Pset_BeamCommon.LoadBearing": "True",
+      "Pset_BeamCommon.FireRating": "REI 60",
+      "Pset_ConcreteElementGeneral.FireRating": "REI 60",
+      "Pset_ProductRequirements.Category": "Structural Framing",
+      "Pset_QuantityTakeOff.Reference": "TRA_RIP_STB_2750 x 480_ohne gabel",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "TRA_RIP_STB_2750 x 480_ohne gabel",
+      "Gewerbebau.Lage Aussen ": "False",
+      "Gewerbebau.Tragende": "True",
+      "Gewerbebau.Ausbau": "True",
+      "Gewerbebau.Breite": "2.75",
+      "Gewerbebau.Höhe ": "0.48",
+      "Gewerbebau.Feuerwiderstandsklasse": "REI 60",
+      "Gewerbebau.Material": "Betonfertigteil",
+      "Gewerbebau.Bauteilklasse": "A_Unterzug",
+      "Gewerbebau.Bauteilart": "Unterzug",
+      "Gewerbebau.eBKP-H": "C 4.1",
+      "Gewerbebau.Typname": "TRA_RIP_STB_2750 x 480_ohne gabel"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "98": {
+        "Elevation": -6.67,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.8,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 4.95,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.85,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.75,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.65,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.55,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.45,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "01",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "01",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "af9e165982"
+}

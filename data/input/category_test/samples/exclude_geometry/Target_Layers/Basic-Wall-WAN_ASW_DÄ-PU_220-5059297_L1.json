@@ -1,0 +1,77 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Putz",
+        "Thickness": 0.02,
+        "Thickness Unit": "METRE",
+        "Layer Number": 1
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Wall:WAN_ASW_DÄ-PU_220:5059297",
+            "Type": "IfcWallStandardCase",
+            "ObjectType": "Basic Wall:WAN_ASW_DÄ-PU_220"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Dämmung - weich",
+                "Thickness": 0.2,
+                "Thickness Unit": "METRE",
+                "Layer Number": 2
+            }
+        ],
+        "Element Property Sets": {
+            "Psets Element": {
+                "Room Bounding": "True",
+                "Related to Mass": "False",
+                "Base Constraint": "Level: 06",
+                "Location Line": "Finish Face: Exterior",
+                "Area": "36.5472",
+                "Length": "77.54",
+                "Volume": "8.0404",
+                "unter Terrain": "False",
+                "Workset": "A-Fassade",
+                "Category": "Walls",
+                "Family": "Basic Wall: WAN_ASW_DÄ-PU_220",
+                "Type": "Basic Wall: WAN_ASW_DÄ-PU_220",
+                "Phase Created": "Neubau",
+                "Structural": "False",
+                "Structural Usage": "Non-bearing",
+                "Roughness": "0.3048",
+                "Reference": "WAN_ASW_DÄ-PU_220",
+                "Description": "Leichtbeton_300",
+                "IsExternal": "True",
+                "ExtendToStructure": "False",
+                "LoadBearing": "False",
+                "ThermalTransmittance": "0.17",
+                "Geschoss ID": "Level: 06",
+                "Länge": "77.54",
+                "Fläche": "36.5472",
+                "Volumen": "8.0404"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "1.0",
+                "Analytical Properties.Absorptance": "0.1",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "0.17",
+                "Analytical Properties.Thermal Mass": "2.6384",
+                "Analytical Properties.Thermal Resistance (R)": "5.8824",
+                "Construction.Function": "Exterior",
+                "Construction.Lage Aussen": "True",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Wall Types",
+                "Identity Data.Description": "Leichtbeton_300",
+                "Identity Data.Type Name": "WAN_ASW_DÄ-PU_220",
+                "Other.Category": "Walls",
+                "Other.Family Name": "Basic Wall",
+                "Structural.Filter Tragend / Nichttragend": "False",
+                "Pset_ProductRequirements.Category": "Walls",
+                "Pset_QuantityTakeOff.Reference": "WAN_ASW_DÄ-PU_220",
+                "Pset_WallCommon.IsExternal": "False",
+                "Pset_WallCommon.ThermalTransmittance": "0.17",
+                "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+                "Gewerbebau.Bauteilart": "Fassadenbekleidung",
+                "Gewerbebau.Typname": "WAN_ASW_DÄ-PU_220"
+            }
+        }
+    },
+    "CompilationGroupID": "58e8ef5cad"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Floor-AHD_DÄ_160-12312285",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Flachsfasern",
+        "Flachsfasern, MAGRIPOL, Premium",
+        "Flachsfasern, feuerfest",
+        "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+        "Glaswolle",
+        "Glaswolle, Isover, phenolbasiertes Bindemittel",
+        "Glaswolle, Isover, pflanzliches Bindemittel",
+        "Glaswolle, SUPAFIL",
+        "Korkplatte",
+        "Steinwolle",
+        "Steinwolle, Flumroc",
+        "Weichfaserplatte",
+        "Zellulosefasern",
+        "Zellulosefasern, Isofloc"
+    ],
+    "reason": [
+        "thickness 16cm, soft compressible thermal insulation",
+        "assigned all viable entries that suit the description"
+    ]
+}

@@ -1,0 +1,241 @@
+{
+  "Element Metadata": {
+    "Name": "Floor:AHD_DÄ_160:12312285",
+    "UID": "784047",
+    "GlobalId": "13ClohEWLFVgdmYc4f$mmV",
+    "Type": "IfcSlab",
+    "ObjectType": "Floor:AHD_DÄ_160",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Floor:AHD_DÄ_160",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layers": [
+        {
+          "IfcEntity": "IfcMaterialLayer",
+          "Material Name": "Dämmung - weich",
+          "Description": "Unknown",
+          "Category": "Unknown",
+          "Thickness": 0.16,
+          "Thickness unit": "METRE"
+        }
+      ]
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Width": 0.16,
+      "Width unit": "METRE",
+      "Gross Volume": 0.7709,
+      "Gross Volume unit": "CUBIC_METRE",
+      "Net Volume": 0.7709,
+      "Net Volume unit": "CUBIC_METRE"
+    },
+    "Geometric Representation": [
+      "SweptSolid"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.7709,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 13.9768,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 13.2,
+      "Y": 0.36,
+      "Z": 0.16,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.7603,
+    "Real Volume to Bounding Box Volume Ratio": 1.0139,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "N"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Roughness": "0.3048",
+      "Category": "Floors",
+      "Reference": "AHD_DÄ_160",
+      "Description": "DÄ_100",
+      "IsExternal": "False",
+      "LoadBearing": "True",
+      "PitchAngle": "0.0",
+      "ThermalTransmittance": "0.2125",
+      "Geschoss ID": "GH 0.00",
+      "Umfang": "27.129999999999477",
+      "Fläche": "4.817999999999601",
+      "Volumen": "0.7708799999999362",
+      "Dicke": "0.16",
+      "Lage Aussen ": "False",
+      "Ausbau": "False",
+      "Tragende Funktion": "False",
+      "Liegenschaft ID": "72557",
+      "Gebäude ID": "GG",
+      "Bauteilklasse": "A_Deckenbekleidung",
+      "Bauteilart": "Deckenbekleidung",
+      "eBKP-H": "G 4.2",
+      "Typname": "AHD_DÄ_160",
+      "Room Bounding": "True",
+      "Related to Mass": "False",
+      "Height Offset From Level": "-0.7499999999999999",
+      "Level": "GH 0.00",
+      "Area": "4.817999999999601",
+      "Core Thickness": "0.16000000000000003",
+      "Elevation at Bottom": "-1.1600000000002788",
+      "Elevation at Bottom Core": "-1.1600000000002788",
+      "Elevation at Bottom Survey": "-1.1600000000002788",
+      "Elevation at Top": "-1.0000000000002789",
+      "Elevation at Top Core": "-1.0000000000002789",
+      "Elevation at Top Survey": "-1.0000000000002789",
+      "Perimeter": "27.129999999999477",
+      "Thickness": "0.16",
+      "Volume": "0.7708799999999362",
+      "Edited by": "",
+      "Comments": "",
+      "Workset": "A-Fassade",
+      "Family": "Floor",
+      "Family and Type": "Floor: AHD_DÄ_160",
+      "Type": "AHD_DÄ_160",
+      "Type Id": "12313546",
+      "Phase Created": "Neubau",
+      "Enable Analytical Model": "False",
+      "Rebar Cover - Bottom Face": "c=2.0cm <2.0 cm",
+      "Rebar Cover - Other Faces": "c=2.0cm <2.0 cm",
+      "Rebar Cover - Top Face": "c=2.0cm <2.0 cm",
+      "Structural": "True"
+    },
+    "Psets Object Type": {
+      "Analytical Properties.Roughness": "1",
+      "Analytical Properties.Absorptance": "0.1",
+      "Analytical Properties.Heat Transfer Coefficient (U)": "0.2125",
+      "Analytical Properties.Thermal Mass": "22.720000000000002",
+      "Analytical Properties.Thermal Resistance (R)": "4.705882352941177",
+      "Construction.Lage Aussen": "False",
+      "Construction.Function": "Interior",
+      "Construction.Default Thickness": "0.16",
+      "General.Gebäudenummer": "72557",
+      "General.Standortcode": "GG",
+      "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+      "Graphics.Coarse Scale Fill Color": "12632256",
+      "Identity Data.Edited by": "",
+      "Identity Data.Ausbau": "False",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Type Comments": "",
+      "Identity Data.Workset": "Floor Types",
+      "Identity Data.Description": "DÄ_100",
+      "Identity Data.Type Name": "AHD_DÄ_160",
+      "Layers.EN Layers": "Dämmung - weich",
+      "Layers.EN Layers and Widths": "Dämmung - weich 14cm",
+      "Layers.EN Type String": "<L><M>Dämmung - weich</M><T>14</T></L",
+      "Layers.EN Widths": "14cm",
+      "Other.Category": "Floors",
+      "Other.Family Name": "Floor",
+      "Structural.Filter Tragend / Nichttragend": "False",
+      "Pset_ElementShading.Roughness": "0.3048",
+      "Pset_ProductRequirements.Category": "Floors",
+      "Pset_ReinforcementBarPitchOfSlab.Description": "DÄ_100",
+      "Pset_SlabCommon.IsExternal": "False",
+      "Pset_SlabCommon.ThermalTransmittance": "0.2125",
+      "Gewerbebau.Dicke": "0.16",
+      "Gewerbebau.Lage Aussen ": "False",
+      "Gewerbebau.Ausbau": "False",
+      "Gewerbebau.Tragende Funktion": "False",
+      "Gewerbebau.Liegenschaft ID": "72557",
+      "Gewerbebau.Gebäude ID": "GG",
+      "Gewerbebau.Bauteilklasse": "A_Deckenbekleidung",
+      "Gewerbebau.Bauteilart": "Deckenbekleidung",
+      "Gewerbebau.eBKP-H": "G 4.2",
+      "Gewerbebau.Typname": "AHD_DÄ_160"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "99",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "99",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "1bc5dc9ed6"
+}

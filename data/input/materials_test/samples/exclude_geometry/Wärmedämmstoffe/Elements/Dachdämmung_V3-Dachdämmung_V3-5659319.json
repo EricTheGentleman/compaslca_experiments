@@ -1,0 +1,35 @@
+{
+    "Element Metadata": {
+        "Name": "Dachdämmung_V3:Dachdämmung_V3:5659319",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "Dachdämmung_V3:Dachdämmung_V3"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Material 2"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "Level: 00_Eingang",
+            "Elevation from Level": "0.0",
+            "Host": "Level : 00_Eingang",
+            "Area": "77.7005",
+            "Workset": "Dachkonstruktion",
+            "Category": "Generic Models",
+            "Family": "Dachdämmung_V3: Dachdämmung_V3",
+            "Type": "Dachdämmung_V3: Dachdämmung_V3",
+            "Phase Created": "Zu Bauen"
+        },
+        "Psets Object Type": {
+            "Data.Unternehmer": "Kaufmann",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "Dachdämmung_V3",
+            "Identity Data.Workset": "Family  : Generic Models : Dachdämmung_V3",
+            "Other.Category": "Generic Models",
+            "Other.Family Name": "Dachdämmung_V3"
+        }
+    }
+}

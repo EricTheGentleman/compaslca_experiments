@@ -1,0 +1,58 @@
+{
+    "Element Metadata": {
+        "Name": "Pfosten rechteckig:Forster 60 x 90 - Nur Pfosten:2355404",
+        "Type": "IfcMember",
+        "ObjectType": "Pfosten rechteckig:Forster 60 x 90 - Nur Pfosten"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Stahl, 45-34, Pulverbeschichtung schwarz"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Length": 0.51,
+            "Length unit": "METRE",
+            "Net Volume": 0.0028,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.00275,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 0.1638,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.09,
+            "Y": 0.51,
+            "Z": 0.06,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0028,
+        "Real Volume to Bounding Box Volume Ratio": 0.98214
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "Level: 01_Brüstung",
+            "Area": "0.0819",
+            "Length": "510.0",
+            "Volume": "0.0028",
+            "Workset": "Architecture",
+            "Category": "Curtain Wall Mullions",
+            "Family": "Pfosten rechteckig: Forster 60 x 90 - Nur Pfosten",
+            "Type": "Pfosten rechteckig: Forster 60 x 90 - Nur Pfosten",
+            "Phase Created": "Zu Bauen"
+        },
+        "Psets Object Type": {
+            "Construction.Profile": "ForsterPfosten_OhneDeckprofil: Forster Variotherm - 60 x 90",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Workset": "Family  : Curtain Wall Mullions : Pfosten rechteckig",
+            "Identity Data.Type Name": "Forster 60 x 90 - Nur Pfosten",
+            "Other.Category": "Curtain Wall Mullions",
+            "Other.Family Name": "Pfosten rechteckig"
+        }
+    },
+    "CompilationGroupID": "883fcab506"
+}

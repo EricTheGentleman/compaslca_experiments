@@ -1,0 +1,17 @@
+{
+    "name": "Basic-Wall-WAT_KWA_STB_785-7556581",
+    "category": "Beton",
+    "material_entries": [
+        "Hochbaubeton (ohne Bewehrung)",
+        "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "reason": [
+        "loadbearing interior wall below ground",
+        "bbox dimensions (0.78) and name description (785) seem to indicate thickness of 78cm",
+        "similar as before, concrete with high cement mix are prefered"
+    ]
+}

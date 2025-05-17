@@ -1,0 +1,137 @@
+{
+  "Element Metadata": {
+    "Name": "Holz Träger - rechteckig:Holz 60 x 160:22007091",
+    "UID": "20920",
+    "GlobalId": "1u5RtdMo10D8OFJZQ85EGf",
+    "Type": "IfcBeam",
+    "ObjectType": "Holz Träger - rechteckig:Holz 60 x 160",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": "Not defined",
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Length": 3.86,
+      "Length unit": "METRE",
+      "Gross Volume": 0.0371,
+      "Gross Volume unit": "CUBIC_METRE",
+      "Net Volume": 0.0371,
+      "Net Volume unit": "CUBIC_METRE"
+    },
+    "Geometric Representation": [
+      "Curve2D",
+      "SweptSolid"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.0371,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 1.7176,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 0.06,
+      "Y": 0.16,
+      "Z": 3.86,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.0371,
+    "Real Volume to Bounding Box Volume Ratio": 0.9988,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "Undefined"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "IsExternal": "False",
+      "Reference": "Holz 60 x 160",
+      "Span": "3.66",
+      "Slope": "0.0",
+      "LoadBearing": "True"
+    },
+    "Psets Object Type": {}
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00_FB Mieter": {
+        "Elevation": -0.02,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01_FB Mieter": {
+        "Elevation": 5.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02_FB Mieter": {
+        "Elevation": 8.85,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "Unknown",
+    "Spatial Relationship": [
+      {
+        "name": "Unknown",
+        "type": "Unknown"
+      }
+    ]
+  },
+  "CompilationGroupID": "99b21853bd"
+}

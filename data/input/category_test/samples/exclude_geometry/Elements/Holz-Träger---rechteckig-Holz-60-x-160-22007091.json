@@ -1,0 +1,17 @@
+{
+    "Element Metadata": {
+        "Name": "Holz Träger - rechteckig:Holz 60 x 160:22007091",
+        "Type": "IfcBeam",
+        "ObjectType": "Holz Träger - rechteckig:Holz 60 x 160"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "False",
+            "Reference": "Holz 60 x 160",
+            "Span": "3.66",
+            "LoadBearing": "True"
+        }
+    },
+    "CompilationGroupID": "99b21853bd"
+}

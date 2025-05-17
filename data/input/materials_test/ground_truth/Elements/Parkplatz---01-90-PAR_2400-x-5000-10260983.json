@@ -1,0 +1,13 @@
+{
+    "name": "Parkplatz---01-90-PAR_2400-x-5000-10260983",
+    "category": "Anstrichstoffe, Beschichtungen",
+    "material_entries": [
+        "Anstrich, lösemittelverdünnbar, 2 Anstriche",
+        "Anstrich, wasserverdünnbar, 2 Anstriche"
+    ],
+    "reason": [
+        "farbe is normally angestrichen",
+        "not specified if soluable in water or lösemittel",
+        "therefore all anstrich options are matched"
+    ]
+}

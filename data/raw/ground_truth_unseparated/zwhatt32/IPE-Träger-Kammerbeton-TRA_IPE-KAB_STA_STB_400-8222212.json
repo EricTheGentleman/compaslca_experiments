@@ -1,0 +1,8 @@
+{
+    "name": "IPE-Träger-Kammerbeton-TRA_IPE-KAB_STA_STB_400-8222212",
+    "category": "Beton",
+    "material_entries": [],
+    "reason": [
+        "says beton in material descriptor, but no compound with kammerbeton in kbob"
+    ]
+}

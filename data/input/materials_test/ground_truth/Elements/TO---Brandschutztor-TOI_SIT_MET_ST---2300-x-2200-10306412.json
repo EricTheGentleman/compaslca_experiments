@@ -1,0 +1,11 @@
+{
+    "name": "TO---Brandschutztor-TOI_SIT_MET_ST---2300-x-2200-10306412",
+    "category": "Türen",
+    "material_entries": [
+        "Innentüre, Funktionstüre, Holz, Stahlzarge"
+    ],
+    "reason": [
+        "brandschutztor = funktionstüre",
+        "MET might imply metal (probably does)"
+    ]
+}

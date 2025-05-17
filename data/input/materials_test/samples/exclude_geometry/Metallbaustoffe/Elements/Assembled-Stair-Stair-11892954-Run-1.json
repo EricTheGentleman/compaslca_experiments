@@ -1,0 +1,42 @@
+{
+    "Element Metadata": {
+        "Name": "Assembled Stair:Stair:11892954 Run 1",
+        "Type": "IfcStairFlight",
+        "ObjectType": "Non-Monolithic Run:Stahl_40 mm Auftritt"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Gitterrost-Treppe"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Category": "Stairs: Runs",
+            "Reference": "Stahl_40 mm Auftritt",
+            "Breite": "1.0",
+            "Typname": "Stahl_40 mm Auftritt",
+            "Location Line": "Run: Right",
+            "Actual Number of Risers": "3.0",
+            "Actual Number of Treads": "2.0",
+            "Actual Riser Height": "0.2",
+            "Actual Run Width": "1.0",
+            "Actual Tread Depth": "0.25",
+            "Workset": "A-Innenausbau",
+            "Family": "Non-Monolithic Run",
+            "Type": "Stahl_40 mm Auftritt",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Stair Types",
+            "Identity Data.Type Name": "Stahl_40 mm Auftritt",
+            "Materials and Finishes.Tread Material": "Gitterrost-Treppe",
+            "Other.Category": "Stairs: Runs",
+            "Other.Family Name": "Non-Monolithic Run",
+            "Pset_ProductRequirements.Category": "Stairs: Runs",
+            "Gewerbebau.Typname": "Stahl_40 mm Auftritt"
+        }
+    },
+    "CompilationGroupID": "984fe78def"
+}

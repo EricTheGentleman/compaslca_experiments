@@ -1,0 +1,42 @@
+{
+    "Element Metadata": {
+        "Name": "STB Stütze - rechteckig:STB 500 x 500:2623790",
+        "Type": "IfcColumn",
+        "ObjectType": "STB Stütze - rechteckig:STB 500 x 500"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Betonfertigteil vertikal"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.7875,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 6.8,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.71,
+            "Y": 3.15,
+            "Z": 0.71,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 1.5879,
+        "Real Volume to Bounding Box Volume Ratio": 0.4959
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "Reference": "STB 500 x 500",
+            "Category": "Structural Columns"
+        },
+        "Psets Object Type": {
+            "Pset_ProductRequirements.Category": "Structural Columns",
+            "Pset_QuantityTakeOff.Reference": "STB 500 x 500"
+        }
+    },
+    "CompilationGroupID": "a59e4c2696"
+}

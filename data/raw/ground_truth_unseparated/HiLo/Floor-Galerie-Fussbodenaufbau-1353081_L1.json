@@ -1,0 +1,11 @@
+{
+    "name": "Floor-Galerie-Fussbodenaufbau-1353081_L1",
+    "category": "Bodenbeläge",
+    "material_entries": [
+        "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm"
+    ],
+    "reason": [
+        "very similar semantic match",
+        "problem discrepancy between 4mm (element) and 2mm (material entry)"
+    ]
+}

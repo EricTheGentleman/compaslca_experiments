@@ -1,0 +1,18 @@
+{
+    "Element Metadata": {
+        "Name": "",
+        "Type": "IfcRailing"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Stahl"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Height": "0.8",
+            "IsExternal": "True"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Floor-AHD_DÄ_90-13984336",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Glaswolle",
+        "Glaswolle, Isover, phenolbasiertes Bindemittel",
+        "Glaswolle, Isover, pflanzliches Bindemittel",
+        "Glaswolle, SUPAFIL",
+        "Steinwolle",
+        "Steinwolle, Flumroc",
+        "Weichfaserplatte",
+        "Zellulosefasern",
+        "Zellulosefasern, Isofloc",
+        "Flachsfasern",
+        "Flachsfasern, MAGRIPOL, Premium",
+        "Flachsfasern, feuerfest",
+        "Flachsfasern, feuerfest, MAGRIPOL, Premium+"
+    ],
+    "reason": [
+        "deep inside of the ObjectType psets it says Dämmung - weich",
+        "also DÄ alludes to dämmung as abbreviation",
+        "it is nonstructural floor (deckenbekleidung)",
+        "it is interior"
+    ]
+}

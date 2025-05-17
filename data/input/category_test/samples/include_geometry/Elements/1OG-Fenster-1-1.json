@@ -1,0 +1,29 @@
+{
+    "Element Metadata": {
+        "Name": "1OG-Fenster-1-1",
+        "Type": "IfcWindow"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0549,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 6.1912,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.05,
+            "Y": 0.21,
+            "Z": 1.76,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.3881,
+        "Real Volume to Bounding Box Volume Ratio": 0.1414
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "True",
+            "ThermalTransmittance": "1.4"
+        }
+    }
+}

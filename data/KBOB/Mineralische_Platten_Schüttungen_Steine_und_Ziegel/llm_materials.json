@@ -1,0 +1,26 @@
+{
+  "material_options": [
+    "Betongranulat",
+    "Betonziegel",
+    "Faserzement-Dachschindel",
+    "Faserzement-Wellplatte",
+    "Faserzementplatte gross",
+    "Flachglas beschichtet",
+    "Flachglas unbeschichtet",
+    "Gips-Wandbauplatte / Vollgipsplatte",
+    "Gipsfaserplatte",
+    "Gipsfaserplatte Fermacell",
+    "Gipskartonplatte",
+    "Glasfaserbeton Ecomur",
+    "Hartsandsteinplatte",
+    "Kalksteinplatte",
+    "Keramik-/Steinzeugplatte",
+    "Kies gebrochen",
+    "Mischgranulat",
+    "Rundkies",
+    "Sand",
+    "Sanitärkeramik",
+    "Stampflehm",
+    "Tonziegel"
+  ]
+}

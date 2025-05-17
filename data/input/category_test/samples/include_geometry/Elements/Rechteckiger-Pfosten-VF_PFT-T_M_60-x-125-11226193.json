@@ -1,0 +1,71 @@
+{
+    "Element Metadata": {
+        "Name": "Rechteckiger Pfosten:VF_PFT T_M_60 x 125:11226193",
+        "Type": "IfcMember",
+        "ObjectType": "Rechteckiger Pfosten:VF_PFT T_M_60 x 125"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Aluminum"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Length": 1.315,
+            "Length unit": "METRE",
+            "Net Volume": 0.0045,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0045,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 0.5722,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.12,
+            "Y": 1.31,
+            "Z": 0.06,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0094,
+        "Real Volume to Bounding Box Volume Ratio": 0.4756
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "3.0",
+            "unter Terrain": "False",
+            "Area": "0.2861",
+            "Length": "1.315",
+            "Volume": "0.0045",
+            "Workset": "A-Fassade",
+            "Category": "Curtain Wall Mullions",
+            "Family": "Rechteckiger Pfosten",
+            "Type": "VF_PFT T_M_60 x 125",
+            "Phase Created": "Neubau",
+            "IsExternal": "False",
+            "Reference": "VF_PFT T_M_60 x 125",
+            "Span": "1.315",
+            "Lage Aussen ": "True",
+            "Bauteilklasse": "A_Fassadenbekleidung",
+            "Bauteilart": "Fassadenelement",
+            "Typname": "VF_PFT T_M_60 x 125"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "True",
+            "Construction.Profile": "Vorhangfassade Pfost Mitte T : 60 x 125",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Workset": "Family  : Curtain Wall Mullions : Rechteckiger Pfosten",
+            "Identity Data.Type Name": "VF_PFT T_M_60 x 125",
+            "Other.Category": "Curtain Wall Mullions",
+            "Other.Family Name": "Rechteckiger Pfosten",
+            "Pset_ProductRequirements.Category": "Curtain Wall Mullions",
+            "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+            "Gewerbebau.Bauteilart": "Fassadenelement",
+            "Gewerbebau.Typname": "VF_PFT T_M_60 x 125"
+        }
+    },
+    "CompilationGroupID": "ca0f203228"
+}

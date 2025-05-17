@@ -1,0 +1,87 @@
+{
+  "total_files": 191,
+  "metrics": {
+    "jaccard_index": {
+      "mean": 0.6561,
+      "variance": 0.137884,
+      "std_dev": 0.3713,
+      "min": 0.0,
+      "max": 1.0,
+      "count_perfect": 86,
+      "count_zero": 23,
+      "count": 191
+    },
+    "precision": {
+      "mean": 0.7281,
+      "variance": 0.137894,
+      "std_dev": 0.3713,
+      "min": 0.0,
+      "max": 1.0,
+      "count_perfect": 111,
+      "count_zero": 23,
+      "count": 191
+    },
+    "recall": {
+      "mean": 0.7752,
+      "variance": 0.127124,
+      "std_dev": 0.3565,
+      "min": 0.0,
+      "max": 1.0,
+      "count_perfect": 123,
+      "count_zero": 23,
+      "count": 191
+    },
+    "f1_score": {
+      "mean": 0.7167,
+      "variance": 0.119315,
+      "std_dev": 0.3454,
+      "min": 0.0,
+      "max": 1.0,
+      "count_perfect": 86,
+      "count_zero": 23,
+      "count": 191
+    },
+    "f0.5_score": {
+      "mean": 0.7155,
+      "variance": 0.125703,
+      "std_dev": 0.3545,
+      "min": 0.0,
+      "max": 1.0,
+      "count_perfect": 86,
+      "count_zero": 23,
+      "count": 191
+    }
+  },
+  "success_f1_summary": {
+    "count_success": 119,
+    "count_failure": 72,
+    "ratio_success": 0.623,
+    "ratio_failure": 0.377,
+    "mean_success": 0.623
+  },
+  "success_f05_summary": {
+    "count_success": 129,
+    "count_failure": 62,
+    "ratio_success": 0.6754,
+    "ratio_failure": 0.3246,
+    "mean_success": 0.6754
+  },
+  "llm_metadata_summary": {
+    "total_completion_tokens": 26224,
+    "average_completion_tokens": 137.2984,
+    "total_prompt_tokens": 281889,
+    "average_prompt_tokens": 1475.8586,
+    "total_total_tokens": 308113,
+    "average_total_tokens": 1613.1571,
+    "total_processing_time_sec": 494.459,
+    "average_processing_time_sec": 2.5888,
+    "total_inference_cost_usd": 1.9339,
+    "average_inference_cost_usd": 0.0101,
+    "unique_companies": [
+      "OpenAI"
+    ],
+    "unique_models": [
+      "gpt-4o"
+    ]
+  }
+}

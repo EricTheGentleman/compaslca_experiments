@@ -1,0 +1,235 @@
+{
+  "Target Layer of Material Inference": {
+    "Material Name": "Trockenbau - Gipsplatte",
+    "Thickness": 0.025,
+    "Thickness Unit": "METRE",
+    "Layer Number": 1
+  },
+  "Building Element Context": {
+    "Element Metadata": {
+      "Name": "Basic Wall:WAN_TWÄ_GK_100_VS:4246877",
+      "UID": "149230",
+      "GlobalId": "1p0YPyIMn5N94JMlPdfXHj",
+      "Type": "IfcWallStandardCase",
+      "ObjectType": "Basic Wall:WAN_TWÄ_GK_100_VS",
+      "Classification": "Not defined",
+      "Decomposes": {},
+      "Is Decomposed By": []
+    },
+    "Other Material Layers": [
+      {
+        "Material Name": "Dämmung - weich",
+        "Thickness": 0.075,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+      }
+    ],
+    "Layer Set Metadata": {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Basic Wall:WAN_TWÄ_GK_100_VS",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layer Direction and Growth description": "Layers are stacked perpendicular to the element's length, defining its thickness."
+    },
+    "Element Geometry Data": {
+      "Quantities (IFC)": {
+        "Width": 0.1,
+        "Width unit": "METRE",
+        "Length": 1.88,
+        "Length unit": "METRE",
+        "Height": 4.7,
+        "Height unit": "METRE",
+        "Net Side Area": 8.836,
+        "Net Side Area unit": "SQUARE_METRE",
+        "Gross Footprint Area": 0.188,
+        "Gross Footprint Area unit": "SQUARE_METRE",
+        "Net Volume": 0.8836,
+        "Net Volume unit": "CUBIC_METRE"
+      },
+      "Geometric Representation": [
+        "SweptSolid",
+        "Curve2D"
+      ],
+      "Quantities (COMPAS)": {
+        "Net Volume": 0.8836,
+        "Net Volume unit": "CUBIC_METRE",
+        "Entire Surface Area": 18.988,
+        "Entire Surface Area unit": "SQUARE_METRE"
+      },
+      "Bounding Box Dimensions (OBB - local frame)": {
+        "X": 0.1,
+        "Y": 1.88,
+        "Z": 4.7,
+        "Bounding Box Dimensions Unit": "METRE"
+      },
+      "Bounding Box Volume": 0.8836,
+      "Real Volume to Bounding Box Volume Ratio": 1.0,
+      "Face Count (tessellated element)": {
+        "Face Count": 12
+      },
+      "Vertex Count (tessellated element)": {
+        "Vertex Count": 24
+      },
+      "Edge Count (tessellated element)": {
+        "Edge Count": 30
+      },
+      "Primary Object Axis (Cardinal Direction)": "N"
+    },
+    "Element Property Sets": {
+      "Psets Element": {
+        "Room Bounding": "True",
+        "Related to Mass": "False",
+        "Base Extension Distance": "0.0",
+        "Base is Attached": "False",
+        "Cross-Section": "Vertical",
+        "Top Extension Distance": "0.0",
+        "Location Line": "Finish Face: Interior",
+        "Top is Attached": "False",
+        "Base Constraint": "Level: 00",
+        "Top Constraint": "Level: 01",
+        "Base Offset": "-0.05",
+        "Top Offset": "-0.3",
+        "Unconnected Height": "4.7",
+        "Area": "8.83599999639571",
+        "Length": "1.87999999923313",
+        "Volume": "0.8835999996396",
+        "unter Terrain": "False",
+        "Workset": "A-Innenausbau",
+        "Edited by": "graser@graser.ch",
+        "Category": "Walls",
+        "Family": "Basic Wall: WAN_TWÄ_GK_100_VS",
+        "Family and Type": "Basic Wall: WAN_TWÄ_GK_100_VS",
+        "Type": "Basic Wall: WAN_TWÄ_GK_100_VS",
+        "Type Id": "Basic Wall: WAN_TWÄ_GK_100_VS",
+        "Phase Created": "Neubau",
+        "Enable Analytical Model": "False",
+        "Structural": "False",
+        "Structural Usage": "Non-bearing",
+        "FireRating": "REI 60-RF1",
+        "Roughness": "0.3048",
+        "Reference": "WAN_TWÄ_GK_100_VS",
+        "Description": "GK_VS_100",
+        "IsExternal": "False",
+        "ExtendToStructure": "False",
+        "LoadBearing": "False",
+        "ThermalTransmittance": "0.445564516129032",
+        "Geschoss ID": "Level: 00",
+        "Höhe": "4.7",
+        "Länge": "1.87999999923313",
+        "Fläche": "8.83599999639571",
+        "Volumen": "0.8835999996396"
+      },
+      "Psets Object Type": {
+        "Analytical Properties.Roughness": "1",
+        "Analytical Properties.Absorptance": "0.1",
+        "Analytical Properties.Heat Transfer Coefficient (U)": "0.445564516129032",
+        "Analytical Properties.Thermal Mass": "3.1354776",
+        "Analytical Properties.Thermal Resistance (R)": "2.24434389140271",
+        "Construction.Lage Aussen": "False",
+        "Construction.Function": "Interior",
+        "Construction.Wrapping at Ends": "None",
+        "Construction.Wrapping at Inserts": "Do not wrap",
+        "Construction.Width": "0.1",
+        "General.Gebäudenummer": "72557",
+        "General.Standortcode": "GG",
+        "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+        "Graphics.Coarse Scale Fill Color": "16777215",
+        "Identity Data.Ausbau": "True",
+        "Identity Data.Assembly Code": "",
+        "Identity Data.Assembly Description": "",
+        "Identity Data.Type Comments": "",
+        "Identity Data.Workset": "Wall Types",
+        "Identity Data.Description": "GK_VS_100",
+        "Identity Data.Edited by": "graser@graser.ch",
+        "Identity Data.Fire Rating": "REI 60-RF1",
+        "Identity Data.Type Name": "WAN_TWÄ_GK_100_VS",
+        "Materials and Finishes.Structural Material": "Dämmung - weich",
+        "Other.Category": "Walls",
+        "Other.Family Name": "Basic Wall",
+        "Structural.Filter Tragend / Nichttragend": "False",
+        "Pset_ConcreteElementGeneral.FireRating": "REI 60-RF1",
+        "Pset_ElementShading.Roughness": "0.3048",
+        "Pset_ProductRequirements.Category": "Walls",
+        "Pset_QuantityTakeOff.Reference": "WAN_TWÄ_GK_100_VS",
+        "Pset_ReinforcementBarPitchOfWall.Description": "GK_VS_100",
+        "Pset_ReinforcementBarPitchOfWall.Reference": "WAN_TWÄ_GK_100_VS",
+        "Pset_WallCommon.IsExternal": "False",
+        "Pset_WallCommon.Reference": "WAN_TWÄ_GK_100_VS",
+        "Pset_WallCommon.FireRating": "REI 60-RF1",
+        "Pset_WallCommon.ThermalTransmittance": "0.445564516129032",
+        "Gewerbebau.Lage Aussen ": "False",
+        "Gewerbebau.Ausbau": "True",
+        "Gewerbebau.Tragende": "False",
+        "Gewerbebau.Dicke": "0.1",
+        "Gewerbebau.Feuerwiderstandsklasse": "REI 60-RF1",
+        "Gewerbebau.Material": "Dämmung - weich",
+        "Gewerbebau.Liegenschaft ID": "72557",
+        "Gewerbebau.Gebäude ID": "GG",
+        "Gewerbebau.Bauteilklasse": "A_Wand",
+        "Gewerbebau.Bauteilart": "Leichtbauwand",
+        "Gewerbebau.eBKP-H": "G 1.1",
+        "Gewerbebau.Typname": "WAN_TWÄ_GK_100_VS"
+      }
+    },
+    "Element Location": {
+      "Storeys Map": {
+        "98": {
+          "Elevation": -6.67,
+          "Unit": "meters"
+        },
+        "99": {
+          "Elevation": -3.8,
+          "Unit": "meters"
+        },
+        "00": {
+          "Elevation": 0.0,
+          "Unit": "meters"
+        },
+        "01": {
+          "Elevation": 4.95,
+          "Unit": "meters"
+        },
+        "02": {
+          "Elevation": 8.85,
+          "Unit": "meters"
+        },
+        "03": {
+          "Elevation": 12.75,
+          "Unit": "meters"
+        },
+        "04": {
+          "Elevation": 16.65,
+          "Unit": "meters"
+        },
+        "05": {
+          "Elevation": 20.55,
+          "Unit": "meters"
+        },
+        "06": {
+          "Elevation": 24.45,
+          "Unit": "meters"
+        }
+      },
+      "Element Located in Storey": "00",
+      "Spatial Relationship": [
+        {
+          "name": "110",
+          "type": "IfcProject"
+        },
+        {
+          "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+          "type": "IfcSite"
+        },
+        {
+          "name": "Zwhatt",
+          "type": "IfcBuilding"
+        },
+        {
+          "name": "00",
+          "type": "IfcBuildingStorey"
+        }
+      ]
+    }
+  },
+  "CompilationGroupID": "eb63ebcc99"
+}

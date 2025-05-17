@@ -1,0 +1,67 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Mineral Wool",
+        "Thickness": 0.095,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Wall:Isolamin 100:2350191",
+            "Type": "IfcWallStandardCase",
+            "ObjectType": "Basic Wall:Isolamin 100:2350363"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Default Wall",
+                "Thickness": 0.008,
+                "Thickness Unit": "METRE",
+                "Layer Number": 1
+            }
+        ],
+        "Element Geometry Data": {
+            "Quantities (COMPAS)": {
+                "Net Volume": 1.30963,
+                "Net Volume unit": "CUBIC_METRE",
+                "Entire Surface Area": 28.03755,
+                "Entire Surface Area unit": "SQUARE_METRE"
+            },
+            "Bounding Box Dimensions (OBB - local frame)": {
+                "X": 11.56,
+                "Y": 0.1,
+                "Z": 1.1,
+                "Bounding Box Dimensions Unit": "METRE"
+            },
+            "Bounding Box Volume": 1.2716,
+            "Real Volume to Bounding Box Volume Ratio": 1.02991
+        },
+        "Element Property Sets": {
+            "Psets Element": {
+                "Phase Created": "New",
+                "Workset": "Workset1",
+                "Area": "12.7149",
+                "Volume": "1.3096",
+                "Length": "11559.0",
+                "Base Constraint": "Level: VÅN 4",
+                "Room Bounding": "True",
+                "Location Line": "Core Face: Interior",
+                "Related to Mass": "False",
+                "Structural": "True",
+                "Structural Usage": "Bearing",
+                "Reference": "Isolamin 100",
+                "LoadBearing": "True",
+                "ExtendToStructure": "False",
+                "IsExternal": "False"
+            },
+            "Psets Object Type": {
+                "Construction.Function": "Interior",
+                "Analytical Properties.Roughness": "1.0",
+                "Analytical Properties.Absorptance": "0.1",
+                "Identity Data.Workset": "Wall Types",
+                "Identity Data.Assembly Description": "",
+                "Materials and Finishes.Structural Material": "Mineral Wool"
+            }
+        }
+    },
+    "CompilationGroupID": "c5efda894a"
+}

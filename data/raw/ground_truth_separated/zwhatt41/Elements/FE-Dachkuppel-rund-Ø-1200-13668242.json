@@ -1,0 +1,14 @@
+{
+    "name": "FE-Dachkuppel-rund-Ø-1200-13668242",
+    "category": "Fenster, Sonnenschutz, Fassadenverkleidungen",
+    "material_entries": [
+        "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 24 mm",
+        "Isolierverglasung 2-fach, ESG, Ug-Wert 1.1 W/m2K",
+        "Isolierverglasung 2-fach, VSG, Ug-Wert 1.1 W/m2K",
+        "Isolierverglasung 2-fach, ESG/VSG, Ug-Wert 1.1 W/m2K"
+    ],
+    "reason": [
+        "in object type pset it says its double glazed",
+        "no further specs, so all double glazed are chosen"
+    ]
+}

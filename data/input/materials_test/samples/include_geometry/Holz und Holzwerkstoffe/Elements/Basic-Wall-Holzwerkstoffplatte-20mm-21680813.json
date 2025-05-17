@@ -1,0 +1,52 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:Holzwerkstoffplatte 20mm:21680813",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:Holzwerkstoffplatte 20mm"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.02,
+            "Width unit": "METRE",
+            "Length": 3.98,
+            "Length unit": "METRE",
+            "Height": 2.68,
+            "Height unit": "METRE",
+            "Gross Side Area": 10.6664,
+            "Gross Side Area unit": "SQUARE_METRE",
+            "Net Side Area": 8.7053,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Gross Footprint Area": 0.0796,
+            "Gross Footprint Area unit": "SQUARE_METRE",
+            "Gross Volume": 0.2133,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.1741,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.1741,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 17.7997,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 3.98,
+            "Y": 0.02,
+            "Z": 2.68,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.2133,
+        "Real Volume to Bounding Box Volume Ratio": 0.8163
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "FireRating": "REI 60",
+            "Reference": "Holzwerkstoffplatte 20mm",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "LoadBearing": "False"
+        }
+    },
+    "CompilationGroupID": "27e9b38257"
+}

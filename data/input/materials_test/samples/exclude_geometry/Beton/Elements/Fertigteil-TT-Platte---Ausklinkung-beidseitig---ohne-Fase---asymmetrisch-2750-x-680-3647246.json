@@ -1,0 +1,29 @@
+{
+    "Element Metadata": {
+        "Name": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase - asymmetrisch:2750 x 680:3647246",
+        "Type": "IfcBeam",
+        "ObjectType": "Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase - asymmetrisch:2750 x 680"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Betonfertigteil"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "Reference": "2750 x 680",
+            "Span": "18.9",
+            "FireRating": "REI 60",
+            "Category": "Structural Framing"
+        },
+        "Psets Object Type": {
+            "Pset_ConcreteElementGeneral.FireRating": "REI 60",
+            "Pset_ProductRequirements.Category": "Structural Framing",
+            "Pset_QuantityTakeOff.Reference": "2750 x 680"
+        }
+    },
+    "CompilationGroupID": "809d65d778"
+}

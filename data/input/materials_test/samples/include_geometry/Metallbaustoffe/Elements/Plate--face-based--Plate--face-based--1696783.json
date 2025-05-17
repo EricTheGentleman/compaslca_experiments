@@ -1,0 +1,42 @@
+{
+    "Element Metadata": {
+        "Name": "Plate (face based):Plate (face based):1696783",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "Plate (face based)"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Steel"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.00014,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 0.0334,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.1,
+            "Y": 0.15,
+            "Z": 0.01,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0001,
+        "Real Volume to Bounding Box Volume Ratio": 1.4
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "OmniClass Title": "",
+            "Workset": "Workset1",
+            "OmniClass Number": "",
+            "Phase Created": "New",
+            "Host": "Beam UPE : UPE270",
+            "Structural Material": "Steel",
+            "Volume": "0.0001",
+            "Reference": "Plate (face based)"
+        }
+    },
+    "CompilationGroupID": "3213930748"
+}

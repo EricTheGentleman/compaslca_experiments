@@ -1,0 +1,241 @@
+{
+  "Element Metadata": {
+    "Name": "Basic Wall:WAN_ASW_VKL_10:12099875",
+    "UID": "782292",
+    "GlobalId": "2mO4VuuWX10fvSDI6LdXBy",
+    "Type": "IfcWallStandardCase",
+    "ObjectType": "Basic Wall:WAN_ASW_VKL_10",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Basic Wall:WAN_ASW_VKL_10",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layers": [
+        {
+          "IfcEntity": "IfcMaterialLayer",
+          "Material Name": "Metall - verzinkt-Tor",
+          "Description": "Unknown",
+          "Category": "Unknown",
+          "Thickness": 0.01,
+          "Thickness unit": "METRE"
+        }
+      ]
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Width": 0.01,
+      "Width unit": "METRE",
+      "Length": 0.175,
+      "Length unit": "METRE",
+      "Height": 4.73,
+      "Height unit": "METRE",
+      "Gross Side Area": 0.8278,
+      "Gross Side Area unit": "SQUARE_METRE",
+      "Net Side Area": 0.8278,
+      "Net Side Area unit": "SQUARE_METRE",
+      "Gross Footprint Area": 0.0018,
+      "Gross Footprint Area unit": "SQUARE_METRE",
+      "Gross Volume": 0.0083,
+      "Gross Volume unit": "CUBIC_METRE",
+      "Net Volume": 0.0083,
+      "Net Volume unit": "CUBIC_METRE"
+    },
+    "Geometric Representation": [
+      "SweptSolid",
+      "Curve2D"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.0083,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 1.7536,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 0.18,
+      "Y": 4.73,
+      "Z": 0.01,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.0085,
+    "Real Volume to Bounding Box Volume Ratio": 0.9738,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "Undefined"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Base Offset": "0.0",
+      "Room Bounding": "True",
+      "Related to Mass": "False",
+      "Base Extension Distance": "0.0",
+      "Base is Attached": "False",
+      "Top Extension Distance": "0.0",
+      "Top is Attached": "False",
+      "Base Constraint": "00",
+      "Location Line": "Finish Face: Exterior",
+      "Top Constraint": "Up to level: 01",
+      "Top Offset": "-0.29000000000002857",
+      "Unconnected Height": "4.729999999999971",
+      "Cross-Section": "Vertical",
+      "unter Terrain": "False",
+      "Area": "0.8277500000106655",
+      "Length": "0.25500000000225503",
+      "Volume": "0.008277500000106564",
+      "Edited by": "",
+      "Workset": "A-Fassade",
+      "Category": "Walls",
+      "Family": "Basic Wall",
+      "Family and Type": "Basic Wall: WAN_ASW_VKL_10",
+      "Type": "WAN_ASW_VKL_10",
+      "Type Id": "12099713",
+      "Phase Created": "Neubau",
+      "Enable Analytical Model": "False",
+      "Structural": "False",
+      "Structural Usage": "Non-bearing",
+      "Roughness": "0.3048",
+      "Reference": "WAN_ASW_VKL_10",
+      "Description": "Verkleidung",
+      "IsExternal": "True",
+      "ExtendToStructure": "False",
+      "LoadBearing": "False",
+      "Geschoss ID": "00",
+      "Höhe": "4.729999999999971",
+      "Länge": "0.25500000000225503",
+      "Fläche": "0.8277500000106655",
+      "Volumen": "0.008277500000106564"
+    },
+    "Psets Object Type": {
+      "Analytical Properties.Roughness": "1",
+      "Analytical Properties.Absorptance": "0.1",
+      "Construction.Function": "Exterior",
+      "Construction.Lage Aussen": "True",
+      "Construction.Wrapping at Ends": "None",
+      "Construction.Wrapping at Inserts": "Do not wrap",
+      "Construction.Width": "0.009999999999999993",
+      "General.Gebäudenummer": "72557",
+      "General.Standortcode": "GG",
+      "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+      "Graphics.Coarse Scale Fill Color": "12632256",
+      "Identity Data.Edited by": "",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Type Comments": "",
+      "Identity Data.Ausbau": "True",
+      "Identity Data.Workset": "Wall Types",
+      "Identity Data.Keynote": "",
+      "Identity Data.Description": "Verkleidung",
+      "Identity Data.Type Name": "WAN_ASW_VKL_10",
+      "Layers.EN Layers": "Verkleidung - Blech",
+      "Layers.EN Layers and Widths": "Verkleidung - Blech 1cm",
+      "Layers.EN Type String": "",
+      "Layers.EN Widths": "1cm",
+      "Other.Category": "Walls",
+      "Other.Family Name": "Basic Wall",
+      "Structural.Filter Tragend / Nichttragend": "False",
+      "Pset_ElementShading.Roughness": "0.3048",
+      "Pset_ProductRequirements.Category": "Walls",
+      "Pset_ReinforcementBarPitchOfWall.Description": "Verkleidung",
+      "Pset_WallCommon.IsExternal": "True",
+      "Gewerbebau.Dicke": "0.009999999999999993",
+      "Gewerbebau.Material": "Metall - verzinkt-Tor",
+      "Gewerbebau.Ausbau": "True",
+      "Gewerbebau.Lage Aussen ": "True",
+      "Gewerbebau.Tragende Funktion": "False",
+      "Gewerbebau.Liegenschaft ID": "72557",
+      "Gewerbebau.Gebäude ID": "GG",
+      "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+      "Gewerbebau.Bauteilart": "Fassadenelement",
+      "Gewerbebau.eBKP-H": "E 2.4",
+      "Gewerbebau.Typname": "WAN_ASW_VKL_10"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "00",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "00",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "97e90d263c"
+}

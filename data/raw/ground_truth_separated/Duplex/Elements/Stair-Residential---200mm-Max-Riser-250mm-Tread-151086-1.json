@@ -1,0 +1,11 @@
+{
+    "name": "Stair-Residential---200mm-Max-Riser-250mm-Tread-151086-1",
+    "category": "None",
+    "material_entries": [],
+    "reason": [
+        "entity is IfcMmber with the objecttype = stringer",
+        "stringer is the structural side member that supports stair treads",
+        "can be made out of wood, metal, or concrete",
+        "therefore no category can be chosen"
+    ]
+}

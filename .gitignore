@@ -1,0 +1,6 @@
+# Ignore the entire configs folder and all contents
+configs/
+.env
+*.key
+
+**/__pycache__/

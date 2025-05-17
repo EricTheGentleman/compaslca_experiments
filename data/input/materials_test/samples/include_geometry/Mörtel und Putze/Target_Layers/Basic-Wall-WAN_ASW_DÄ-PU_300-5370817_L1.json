@@ -1,0 +1,107 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Putz",
+        "Thickness": 0.02,
+        "Thickness Unit": "METRE",
+        "Layer Number": 1
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Wall:WAN_ASW_DÄ-PU_300:5370817",
+            "Type": "IfcWallStandardCase",
+            "ObjectType": "Basic Wall:WAN_ASW_DÄ-PU_300"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Dämmung - weich",
+                "Thickness": 0.28,
+                "Thickness Unit": "METRE",
+                "Layer Number": 2
+            }
+        ],
+        "Element Geometry Data": {
+            "Quantities (IFC)": {
+                "Width": 0.3,
+                "Width unit": "METRE",
+                "Length": 0.39,
+                "Length unit": "METRE",
+                "Height": 0.47,
+                "Height unit": "METRE",
+                "Net Side Area": 0.1833,
+                "Net Side Area unit": "SQUARE_METRE",
+                "Gross Footprint Area": 0.117,
+                "Gross Footprint Area unit": "SQUARE_METRE",
+                "Net Volume": 0.055,
+                "Net Volume unit": "CUBIC_METRE"
+            },
+            "Quantities (COMPAS)": {
+                "Net Volume": 0.055,
+                "Net Volume unit": "CUBIC_METRE",
+                "Entire Surface Area": 0.8826,
+                "Entire Surface Area unit": "SQUARE_METRE"
+            },
+            "Bounding Box Dimensions (OBB - local frame)": {
+                "X": 0.3,
+                "Y": 0.39,
+                "Z": 0.47,
+                "Bounding Box Dimensions Unit": "METRE"
+            },
+            "Bounding Box Volume": 0.055,
+            "Real Volume to Bounding Box Volume Ratio": 0.9998
+        },
+        "Element Property Sets": {
+            "Psets Element": {
+                "Room Bounding": "True",
+                "Related to Mass": "False",
+                "Base Constraint": "Level: 06",
+                "Location Line": "Finish Face: Exterior",
+                "Area": "0.1833",
+                "Length": "0.1175",
+                "Volume": "0.055",
+                "unter Terrain": "False",
+                "Workset": "A-Fassade",
+                "Category": "Walls",
+                "Family": "Basic Wall: WAN_ASW_DÄ-PU_300",
+                "Type": "Basic Wall: WAN_ASW_DÄ-PU_300",
+                "Phase Created": "Neubau",
+                "Structural": "False",
+                "Structural Usage": "Non-bearing",
+                "Roughness": "0.3048",
+                "Reference": "WAN_ASW_DÄ-PU_300",
+                "Description": "Leichtbeton_300",
+                "IsExternal": "True",
+                "ExtendToStructure": "False",
+                "LoadBearing": "False",
+                "ThermalTransmittance": "0.1214",
+                "Geschoss ID": "Level: 06",
+                "Länge": "0.1175",
+                "Fläche": "0.1833",
+                "Volumen": "0.055"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "1.0",
+                "Analytical Properties.Absorptance": "0.1",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "0.1214",
+                "Analytical Properties.Thermal Mass": "3.6938",
+                "Analytical Properties.Thermal Resistance (R)": "8.2353",
+                "Construction.Function": "Exterior",
+                "Construction.Lage Aussen": "True",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Wall Types",
+                "Identity Data.Description": "Leichtbeton_300",
+                "Identity Data.Type Name": "WAN_ASW_DÄ-PU_300",
+                "Other.Category": "Walls",
+                "Other.Family Name": "Basic Wall",
+                "Structural.Filter Tragend / Nichttragend": "False",
+                "Pset_ProductRequirements.Category": "Walls",
+                "Pset_QuantityTakeOff.Reference": "WAN_ASW_DÄ-PU_300",
+                "Pset_WallCommon.IsExternal": "False",
+                "Pset_WallCommon.ThermalTransmittance": "0.1214",
+                "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+                "Gewerbebau.Bauteilart": "Fassadenbekleidung",
+                "Gewerbebau.Typname": "WAN_ASW_DÄ-PU_300"
+            }
+        }
+    },
+    "CompilationGroupID": "d19197d3d7"
+}

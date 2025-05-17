@@ -1,0 +1,16 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:Floor_Linoleum_5mm:21756586:2",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:Floor_Linoleum_5mm"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "Floor_Linoleum_5mm",
+            "LoadBearing": "False",
+            "IsExternal": "False"
+        }
+    },
+    "CompilationGroupID": "64a56d574d"
+}

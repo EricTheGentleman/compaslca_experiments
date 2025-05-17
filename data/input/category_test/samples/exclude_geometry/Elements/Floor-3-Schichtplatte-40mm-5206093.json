@@ -1,0 +1,54 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:3-Schichtplatte 40mm:5206093",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:3-Schichtplatte 40mm"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:3-Schichtplatte 40mm",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Massivholz",
+                    "Thickness": 0.04,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Level": "Level: 01_UK Decke",
+            "Area": "0.5445",
+            "Elevation at Bottom": "2156.3738",
+            "Perimeter": "3320.0",
+            "Thickness": "40.0",
+            "Volume": "0.0218",
+            "Workset": "Innenausbau",
+            "Category": "Floors",
+            "Family": "Floor: 3-Schichtplatte 40mm",
+            "Type": "Floor: 3-Schichtplatte 40mm",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "2.65",
+            "Analytical Properties.Thermal Mass": "2.9128",
+            "Analytical Properties.Thermal Resistance (R)": "0.3774",
+            "Construction.Function": "Interior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Type Name": "3-Schichtplatte 40mm",
+            "Materials and Finishes.Structural Material": "Massivholz",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor"
+        }
+    }
+}

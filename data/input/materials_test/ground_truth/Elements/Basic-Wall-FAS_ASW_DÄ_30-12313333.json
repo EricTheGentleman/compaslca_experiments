@@ -1,0 +1,21 @@
+{
+    "name": "Basic-Wall-FAS_ASW_DÄ_30-12313333",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Glaswolle",
+        "Glaswolle, Isover, phenolbasiertes Bindemittel",
+        "Glaswolle, Isover, pflanzliches Bindemittel",
+        "Glaswolle, SUPAFIL",
+        "Steinwolle",
+        "Steinwolle, Flumroc",
+        "Weichfaserplatte",
+        "Zellulosefasern",
+        "Zellulosefasern, Isofloc"
+    ],
+    "reason": [
+        "soft insulation material (weich)",
+        "thickness of only 3 cm",
+        "used for exterior wall cladding (wandbekleidung)",
+        "these are the viable options"
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Dämmung - hart",
+        "Thickness": 0.15,
+        "Thickness Unit": "METRE",
+        "Layer Number": 3
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Floor:DCH_DÄ-AS_250:7601562",
+            "Type": "IfcSlab",
+            "ObjectType": "Floor:DCH_DÄ-AS_250"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Umgebung - Asphalt",
+                "Thickness": 0.04,
+                "Thickness Unit": "METRE",
+                "Layer Number": 1
+            },
+            {
+                "Material Name": "Beton - Überbeton",
+                "Thickness": 0.06,
+                "Thickness Unit": "METRE",
+                "Layer Number": 2
+            }
+        ],
+        "Element Geometry Data": {
+            "Quantities (IFC)": {
+                "Width": 0.25,
+                "Width unit": "METRE",
+                "Gross Volume": 4.238,
+                "Gross Volume unit": "CUBIC_METRE",
+                "Net Volume": 3.9835,
+                "Net Volume unit": "CUBIC_METRE"
+            },
+            "Quantities (COMPAS)": {
+                "Net Volume": 3.9835,
+                "Net Volume unit": "CUBIC_METRE",
+                "Entire Surface Area": 38.1354,
+                "Entire Surface Area unit": "SQUARE_METRE"
+            },
+            "Bounding Box Dimensions (OBB - local frame)": {
+                "X": 6.32,
+                "Y": 2.68,
+                "Z": 0.25,
+                "Bounding Box Dimensions Unit": "METRE"
+            },
+            "Bounding Box Volume": 4.2344,
+            "Real Volume to Bounding Box Volume Ratio": 0.9407
+        },
+        "Element Property Sets": {
+            "Psets Element": {
+                "Roughness": "0.3048",
+                "Category": "Floors",
+                "Reference": "DCH_DÄ-AS_250",
+                "Description": "DCH_350",
+                "IsExternal": "True",
+                "LoadBearing": "False",
+                "ThermalTransmittance": "0.1782",
+                "unter Terrain": "True",
+                "Geschoss ID": "Level: 00",
+                "Umfang": "18.01",
+                "Fläche": "16.9521",
+                "Volumen": "3.9835",
+                "Lage Aussen ": "True",
+                "Tragende": "False",
+                "Dicke": "0.25",
+                "Bauteilklasse": "A_Unterkonstruktion",
+                "Bauteilart": "Bodenunterkonstruktion",
+                "Typname": "DCH_DÄ-AS_250",
+                "Room Bounding": "True",
+                "Level": "Level: 00",
+                "Related to Mass": "False",
+                "Area": "16.9521",
+                "Elevation at Bottom": "-0.25",
+                "Perimeter": "18.01",
+                "Volume": "3.9835",
+                "Workset": "A-Innenausbau",
+                "Family": "Floor: DCH_DÄ-AS_250",
+                "Type": "Floor: DCH_DÄ-AS_250",
+                "Phase Created": "Neubau",
+                "Structural": "False"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "1.0",
+                "Analytical Properties.Absorptance": "0.1",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "0.1782",
+                "Analytical Properties.Thermal Mass": "9.1401",
+                "Analytical Properties.Thermal Resistance (R)": "5.6129",
+                "Construction.Function": "Exterior",
+                "Construction.Lage Aussen": "True",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Floor Types",
+                "Identity Data.Description": "DCH_350",
+                "Identity Data.Type Name": "DCH_DÄ-AS_250",
+                "Other.Category": "Floors",
+                "Other.Family Name": "Floor",
+                "Structural.Filter Tragend / Nichttragend": "False",
+                "Pset_ProductRequirements.Category": "Floors",
+                "Pset_QuantityTakeOff.Reference": "DCH_DÄ-AS_250",
+                "Gewerbebau.Bauteilklasse": "A_Unterkonstruktion",
+                "Gewerbebau.Bauteilart": "Bodenunterkonstruktion",
+                "Gewerbebau.Typname": "DCH_DÄ-AS_250"
+            }
+        }
+    },
+    "CompilationGroupID": "65d506fd44"
+}

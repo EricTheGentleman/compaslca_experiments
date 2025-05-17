@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The building element is an exterior wall with a layer of 'Putz Kieselwurf' with a thickness of 0.025 meters. The wall is part of the facade, non-load bearing, and has a thermal transmittance of 0.1127. It is categorized under 'A-Fassadenbekleidung' and 'Fassadenbekleidung'.",
+    "Matched Materials": [
+      "Kunststoffputz (Dispersionsputz)",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 131,
+      "prompt_tokens": 1585,
+      "total_tokens": 1716,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.763,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010545
+  }
+}

@@ -1,0 +1,80 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Putz",
+        "Thickness": 0.06,
+        "Thickness Unit": "METRE",
+        "Layer Number": 1
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Wall:FAS_ASW_DÄ-VHF_180:13656021",
+            "Type": "IfcWallStandardCase",
+            "ObjectType": "Basic Wall:FAS_ASW_DÄ-VHF_180"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Dämmung - weich",
+                "Thickness": 0.12,
+                "Thickness Unit": "METRE",
+                "Layer Number": 2
+            }
+        ],
+        "Element Property Sets": {
+            "Psets Element": {
+                "Room Bounding": "True",
+                "Related to Mass": "False",
+                "Location Line": "Finish Face: Interior",
+                "Base Constraint": "6.0",
+                "Area": "41.5609",
+                "Length": "13.48",
+                "Volume": "7.1712",
+                "Workset": "A-Fassade",
+                "Category": "Walls",
+                "Family": "Basic Wall",
+                "Type": "FAS_ASW_DÄ-VHF_180",
+                "Phase Created": "Neubau",
+                "Structural": "False",
+                "Structural Usage": "Non-bearing",
+                "FireRating": "REI 60",
+                "Roughness": "0.3048",
+                "Reference": "FAS_ASW_DÄ-VHF_180",
+                "IsExternal": "True",
+                "ExtendToStructure": "True",
+                "LoadBearing": "False",
+                "ThermalTransmittance": "0.2833",
+                "Geschoss ID": "6.0",
+                "Länge": "13.48",
+                "Fläche": "41.5609",
+                "Volumen": "7.1712"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "1.0",
+                "Analytical Properties.Absorptance": "0.1",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "0.2833",
+                "Analytical Properties.Thermal Mass": "17.04",
+                "Analytical Properties.Thermal Resistance (R)": "3.5294",
+                "Construction.Function": "Exterior",
+                "Construction.Lage Aussen": "True",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Wall Types",
+                "Identity Data.Description": "",
+                "Identity Data.Fire Rating": "REI 60",
+                "Identity Data.Type Name": "FAS_ASW_DÄ-VHF_180",
+                "Layers.EN Layers and Widths": "Betonfertigteil 10cmDämmung - weich 20cm",
+                "Other.Category": "Walls",
+                "Other.Family Name": "Basic Wall",
+                "Structural.Filter Tragend / Nichttragend": "False",
+                "Pset_ConcreteElementGeneral.FireRating": "REI 60",
+                "Pset_ProductRequirements.Category": "Walls",
+                "Pset_WallCommon.IsExternal": "True",
+                "Pset_WallCommon.ThermalTransmittance": "0.2833",
+                "Gewerbebau.Feuerwiderstandsklasse": "REI 60",
+                "Gewerbebau.Material": "Putz, Dämmung - weich",
+                "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+                "Gewerbebau.Bauteilart": "Fassadenbekleidung",
+                "Gewerbebau.Typname": "FAS_ASW_DÄ-VHF_180"
+            }
+        }
+    },
+    "CompilationGroupID": "ae97580a82"
+}

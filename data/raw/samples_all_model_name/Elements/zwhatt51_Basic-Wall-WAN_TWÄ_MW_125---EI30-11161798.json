@@ -1,0 +1,256 @@
+{
+  "Element Metadata": {
+    "Name": "Basic Wall:WAN_TWÄ_MW_125 - EI30:11161798",
+    "UID": "491522",
+    "GlobalId": "3wY0HWzqPEvgB4yOmVp6FO",
+    "Type": "IfcWallStandardCase",
+    "ObjectType": "Basic Wall:WAN_TWÄ_MW_125 - EI30",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Basic Wall:WAN_TWÄ_MW_125 - EI30",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layers": [
+        {
+          "IfcEntity": "IfcMaterialLayer",
+          "Material Name": "Mauerwerk - Ziegel",
+          "Description": "Unknown",
+          "Category": "Unknown",
+          "Thickness": 0.12499999999999999,
+          "Thickness unit": "METRE"
+        }
+      ]
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Width": 0.125,
+      "Width unit": "METRE",
+      "Length": 1.93,
+      "Length unit": "METRE",
+      "Height": 3.65,
+      "Height unit": "METRE",
+      "Gross Side Area": 7.0445,
+      "Gross Side Area unit": "SQUARE_METRE",
+      "Net Side Area": 7.0445,
+      "Net Side Area unit": "SQUARE_METRE",
+      "Gross Footprint Area": 0.2413,
+      "Gross Footprint Area unit": "SQUARE_METRE",
+      "Gross Volume": 0.8806,
+      "Gross Volume unit": "CUBIC_METRE",
+      "Net Volume": 0.8806,
+      "Net Volume unit": "CUBIC_METRE"
+    },
+    "Geometric Representation": [
+      "SweptSolid",
+      "Curve2D"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.8806,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 15.484,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 1.93,
+      "Y": 3.65,
+      "Z": 0.12,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.8453,
+    "Real Volume to Bounding Box Volume Ratio": 1.0417,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "Undefined"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Room Bounding": "True",
+      "Related to Mass": "False",
+      "Base Extension Distance": "0.0",
+      "Base is Attached": "False",
+      "Top Extension Distance": "0.0",
+      "Top is Attached": "False",
+      "Location Line": "Finish Face: Interior",
+      "Base Constraint": "04",
+      "Top Constraint": "Up to level: 05",
+      "Base Offset": "-0.12",
+      "Top Offset": "-0.32",
+      "Unconnected Height": "3.6499999999999977",
+      "Cross-Section": "Vertical",
+      "unter Terrain": "False",
+      "Area": "7.044500002795305",
+      "Length": "1.930000000765837",
+      "Volume": "0.8805625003494112",
+      "Edited by": "",
+      "Workset": "A-Innenausbau",
+      "Category": "Walls",
+      "Family": "Basic Wall",
+      "Family and Type": "Basic Wall: WAN_TWÄ_MW_125 - EI30",
+      "Type": "WAN_TWÄ_MW_125 - EI30",
+      "Type Id": "11290982",
+      "Phase Created": "Neubau",
+      "Enable Analytical Model": "False",
+      "Structural": "False",
+      "Structural Usage": "Non-bearing",
+      "FireRating": "EI 30",
+      "Roughness": "0.3048",
+      "Reference": "WAN_TWÄ_MW_125 - EI30",
+      "Description": "GK_100",
+      "IsExternal": "False",
+      "ExtendToStructure": "False",
+      "LoadBearing": "False",
+      "ThermalTransmittance": "4.32",
+      "Geschoss ID": "04",
+      "Höhe": "3.6499999999999977",
+      "Länge": "1.930000000765837",
+      "Fläche": "7.044500002795305",
+      "Volumen": "0.8805625003494112"
+    },
+    "Psets Object Type": {
+      "Analytical Properties.Roughness": "1",
+      "Analytical Properties.Absorptance": "0.1",
+      "Analytical Properties.Heat Transfer Coefficient (U)": "4.32",
+      "Analytical Properties.Thermal Mass": "162.74999999999997",
+      "Analytical Properties.Thermal Resistance (R)": "0.23148148148148145",
+      "Construction.Lage Aussen": "False",
+      "Construction.Function": "Interior",
+      "Construction.Wrapping at Ends": "None",
+      "Construction.Wrapping at Inserts": "Do not wrap",
+      "Construction.Width": "0.125",
+      "General.Gebäudenummer": "72557",
+      "General.Standortcode": "GG",
+      "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+      "Graphics.Coarse Scale Fill Color": "16777215",
+      "Identity Data.Edited by": "",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Ausbau": "True",
+      "Identity Data.Workset": "Wall Types",
+      "Identity Data.Description": "GK_100",
+      "Identity Data.Fire Rating": "EI 30",
+      "Identity Data.Type Comments": "GG11.1",
+      "Identity Data.Type Name": "WAN_TWÄ_MW_125 - EI30",
+      "Layers.EN Layers": "Mauerwerk - Ziegel",
+      "Layers.EN Layers and Widths": "Mauerwerk - Ziegel 12.5cm",
+      "Layers.EN Type String": "<L><M>Mauerwerk - Ziegel</M><T>12.5</T></L",
+      "Layers.EN Widths": "12.5cm",
+      "Other.Category": "Walls",
+      "Other.Family Name": "Basic Wall",
+      "Structural.Filter Tragend / Nichttragend": "False",
+      "Pset_ConcreteElementGeneral.FireRating": "EI 30",
+      "Pset_ElementShading.Roughness": "0.3048",
+      "Pset_ProductRequirements.Category": "Walls",
+      "Pset_ReinforcementBarPitchOfWall.Description": "GK_100",
+      "Pset_WallCommon.IsExternal": "False",
+      "Pset_WallCommon.FireRating": "EI 30",
+      "Pset_WallCommon.ThermalTransmittance": "4.32",
+      "Gewerbebau.Dicke": "0.125",
+      "Gewerbebau.Feuerwiderstandsklasse": "EI 30",
+      "Gewerbebau.Material": "Mauerwerk - Ziegel",
+      "Gewerbebau.Lage Aussen ": "False",
+      "Gewerbebau.Ausbau": "True",
+      "Gewerbebau.Tragende Funktion": "False",
+      "Gewerbebau.Liegenschaft ID": "72557",
+      "Gewerbebau.Gebäude ID": "GG",
+      "Gewerbebau.Bauteilklasse": "A_Wand",
+      "Gewerbebau.Bauteilart": "Leichtbauwand",
+      "Gewerbebau.eBKP-H": "G 1.1",
+      "Gewerbebau.Typname": "WAN_TWÄ_MW_125 - EI30"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": [
+      {
+        "IfcEntity": "IfcGroup",
+        "Group Name": "Model Group:Innenausbau - Kern WC OG:4725061",
+        "Group Description": "Not defined"
+      }
+    ]
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "04",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "04",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "a396e572f9"
+}

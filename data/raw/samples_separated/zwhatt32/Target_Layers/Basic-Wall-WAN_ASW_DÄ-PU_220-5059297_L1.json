@@ -1,0 +1,230 @@
+{
+  "Target Layer of Material Inference": {
+    "Material Name": "Putz",
+    "Thickness": 0.02,
+    "Thickness Unit": "METRE",
+    "Layer Number": 1
+  },
+  "Building Element Context": {
+    "Element Metadata": {
+      "Name": "Basic Wall:WAN_ASW_DÄ-PU_220:5059297",
+      "UID": "274890",
+      "GlobalId": "2zyIIcgp1DBOHGEhrzLZUN",
+      "Type": "IfcWallStandardCase",
+      "ObjectType": "Basic Wall:WAN_ASW_DÄ-PU_220",
+      "Classification": "Not defined",
+      "Decomposes": {},
+      "Is Decomposed By": []
+    },
+    "Other Material Layers": [
+      {
+        "Material Name": "Dämmung - weich",
+        "Thickness": 0.2,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+      }
+    ],
+    "Layer Set Metadata": {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Basic Wall:WAN_ASW_DÄ-PU_220",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layer Direction and Growth description": "Layers are stacked perpendicular to the element's length, growing in the opposite direction from its reference surface."
+    },
+    "Element Geometry Data": {
+      "Quantities (IFC)": {
+        "Width": 0.22,
+        "Width unit": "METRE",
+        "Length": 77.76,
+        "Length unit": "METRE",
+        "Height": 0.47,
+        "Height unit": "METRE",
+        "Net Side Area": 36.5472,
+        "Net Side Area unit": "SQUARE_METRE",
+        "Gross Footprint Area": 17.1072,
+        "Gross Footprint Area unit": "SQUARE_METRE",
+        "Net Volume": 8.0404,
+        "Net Volume unit": "CUBIC_METRE"
+      },
+      "Geometric Representation": [
+        "SweptSolid",
+        "Curve2D"
+      ],
+      "Quantities (COMPAS)": {
+        "Net Volume": 8.0404,
+        "Net Volume unit": "CUBIC_METRE",
+        "Entire Surface Area": 107.5156,
+        "Entire Surface Area unit": "SQUARE_METRE"
+      },
+      "Bounding Box Dimensions (OBB - local frame)": {
+        "X": 77.76,
+        "Y": 0.22,
+        "Z": 0.47,
+        "Bounding Box Dimensions Unit": "METRE"
+      },
+      "Bounding Box Volume": 8.0404,
+      "Real Volume to Bounding Box Volume Ratio": 1.0,
+      "Face Count (tessellated element)": {
+        "Face Count": 12
+      },
+      "Vertex Count (tessellated element)": {
+        "Vertex Count": 24
+      },
+      "Edge Count (tessellated element)": {
+        "Edge Count": 30
+      },
+      "Primary Object Axis (Cardinal Direction)": "W"
+    },
+    "Element Property Sets": {
+      "Psets Element": {
+        "Room Bounding": "True",
+        "Related to Mass": "False",
+        "Base Extension Distance": "0.0",
+        "Base is Attached": "False",
+        "Cross-Section": "Vertical",
+        "Top Extension Distance": "0.0",
+        "Top is Attached": "False",
+        "Base Constraint": "Level: 06",
+        "Location Line": "Finish Face: Exterior",
+        "Top Offset": "0.0",
+        "Base Offset": "-0.27",
+        "Unconnected Height": "0.47",
+        "Area": "36.5471999999994",
+        "Length": "77.5399999999984",
+        "Volume": "8.04038399999987",
+        "unter Terrain": "False",
+        "Workset": "A-Fassade",
+        "Edited by": "graser@graser.ch",
+        "Category": "Walls",
+        "Family": "Basic Wall: WAN_ASW_DÄ-PU_220",
+        "Family and Type": "Basic Wall: WAN_ASW_DÄ-PU_220",
+        "Type": "Basic Wall: WAN_ASW_DÄ-PU_220",
+        "Type Id": "Basic Wall: WAN_ASW_DÄ-PU_220",
+        "Phase Created": "Neubau",
+        "Enable Analytical Model": "False",
+        "Structural": "False",
+        "Structural Usage": "Non-bearing",
+        "Roughness": "0.3048",
+        "Reference": "WAN_ASW_DÄ-PU_220",
+        "Description": "Leichtbeton_300",
+        "IsExternal": "True",
+        "ExtendToStructure": "False",
+        "LoadBearing": "False",
+        "ThermalTransmittance": "0.17",
+        "Geschoss ID": "Level: 06",
+        "Höhe": "0.47",
+        "Länge": "77.5399999999984",
+        "Fläche": "36.5471999999994",
+        "Volumen": "8.04038399999987"
+      },
+      "Psets Object Type": {
+        "Analytical Properties.Roughness": "1",
+        "Analytical Properties.Absorptance": "0.1",
+        "Analytical Properties.Heat Transfer Coefficient (U)": "0.17",
+        "Analytical Properties.Thermal Mass": "2.638446336",
+        "Analytical Properties.Thermal Resistance (R)": "5.88235294117647",
+        "Construction.Function": "Exterior",
+        "Construction.Lage Aussen": "True",
+        "Construction.Wrapping at Ends": "None",
+        "Construction.Wrapping at Inserts": "Do not wrap",
+        "Construction.Width": "0.22",
+        "General.Gebäudenummer": "72557",
+        "General.Standortcode": "GG",
+        "Graphics.Coarse Scale Fill Color": "0",
+        "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+        "Identity Data.Ausbau": "True",
+        "Identity Data.Assembly Code": "",
+        "Identity Data.Assembly Description": "",
+        "Identity Data.Type Comments": "",
+        "Identity Data.Workset": "Wall Types",
+        "Identity Data.Keynote": "",
+        "Identity Data.Description": "Leichtbeton_300",
+        "Identity Data.Edited by": "graser@graser.ch",
+        "Identity Data.Type Mark": "M2 - AW1_Fassade_WDVS_STB",
+        "Identity Data.Type Name": "WAN_ASW_DÄ-PU_220",
+        "Other.Category": "Walls",
+        "Other.Family Name": "Basic Wall",
+        "Structural.Filter Tragend / Nichttragend": "False",
+        "Text.Aufbau": "160 mm - Beton 2400 kg/m³ (CEN)\r\n200 mm - Flumroc-Dämmplatte COMPACT PRO\r\n  15 mm - Aussenputz",
+        "Pset_ElementShading.Roughness": "0.3048",
+        "Pset_ProductRequirements.Category": "Walls",
+        "Pset_QuantityTakeOff.Reference": "WAN_ASW_DÄ-PU_220",
+        "Pset_ReinforcementBarPitchOfWall.Description": "Leichtbeton_300",
+        "Pset_ReinforcementBarPitchOfWall.Reference": "WAN_ASW_DÄ-PU_220",
+        "Pset_WallCommon.IsExternal": "False",
+        "Pset_WallCommon.Reference": "WAN_ASW_DÄ-PU_220",
+        "Pset_WallCommon.ThermalTransmittance": "0.17",
+        "Gewerbebau.Ausbau": "True",
+        "Gewerbebau.Lage Aussen ": "True",
+        "Gewerbebau.Tragende": "False",
+        "Gewerbebau.Dicke": "0.22",
+        "Gewerbebau.Liegenschaft ID": "72557",
+        "Gewerbebau.Gebäude ID": "GG",
+        "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+        "Gewerbebau.Bauteilart": "Fassadenbekleidung",
+        "Gewerbebau.eBKP-H": "E 2.2",
+        "Gewerbebau.Typname": "WAN_ASW_DÄ-PU_220"
+      }
+    },
+    "Element Location": {
+      "Storeys Map": {
+        "98": {
+          "Elevation": -6.67,
+          "Unit": "meters"
+        },
+        "99": {
+          "Elevation": -3.8,
+          "Unit": "meters"
+        },
+        "00": {
+          "Elevation": 0.0,
+          "Unit": "meters"
+        },
+        "01": {
+          "Elevation": 4.95,
+          "Unit": "meters"
+        },
+        "02": {
+          "Elevation": 8.85,
+          "Unit": "meters"
+        },
+        "03": {
+          "Elevation": 12.75,
+          "Unit": "meters"
+        },
+        "04": {
+          "Elevation": 16.65,
+          "Unit": "meters"
+        },
+        "05": {
+          "Elevation": 20.55,
+          "Unit": "meters"
+        },
+        "06": {
+          "Elevation": 24.45,
+          "Unit": "meters"
+        }
+      },
+      "Element Located in Storey": "06",
+      "Spatial Relationship": [
+        {
+          "name": "110",
+          "type": "IfcProject"
+        },
+        {
+          "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+          "type": "IfcSite"
+        },
+        {
+          "name": "Zwhatt",
+          "type": "IfcBuilding"
+        },
+        {
+          "name": "06",
+          "type": "IfcBuildingStorey"
+        }
+      ]
+    }
+  },
+  "CompilationGroupID": "58e8ef5cad"
+}

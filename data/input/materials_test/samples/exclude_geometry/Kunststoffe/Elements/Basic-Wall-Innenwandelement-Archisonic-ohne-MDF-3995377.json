@@ -1,0 +1,52 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:Innenwandelement Archisonic ohne MDF:3995377",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:Innenwandelement Archisonic ohne MDF"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:Innenwandelement Archisonic ohne MDF",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Archisonic Charcoal",
+                    "Thickness": 0.012,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Location Line": "Finish Face: Exterior",
+            "Base Constraint": "Level: 01_Galerie",
+            "Area": "0.2631",
+            "Length": "149.2341",
+            "Volume": "0.0031",
+            "Workset": "Innenausbau",
+            "Category": "Walls",
+            "Family": "Basic Wall: Innenwandelement Archisonic ohne MDF",
+            "Type": "Basic Wall: Innenwandelement Archisonic ohne MDF",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Construction.Function": "Exterior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "TYP A",
+            "Identity Data.Type Name": "Innenwandelement Archisonic ohne MDF",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall"
+        }
+    },
+    "CompilationGroupID": "f3de7c9098"
+}

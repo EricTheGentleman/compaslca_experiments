@@ -1,0 +1,52 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:OSB 22mm:4937655",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:OSB 22mm"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:OSB 22mm",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "OSB",
+                    "Thickness": 0.022,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Level": "Level: 01_UK Decke",
+            "Area": "22.5531",
+            "Elevation at Bottom": "2830.0",
+            "Perimeter": "19129.4066",
+            "Thickness": "22.0",
+            "Volume": "0.4962",
+            "Workset": "Architecture",
+            "Category": "Floors",
+            "Family": "Floor: OSB 22mm",
+            "Type": "Floor: OSB 22mm",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Construction.Function": "Interior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Type Name": "OSB 22mm",
+            "Materials and Finishes.Structural Material": "OSB",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor"
+        }
+    },
+    "CompilationGroupID": "d43d337978"
+}

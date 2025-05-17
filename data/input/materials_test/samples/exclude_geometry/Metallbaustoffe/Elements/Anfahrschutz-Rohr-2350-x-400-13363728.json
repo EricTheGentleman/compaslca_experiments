@@ -1,0 +1,39 @@
+{
+    "Element Metadata": {
+        "Name": "Anfahrschutz Rohr:2350 x 400:13363728",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "Anfahrschutz Rohr:2350 x 400"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Metall - Zink"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "2350 x 400",
+            "Category": "Parking",
+            "Level": "99.0",
+            "unter Terrain": "True",
+            "Area": "0.5038",
+            "Volume": "0.0239",
+            "Workset": "A-Innenausbau",
+            "Family": "Anfahrschutz Rohr",
+            "Type": "2350 x 400",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "False",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "Equipment and Furnishings",
+            "Identity Data.Type Name": "2350 x 400",
+            "Identity Data.Workset": "Family  : Parking : Anfahrschutz Rohr",
+            "Materials and Finishes.Konstruktion": "Metall - Zink",
+            "Other.Category": "Parking",
+            "Other.Family Name": "Anfahrschutz Rohr",
+            "Pset_ProductRequirements.Category": "Parking"
+        }
+    },
+    "CompilationGroupID": "ae5b37afed"
+}

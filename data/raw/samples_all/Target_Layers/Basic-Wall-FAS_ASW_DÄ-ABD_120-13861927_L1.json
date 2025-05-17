@@ -1,0 +1,228 @@
+{
+  "Target Layer of Material Inference": {
+    "Material Name": "Dachdeckung - Bitumenbahn",
+    "Thickness": 0.01,
+    "Thickness Unit": "METRE",
+    "Layer Number": 1
+  },
+  "Building Element Context": {
+    "Element Metadata": {
+      "Name": "Basic Wall:FAS_ASW_DÄ-ABD_120:13861927",
+      "UID": "946947",
+      "GlobalId": "1pBGsaCvTFpgfJZ_C$O$qn",
+      "Type": "IfcWall",
+      "ObjectType": "Basic Wall:FAS_ASW_DÄ-ABD_120",
+      "Classification": "Not defined",
+      "Decomposes": {},
+      "Is Decomposed By": []
+    },
+    "Other Material Layers": [
+      {
+        "Material Name": "Dämmung - weich",
+        "Thickness": 0.1,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+      },
+      {
+        "Material Name": "Dachdeckung - Bitumenbahn",
+        "Thickness": 0.01,
+        "Thickness Unit": "METRE",
+        "Layer Number": 3
+      }
+    ],
+    "Layer Set Metadata": {
+      "IfcEntity": "IfcMaterialLayerSet"
+    },
+    "Element Geometry Data": {
+      "Quantities (IFC)": {},
+      "Geometric Representation": [
+        "Brep",
+        "Curve2D"
+      ],
+      "Quantities (COMPAS)": {
+        "Net Volume": 0.0968,
+        "Net Volume unit": "CUBIC_METRE",
+        "Entire Surface Area": 3.0128,
+        "Entire Surface Area unit": "SQUARE_METRE"
+      },
+      "Bounding Box Dimensions (OBB - local frame)": {
+        "X": 5.68,
+        "Y": 0.12,
+        "Z": 0.15,
+        "Bounding Box Dimensions Unit": "METRE"
+      },
+      "Bounding Box Volume": 0.1022,
+      "Real Volume to Bounding Box Volume Ratio": 0.9471,
+      "Face Count (tessellated element)": {
+        "Face Count": 20
+      },
+      "Vertex Count (tessellated element)": {
+        "Vertex Count": 38
+      },
+      "Edge Count (tessellated element)": {
+        "Edge Count": 49
+      },
+      "Primary Object Axis (Cardinal Direction)": "W"
+    },
+    "Element Property Sets": {
+      "Psets Element": {
+        "Room Bounding": "True",
+        "Related to Mass": "False",
+        "Base Extension Distance": "0.0",
+        "Base is Attached": "False",
+        "Top Extension Distance": "0.0",
+        "Top is Attached": "True",
+        "Location Line": "Finish Face: Interior",
+        "Top Offset": "0.0",
+        "Base Constraint": "07",
+        "Base Offset": "-0.41999999999999993",
+        "Top Constraint": "Up to level: 07",
+        "Unconnected Height": "0.4199999999999998",
+        "Cross-Section": "Vertical",
+        "Area": "0.8201920000000329",
+        "Length": "5.68000000000032",
+        "Volume": "0.09679697524653624",
+        "Edited by": "",
+        "Workset": "A-Fassade",
+        "Category": "Walls",
+        "Family": "Basic Wall",
+        "Family and Type": "Basic Wall: FAS_ASW_DÄ-ABD_120",
+        "Type": "FAS_ASW_DÄ-ABD_120",
+        "Type Id": "13861846",
+        "Phase Created": "Neubau",
+        "Enable Analytical Model": "False",
+        "Structural": "False",
+        "Structural Usage": "Non-bearing",
+        "Roughness": "0.3048",
+        "Reference": "FAS_ASW_DÄ-ABD_120",
+        "Description": "Dachtand_120",
+        "IsExternal": "True",
+        "ExtendToStructure": "True",
+        "LoadBearing": "False",
+        "ThermalTransmittance": "0.33543804262036303",
+        "Geschoss ID": "07",
+        "Höhe": "0.4199999999999998",
+        "Länge": "5.68000000000032",
+        "Fläche": "0.8201920000000329",
+        "Volumen": "0.09679697524653624"
+      },
+      "Psets Object Type": {
+        "Analytical Properties.Roughness": "1",
+        "Analytical Properties.Absorptance": "0.1",
+        "Analytical Properties.Heat Transfer Coefficient (U)": "0.33543804262036303",
+        "Analytical Properties.Thermal Mass": "48.2",
+        "Analytical Properties.Thermal Resistance (R)": "2.9811764705882355",
+        "Construction.Function": "Exterior",
+        "Construction.Lage Aussen": "True",
+        "Construction.Wrapping at Ends": "None",
+        "Construction.Wrapping at Inserts": "Both",
+        "Construction.Width": "0.12000000000000001",
+        "General.Gebäudenummer": "72557",
+        "General.Standortcode": "GG",
+        "Graphics.Coarse Scale Fill Color": "0",
+        "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+        "Identity Data.Edited by": "",
+        "Identity Data.Ausbau": "False",
+        "Identity Data.Assembly Code": "",
+        "Identity Data.Assembly Description": "",
+        "Identity Data.Type Comments": "",
+        "Identity Data.Workset": "Wall Types",
+        "Identity Data.Keynote": "",
+        "Identity Data.Description": "Dachtand_120",
+        "Identity Data.Type Name": "FAS_ASW_DÄ-ABD_120",
+        "Layers.EN Layers": "Dachdeckung - BitumenbahnDämmung - weichDachdeckung - Bitumenbahn",
+        "Layers.EN Layers and Widths": "Dachdeckung - Bitumenbahn 1cmDämmung - PIR 10cmDachdeckung - Bitumenbahn 1cm",
+        "Layers.EN Type String": "<L><M>Dachdeckung - Bitumenbahn</M><T>1</T></L><L><M>Dämmung - weich</M><T>15</T></L><L><M>Dachdeckung - Bitumenbahn</M><T>1</T></L",
+        "Layers.EN Widths": "1cm10cm1cm",
+        "Other.Category": "Walls",
+        "Other.Family Name": "Basic Wall",
+        "Structural.Filter Tragend / Nichttragend": "False",
+        "Text.Aufbau": "160 mm - Beton 2400 kg/m³ (CEN)200 mm - Flumroc-Dämmplatte COMPACT PRO  15 mm - Aussenputz",
+        "Pset_ElementShading.Roughness": "0.3048",
+        "Pset_ProductRequirements.Category": "Walls",
+        "Pset_ReinforcementBarPitchOfWall.Description": "Dachtand_120",
+        "Pset_WallCommon.IsExternal": "True",
+        "Pset_WallCommon.ThermalTransmittance": "0.33543804262036303",
+        "Gewerbebau.Dicke": "0.12000000000000001",
+        "Gewerbebau.Material": "Dachdeckung - Bitumenbahn, Dämmung - weich, Dachdeckung - Bitumenbahn",
+        "Gewerbebau.Ausbau": "False",
+        "Gewerbebau.Lage Aussen ": "True",
+        "Gewerbebau.Tragende Funktion": "False",
+        "Gewerbebau.Liegenschaft ID": "72557",
+        "Gewerbebau.Gebäude ID": "GG",
+        "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+        "Gewerbebau.Bauteilart": "Fassadenbekleidung",
+        "Gewerbebau.eBKP-H": "E 2.2",
+        "Gewerbebau.Typname": "FAS_ASW_DÄ-ABD_120"
+      }
+    },
+    "Element Location": {
+      "Storeys Map": {
+        "97": {
+          "Elevation": -7.94,
+          "Unit": "meters"
+        },
+        "98": {
+          "Elevation": -6.71,
+          "Unit": "meters"
+        },
+        "99": {
+          "Elevation": -3.81,
+          "Unit": "meters"
+        },
+        "00": {
+          "Elevation": 0.0,
+          "Unit": "meters"
+        },
+        "01": {
+          "Elevation": 5.02,
+          "Unit": "meters"
+        },
+        "02": {
+          "Elevation": 8.87,
+          "Unit": "meters"
+        },
+        "03": {
+          "Elevation": 12.72,
+          "Unit": "meters"
+        },
+        "04": {
+          "Elevation": 16.57,
+          "Unit": "meters"
+        },
+        "05": {
+          "Elevation": 20.42,
+          "Unit": "meters"
+        },
+        "06": {
+          "Elevation": 24.27,
+          "Unit": "meters"
+        },
+        "07": {
+          "Elevation": 27.55,
+          "Unit": "meters"
+        }
+      },
+      "Element Located in Storey": "07",
+      "Spatial Relationship": [
+        {
+          "name": "110",
+          "type": "IfcProject"
+        },
+        {
+          "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+          "type": "IfcSite"
+        },
+        {
+          "name": "Zwhatt",
+          "type": "IfcBuilding"
+        },
+        {
+          "name": "07",
+          "type": "IfcBuildingStorey"
+        }
+      ]
+    }
+  },
+  "CompilationGroupID": "e22ade172d"
+}

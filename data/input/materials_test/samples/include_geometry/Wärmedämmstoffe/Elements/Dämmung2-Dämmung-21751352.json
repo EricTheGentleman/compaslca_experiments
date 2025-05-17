@@ -1,0 +1,38 @@
+{
+    "Element Metadata": {
+        "Name": "Dämmung2:Dämmung:21751352",
+        "Type": "IfcSlab",
+        "ObjectType": "Dämmung2:Dämmung"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 1.29,
+            "Width unit": "METRE",
+            "Gross Volume": 0.1265,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 2.0557,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 2.0557,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 35.4625,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 5.35,
+            "Y": 0.16,
+            "Z": 2.91,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 2.491,
+        "Real Volume to Bounding Box Volume Ratio": 0.8253
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "Dämmung",
+            "IsExternal": "False"
+        }
+    }
+}

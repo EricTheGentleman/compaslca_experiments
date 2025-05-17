@@ -1,0 +1,15 @@
+{
+    "name": "Basic-Wall-Holzfassade_Hinterlüftet_Laibung-2906806",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+        "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz"
+    ],
+    "reason": [
+        "part of a facade, implicating individual boards",
+        "as nadelholz is a material indicator, fichte/tanne/lärche fits",
+        "kammergectrocknet has better control over shrinkage, therefore better for precise fassade system",
+        "gehobelt is preffered over rau, since it is visible fassade panel",
+        "kammergetrocknet, gehobelt is industry standard for wooden nadelholz facade boards"
+    ]
+}

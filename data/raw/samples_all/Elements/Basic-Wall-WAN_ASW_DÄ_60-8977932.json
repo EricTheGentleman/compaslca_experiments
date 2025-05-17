@@ -1,0 +1,232 @@
+{
+  "Element Metadata": {
+    "Name": "Basic Wall:WAN_ASW_DÄ_60:8977932",
+    "UID": "1280558",
+    "GlobalId": "3g3A9eQsLB5vzvgResNQMG",
+    "Type": "IfcWallStandardCase",
+    "ObjectType": "Basic Wall:WAN_ASW_DÄ_60",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Basic Wall:WAN_ASW_DÄ_60",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layers": [
+        {
+          "IfcEntity": "IfcMaterialLayer",
+          "Material Name": "Dämmung - weich",
+          "Description": "Unknown",
+          "Category": "Unknown",
+          "Thickness": 0.06,
+          "Thickness unit": "METRE"
+        }
+      ]
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Width": 0.06,
+      "Width unit": "METRE",
+      "Length": 33.0,
+      "Length unit": "METRE",
+      "Height": 0.65,
+      "Height unit": "METRE",
+      "Net Side Area": 21.45,
+      "Net Side Area unit": "SQUARE_METRE",
+      "Gross Footprint Area": 1.98,
+      "Gross Footprint Area unit": "SQUARE_METRE",
+      "Net Volume": 1.287,
+      "Net Volume unit": "CUBIC_METRE"
+    },
+    "Geometric Representation": [
+      "SweptSolid",
+      "Curve2D"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 1.287,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 46.938,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 33.0,
+      "Y": 0.06,
+      "Z": 0.65,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 1.287,
+    "Real Volume to Bounding Box Volume Ratio": 1.0,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "E"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Room Bounding": "True",
+      "Related to Mass": "False",
+      "Base Extension Distance": "0.0",
+      "Base is Attached": "False",
+      "Cross-Section": "Vertical",
+      "Top Constraint": "Level: 00",
+      "Top Extension Distance": "0.0",
+      "Top is Attached": "False",
+      "Base Constraint": "Level: 00",
+      "Location Line": "Finish Face: Exterior",
+      "Base Offset": "-1.0",
+      "Top Offset": "-0.35",
+      "Unconnected Height": "0.65",
+      "Area": "21.45",
+      "Length": "33.0",
+      "Volume": "1.28699999999999",
+      "unter Terrain": "False",
+      "Workset": "A-Fassade",
+      "Edited by": "graser@graser.ch",
+      "Category": "Walls",
+      "Family": "Basic Wall: WAN_ASW_DÄ_60",
+      "Family and Type": "Basic Wall: WAN_ASW_DÄ_60",
+      "Type": "Basic Wall: WAN_ASW_DÄ_60",
+      "Type Id": "Basic Wall: WAN_ASW_DÄ_60",
+      "Phase Created": "Neubau",
+      "Enable Analytical Model": "False",
+      "Structural": "False",
+      "Structural Usage": "Non-bearing",
+      "Roughness": "0.3048",
+      "Reference": "WAN_ASW_DÄ_60",
+      "Description": "None",
+      "IsExternal": "True",
+      "ExtendToStructure": "False",
+      "LoadBearing": "False",
+      "ThermalTransmittance": "0.566666666666667",
+      "Geschoss ID": "Level: 00",
+      "Höhe": "0.65",
+      "Länge": "33.0",
+      "Fläche": "21.45",
+      "Volumen": "1.28699999999999"
+    },
+    "Psets Object Type": {
+      "Analytical Properties.Roughness": "1",
+      "Analytical Properties.Absorptance": "0.1",
+      "Analytical Properties.Heat Transfer Coefficient (U)": "0.566666666666667",
+      "Analytical Properties.Thermal Mass": "0.7915339008",
+      "Analytical Properties.Thermal Resistance (R)": "1.76470588235294",
+      "Construction.Function": "Exterior",
+      "Construction.Lage Aussen": "True",
+      "Construction.Wrapping at Ends": "None",
+      "Construction.Wrapping at Inserts": "Do not wrap",
+      "Construction.Width": "0.06",
+      "General.Gebäudenummer": "72557",
+      "General.Standortcode": "GG",
+      "Graphics.Coarse Scale Fill Color": "0",
+      "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+      "Identity Data.Ausbau": "True",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Type Comments": "",
+      "Identity Data.Workset": "Wall Types",
+      "Identity Data.Keynote": "",
+      "Identity Data.Description": "",
+      "Identity Data.Edited by": "graser@graser.ch",
+      "Identity Data.Type Name": "WAN_ASW_DÄ_60",
+      "Other.Category": "Walls",
+      "Other.Family Name": "Basic Wall",
+      "Structural.Filter Tragend / Nichttragend": "False",
+      "Pset_ElementShading.Roughness": "0.3048",
+      "Pset_ProductRequirements.Category": "Walls",
+      "Pset_QuantityTakeOff.Reference": "WAN_ASW_DÄ_60",
+      "Pset_ReinforcementBarPitchOfWall.Description": "None",
+      "Pset_ReinforcementBarPitchOfWall.Reference": "WAN_ASW_DÄ_60",
+      "Pset_WallCommon.IsExternal": "False",
+      "Pset_WallCommon.Reference": "WAN_ASW_DÄ_60",
+      "Pset_WallCommon.ThermalTransmittance": "0.566666666666667",
+      "Gewerbebau.Ausbau": "True",
+      "Gewerbebau.Lage Aussen ": "True",
+      "Gewerbebau.Tragende": "False",
+      "Gewerbebau.Dicke": "0.06",
+      "Gewerbebau.Liegenschaft ID": "72557",
+      "Gewerbebau.Gebäude ID": "GG",
+      "Gewerbebau.Bauteilklasse": "A_Wand",
+      "Gewerbebau.Bauteilart": "Wandbekleidung",
+      "Gewerbebau.eBKP-H": "G 1.1",
+      "Gewerbebau.Typname": "WAN_ASW_DÄ_60"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "98": {
+        "Elevation": -6.67,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.8,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 4.95,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.85,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.75,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.65,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.55,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.45,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "00",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "00",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "67c85dba88"
+}

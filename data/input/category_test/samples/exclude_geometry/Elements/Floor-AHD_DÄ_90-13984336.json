@@ -1,0 +1,58 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:AHD_DÄ_90:13984336",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:AHD_DÄ_90"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "Roughness": "0.3048",
+            "Category": "Floors",
+            "Reference": "AHD_DÄ_90",
+            "Description": "DÄ_80",
+            "IsExternal": "False",
+            "LoadBearing": "False",
+            "ThermalTransmittance": "0.425",
+            "unter Terrain": "True",
+            "Geschoss ID": "0.0",
+            "Umfang": "50.62",
+            "Fläche": "54.2178",
+            "Volumen": "4.8742",
+            "Room Bounding": "True",
+            "Level": "0.0",
+            "Related to Mass": "False",
+            "Area": "54.2178",
+            "Elevation at Bottom": "-0.93",
+            "Perimeter": "50.62",
+            "Thickness": "0.09",
+            "Volume": "4.8742",
+            "Workset": "A-Innenausbau",
+            "Family": "Floor",
+            "Type": "AHD_DÄ_90",
+            "Phase Created": "Neubau",
+            "Structural": "False"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "0.425",
+            "Analytical Properties.Thermal Mass": "11.36",
+            "Analytical Properties.Thermal Resistance (R)": "2.3529",
+            "Construction.Lage Aussen": "False",
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Description": "DÄ_80",
+            "Identity Data.Type Name": "AHD_DÄ_90",
+            "Layers.EN Layers and Widths": "Dämmung - weich 8cm",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Floors",
+            "Gewerbebau.Bauteilklasse": "A_Deckenbekleidung",
+            "Gewerbebau.Bauteilart": "Deckenbekleidung",
+            "Gewerbebau.Typname": "AHD_DÄ_90"
+        }
+    }
+}

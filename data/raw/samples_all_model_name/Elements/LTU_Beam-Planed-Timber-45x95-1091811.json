@@ -1,0 +1,150 @@
+{
+  "Element Metadata": {
+    "Name": "Beam Planed Timber:45x95:1091811",
+    "UID": "266019",
+    "GlobalId": "15JR2Suf9FowA34zphF6qG",
+    "Type": "IfcMember",
+    "ObjectType": "45x95",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterial",
+      "Material Name": "Wood",
+      "Material Description": "Unknown",
+      "Material Category": "Unknown",
+      "Thickness": "Unknown",
+      "Thickness unit": "Unknown"
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": [
+      "MappedRepresentation"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.00398,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 0.26897,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 0.1,
+      "Y": 0.93,
+      "Z": 0.04,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.0037,
+    "Real Volume to Bounding Box Volume Ratio": 1.07568,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "Undefined"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Structural Area": "0.004275",
+      "W(x)": "6.76875e-05",
+      "H": "95.0",
+      "B": "45.0",
+      "OmniClass Title": "Beams",
+      "Assembly Code": "",
+      "Edited by": "",
+      "Assembly Description": "",
+      "Workset": "Workset1",
+      "OmniClass Number": "23.25.30.11.14.14",
+      "z Offset Value": "0.0",
+      "End Extension": "0.0",
+      "Start Join Cutback": "0.0",
+      "Start Extension": "0.0",
+      "y Justification": "Origin",
+      "y Offset Value": "0.0",
+      "End Join Cutback": "-31.9307159252028",
+      "z Justification": "Origin",
+      "yz Justification": "Uniform",
+      "Coping Distance": "0.0",
+      "Structural Usage": "Web",
+      "Enable Analytical Model": "True",
+      "Cut Length": "932.548347482024",
+      "Angle": "0.0",
+      "Cross-Section Rotation": "0.0",
+      "Reference Level": "Level: VÅN 3",
+      "Start Extension Calculation": "3000.0",
+      "End Extension Calculation": "3000.0",
+      "Structural Material": "Wood",
+      "Phase Created": "New",
+      "Volume": "0.00397600213080538",
+      "Length": "1085.14131872594",
+      "Reference": "45x95",
+      "LoadBearing": "True",
+      "IsExternal": "False",
+      "Span": "1085.14131872594",
+      "Slope": "0.0"
+    },
+    "Psets Object Type": {}
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "Ref.": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "VÅN 1": {
+        "Elevation": 2.7,
+        "Unit": "meters"
+      },
+      "VÅN 2": {
+        "Elevation": 6.0,
+        "Unit": "meters"
+      },
+      "VÅN 3": {
+        "Elevation": 9.3,
+        "Unit": "meters"
+      },
+      "VÅN 4": {
+        "Elevation": 12.0,
+        "Unit": "meters"
+      },
+      "VÅN 5": {
+        "Elevation": 16.0,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "VÅN 3",
+    "Spatial Relationship": [
+      {
+        "name": "1018 4979",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Default",
+        "type": "IfcSite"
+      },
+      {
+        "name": "",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "VÅN 3",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "fd80e9f580"
+}

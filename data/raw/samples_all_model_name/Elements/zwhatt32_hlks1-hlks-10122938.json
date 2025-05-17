@@ -1,0 +1,148 @@
+{
+  "Element Metadata": {
+    "Name": "hlks1:hlks:10122938",
+    "UID": "1510919",
+    "GlobalId": "15iddPNi96ivEtCzYhE4H5",
+    "Type": "IfcBuildingElementProxy",
+    "ObjectType": "hlks1:hlks",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": "Not defined",
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": [
+      "MappedRepresentation"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 265.038,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 376.6733,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 14.88,
+      "Y": 8.51,
+      "Z": 4.66,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 590.0902,
+    "Real Volume to Bounding Box Volume Ratio": 0.4491,
+    "Face Count (tessellated element)": {
+      "Face Count": 576
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 650
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 1189
+    },
+    "Primary Object Axis (Cardinal Direction)": "S"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Reference": "hlks",
+      "Category": "Generic Models",
+      "Width": "4.06",
+      "Depth": "4.06",
+      "Elevation from Level": "0.0",
+      "Moves With Nearby Elements": "False",
+      "Area": "67.7709385823179",
+      "Volume": "265.037797081443",
+      "Workset": "A-Innenausbau",
+      "Edited by": "graser@graser.ch",
+      "Family": "hlks1: hlks",
+      "Family and Type": "hlks1: hlks",
+      "Type": "hlks1: hlks",
+      "Type Id": "hlks1: hlks",
+      "Phase Created": "Neubau"
+    },
+    "Psets Object Type": {
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Code Name": "",
+      "Identity Data.OmniClass Number": "",
+      "Identity Data.OmniClass Title": "",
+      "Identity Data.Workset": "A-Innenausbau",
+      "Identity Data.Edited by": "graser@graser.ch",
+      "Identity Data.Type Name": "hlks",
+      "Other.Category": "Generic Models",
+      "Other.Family Name": "hlks1",
+      "Pset_BuildingElementProxyCommon.Reference": "hlks",
+      "Pset_ProductRequirements.Category": "Generic Models",
+      "Pset_QuantityTakeOff.Reference": "hlks"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "98": {
+        "Elevation": -6.67,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.8,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 4.95,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.85,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.75,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.65,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.55,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.45,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "06",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "06",
+        "type": "IfcBuildingStorey"
+      },
+      {
+        "name": "951",
+        "type": "IfcSpace"
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "Element Metadata": {
+    "Name": "Fassade Ecke EG1:FAS_ECK_EG:12651885",
+    "UID": "814791",
+    "GlobalId": "1y7P6xaGfF5ACvuuWMNk$W",
+    "Type": "IfcWall",
+    "ObjectType": "Fassade Ecke EG1:FAS_ECK_EG",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterial",
+      "Material Name": "Aluminum",
+      "Material Description": "Unknown",
+      "Material Category": "Unknown",
+      "Thickness": "Unknown",
+      "Thickness unit": "Unknown"
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": [
+      "SweptSolid"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.0237,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 1.3092,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 0.08,
+      "Y": 0.08,
+      "Z": 3.95,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.0253,
+    "Real Volume to Bounding Box Volume Ratio": 0.9372,
+    "Face Count (tessellated element)": {
+      "Face Count": 20
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 36
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 48
+    },
+    "Primary Object Axis (Cardinal Direction)": "E"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Room Bounding": "True",
+      "Moves With Nearby Elements": "False",
+      "Moves With Grids": "False",
+      "unter Terrain": "False",
+      "Volume": "0.023710225000004026",
+      "Edited by": "",
+      "Workset": "A-Fassade",
+      "Design Option": "11662270",
+      "Category": "Columns",
+      "Family": "Fassade Ecke EG1",
+      "Family and Type": "Fassade Ecke EG1: FAS_ECK_EG",
+      "Type": "FAS_ECK_EG",
+      "Type Id": "12651883",
+      "Phase Created": "Neubau",
+      "Reference": "FAS_ECK_EG",
+      "IsExternal": "False",
+      "Volumen": "0.023710225000004026"
+    },
+    "Psets Object Type": {
+      "Construction.Lage Aussen": "True",
+      "General.Gebäudenummer": "72557",
+      "General.Standortcode": "GG",
+      "Identity Data.Edited by": "",
+      "Identity Data.Ausbau": "False",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Code Name": "",
+      "Identity Data.OmniClass Number": "",
+      "Identity Data.OmniClass Title": "",
+      "Identity Data.Workset": "A-Fassade",
+      "Identity Data.Design Option": "11662270",
+      "Identity Data.Type Name": "FAS_ECK_EG",
+      "Other.Category": "Columns",
+      "Other.Family Name": "Fassade Ecke EG1",
+      "Pset_ProductRequirements.Category": "Columns",
+      "Pset_WallCommon.IsExternal": "False",
+      "Gewerbebau.Ausbau": "False",
+      "Gewerbebau.Lage Aussen ": "True",
+      "Gewerbebau.Liegenschaft ID": "72557",
+      "Gewerbebau.Gebäude ID": "GG",
+      "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+      "Gewerbebau.Bauteilart": "Fassadenelement",
+      "Gewerbebau.Typname": "FAS_ECK_EG"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "00",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "00",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  }
+}

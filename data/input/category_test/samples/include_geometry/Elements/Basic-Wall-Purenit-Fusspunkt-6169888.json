@@ -1,0 +1,65 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:Purenit Fusspunkt:6169888",
+        "Type": "IfcWall",
+        "ObjectType": "Basic Wall:Purenit Fusspunkt"
+    },
+    "Element Material Data": [
+        {
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Purenit",
+                    "Thickness": 0.025,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.03314,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 2.95077,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 5.76,
+            "Y": 0.03,
+            "Z": 0.29,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0501,
+        "Real Volume to Bounding Box Volume Ratio": 0.66148
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Base Constraint": "Level: 00_Betonplatte",
+            "Location Line": "Core Face: Interior",
+            "Room Bounding": "False",
+            "Area": "1.326",
+            "Length": "5760.0661",
+            "Volume": "0.0331",
+            "Workset": "Architecture",
+            "Category": "Walls",
+            "Family": "Basic Wall: Purenit Fusspunkt",
+            "Type": "Basic Wall: Purenit Fusspunkt",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Construction.Function": "Exterior",
+            "Data.Unternehmer": "Künzli / Kaufmann",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Type Name": "Purenit Fusspunkt",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall"
+        }
+    },
+    "CompilationGroupID": "795c75da48"
+}

@@ -1,0 +1,40 @@
+{
+    "Element Metadata": {
+        "Name": "Precast Stair:Stair:10092362 Landing 1",
+        "Type": "IfcSlab",
+        "ObjectType": "Monolithic Landing:POD_STB_FER_200"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Betonfertigteil"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Category": "Landings",
+            "Reference": "POD_STB_FER_200",
+            "IsExternal": "False",
+            "Bauteilklasse": "A_TreppeRampe",
+            "Bauteilart": "Treppe",
+            "Typname": "POD_STB_FER_200",
+            "Workset": "A-Innenausbau",
+            "Family": "Monolithic Landing: POD_STB_FER_200",
+            "Type": "Monolithic Landing: POD_STB_FER_200",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Stair Types",
+            "Identity Data.Type Name": "POD_STB_FER_200",
+            "Other.Category": "Landings",
+            "Other.Family Name": "Monolithic Landing",
+            "Pset_ProductRequirements.Category": "Landings",
+            "Pset_QuantityTakeOff.Reference": "POD_STB_FER_200",
+            "Gewerbebau.Bauteilklasse": "A_TreppeRampe",
+            "Gewerbebau.Bauteilart": "Treppe",
+            "Gewerbebau.Typname": "POD_STB_FER_200"
+        }
+    },
+    "CompilationGroupID": "3a57fddac6"
+}

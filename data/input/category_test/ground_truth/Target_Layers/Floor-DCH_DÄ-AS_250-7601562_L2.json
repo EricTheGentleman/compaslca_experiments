@@ -1,0 +1,13 @@
+{
+    "name": "Floor-DCH_DÄ-AS_250-7601562_L2",
+    "category": "Beton",
+    "material_entries": [
+        "Magerbeton (ohne Bewehrung)",
+        "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "reason": [
+        "thickness is 6cm",
+        "a layer, überbeton refers to a topping layer of concrete",
+        "probably non-structural leveling"
+    ]
+}

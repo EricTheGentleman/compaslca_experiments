@@ -1,0 +1,135 @@
+{
+  "Element Metadata": {
+    "Name": "Wall Foundation:Concrete - Cast-in-Place - 1200x300:1282521",
+    "UID": "352815",
+    "GlobalId": "3tfWu6ljPBT9BZ96xJiJs6",
+    "Type": "IfcFooting",
+    "ObjectType": "Wall Foundation:Concrete - Cast-in-Place - 1200x300",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterial",
+      "Material Name": "Concrete - Cast-in-Place",
+      "Material Description": "Unknown",
+      "Material Category": "Unknown",
+      "Thickness": "Unknown",
+      "Thickness unit": "Unknown"
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {},
+    "Geometric Representation": [
+      "SweptSolid"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 4.1994,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 35.715,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 11.67,
+      "Y": 1.2,
+      "Z": 0.3,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 4.2012,
+    "Real Volume to Bounding Box Volume Ratio": 0.99957,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "E"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Structural Material": "Concrete - Cast-in-Place",
+      "Width": "1200.0",
+      "Default End Extension Length": "0.0",
+      "Foundation Thickness": "300.0",
+      "Do Not Break At Inserts": "True",
+      "Keynote": "15.S",
+      "Edited by": "",
+      "Assembly Code": "",
+      "Workset": "Workset1",
+      "URL": "www.cad-q.com",
+      "Assembly Description": "",
+      "Structural Usage": "Bearing",
+      "Comments": "",
+      "Phase Created": "New",
+      "Eccentricity": "0.0",
+      "Volume": "4.19940000000002",
+      "Length": "11665.0000000001",
+      "Elevation at Bottom": "2149.99999999796",
+      "Rebar Cover - Other Faces": "Rebar Cover Settings: 20mm",
+      "Rebar Cover - Top Face": "Rebar Cover Settings: 20mm",
+      "Enable Analytical Model": "True",
+      "Rebar Cover - Bottom Face": "Rebar Cover Settings: 20mm"
+    },
+    "Psets Object Type": {}
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "Ref.": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "VÅN 1": {
+        "Elevation": 2.7,
+        "Unit": "meters"
+      },
+      "VÅN 2": {
+        "Elevation": 6.0,
+        "Unit": "meters"
+      },
+      "VÅN 3": {
+        "Elevation": 9.3,
+        "Unit": "meters"
+      },
+      "VÅN 4": {
+        "Elevation": 12.0,
+        "Unit": "meters"
+      },
+      "VÅN 5": {
+        "Elevation": 16.0,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "Ref.",
+    "Spatial Relationship": [
+      {
+        "name": "1018 4979",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Default",
+        "type": "IfcSite"
+      },
+      {
+        "name": "",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "Ref.",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "d635ca570f"
+}

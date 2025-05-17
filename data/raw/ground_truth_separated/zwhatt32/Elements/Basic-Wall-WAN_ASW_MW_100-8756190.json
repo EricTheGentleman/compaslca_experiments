@@ -1,0 +1,18 @@
+{
+    "name": "Basic-Wall-WAN_ASW_MW_100-8756190",
+    "category": "Mauersteine",
+    "material_entries": [
+        "Backstein",
+        "Kalksandstein",
+        "Kalksandstein, FBB",
+        "Kalksandstein, Hunziker Kalksandstein AG",
+        "Leichtzementstein, Blähton",
+        "Leichtzementstein, Naturbims"
+        ],
+    "reason": [
+        "description: leichtbau & non-bearing mauerwerk wand",
+        "10 cm thin nn-insulating, lightweight masonry element",
+        "excluded material entries with goo thermal properties",
+        "excluded materials that are considered very heavy"
+    ]
+}

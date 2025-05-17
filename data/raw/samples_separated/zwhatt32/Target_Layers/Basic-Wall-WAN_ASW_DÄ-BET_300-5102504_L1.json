@@ -1,0 +1,235 @@
+{
+  "Target Layer of Material Inference": {
+    "Material Name": "Betonfertigteil",
+    "Thickness": 0.1,
+    "Thickness Unit": "METRE",
+    "Layer Number": 1
+  },
+  "Building Element Context": {
+    "Element Metadata": {
+      "Name": "Basic Wall:WAN_ASW_DÄ-BET_300:5102504",
+      "UID": "275853",
+      "GlobalId": "1UKw5JkFT5bPV9gcma1aze",
+      "Type": "IfcWallStandardCase",
+      "ObjectType": "Basic Wall:WAN_ASW_DÄ-BET_300",
+      "Classification": "Not defined",
+      "Decomposes": {},
+      "Is Decomposed By": []
+    },
+    "Other Material Layers": [
+      {
+        "Material Name": "Dämmung - weich",
+        "Thickness": 0.2,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+      }
+    ],
+    "Layer Set Metadata": {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Basic Wall:WAN_ASW_DÄ-BET_300",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layer Direction and Growth description": "Layers are stacked perpendicular to the element's length, growing in the opposite direction from its reference surface."
+    },
+    "Element Geometry Data": {
+      "Quantities (IFC)": {
+        "Width": 0.3,
+        "Width unit": "METRE",
+        "Length": 77.32,
+        "Length unit": "METRE",
+        "Height": 5.18,
+        "Height unit": "METRE",
+        "Net Side Area": 119.9407,
+        "Net Side Area unit": "SQUARE_METRE",
+        "Gross Footprint Area": 23.196,
+        "Gross Footprint Area unit": "SQUARE_METRE",
+        "Net Volume": 35.9822,
+        "Net Volume unit": "CUBIC_METRE"
+      },
+      "Geometric Representation": [
+        "Clipping",
+        "Curve2D"
+      ],
+      "Quantities (COMPAS)": {
+        "Net Volume": 39.269,
+        "Net Volume unit": "CUBIC_METRE",
+        "Entire Surface Area": 314.8318,
+        "Entire Surface Area unit": "SQUARE_METRE"
+      },
+      "Bounding Box Dimensions (OBB - local frame)": {
+        "X": 77.32,
+        "Y": 0.3,
+        "Z": 5.18,
+        "Bounding Box Dimensions Unit": "METRE"
+      },
+      "Bounding Box Volume": 120.1553,
+      "Real Volume to Bounding Box Volume Ratio": 0.3268,
+      "Face Count (tessellated element)": {
+        "Face Count": 96
+      },
+      "Vertex Count (tessellated element)": {
+        "Vertex Count": 150
+      },
+      "Edge Count (tessellated element)": {
+        "Edge Count": 219
+      },
+      "Primary Object Axis (Cardinal Direction)": "E"
+    },
+    "Element Property Sets": {
+      "Psets Element": {
+        "Room Bounding": "True",
+        "Related to Mass": "False",
+        "Cross-Section": "Vertical",
+        "Top Extension Distance": "0.0",
+        "Base is Attached": "True",
+        "Location Line": "Finish Face: Interior",
+        "Top is Attached": "False",
+        "Base Constraint": "Level: 00",
+        "Top Constraint": "Level: 01",
+        "Base Extension Distance": "-0.93",
+        "Base Offset": "-0.05",
+        "Top Offset": "-0.75",
+        "Unconnected Height": "4.25",
+        "Area": "119.940671507488",
+        "Length": "77.6199999999992",
+        "Volume": "35.9822014522461",
+        "unter Terrain": "False",
+        "Workset": "A-Fassade",
+        "Edited by": "graser@graser.ch",
+        "Category": "Walls",
+        "Family": "Basic Wall: WAN_ASW_DÄ-BET_300",
+        "Family and Type": "Basic Wall: WAN_ASW_DÄ-BET_300",
+        "Type": "Basic Wall: WAN_ASW_DÄ-BET_300",
+        "Type Id": "Basic Wall: WAN_ASW_DÄ-BET_300",
+        "Phase Created": "Neubau",
+        "Enable Analytical Model": "False",
+        "Structural": "False",
+        "Structural Usage": "Non-bearing",
+        "FireRating": "REI 60",
+        "Roughness": "0.3048",
+        "Reference": "WAN_ASW_DÄ-BET_300",
+        "Description": "None",
+        "IsExternal": "True",
+        "ExtendToStructure": "False",
+        "LoadBearing": "False",
+        "ThermalTransmittance": "0.17",
+        "Geschoss ID": "Level: 00",
+        "Höhe": "4.25",
+        "Länge": "77.6199999999992",
+        "Fläche": "119.940671507488",
+        "Volumen": "35.9822014522461"
+      },
+      "Psets Object Type": {
+        "Analytical Properties.Roughness": "1",
+        "Analytical Properties.Absorptance": "0.1",
+        "Analytical Properties.Heat Transfer Coefficient (U)": "0.17",
+        "Analytical Properties.Thermal Mass": "2.638446336",
+        "Analytical Properties.Thermal Resistance (R)": "5.88235294117647",
+        "Construction.Function": "Exterior",
+        "Construction.Lage Aussen": "True",
+        "Construction.Wrapping at Inserts": "Do not wrap",
+        "Construction.Wrapping at Ends": "Exterior",
+        "Construction.Width": "0.3",
+        "General.Gebäudenummer": "72557",
+        "General.Standortcode": "GG",
+        "Graphics.Coarse Scale Fill Color": "0",
+        "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+        "Identity Data.Ausbau": "True",
+        "Identity Data.Assembly Code": "",
+        "Identity Data.Assembly Description": "",
+        "Identity Data.Type Comments": "",
+        "Identity Data.Workset": "Wall Types",
+        "Identity Data.Description": "",
+        "Identity Data.Edited by": "graser@graser.ch",
+        "Identity Data.Fire Rating": "REI 60",
+        "Identity Data.Type Mark": "Erdgeschoss",
+        "Identity Data.Type Name": "WAN_ASW_DÄ-BET_300",
+        "Other.Category": "Walls",
+        "Other.Family Name": "Basic Wall",
+        "Structural.Filter Tragend / Nichttragend": "False",
+        "Text.Aufbau": "160 mm - Beton 2400 kg/m³ (CEN)\r\n200 mm - Flumroc-Dämmplatte COMPACT PRO\r\n100 mm - Beton",
+        "Pset_ConcreteElementGeneral.FireRating": "REI 60",
+        "Pset_ElementShading.Roughness": "0.3048",
+        "Pset_ProductRequirements.Category": "Walls",
+        "Pset_QuantityTakeOff.Reference": "WAN_ASW_DÄ-BET_300",
+        "Pset_ReinforcementBarPitchOfWall.Description": "None",
+        "Pset_ReinforcementBarPitchOfWall.Reference": "WAN_ASW_DÄ-BET_300",
+        "Pset_WallCommon.IsExternal": "False",
+        "Pset_WallCommon.Reference": "WAN_ASW_DÄ-BET_300",
+        "Pset_WallCommon.FireRating": "REI 60",
+        "Pset_WallCommon.ThermalTransmittance": "0.17",
+        "Gewerbebau.Ausbau": "True",
+        "Gewerbebau.Lage Aussen ": "True",
+        "Gewerbebau.Tragende": "False",
+        "Gewerbebau.Dicke": "0.3",
+        "Gewerbebau.Feuerwiderstandsklasse": "REI 60",
+        "Gewerbebau.Liegenschaft ID": "72557",
+        "Gewerbebau.Gebäude ID": "GG",
+        "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+        "Gewerbebau.Bauteilart": "Fassadenbekleidung",
+        "Gewerbebau.eBKP-H": "E 2.2",
+        "Gewerbebau.Typname": "WAN_ASW_DÄ-BET_300"
+      }
+    },
+    "Element Location": {
+      "Storeys Map": {
+        "98": {
+          "Elevation": -6.67,
+          "Unit": "meters"
+        },
+        "99": {
+          "Elevation": -3.8,
+          "Unit": "meters"
+        },
+        "00": {
+          "Elevation": 0.0,
+          "Unit": "meters"
+        },
+        "01": {
+          "Elevation": 4.95,
+          "Unit": "meters"
+        },
+        "02": {
+          "Elevation": 8.85,
+          "Unit": "meters"
+        },
+        "03": {
+          "Elevation": 12.75,
+          "Unit": "meters"
+        },
+        "04": {
+          "Elevation": 16.65,
+          "Unit": "meters"
+        },
+        "05": {
+          "Elevation": 20.55,
+          "Unit": "meters"
+        },
+        "06": {
+          "Elevation": 24.45,
+          "Unit": "meters"
+        }
+      },
+      "Element Located in Storey": "00",
+      "Spatial Relationship": [
+        {
+          "name": "110",
+          "type": "IfcProject"
+        },
+        {
+          "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+          "type": "IfcSite"
+        },
+        {
+          "name": "Zwhatt",
+          "type": "IfcBuilding"
+        },
+        {
+          "name": "00",
+          "type": "IfcBuildingStorey"
+        }
+      ]
+    }
+  },
+  "CompilationGroupID": "7802d5532e"
+}

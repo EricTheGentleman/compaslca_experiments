@@ -1,0 +1,27 @@
+{
+    "Element Metadata": {
+        "Name": "EG-A-1-1",
+        "Type": "IfcWallStandardCase"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Massiv",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Massiv",
+                    "Thickness": 0.15,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "ThermalTransmittance": "0.41",
+            "IsExternal": "True",
+            "LoadBearing": "True"
+        }
+    }
+}

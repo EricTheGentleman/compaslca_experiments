@@ -1,0 +1,223 @@
+{
+  "Element Metadata": {
+    "Name": "Floor:BBA_GIT_MET_30:11023640:10",
+    "UID": "482596",
+    "GlobalId": "1$rt3N0Ob3ZgHyY87jDbFu",
+    "Type": "IfcSlab",
+    "ObjectType": "Floor:BBA_GIT_MET_30",
+    "Classification": "Not defined",
+    "Decomposes": {},
+    "Is Decomposed By": []
+  },
+  "Element Material Data": [
+    {
+      "IfcEntity": "IfcMaterialLayerSetUsage",
+      "Layer Set Name": "Floor:BBA_GIT_MET_30",
+      "Layer Set Description": "Unknown",
+      "Layer Set Total Thickness": "Unknown",
+      "Layers": [
+        {
+          "IfcEntity": "IfcMaterialLayer",
+          "Material Name": "Gitterrost-2",
+          "Description": "Unknown",
+          "Category": "Unknown",
+          "Thickness": 0.03,
+          "Thickness unit": "METRE"
+        }
+      ]
+    }
+  ],
+  "Element Geometry Data": {
+    "Quantities (IFC)": {
+      "Net Volume": 2.0564,
+      "Net Volume unit": "CUBIC_METRE"
+    },
+    "Geometric Representation": [
+      "SweptSolid"
+    ],
+    "Quantities (COMPAS)": {
+      "Net Volume": 0.0957,
+      "Net Volume unit": "CUBIC_METRE",
+      "Entire Surface Area": 6.6131,
+      "Entire Surface Area unit": "SQUARE_METRE"
+    },
+    "Bounding Box Dimensions (OBB - local frame)": {
+      "X": 2.66,
+      "Y": 1.2,
+      "Z": 0.03,
+      "Bounding Box Dimensions Unit": "METRE"
+    },
+    "Bounding Box Volume": 0.0958,
+    "Real Volume to Bounding Box Volume Ratio": 0.9992,
+    "Face Count (tessellated element)": {
+      "Face Count": 12
+    },
+    "Vertex Count (tessellated element)": {
+      "Vertex Count": 24
+    },
+    "Edge Count (tessellated element)": {
+      "Edge Count": 30
+    },
+    "Primary Object Axis (Cardinal Direction)": "W"
+  },
+  "Element Property Sets": {
+    "Psets Element": {
+      "Roughness": "0.3048",
+      "Category": "Floors",
+      "Reference": "BBA_GIT_MET_30",
+      "PitchAngle": "0.0",
+      "IsExternal": "True",
+      "LoadBearing": "False",
+      "unter Terrain": "False",
+      "Geschoss ID": "01",
+      "Umfang": "167.04600001938053",
+      "Fläche": "68.54760002516079",
+      "Volumen": "2.0564280007547997",
+      "Dicke": "0.03",
+      "Material": "Gitterrost-2",
+      "Ausbau": "False",
+      "Lage Aussen ": "True",
+      "Tragende Funktion": "False",
+      "Liegenschaft ID": "72557",
+      "Gebäude ID": "GG",
+      "Bauteilklasse": "A_Bodenaufbau",
+      "Bauteilart": "Bodenbelag",
+      "Typname": "BBA_GIT_MET_30",
+      "Room Bounding": "True",
+      "Related to Mass": "False",
+      "Height Offset From Level": "0.0",
+      "Level": "01",
+      "Area": "68.54760002516079",
+      "Elevation at Bottom": "4.989999999999722",
+      "Elevation at Top": "5.019999999999722",
+      "Perimeter": "167.04600001938053",
+      "Thickness": "0.03",
+      "Volume": "2.0564280007547997",
+      "Edited by": "",
+      "Workset": "A-Fassade",
+      "Family": "Floor",
+      "Family and Type": "Floor: BBA_GIT_MET_30",
+      "Type": "BBA_GIT_MET_30",
+      "Type Id": "2773888",
+      "Phase Created": "Neubau",
+      "Enable Analytical Model": "False",
+      "Structural": "False"
+    },
+    "Psets Object Type": {
+      "Analytical Properties.Roughness": "1",
+      "Analytical Properties.Absorptance": "0.1",
+      "Construction.Function": "Exterior",
+      "Construction.Lage Aussen": "True",
+      "Construction.Default Thickness": "0.03",
+      "General.Gebäudenummer": "72557",
+      "General.Standortcode": "GG",
+      "Graphics.Coarse Scale Fill Pattern": "<Solid fill",
+      "Graphics.Coarse Scale Fill Color": "12632256",
+      "Identity Data.Edited by": "",
+      "Identity Data.Ausbau": "False",
+      "Identity Data.Assembly Code": "",
+      "Identity Data.Assembly Description": "",
+      "Identity Data.Type Comments": "",
+      "Identity Data.Workset": "Floor Types",
+      "Identity Data.Description": "",
+      "Identity Data.Type Name": "BBA_GIT_MET_30",
+      "Layers.EN Layers": "Gitterrost",
+      "Layers.EN Layers and Widths": "Gitterrost 3cm",
+      "Layers.EN Type String": "<L><M>Gitterrost</M><T>3</T></L",
+      "Layers.EN Widths": "3cm",
+      "Materials and Finishes.Structural Material": "Gitterrost-2",
+      "Other.Category": "Floors",
+      "Other.Family Name": "Floor",
+      "Structural.Filter Tragend / Nichttragend": "False",
+      "Pset_ElementShading.Roughness": "0.3048",
+      "Pset_ProductRequirements.Category": "Floors",
+      "Pset_SlabCommon.IsExternal": "True",
+      "Gewerbebau.Dicke": "0.03",
+      "Gewerbebau.Material": "Gitterrost-2",
+      "Gewerbebau.Ausbau": "False",
+      "Gewerbebau.Lage Aussen ": "True",
+      "Gewerbebau.Tragende Funktion": "False",
+      "Gewerbebau.Liegenschaft ID": "72557",
+      "Gewerbebau.Gebäude ID": "GG",
+      "Gewerbebau.Bauteilklasse": "A_Bodenaufbau",
+      "Gewerbebau.Bauteilart": "Bodenbelag",
+      "Gewerbebau.Typname": "BBA_GIT_MET_30"
+    }
+  },
+  "Element Relationships": {
+    "Nests": null,
+    "Is Nested By": null,
+    "Covers": null,
+    "Is Covered By": null,
+    "Has Openings": null,
+    "Assigned Groups": null
+  },
+  "Element Location": {
+    "Storeys Map": {
+      "97": {
+        "Elevation": -7.94,
+        "Unit": "meters"
+      },
+      "98": {
+        "Elevation": -6.71,
+        "Unit": "meters"
+      },
+      "99": {
+        "Elevation": -3.81,
+        "Unit": "meters"
+      },
+      "00": {
+        "Elevation": 0.0,
+        "Unit": "meters"
+      },
+      "01": {
+        "Elevation": 5.02,
+        "Unit": "meters"
+      },
+      "02": {
+        "Elevation": 8.87,
+        "Unit": "meters"
+      },
+      "03": {
+        "Elevation": 12.72,
+        "Unit": "meters"
+      },
+      "04": {
+        "Elevation": 16.57,
+        "Unit": "meters"
+      },
+      "05": {
+        "Elevation": 20.42,
+        "Unit": "meters"
+      },
+      "06": {
+        "Elevation": 24.27,
+        "Unit": "meters"
+      },
+      "07": {
+        "Elevation": 27.55,
+        "Unit": "meters"
+      }
+    },
+    "Element Located in Storey": "01",
+    "Spatial Relationship": [
+      {
+        "name": "110",
+        "type": "IfcProject"
+      },
+      {
+        "name": "Pyramid Baufeld:Pyramid Baufeld:6949083",
+        "type": "IfcSite"
+      },
+      {
+        "name": "Zwhatt",
+        "type": "IfcBuilding"
+      },
+      {
+        "name": "01",
+        "type": "IfcBuildingStorey"
+      }
+    ]
+  },
+  "CompilationGroupID": "bed2049897"
+}

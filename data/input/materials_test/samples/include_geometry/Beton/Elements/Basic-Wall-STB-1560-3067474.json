@@ -1,0 +1,55 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:STB 1560:3067474",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:STB 1560"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:STB 1560",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Beton - Ortbeton - bewehrt",
+                    "Thickness": 1.56,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 3.3189,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 17.593,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 3.7,
+            "Y": 0.57,
+            "Z": 1.56,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 3.29,
+        "Real Volume to Bounding Box Volume Ratio": 1.0088
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Roughness": "0.3048",
+            "Category": "Walls",
+            "Reference": "STB 1560",
+            "Description": "STB_250",
+            "LoadBearing": "True",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "ThermalTransmittance": "0.6705"
+        },
+        "Psets Object Type": {
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_QuantityTakeOff.Reference": "STB 1560",
+            "Pset_WallCommon.IsExternal": "False",
+            "Pset_WallCommon.ThermalTransmittance": "0.6705"
+        }
+    }
+}

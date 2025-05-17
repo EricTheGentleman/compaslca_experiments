@@ -1,0 +1,20 @@
+{
+    "name": "Wall-Foundation-Bearing-Footing---900-x-300-186596",
+    "category": "Beton",
+    "material_entries": [
+        "Magerbeton (ohne Bewehrung)",
+        "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+        "Tiefbaubeton (ohne Bewehrung)",
+        "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)"
+    ],
+    "reason": [
+        "element type is ifcfooting",
+        "dimensions (900x300) are typical for shallow strip footings",
+        "footings are made of reinforced concrete",
+        "psets dont specify the load-bearing/soil bearing capacity or load transfer or durability requirements",
+        "all viable options for a bearing footing of a wall foundation were chosen"
+    ]
+}

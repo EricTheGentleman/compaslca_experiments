@@ -1,0 +1,11 @@
+{
+    "name": "Systemelement-Profilglas-15----mittig-21414704",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "material_entries": [
+        "Fassade, Pfosten-Riegel, Alu/Glas"
+    ],
+    "reason": [
+        "It's an ifc plate specifying glas usage",
+        "only viable option for fassadenelement with glas"
+    ]
+}

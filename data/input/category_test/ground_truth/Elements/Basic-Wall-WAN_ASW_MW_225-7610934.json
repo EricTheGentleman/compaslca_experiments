@@ -1,0 +1,14 @@
+{
+    "name": "Basic-Wall-WAN_ASW_MW_225-7610934",
+    "category": "Mauersteine",
+    "material_entries": [
+        "Kalksandstein",
+        "Kalksandstein, FBB",
+        "Kalksandstein, Hunziker Kalksandstein AG"
+    ],
+    "reason": [
+        "while it specifies generic mauerwerk-ziegel in material name",
+        "in the psets the material descriptor kalksandstein can be found",
+        "clear semantic match"
+    ]
+}
