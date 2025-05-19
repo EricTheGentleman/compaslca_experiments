@@ -26,5 +26,6 @@ output_path = "data/output/material/00_pilot_data/f05_glm_summary_pilot.txt"  # 
 with open(output_path, "w", encoding="utf-8") as f:
     f.write(results.summary().as_text())
 
+
 print(f"GLM summary saved to: {output_path}")
 
