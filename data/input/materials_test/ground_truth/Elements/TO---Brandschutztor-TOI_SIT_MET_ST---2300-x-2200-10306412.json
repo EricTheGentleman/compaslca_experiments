@@ -7,5 +7,12 @@
     "reason": [
         "brandschutztor = funktionstüre",
         "MET might imply metal (probably does)"
-    ]
+    ],
+    "Type": "IfcDoor",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

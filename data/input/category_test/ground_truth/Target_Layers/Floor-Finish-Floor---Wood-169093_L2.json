@@ -17,5 +17,12 @@
         "probably for thermal decoupling or foot step sound",
         "therefore must also be compressible (as it is an ifcslab)",
         "these options are semi-rigid and compressible insulation applications"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 8
 }

@@ -21,5 +21,12 @@
         "must be structural (loadbearing = true)",
         "no strucutral specs are given (i.e., how load-bearing etc)",
         "all concrete mixes are chosen"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt31",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 12
 }

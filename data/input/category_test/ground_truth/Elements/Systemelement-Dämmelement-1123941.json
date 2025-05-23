@@ -2,17 +2,27 @@
     "name": "Systemelement-Dämmelement-1123941",
     "category": "Wärmedämmstoffe",
     "material_entries": [
+        "Polystyrol expandiert (EPS)",
+        "Polystyrol expandiert, SwissporEPS",
         "Polystyrol extrudiert (XPS)",
         "Polystyrol extrudiert, SwissporXPS",
         "Polyurethan (PUR/PIR)",
         "Polyurethan, SwissporPIR",
         "Schaumglas",
-        "Schaumglas, GLAPOR"
+        "Schaumglas, GLAPOR",
+        "Steinwolle",
+        "Steinwolle, Flumroc"
     ],
     "reason": [
         "Part of a curtain wall facade",
         "needs to have high compressive strength (waermedaemmung druckfest)",
-        "also EI30 is specified in the facade, so there needs to be some fire safety",
-        "eps not considered because can be more flammable and is less pressure resistant"
-    ]
+        "also EI30 is specified in the facade, so there needs to be some fire safety"
+    ],
+    "Type": "IfcPlate",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 10
 }

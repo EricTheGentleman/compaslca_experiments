@@ -15,5 +15,12 @@
         "must be moisture resistant in some cases",
         "must be compatible with vapor control and membranes",
         "EPS usually not chosen for roofs by manufacturers, not so resistant to mositure and compression (consider snow in switzerland)"
-    ]
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 6
 }

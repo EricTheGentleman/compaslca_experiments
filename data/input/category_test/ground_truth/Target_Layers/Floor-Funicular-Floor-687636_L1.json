@@ -2,11 +2,21 @@
     "name": "Floor-Funicular-Floor-687636_L1",
     "category": "Mörtel und Putze",
     "material_entries": [
-        "Baukleber/Einbettmörtel mineralisch"
+        "Baukleber/Einbettmörtel mineralisch",
+        "Baukleber/Einbettmörtel mineralisch Leichtzuschlag",
+        "Baukleber/Einbettmörtel organisch"
     ],
     "reason": [
         "spachtelmasse is a cementitious or gypsum based compound",
         "used to smooth, level or prepare subfloors",
-        "Baukleber/Einbettmörtel mineralisch fits best to thin, mineral based and applied directly to concrete"
-    ]
+        "Einbettmörtel fits best to thin, mineral based and applied directly to concrete",
+        "all einbettmörtel are matched (no further constraints available)"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 3
 }

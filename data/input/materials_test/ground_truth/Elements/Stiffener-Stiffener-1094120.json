@@ -8,5 +8,12 @@
         "descriptor Steel - S355J2G3 implies structural steel grade",
         "stiffener is load bearing structural profile",
         "therefore steel profile is chosen, and no sheets."
-    ]
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 1
 }

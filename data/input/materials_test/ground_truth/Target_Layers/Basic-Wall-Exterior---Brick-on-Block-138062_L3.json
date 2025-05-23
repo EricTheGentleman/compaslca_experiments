@@ -20,5 +20,12 @@
         "Descriptor says rigid insulation",
         "These are rigid or semi-rigid insulation types",
         "Other loose-fill options were excluded"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 13
 }

@@ -10,5 +10,12 @@
         "grout translates to fugenmörtel",
         "mörelt refers to thin bonding or bedding layer between units",
         "small thickness (3mm) supports that it is thin grout layer"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 3
 }

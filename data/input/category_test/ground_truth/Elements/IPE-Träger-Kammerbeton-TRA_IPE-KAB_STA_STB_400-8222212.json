@@ -1,8 +1,28 @@
 {
     "name": "IPE-Träger-Kammerbeton-TRA_IPE-KAB_STA_STB_400-8222212",
     "category": "Beton",
-    "material_entries": [],
+    "material_entries": [
+        "Hochbaubeton (ohne Bewehrung)",
+        "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, Möckli Primärbeton, NPK A, 280 kg CEM II/B-LL (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon C50/E25, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon Light C25/E30, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon RC-M10/E20, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+        "Hochbaubeton, zirkulit® NPK A, 280kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)"
+    ],
     "reason": [
-        "says beton in material descriptor, but no compound with kammerbeton in kbob"
-    ]
+        "material descriptor says ortbeton bewehrt",
+        "although it's IPE träger, the material descriptor gives us at least a solid approx.",
+        "any CEM mix +300kg is overkill"
+    ],
+    "Type": "IfcBeam",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 10
 }

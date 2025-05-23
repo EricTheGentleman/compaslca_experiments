@@ -11,5 +11,12 @@
     ],
     "reason": [
         "all viable entries for wärmedämmung mineralwolle"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 6
 }

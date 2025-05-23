@@ -12,5 +12,12 @@
         "used for konstruktionsvollholz (KVH) and massivholz",
         "massivholz kammergetrocknet, because interior",
         "and only softwood (spurce) for structural"
-    ]
+    ],
+    "Type": "IfcBeam",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 3
 }

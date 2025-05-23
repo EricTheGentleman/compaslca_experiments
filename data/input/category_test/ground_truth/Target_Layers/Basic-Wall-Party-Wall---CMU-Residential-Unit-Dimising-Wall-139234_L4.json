@@ -4,5 +4,12 @@
     "material_entries": [],
     "reason": [
         "Air layer describes specific material, but is not present in KBOB"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "True Negative",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 0
 }

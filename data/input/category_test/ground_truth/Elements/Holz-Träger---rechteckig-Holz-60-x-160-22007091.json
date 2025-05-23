@@ -14,5 +14,12 @@
         "structural wood beam (ifcbeam, LoadBearing: True)",
         "soft wood is used for wooden applications",
         "no specs about it being paned or anything, so rau may also be viable option"
-    ]
+    ],
+    "Type": "IfcBeam",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt_xrite",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 7
 }

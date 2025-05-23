@@ -12,5 +12,12 @@
         "metal studs are usually built from cold-formed sheet steel",
         "wall is not load-bearing, rather partition wall",
         "therefore sheets and profile made from sheets are a good match"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 3
 }

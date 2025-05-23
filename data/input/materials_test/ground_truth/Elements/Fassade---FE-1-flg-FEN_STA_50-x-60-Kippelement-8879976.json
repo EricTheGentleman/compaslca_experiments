@@ -11,5 +11,12 @@
     "reason": [
         "very high u value (1.5)",
         "highest uvalue entries are chosen (only apply to double glazed)"
-    ]
+    ],
+    "Type": "IfcWindow",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 5
 }

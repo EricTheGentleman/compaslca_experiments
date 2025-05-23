@@ -6,5 +6,12 @@
     ],
     "reason": [
         "closest match to descriptor drahtgitter verzinkt"
-    ]
+    ],
+    "Type": "IfcRailing",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

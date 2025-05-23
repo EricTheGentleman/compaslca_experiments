@@ -8,5 +8,12 @@
     "reason": [
         "target layer specifies screed",
         "usually made out of lean concrete"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 2
 }

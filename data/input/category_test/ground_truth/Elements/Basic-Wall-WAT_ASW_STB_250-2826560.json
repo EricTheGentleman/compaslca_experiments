@@ -16,5 +16,12 @@
     "reason": [
         "wall, so hochbaubeton or standard beton",
         "25 cm, so 300kg CEM seems enough"
-    ]
+    ],
+    "Type": "IfcWall",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 10
 }

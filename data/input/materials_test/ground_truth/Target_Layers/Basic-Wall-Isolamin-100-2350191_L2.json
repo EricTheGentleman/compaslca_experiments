@@ -11,5 +11,12 @@
     ],
     "reason": [
         "mineral wool"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 6
 }

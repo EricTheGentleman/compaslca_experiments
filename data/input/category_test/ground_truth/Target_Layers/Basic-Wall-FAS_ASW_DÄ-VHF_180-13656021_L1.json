@@ -16,5 +16,12 @@
         "is exterior, because used on fassade (FAS), but this is not very clear",
         "assumption is that it's exterior. but would need to understand more",
         "especially of the pset location line: finish face: interior"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 7
 }

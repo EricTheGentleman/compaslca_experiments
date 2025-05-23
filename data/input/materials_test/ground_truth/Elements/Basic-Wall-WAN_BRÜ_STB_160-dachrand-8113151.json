@@ -15,5 +15,12 @@
         "meanwhile in pset it says description = betonfertigteil, but this might be residual error",
         "material descriptor is given more weight",
         "all light mix concretes are considered (300kgCEM is overkill)"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 7
 }

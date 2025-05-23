@@ -4,5 +4,12 @@
     "material_entries": [],
     "reason": [
         "luftschicht cannot be assigned"
-    ]
+    ],
+    "Type": "IfcWall",
+    "Matching Scenario": "True Negative",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 0
 }

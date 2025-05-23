@@ -16,5 +16,12 @@
     "reason": [
         "all concretes with mix up to 300kg CEM seem viable for a concrete stair",
         "tiefbaubeton / magerbeton / fertigteile, etc., were not considered"
-    ]
+    ],
+    "Type": "IfcStairFlight",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 10
 }

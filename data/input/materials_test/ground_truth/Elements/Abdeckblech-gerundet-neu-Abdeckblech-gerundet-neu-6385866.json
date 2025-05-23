@@ -15,5 +15,12 @@
         "object is a cover plate with gerundet (rounded) in its name",
         "thin, formed metal sheet for weatherproofing architecutral trims",
         "no specs if they are verzinkt or not"
-    ]
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 7
 }

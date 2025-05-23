@@ -1,6 +1,6 @@
 {
     "name": "Basic-Wall-WAN_TWÄ_GK_100---EI30-4246887_L1",
-    "category": "Steine, Schüttungen, Platten und Ziegel",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
     "material_entries": [
         "Gipskartonplatte"
     ],
@@ -9,5 +9,12 @@
         "usually (and during the ground truth processing) it would explicitly state gipsfaserplatte",
         "because it doesnt, the assumption is that its a cardboard-gypsum board",
         "not vollgips (because solid, and thicker than 0.025m)"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

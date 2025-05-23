@@ -1,28 +1,36 @@
-from methods.prompt_builders import build_category_prompt, build_material_prompt
-from methods.utils import load_yaml_config
-from pathlib import Path
+from methods.category_prompt_builder import build_category_prompt
+from methods.category_prompt_builder_ger import build_category_prompt_ger
 from openai import OpenAI
 import json
 import re
 
-# === Category Inference ===
 
-# config
-config_path = Path("configs/00_baseline/category_prompt_config.yaml")
-category_config = load_yaml_config(config_path)
-config = category_config.get("model_parameters", {})
-cat_key = config.get("api_key")
-cat_client = OpenAI(api_key=cat_key)
 
-# category llm interface
-def category_inference(bim_element, category_data, mode):
-    prompt = build_category_prompt(bim_element, category_data, mode)
-    response = cat_client.chat.completions.create(
-        model=config.get("model"),
+# material llm interface
+def category_inference(bim_element, category_entries, mode, config):
+
+    # Load config (values)
+    model_config = config.get("model_config", {})
+    framing_config = config.get("prompt_framing_style", {})
+    german = framing_config.get("german")
+    key = model_config.get("key")
+    client = OpenAI(api_key=key)
+
+    # VAR 2: Prompt Language
+    if german:
+        prompt = build_category_prompt_ger(bim_element, category_entries, mode, config)
+    else:
+        prompt = build_category_prompt(bim_element, category_entries, mode, config)
+
+    # Get LLM response
+    response = client.chat.completions.create(
+        model=model_config.get("model"),
         messages=[{"role": "user", "content": prompt}],
-        temperature=config.get("temperature"),
-        max_tokens=config.get("max_tokens")
+        temperature=model_config.get("temperature"),
+        max_tokens=model_config.get("max_tokens")
     )
+
+    # Ensure clean response
     response_text = response.choices[0].message.content
     response_cleaned = re.sub(r"```json|```", "", response_text).strip()
     parsed_response = json.loads(response_cleaned)

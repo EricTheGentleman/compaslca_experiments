@@ -19,5 +19,12 @@
         "element is part of a balcony slab, so hochbaubeton is appropriate",
         "given modest thickness (12cm), strucutral concrete with 280kg/m^3 to 300kg/m^3 is realistic",
         "could also be a betonfertigteil, but hochfest is not needed"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "KIT_SmileyWest",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 11
 }

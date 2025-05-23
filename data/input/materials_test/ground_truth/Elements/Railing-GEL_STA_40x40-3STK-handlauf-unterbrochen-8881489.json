@@ -6,6 +6,13 @@
     ],
     "reason": [
         "STA probably stands for Stahl, so metall category is chosen",
-        "also railings are usually made of steel profiles, so there's that"   
-    ]
+        "also railings are usually made of steel profiles, so there's that"
+    ],
+    "Type": "IfcRailing",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

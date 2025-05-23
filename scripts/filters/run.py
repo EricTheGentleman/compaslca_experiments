@@ -13,10 +13,11 @@ def filter_data_sheets():
     # master_config_path = Path("configs/filters/config_include_geometry_data.yaml")
     master_config = load_yaml_config(master_config_path)
 
+
+
     filter_mode = master_config.get("filter_config", {}).get("mode")
     preset_name = master_config.get("filter_config", {}).get("preset", "")
     custom_path = master_config.get("filter_config", {}).get("custom_path", "")
-
     if filter_mode == "custom":
         config_dir = Path(custom_path)
     elif filter_mode == "preset":
@@ -24,18 +25,17 @@ def filter_data_sheets():
     else:
         raise ValueError(f"Invalid filter mode: {filter_mode}. Must be 'custom' or 'preset'.")
 
+
     # Resolve YAML paths dynamically
     yaml_path_element = config_dir / "filter_element.yaml"
     yaml_path_target_layer = config_dir / "filter_target_layer.yaml"
 
     # Paths for input/output folders
-    element_input_dir = Path("data/raw/samples_all/Elements")
-    element_output_dir = Path("data/input/samples_discard_geometry/Elements")
-    # element_output_dir = Path("data/input/samples_include_geometry/Elements")
+    element_input_dir = Path("data/raw/samples_separated/HiLo/Elements")
+    element_output_dir = Path("data/raw/samples_separated/HiLo_Processed/include_geometry/Elements")
 
-    target_layer_input_dir = Path("data/raw/samples_all/Target_Layers")
-    target_layer_output_dir = Path("data/input/samples_discard_geometry/Target_Layers")
-    # target_layer_output_dir = Path("data/input/samples_include_geometry/Target_Layers")
+    target_layer_input_dir = Path("data/raw/samples_separated/HiLo/Target_Layers")
+    target_layer_output_dir = Path("data/raw/samples_separated/HiLo_Processed/include_geometry/Target_Layers")
 
     # Decode any weird strings (especially in Psets)
     decode_unicode(str(element_input_dir))
@@ -44,9 +44,11 @@ def filter_data_sheets():
     # Load YAML filters
     config_element = load_yaml_config(yaml_path_element)
     config_target_layer = load_yaml_config(yaml_path_target_layer)
+ 
 
     # Get "empty value" boolean from master config
     remove_empty = master_config.get("filter_config", {}).get("remove_empty_values", False)
+
 
     # Load optional Pset filter configuration (with selected keys)
     use_pset_filter = master_config.get("filter_config", {}).get("use_pset_filter", False)

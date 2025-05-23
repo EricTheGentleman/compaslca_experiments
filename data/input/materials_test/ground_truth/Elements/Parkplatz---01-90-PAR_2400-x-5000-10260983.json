@@ -9,5 +9,12 @@
         "farbe is normally angestrichen",
         "not specified if soluable in water or lösemittel",
         "therefore all anstrich options are matched"
-    ]
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 2
 }

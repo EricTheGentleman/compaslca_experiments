@@ -1,6 +1,6 @@
 {
     "name": "Floor-Finish-Floor---Ceramic-Tile-169772_L1",
-    "category": "Steine, Schüttungen, Platten und Ziegel",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
     "material_entries": [
         "Keramik-/Steinzeugplatte"
     ],
@@ -8,5 +8,12 @@
         "Ceramic tile refers to keramikplatte",
         "Sanitärkeramik might also be considered",
         "But no specific use is given, so only keramik/steinzeugplatte"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 1
 }

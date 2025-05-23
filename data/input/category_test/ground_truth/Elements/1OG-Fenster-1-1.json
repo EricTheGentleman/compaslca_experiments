@@ -16,5 +16,12 @@
     ],
     "reason": [
         "could be any type of window, no specifications at all"
-    ]
+    ],
+    "Type": "IfcWindow",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "KIT_SmileyWest",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 11
 }

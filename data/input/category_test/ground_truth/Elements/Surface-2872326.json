@@ -5,5 +5,12 @@
     "reason": [
         "no descriptors at all indicate a category choice",
         "this is a very clear true negative"
-    ]
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "True Negative",
+    "Data Structure": "Element",
+    "Model": "zwhatt31",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 0
 }

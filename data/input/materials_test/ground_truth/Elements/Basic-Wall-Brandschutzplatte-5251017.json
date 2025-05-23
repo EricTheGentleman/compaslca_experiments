@@ -6,5 +6,12 @@
     ],
     "reason": [
         "exact semantic match"
-    ]
+    ],
+    "Type": "IfcWall",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

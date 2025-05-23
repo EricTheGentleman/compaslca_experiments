@@ -13,5 +13,12 @@
         "requires high thermal insulation and ehnanced safety glass",
         "thats why esg (toughened) and vsg (laminated) options chosen",
         "triple glazed options prioritized"
-    ]
+    ],
+    "Type": "IfcWindow",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 4
 }

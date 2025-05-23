@@ -13,5 +13,12 @@
         "Mineralwolle is a general term",
         "includes both glass wool and stone wool",
         "all mineral wool variants of kbob are considered valid matches"
-    ]
+    ],
+    "Type": "IfcWall",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 6
 }

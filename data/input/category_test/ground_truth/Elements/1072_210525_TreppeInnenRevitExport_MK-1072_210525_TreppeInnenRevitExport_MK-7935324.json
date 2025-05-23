@@ -7,5 +7,12 @@
         "specifies stair in name, but there is no indication about material",
         "stairs can be made out of multiple materials (wood, concrete, steel)",
         "no category can be assigned"
-    ]
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "True Negative",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 0
 }

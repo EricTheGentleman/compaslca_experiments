@@ -7,5 +7,12 @@
     "reason": [
         "while there is no interior door with steel paneling",
         "there is a door with steel framing, so best approximation..."
-    ]
+    ],
+    "Type": "IfcDoor",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

@@ -9,5 +9,12 @@
         "due to emphasis on the word fenster, the category is chosen",
         "probably refers to mullion / bar between panes of glass",
         "strong indication of metal in abbreviation MET"
-    ]
+    ],
+    "Type": "IfcMember",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

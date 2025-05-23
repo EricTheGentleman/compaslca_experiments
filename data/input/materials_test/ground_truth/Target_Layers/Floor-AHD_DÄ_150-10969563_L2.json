@@ -7,5 +7,12 @@
     "reason": [
         "heraklit platte is a wood wool lightweight board",
         "there is one good approximation in the database"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

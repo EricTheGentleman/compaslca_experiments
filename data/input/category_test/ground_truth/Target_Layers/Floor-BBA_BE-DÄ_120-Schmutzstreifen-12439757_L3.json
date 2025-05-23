@@ -13,5 +13,12 @@
         "these insulation materials are viable for impact sound insulation",
         "at 2cm not all insulation materials are effective, especially loose-fill materials that require more depth",
         "ergo the choice"
-    ]
+    ],
+    "Type": "IfcCovering",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 5
 }

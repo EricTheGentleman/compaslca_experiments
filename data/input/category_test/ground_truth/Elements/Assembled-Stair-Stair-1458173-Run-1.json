@@ -8,5 +8,12 @@
     "reason": [
         "psets say stahlstufen gefaltet, which means its folded steel",
         "therefore it must be steel sheets / stahlblech"
-    ]
+    ],
+    "Type": "IfcStairFlight",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 2
 }

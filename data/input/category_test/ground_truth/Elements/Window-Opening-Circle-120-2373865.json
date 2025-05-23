@@ -17,5 +17,12 @@
     "reason": [
         "there is no indication of any function, thermal, or triple/double glazed",
         "all glasses are viable"
-    ]
+    ],
+    "Type": "IfcWindow",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 11
 }

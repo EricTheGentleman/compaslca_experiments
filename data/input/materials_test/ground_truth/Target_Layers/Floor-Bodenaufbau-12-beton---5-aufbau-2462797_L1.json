@@ -6,5 +6,12 @@
         "layer material name says fussboden aufbau, which might be anything",
         "thickness is 5 cm, and there is no entry with 5 cm",
         "no match can be made"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "True Negative",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt31",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 0
 }

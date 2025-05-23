@@ -9,5 +9,12 @@
         "construction.function = interior",
         "no specs about if its a normal door or a functional door (fire resistance)",
         "pfostenstock stronlgy implies a wooden door"
-    ]
+    ],
+    "Type": "IfcDoor",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 2
 }

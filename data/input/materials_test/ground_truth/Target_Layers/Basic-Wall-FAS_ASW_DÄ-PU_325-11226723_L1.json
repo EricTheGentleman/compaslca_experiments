@@ -14,5 +14,12 @@
         "plaster needs to be weather resistant",
         "protective and decorative exterior render",
         "choice of materials is based upon these aspects"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 5
 }

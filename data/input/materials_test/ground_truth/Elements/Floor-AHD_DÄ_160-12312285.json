@@ -20,5 +20,12 @@
     "reason": [
         "thickness 16cm, soft compressible thermal insulation",
         "assigned all viable entries that suit the description"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 14
 }

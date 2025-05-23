@@ -6,5 +6,12 @@
         "This represents a compound building element",
         "Bodenaufbau normally includes multiple layers",
         "no layers specified, so no category can be matched"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "True Negative",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 0
 }

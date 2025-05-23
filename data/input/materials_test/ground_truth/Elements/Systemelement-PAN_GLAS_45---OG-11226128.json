@@ -17,5 +17,12 @@
         "no specific mention of what type of glas",
         "just says isolierverglasung",
         "while thickness is 45mm, only glass is matched, which doesnt necessarily align with bounding box"
-    ]
+    ],
+    "Type": "IfcPlate",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 10
 }

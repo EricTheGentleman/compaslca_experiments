@@ -13,5 +13,12 @@
         "metal capping for parapet, requires metal flashing",
         "not specified if interior or exterior",
         "therefore stahlblech, blank is also included"
-    ]
+    ],
+    "Type": "IfcWall",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 6
 }

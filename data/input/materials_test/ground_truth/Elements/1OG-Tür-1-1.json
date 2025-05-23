@@ -13,5 +13,12 @@
     "reason": [
         "pset isExternal = false so interior door",
         "no specifics, so could also be funktionstüre"
-    ]
+    ],
+    "Type": "IfcDoor",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "KIT_SmileyWest",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 7
 }

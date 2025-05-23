@@ -7,5 +7,12 @@
     "reason": [
         "Explicitly named masonry - brick, which translates to backstein",
         "Perlitgefüllt not considered due to insulation and wall is internal"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 1
 }

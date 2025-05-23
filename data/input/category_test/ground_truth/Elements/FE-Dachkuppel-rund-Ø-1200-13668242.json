@@ -10,5 +10,12 @@
     "reason": [
         "in object type pset it says its double glazed",
         "no further specs, so all double glazed are chosen"
-    ]
+    ],
+    "Type": "IfcWindow",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 4
 }

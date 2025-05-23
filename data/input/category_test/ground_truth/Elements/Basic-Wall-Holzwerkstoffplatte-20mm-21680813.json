@@ -4,16 +4,21 @@
     "material_entries": [
         "Mitteldichte Faserplatte (MDF), UF-gebunden",
         "OSB Platte, PF-gebunden, Feuchtbereich",
-        "Röhrenspanplatte",
+        "Hartfaserplatte",
         "Spanplatte, PF-gebunden, Feuchtbereich",
         "Spanplatte, UF-gebunden, beschichtet, Trockenbereich",
-        "Spanplatte, UF-gebunden, Trockenbereich",
-        "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
-        "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+        "Spanplatte, UF-gebunden, Trockenbereich"
     ],
     "reason": [
         "The element is a wall with a 20 mm holzwerkstoffplatte (wood-based panel)",
         "no further specs are given, i.e. load-bearing, external, function, etc",
-        "therefore all viable entries are chosen."
-    ]
+        "therefore all viable entries with platte in name are chosen."
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt_xrite",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 6
 }

@@ -8,5 +8,12 @@
         "most appropriate for gitterrost (grating)",
         "needs to be loadbearing for humangs",
         "grating is applied for drainage and slip resistance"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

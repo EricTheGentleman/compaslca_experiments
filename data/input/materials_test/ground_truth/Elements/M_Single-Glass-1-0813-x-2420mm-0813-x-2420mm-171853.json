@@ -9,5 +9,12 @@
         "Type is IfcDoor",
         "Name implies glass usage in the door",
         "pset IsExternal is true"
-    ]
+    ],
+    "Type": "IfcDoor",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 2
 }

@@ -8,5 +8,12 @@
         "says floor -> gussasphalt",
         "if it is in a category, then its in bodenbeläge",
         "exact semantic match"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

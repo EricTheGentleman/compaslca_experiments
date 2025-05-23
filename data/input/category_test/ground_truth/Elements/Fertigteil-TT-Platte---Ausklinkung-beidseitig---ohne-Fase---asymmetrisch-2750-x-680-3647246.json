@@ -7,5 +7,12 @@
     ],
     "reason": [
         "Exact semantic match"
-    ]
+    ],
+    "Type": "IfcBeam",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt31",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 2
 }

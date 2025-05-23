@@ -2,11 +2,21 @@
     "name": "Fassade---FE-1-flg-FEN_STA_50-x-60-Kippelement-8879976",
     "category": "Fenster, Sonnenschutz, Fassadenplatten",
     "material_entries": [
-        "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K, Dicke 40 mm"
+        "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 18 mm",
+        "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 24 mm",
+        "Isolierverglasung 2-fach, ESG, Ug-Wert 1.1 W/m2K",
+        "Isolierverglasung 2-fach, ESG/VSG, Ug-Wert 1.1 W/m2K",
+        "Isolierverglasung 2-fach, VSG, Ug-Wert 1.1 W/m2K"
     ],
     "reason": [
-        "psets very specifically say triple glazed",
-        "glasdicke: 0.05 means 50mm total glass build up",
-        "40 mm is the best approximate match"
-    ]
+        "very high u value (1.5)",
+        "highest uvalue entries are chosen (only apply to double glazed)"
+    ],
+    "Type": "IfcWindow",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 5
 }

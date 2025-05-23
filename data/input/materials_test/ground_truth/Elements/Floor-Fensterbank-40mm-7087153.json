@@ -8,5 +8,12 @@
     "reason": [
         "window sill, so probably exposed to outside",
         "nadelholz is softwood, used as horizontal cladding"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 2
 }

@@ -2,6 +2,8 @@
     "name": "Floor-DCH_DÄ-AS_250-7601562_L3",
     "category": "Wärmedämmstoffe",
     "material_entries": [
+        "Polystyrol expandiert (EPS)",
+        "Polystyrol expandiert, SwissporEPS",
         "Polystyrol extrudiert (XPS)",
         "Polystyrol extrudiert, SwissporXPS",
         "Polyurethan (PUR/PIR)",
@@ -12,6 +14,13 @@
     "reason": [
         "pset unter terrain = true, external = true, hard insulation, ifcslab",
         "needs to be an insulation material with resilience to weathering and compressive strength",
-        "therefore cannot be an organic material"
-    ]
+        "therefore cannot be an organic material or loose fill material (i.e. no wool)"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 8
 }

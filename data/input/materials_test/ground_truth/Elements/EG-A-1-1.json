@@ -14,5 +14,12 @@
         "only says massiv, but wall is load bearing and external thus typically aligns with concrete applications",
         "thermal transmittance of 0.41 w/m'2k is also consistent with a solid mineral based wall",
         "thickness is only 15 cm, so maximum 300kg CEM is considered."
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "KIT_SmileyWest",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 7
 }

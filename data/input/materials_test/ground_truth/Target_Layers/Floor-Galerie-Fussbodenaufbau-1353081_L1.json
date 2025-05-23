@@ -7,5 +7,12 @@
     "reason": [
         "very similar semantic match",
         "problem discrepancy between 4mm (element) and 2mm (material entry)"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

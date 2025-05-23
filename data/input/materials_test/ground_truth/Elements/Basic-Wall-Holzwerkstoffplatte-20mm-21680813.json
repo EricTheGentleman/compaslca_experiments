@@ -13,5 +13,12 @@
         "The element is a wall with a 20 mm holzwerkstoffplatte (wood-based panel)",
         "no further specs are given, i.e. load-bearing, external, function, etc",
         "therefore all viable entries with platte in name are chosen."
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt_xrite",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 6
 }

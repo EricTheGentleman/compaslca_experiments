@@ -6,5 +6,12 @@
         "archisonic is a material brand made primarily from recycle PET felt",
         "thats why the category kunststoffe was chosen",
         "none is also viable, but in the kunststoffe there is no specific material entry"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "True Negative",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 0
 }

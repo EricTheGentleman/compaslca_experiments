@@ -8,5 +8,12 @@
         "BAL is highly likely abbreviation for balcony",
         "balcony floors can have open steel grating for exterior walkway",
         "steelprofile is the correct match for a material that fulfills this criteria"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

@@ -12,5 +12,12 @@
     "reason": [
         "load-bearing layer of the slab",
         "these are the viable structural entries"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 6
 }

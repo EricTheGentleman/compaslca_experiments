@@ -7,5 +7,12 @@
         "While indicates wood in the name, it is an entire roof",
         "Roof consists of multiple materials, and layers not specified",
         "Therefore no material match possible"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "True Negative",
+    "Data Structure": "Element",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 0
 }

@@ -3,14 +3,22 @@
     "category": "Türen",
     "material_entries": [
         "Innentüre, Aluminium, Glaseinsatz",
+        "Innentüre, Funktionstüre, Holz, Holzrahmen",
+        "Innentüre, Funktionstüre, Holz, Stahlzarge",
         "Innentüre, Zimmertüre, Holz, Glaseinsatz, Holzrahmen",
         "Innentüre, Zimmertüre, Holz, Glaseinsatz, Stahlzarge",
         "Innentüre, Zimmertüre, Holz, Holzrahmen",
         "Innentüre, Zimmertüre, Holz, Stahlzarge"
     ],
     "reason": [
-        "pset isExternal = false",
-        "u value of 2 is typical for timber doors, not optimized insulated doors",
-        "assumption that it is not a funktionstüre, since nothing specific specified"
-    ]
+        "pset isExternal = false so interior door",
+        "no specifics, so could also be funktionstüre"
+    ],
+    "Type": "IfcDoor",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "KIT_SmileyWest",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 7
 }

@@ -5,7 +5,14 @@
         "Aluminiumblech, blank"
     ],
     "reason": [
-        "canopy, implying flat plate like form",
-        "sheet was chosen, because profiles are used for frame-like structures"
-    ]
+        "canopy, implying flat plate like form, so might be blech",
+        "but thickness is large (10cm), which would imply a aluminum stud function"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "KIT_SmileyWest",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

@@ -7,5 +7,12 @@
     "reason": [
         "says gitterrost and also GIT_MET in element name",
         "metal grating, often made from steel profiles"
-    ]
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

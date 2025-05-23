@@ -7,7 +7,13 @@
     "reason": [
         "interior door",
         "funktionstüre (brandschutz) EI30",
-        "MET implies metal",
-        "there is no funktionstüre made out of total steel, so maybe no match"
-    ]
+        "MET might imply metal (probably does)"
+    ],
+    "Type": "IfcDoor",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

@@ -9,5 +9,12 @@
         "descriptor says aluminum",
         "small x and y, so cannot be sheet",
         "must be aluminum profile"
-    ]
+    ],
+    "Type": "IfcWall",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 2
 }

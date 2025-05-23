@@ -1,0 +1,52 @@
+{
+  "total_files": 202,
+  "match_summary": {
+    "count_success": 179,
+    "count_failure": 23,
+    "ratio_success": 0.8861,
+    "mean_success": 0.8861,
+    "failed_filenames": [
+      "Fassade-Ecke-EG1-FAS_ECK_EG-12651885.json",
+      "Basic-Wall-WAN_TWÄ_MW_125---EI30-11161798.json",
+      "Basic-Wall-WAN_ASW_LB_100-gel-5059296.json",
+      "Bleche-Fassade_V6-Bleche-Fassade_V6-4910201.json",
+      "IPE-Träger-Kammerbeton-TRA_IPE-KAB_STA_STB_400-8222212.json",
+      "Stair-Residential---200mm-Max-Riser-250mm-Tread-151086-1.json",
+      "Floor-BBA_GIT_MET_30-11023640-10.json",
+      "Basic-Roof-Live-Roof-over-Wood-Joist-Flat-Roof-184483.json",
+      "Basic-Wall-WAN_ASW_MW_225-7610934.json",
+      "Attikabrett-Attikabrett-6718052.json",
+      "Floor-Bodenaufbau-Hauptgeschoss-687594.json",
+      "Storen_ZIP-SOS_STO_275x395-14112561.json",
+      "Anfahrschutz-Rohr-2350-x-400-13363728.json",
+      "Floor-DCH_SUB_100-14297034.json",
+      "Basic-Wall-Holzbau_Archisonic_Vorbauschale-2146702_L1.json",
+      "Floor-DCH_DÄ-BLECH_113-11165689_L4.json",
+      "Floor-Bodenaufbau-12-beton---5-aufbau-2462797_L1.json",
+      "Basic-Wall-Exterior---Brick-on-Block-138062_L6.json",
+      "Floor-BBA_BE-DÄ_120-Schmutzstreifen-12439757_L3.json",
+      "Basic-Wall-Party-Wall---CMU-Residential-Unit-Dimising-Wall-139234_L4.json",
+      "Floor-Finish-Floor---Ceramic-Tile-169772_L1.json",
+      "Basic-Wall-Holzfassade-hinterlüftet-1105047_L2.json",
+      "Basic-Wall-WAN_TWÄ_MW-VS_300---EI60-11586674_L3.json"
+    ]
+  },
+  "llm_metadata_summary": {
+    "total_completion_tokens": 3566,
+    "average_completion_tokens": 17.6535,
+    "total_prompt_tokens": 187984,
+    "average_prompt_tokens": 930.6139,
+    "total_total_tokens": 191550,
+    "average_total_tokens": 948.2673,
+    "total_processing_time_sec": 324.499,
+    "average_processing_time_sec": 1.6064,
+    "total_inference_cost_usd": 1.0112,
+    "average_inference_cost_usd": 0.005,
+    "unique_companies": [
+      "OpenAI"
+    ],
+    "unique_models": [
+      "gpt-4o"
+    ]
+  }
+}

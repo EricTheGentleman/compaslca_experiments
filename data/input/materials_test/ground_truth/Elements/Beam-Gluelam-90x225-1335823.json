@@ -8,5 +8,12 @@
     "reason": [
         "gluelam translates to glue-laminated-timber, which is brettschichtholz",
         "exact semantic match"
-    ]
+    ],
+    "Type": "IfcBeam",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 2
 }

@@ -1,11 +1,20 @@
 {
     "name": "HEB-Stütze-mit-Kammerbeton-STZ_HEB-KAM_STA_650-x-300-2816822",
     "category": "Metallbaustoffe",
-    "material_entries": [],
+    "material_entries": [
+        "Stahlprofil, blank"
+    ],
     "reason": [
         "emphasis on metall-baustahl in pset",
-        "so match to category",
-        "but at the end of the day, it is a compound (filled with concrete)",
-        "there is no such entry in the kbob, so no material is assigned"
-    ]
+        "stahl profil is match, due to load-bearing function",
+        "at the end of the day, it is a compound (filled with concrete)",
+        "but steel much higher GWP, so still good approximation"
+    ],
+    "Type": "IfcColumn",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 1
 }

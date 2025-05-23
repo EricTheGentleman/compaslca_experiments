@@ -16,5 +16,12 @@
         "footings are made of reinforced concrete",
         "psets dont specify the load-bearing/soil bearing capacity or load transfer or durability requirements",
         "all viable options for a bearing footing of a wall foundation were chosen"
-    ]
+    ],
+    "Type": "IfcFooting",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 7
 }

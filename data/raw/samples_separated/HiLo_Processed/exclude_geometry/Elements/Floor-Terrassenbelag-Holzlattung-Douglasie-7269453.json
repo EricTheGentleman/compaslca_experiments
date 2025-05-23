@@ -1,0 +1,51 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:Terrassenbelag Holzlattung Douglasie:7269453",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:Terrassenbelag Holzlattung Douglasie"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:Terrassenbelag Holzlattung Douglasie",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Terrassenbelag Holz",
+                    "Thickness": 0.026000000000000002,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "Level: 00_Eingang",
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Area": "13.2219",
+            "Elevation at Bottom": "-41.0",
+            "Perimeter": "20653.9467",
+            "Thickness": "26.0",
+            "Volume": "0.3438",
+            "Workset": "Architecture",
+            "Category": "Floors",
+            "Family": "Floor: Terrassenbelag Holzlattung Douglasie",
+            "Type": "Floor: Terrassenbelag Holzlattung Douglasie",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Construction.Function": "Interior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Type Name": "Terrassenbelag Holzlattung Douglasie",
+            "Materials and Finishes.Structural Material": "Terrassenbelag Holz",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor"
+        }
+    }
+}

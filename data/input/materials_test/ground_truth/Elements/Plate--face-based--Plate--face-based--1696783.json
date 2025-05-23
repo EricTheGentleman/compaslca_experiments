@@ -9,5 +9,12 @@
         "name specifies face-based plate",
         "material descriptor says steel",
         "sheets (blech) is more suitable for flat elements than profiles"
-    ]
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 2
 }

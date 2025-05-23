@@ -17,5 +17,12 @@
         "material descriptor says ortbeton bewehrt",
         "although it's IPE träger, the material descriptor gives us at least a solid approx.",
         "any CEM mix +300kg is overkill"
-    ]
+    ],
+    "Type": "IfcBeam",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 10
 }

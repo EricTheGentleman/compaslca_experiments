@@ -10,5 +10,12 @@
         "while it specifies generic mauerwerk-ziegel in material name",
         "in the psets the material descriptor kalksandstein can be found",
         "clear semantic match"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 3
 }

@@ -8,5 +8,12 @@
     "reason": [
         "0.1 meters seems kind of thick for plaster",
         "but its the closest match with regards to the descriptor gips"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "KIT_SmileyWest",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 2
 }

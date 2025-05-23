@@ -6,5 +6,12 @@
     ],
     "reason": [
         "direct match"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 1
 }

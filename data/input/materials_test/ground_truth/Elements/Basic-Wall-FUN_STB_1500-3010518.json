@@ -12,5 +12,12 @@
         "wall is 1.5m thick, no delicate residential wall but larger chonker",
         "name says FUN inside, and object type pset says foundation, so it is a foundation",
         "needs strong concrete mix"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 4
 }

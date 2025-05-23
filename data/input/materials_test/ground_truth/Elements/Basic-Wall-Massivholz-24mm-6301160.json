@@ -13,5 +13,12 @@
         "workset says innenausbau, so assumption is its an interior element",
         "gehobelt surface is appropriate for interior applications with finished surface",
         "therefore the entries with rau (rough) are not considered"
-    ]
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 5
 }

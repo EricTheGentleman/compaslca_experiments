@@ -1,0 +1,61 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Wärmedämmung Slentex Aerogel",
+        "Thickness": 0.046,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Wall:Blechverkleidung gedämmt:1829613",
+            "Type": "IfcWallStandardCase",
+            "ObjectType": "Basic Wall:Blechverkleidung gedämmt"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Stahl, 45-34, Pulverbeschichtung schwarz",
+                "Thickness": 0.003,
+                "Thickness Unit": "METRE",
+                "Layer Number": 1
+            },
+            {
+                "Material Name": "Stahl, 45-34, Pulverbeschichtung schwarz",
+                "Thickness": 0.003,
+                "Thickness Unit": "METRE",
+                "Layer Number": 3
+            }
+        ],
+        "Element Property Sets": {
+            "Psets Element": {
+                "Related to Mass": "False",
+                "Room Bounding": "True",
+                "Location Line": "Core Face: Exterior",
+                "Base Constraint": "Level: 01_Brüstung",
+                "Area": "0.1914",
+                "Length": "124.0",
+                "Volume": "0.01",
+                "Workset": "Architecture",
+                "Category": "Walls",
+                "Family": "Basic Wall: Blechverkleidung gedämmt",
+                "Type": "Basic Wall: Blechverkleidung gedämmt",
+                "Phase Created": "Zu Bauen",
+                "Structural": "False",
+                "Structural Usage": "Non-bearing"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "3.0",
+                "Analytical Properties.Absorptance": "0.7",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "0.2174",
+                "Analytical Properties.Thermal Mass": "2.2448",
+                "Analytical Properties.Thermal Resistance (R)": "4.6001",
+                "Construction.Function": "Exterior",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Wall Types",
+                "Identity Data.Type Name": "Blechverkleidung gedämmt",
+                "Other.Category": "Walls",
+                "Other.Family Name": "Basic Wall"
+            }
+        }
+    },
+    "CompilationGroupID": "ce0cc1e825"
+}
