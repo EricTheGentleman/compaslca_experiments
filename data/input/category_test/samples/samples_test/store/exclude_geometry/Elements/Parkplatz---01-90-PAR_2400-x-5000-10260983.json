@@ -1,0 +1,40 @@
+{
+    "Element Metadata": {
+        "Name": "Parkplatz - 01 90:PAR_2400 x 5000:10260983",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "Parkplatz - 01 90:PAR_2400 x 5000"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Farbe - Straßenmarkierung weiß"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "PAR_2400 x 5000",
+            "Category": "Parking",
+            "Width": "0.1",
+            "Height": "5.0",
+            "Level": "98.0",
+            "Area": "0.3221",
+            "Volume": "0.001",
+            "Workset": "A-Innenausbau",
+            "Family": "Parkplatz - 01 90",
+            "Type": "PAR_2400 x 5000",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Workset": "Family  : Parking : Parkplatz - 01 90",
+            "Identity Data.Description": "Parkplatz",
+            "Identity Data.Type Name": "PAR_2400 x 5000",
+            "Materials and Finishes.Markierung": "Farbe - Straßenmarkierung weiß",
+            "Other.Category": "Parking",
+            "Other.Family Name": "Parkplatz - 01 90",
+            "Pset_ProductRequirements.Category": "Parking"
+        }
+    },
+    "CompilationGroupID": "280daedc46"
+}

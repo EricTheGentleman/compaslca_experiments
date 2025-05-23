@@ -1,0 +1,35 @@
+{
+    "Element Metadata": {
+        "Name": "Abdeckblech gerundet-neu:Abdeckblech gerundet-neu:6385866",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "Abdeckblech gerundet-neu:Abdeckblech gerundet-neu"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "<Unnamed>"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "Level: 00_Eingang",
+            "Elevation from Level": "0.0",
+            "Host": "Level : 00_Eingang",
+            "Area": "7.8117",
+            "Workset": "Architecture",
+            "Category": "Generic Models",
+            "Family": "Abdeckblech gerundet-neu: Abdeckblech gerundet-neu",
+            "Type": "Abdeckblech gerundet-neu: Abdeckblech gerundet-neu",
+            "Phase Created": "Zu Bauen"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "Abdeckblech gerundet-neu",
+            "Identity Data.Workset": "Family  : Generic Models : Abdeckblech gerundet-neu",
+            "Other.Category": "Generic Models",
+            "Other.Family Name": "Abdeckblech gerundet-neu"
+        }
+    },
+    "CompilationGroupID": "aebc0975e3"
+}

@@ -2,7 +2,7 @@ import json
 from methods.category_prompt_components_ger import category_prompt_components_ger
 
 # Build dynamic prompt
-def build_category_prompt_ger(bim_element, category_entries, mode, config):
+def build_category_prompt_ger(bim_element, category_entries, mode, var_config):
 
     # Load the inputs of the current element as strings
     ifc_string = json.dumps(bim_element, indent=2, ensure_ascii=False)
@@ -10,8 +10,8 @@ def build_category_prompt_ger(bim_element, category_entries, mode, config):
     categories_string = json.dumps(category_entries, indent=2, ensure_ascii=False)
 
     # Get config values
-    reasoning_config = config.get("prompt_reasoning_strategy", {})
-    context_config = config.get("prompt_contextualization", {})
+    reasoning_config = var_config.get("prompt_reasoning_strategy", {})
+    context_config = var_config.get("prompt_contextualization", {})
 
     # get config booleans
     cot_bool = reasoning_config.get("chain_of_thought")

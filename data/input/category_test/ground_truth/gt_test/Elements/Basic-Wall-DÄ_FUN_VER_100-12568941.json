@@ -1,0 +1,26 @@
+{
+    "name": "Basic-Wall-DÄ_FUN_VER_100-12568941",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Polystyrol expandiert (EPS)",
+        "Polystyrol expandiert, SwissporEPS",
+        "Polystyrol extrudiert (XPS)",
+        "Polystyrol extrudiert, SwissporXPS",
+        "Polyurethan (PUR/PIR)",
+        "Polyurethan, SwissporPIR",
+        "Schaumglas",
+        "Schaumglas, GLAPOR"
+    ],
+    "reason": [
+        "vertical hard insulation wall",
+        "rigid insulation materials required",
+        "this is a good selection of the criteria"
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 8
+}

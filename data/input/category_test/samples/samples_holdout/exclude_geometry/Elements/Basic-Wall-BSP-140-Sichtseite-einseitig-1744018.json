@@ -1,0 +1,57 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:BSP 140 Sichtseite einseitig:1744018",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:BSP 140 Sichtseite einseitig"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:BSP 140 Sichtseite einseitig",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Brettsperrholz",
+                    "Thickness": 0.14,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Base Constraint": "Level: 00_Betonplatte",
+            "Location Line": "Core Face: Exterior",
+            "Area": "2.1625",
+            "Length": "769.9711",
+            "Volume": "0.2753",
+            "Workset": "Tragwerk",
+            "Category": "Walls",
+            "Family": "Basic Wall: BSP 140 Sichtseite einseitig",
+            "Type": "Basic Wall: BSP 140 Sichtseite einseitig",
+            "Phase Created": "Zu Bauen",
+            "Structural": "True",
+            "Structural Usage": "Bearing"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "0.7571",
+            "Analytical Properties.Thermal Mass": "10.195",
+            "Analytical Properties.Thermal Resistance (R)": "1.3208",
+            "Construction.Function": "Exterior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Feuerwiderstandsklasse": "R30",
+            "Identity Data.Fire Rating": "R30",
+            "Identity Data.Type Name": "BSP 140 Sichtseite einseitig",
+            "Materials and Finishes.Structural Material": "Brettsperrholz",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall"
+        }
+    },
+    "CompilationGroupID": "a5c867b4fd"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Floor-BBA_BE-DÄ_120-Schmutzstreifen-12439757_L3",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Korkplatte",
+        "Weichfaserplatte",
+        "Flachsfasern, MAGRIPOL, Premium",
+        "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+        "Steinwolle, Flumroc"
+    ],
+    "reason": [
+        "trittschalldämmung and 2 cm thick",
+        "these insulation materials are viable for impact sound insulation",
+        "at 2cm not all insulation materials are effective, especially loose-fill materials that require more depth",
+        "ergo the choice"
+    ],
+    "Type": "IfcCovering",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 5
+}

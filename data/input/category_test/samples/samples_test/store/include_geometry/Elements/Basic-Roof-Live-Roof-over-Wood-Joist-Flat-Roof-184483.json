@@ -1,0 +1,25 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Roof:Live Roof over Wood Joist Flat Roof:184483",
+        "Type": "IfcSlab",
+        "ObjectType": "Basic Roof:Live Roof over Wood Joist Flat Roof"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 60.7472,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 292.4974,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 16.97,
+            "Y": 7.97,
+            "Z": 0.46,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 62.2154,
+        "Real Volume to Bounding Box Volume Ratio": 0.9764
+    },
+    "Element Property Sets": {}
+}

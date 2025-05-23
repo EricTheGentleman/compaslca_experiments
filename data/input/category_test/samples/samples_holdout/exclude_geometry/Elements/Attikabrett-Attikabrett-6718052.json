@@ -1,0 +1,29 @@
+{
+    "Element Metadata": {
+        "Name": "Attikabrett:Attikabrett:6718052",
+        "Type": "IfcSlab",
+        "ObjectType": "Attikabrett:Attikabrett"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Level": "Level: 01_Galerie",
+            "Area": "1.5257",
+            "Volume": "0.0367",
+            "Workset": "Architecture",
+            "Category": "Floors",
+            "Family": "Attikabrett: Attikabrett",
+            "Type": "Attikabrett: Attikabrett",
+            "Phase Created": "Zu Bauen"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Architecture",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "Attikabrett",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Attikabrett"
+        }
+    }
+}

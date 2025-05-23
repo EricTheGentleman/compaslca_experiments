@@ -1,0 +1,86 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:Innenwandelement Archisonic ohne MDF:3995377",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:Innenwandelement Archisonic ohne MDF"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:Innenwandelement Archisonic ohne MDF",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Archisonic Charcoal",
+                    "Thickness": 0.012,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.012,
+            "Width unit": "METRE",
+            "Length": 0.1383,
+            "Length unit": "METRE",
+            "Height": 1.903,
+            "Height unit": "METRE",
+            "Gross Side Area": 0.2631,
+            "Gross Side Area unit": "SQUARE_METRE",
+            "Net Side Area": 0.2631,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Gross Footprint Area": 0.0016,
+            "Gross Footprint Area unit": "SQUARE_METRE",
+            "Gross Volume": 0.0032,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.0031,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.00313,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 0.57073,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.14,
+            "Y": 0.01,
+            "Z": 1.9,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0027,
+        "Real Volume to Bounding Box Volume Ratio": 1.15926
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Location Line": "Finish Face: Exterior",
+            "Base Constraint": "Level: 01_Galerie",
+            "Area": "0.2631",
+            "Length": "149.2341",
+            "Volume": "0.0031",
+            "Workset": "Innenausbau",
+            "Category": "Walls",
+            "Family": "Basic Wall: Innenwandelement Archisonic ohne MDF",
+            "Type": "Basic Wall: Innenwandelement Archisonic ohne MDF",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Construction.Function": "Exterior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "TYP A",
+            "Identity Data.Type Name": "Innenwandelement Archisonic ohne MDF",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall"
+        }
+    },
+    "CompilationGroupID": "f3de7c9098"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Abdeckblech-gerundet-neu-Abdeckblech-gerundet-neu-6385866",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Aluminiumblech, blank",
+        "Stahlblech, blank",
+        "Stahlblech, verzinkt",
+        "Chromstahlblech blank",
+        "Chromnickelstahlblech 18/8 blank",
+        "Kupferblech, blank",
+        "Titanzinkblech"
+    ],
+    "reason": [
+        "name says abdeckung, which implies covering function",
+        "object is a cover plate with gerundet (rounded) in its name",
+        "thin, formed metal sheet for weatherproofing architecutral trims",
+        "no specs if they are verzinkt or not"
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 7
+}

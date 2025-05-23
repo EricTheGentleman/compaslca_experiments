@@ -1,0 +1,49 @@
+{
+    "Element Metadata": {
+        "Name": "Vordach-1",
+        "Type": "IfcSlab"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Aluminium",
+            "Layer Direction and Growth description": "Layers are stacked vertically, growing downward from the element’s reference surface.",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Aluminium",
+                    "Thickness": 0.09781476,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Net Footprint Area": 6.2533,
+            "Net Footprint Area unit": "SQUARE_METRE",
+            "Net Volume": 0.6253,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.6253,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 13.8584,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.77,
+            "Y": 3.65,
+            "Z": 0.1,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.6461,
+        "Real Volume to Bounding Box Volume Ratio": 0.9678
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "True",
+            "LoadBearing": "True"
+        }
+    }
+}

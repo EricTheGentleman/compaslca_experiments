@@ -1,0 +1,48 @@
+{
+    "Element Metadata": {
+        "Name": "Column Planed Wood:38x145:946122",
+        "Type": "IfcColumn",
+        "ObjectType": "38x145"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Wood"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.01736,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 1.16392,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.14,
+            "Y": 3.15,
+            "Z": 0.04,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0176,
+        "Real Volume to Bounding Box Volume Ratio": 0.98636
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Height": "145.0",
+            "Width": "38.0",
+            "OmniClass Number": "",
+            "Workset": "Workset1",
+            "OmniClass Title": "",
+            "Structural Material": "Wood",
+            "Fire protection": "",
+            "Fire resistance class": "",
+            "Volume": "0.0174",
+            "Material Quality": "",
+            "Phase Created": "New",
+            "Reference": "38x145",
+            "LoadBearing": "True",
+            "IsExternal": "False"
+        }
+    },
+    "CompilationGroupID": "77173fe8f0"
+}

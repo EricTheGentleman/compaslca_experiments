@@ -1,0 +1,28 @@
+{
+    "Element Metadata": {
+        "Name": "Bolt:M16:1248900",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "M16"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Steel"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "H": "9.9",
+            "Workset": "Workset1",
+            "OmniClass Title": "",
+            "OmniClass Number": "",
+            "Host": "Beam HE : HEA220",
+            "Volume": "0.0",
+            "L": "21.0",
+            "Structural Material": "Steel",
+            "Phase Created": "New",
+            "Reference": "M16"
+        }
+    },
+    "CompilationGroupID": "62728b82aa"
+}

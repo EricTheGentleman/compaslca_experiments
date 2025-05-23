@@ -1,0 +1,25 @@
+bim_data_format:
+
+  # VAR 1 "geo"
+  include_geometry: false # or false
+
+prompt_framing_style:
+
+  # VAR 2 "ger"
+  german: false  # false for english
+
+prompt_reasoning_strategy:
+
+  # VAR 3 "cot"
+  chain_of_thought: false
+
+  # VAR 4 "etr"
+  extract_then_reason: false
+
+  # VAR 5 "isr"
+  iterative_self_refinement: false
+
+prompt_contextualization:
+
+  # VAR 6 "exp"
+  include_examples: false

@@ -1,0 +1,101 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:DÄ_FUN_HOR_100:12567832",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:DÄ_FUN_HOR_100"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:DÄ_FUN_HOR_100",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Dämmung - hart-horizontal",
+                    "Thickness": 0.1,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.1,
+            "Width unit": "METRE",
+            "Gross Volume": 4.2457,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 4.2457,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 4.2457,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 87.5232,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 6.87,
+            "Y": 6.18,
+            "Z": 0.1,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 4.2457,
+        "Real Volume to Bounding Box Volume Ratio": 1.0
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Roughness": "0.3048",
+            "Category": "Floors",
+            "Reference": "DÄ_FUN_HOR_100",
+            "Description": "DÄ_100",
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "ThermalTransmittance": "0.27",
+            "unter Terrain": "True",
+            "Geschoss ID": "97.0",
+            "Umfang": "26.1",
+            "Fläche": "42.4566",
+            "Volumen": "4.2457",
+            "Dicke": "0.1",
+            "Lage Aussen ": "False",
+            "Bauteilklasse": "A_Unterkonstruktion",
+            "Bauteilart": "Daemmung",
+            "Typname": "DÄ_FUN_HOR_100",
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Level": "97.0",
+            "Area": "42.4566",
+            "Elevation at Bottom": "-9.36",
+            "Perimeter": "26.1",
+            "Thickness": "0.1",
+            "Volume": "4.2457",
+            "Workset": "S-Struktur",
+            "Family": "Floor",
+            "Type": "DÄ_FUN_HOR_100",
+            "Phase Created": "Neubau",
+            "Structural": "True"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "0.27",
+            "Analytical Properties.Thermal Mass": "5.145",
+            "Analytical Properties.Thermal Resistance (R)": "3.7037",
+            "Construction.Lage Aussen": "False",
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Description": "DÄ_100",
+            "Identity Data.Type Name": "DÄ_FUN_HOR_100",
+            "Layers.EN Layers and Widths": "Dämmung - hart 10cm",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Floors",
+            "Gewerbebau.Bauteilklasse": "A_Unterkonstruktion",
+            "Gewerbebau.Bauteilart": "Daemmung",
+            "Gewerbebau.Typname": "DÄ_FUN_HOR_100"
+        }
+    },
+    "CompilationGroupID": "bfbf8a5f73"
+}

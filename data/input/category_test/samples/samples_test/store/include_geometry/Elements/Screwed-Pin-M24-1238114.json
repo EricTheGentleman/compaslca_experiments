@@ -1,0 +1,44 @@
+{
+    "Element Metadata": {
+        "Name": "Screwed Pin:M24:1238114",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "M24"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Steel"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.00011,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 0.01928,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.05,
+            "Y": 0.04,
+            "Z": 0.2,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0004,
+        "Real Volume to Bounding Box Volume Ratio": 0.275
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Material": "Steel",
+            "OmniClass Title": "",
+            "Workset": "Workset1",
+            "OmniClass Number": "",
+            "Phase Created": "New",
+            "Host": "Steel Foundation Plate : Steel Foundation Plate 20x300x300",
+            "H": "40.0",
+            "Volume": "0.0001",
+            "L": "200.0",
+            "Reference": "M24"
+        }
+    },
+    "CompilationGroupID": "fd46fdbadd"
+}

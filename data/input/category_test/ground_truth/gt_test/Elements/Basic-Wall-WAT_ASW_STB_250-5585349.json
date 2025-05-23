@@ -1,0 +1,26 @@
+{
+    "name": "Basic-Wall-WAT_ASW_STB_250-5585349",
+    "category": "Beton",
+    "material_entries": [
+        "Hochbaubeton (ohne Bewehrung)",
+        "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "reason": [
+        "cast in-place reinforced concrete",
+        "thicknes 25 cm and below grade (unter terrian: true)",
+        "fire rating = REI 60",
+        "as it is below terrain it is assumed that slightly stronger concrete",
+        "300+ kg cem mix materials are chosen"
+    ],
+    "Type": "IfcWall",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 6
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Floor-Concrete---Existing---50-160-1699978_L1",
+    "category": "Beton",
+    "material_entries": [
+        "Magerbeton (ohne Bewehrung)",
+        "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "reason": [
+        "target layer specifies screed",
+        "usually made out of lean concrete"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 2
+}

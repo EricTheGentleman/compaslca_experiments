@@ -1,0 +1,58 @@
+{
+    "Element Metadata": {
+        "Name": "TU DF 1 - Pfostenstock Falztüre:DL - 900 x 2130:1118965",
+        "Type": "IfcDoor",
+        "ObjectType": "TU DF 1 - Pfostenstock Falztüre:DL - 900 x 2130"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 1.06,
+            "Width unit": "METRE",
+            "Height": 2.205,
+            "Height unit": "METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.10707,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 6.57707,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.31,
+            "Y": 1.06,
+            "Z": 2.31,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.7591,
+        "Real Volume to Bounding Box Volume Ratio": 0.14105
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "Level: 00_Eingang",
+            "Area": "6.8801",
+            "Height": "2205.0",
+            "Volume": "0.0467",
+            "Workset": "Architecture",
+            "Category": "Doors",
+            "Family": "TU DF 1 - Pfostenstock Falztüre: DL - 900 x 2130",
+            "Type": "TU DF 1 - Pfostenstock Falztüre: DL - 900 x 2130",
+            "Wandstärke": "140.0",
+            "Phase Created": "Zu Bauen"
+        },
+        "Psets Object Type": {
+            "Construction.Function": "Interior",
+            "Data.Form Tür": "rechteckig",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Fire Rating": "",
+            "Identity Data.Description": "1-teilig",
+            "Identity Data.OmniClass Title": "Doors",
+            "Identity Data.Type Name": "DL - 900 x 2130",
+            "Identity Data.Workset": "Family  : Doors : TU DF 1 - Pfostenstock Falztüre",
+            "Other.Category": "Doors",
+            "Other.Family Name": "TU DF 1 - Pfostenstock Falztüre"
+        }
+    },
+    "CompilationGroupID": "f235024de1"
+}

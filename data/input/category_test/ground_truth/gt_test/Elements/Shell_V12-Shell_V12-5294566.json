@@ -1,0 +1,21 @@
+{
+    "name": "Shell_V12-Shell_V12-5294566",
+    "category": "Beton",
+    "material_entries": [
+        "Hochbaubeton, NovoCon Light C25/E30, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "reason": [
+        "concrete lightweight refers to low-density concrete with low cement content",
+        "ifcbuildingelementproxy gives no indication for what it might be",
+        "shell v12 is very unclear in use",
+        "dimensions (i.e., bounding box) implies structural use (screed would not be so large)",
+        "the only entry that specifies lightweight is NovoCon Light"
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

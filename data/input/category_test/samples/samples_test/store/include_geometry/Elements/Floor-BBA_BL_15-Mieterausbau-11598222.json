@@ -1,0 +1,81 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:BBA_BL_15-Mieterausbau:11598222",
+        "Type": "IfcCovering",
+        "ObjectType": "Floor:BBA_BL_15-Mieterausbau"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:BBA_BL_15-Mieterausbau",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Standard - Fußboden",
+                    "Thickness": 0.015,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 5.3255,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 711.8585,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 38.4,
+            "Y": 0.01,
+            "Z": 18.34,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 7.0426,
+        "Real Volume to Bounding Box Volume Ratio": 0.7562
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "BBA_BL_15-Mieterausbau",
+            "Roughness": "0.3048",
+            "Category": "Floors",
+            "unter Terrain": "False",
+            "Geschoss ID": "0.0",
+            "Umfang": "114.31",
+            "Fläche": "355.0323",
+            "Volumen": "5.3255",
+            "Room Bounding": "True",
+            "Level": "0.0",
+            "Related to Mass": "False",
+            "Area": "355.0323",
+            "Elevation at Bottom": "-0.015",
+            "Perimeter": "114.31",
+            "Thickness": "0.015",
+            "Volume": "5.3255",
+            "Workset": "A-Innenausbau",
+            "Family": "Floor",
+            "Type": "BBA_BL_15-Mieterausbau",
+            "Phase Created": "Neubau",
+            "Structural": "False"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Construction.Lage Aussen": "False",
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Description": "Bodenbelag 20",
+            "Identity Data.Type Name": "BBA_BL_15-Mieterausbau",
+            "Layers.EN Layers and Widths": "Standard - Fußboden 2cm",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Floors",
+            "Gewerbebau.Bauteilklasse": "A_Bodenaufbau",
+            "Gewerbebau.Bauteilart": "Bodenbelag",
+            "Gewerbebau.Typname": "BBA_BL_15-Mieterausbau"
+        }
+    },
+    "CompilationGroupID": "52de872dc9"
+}

@@ -1,0 +1,54 @@
+{
+    "Element Metadata": {
+        "Name": "M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171853",
+        "Type": "IfcDoor",
+        "ObjectType": "0813 x 2420mm"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0621,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 6.9415,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.96,
+            "Y": 0.47,
+            "Z": 2.5,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 1.128,
+        "Real Volume to Bounding Box Volume Ratio": 0.0551
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "Reference",
+            "IsExternal": "True",
+            "FireRating": "Fire Rating",
+            "Level": "Level 1",
+            "Phase Created": "New Construction",
+            "Thickness": "0.051",
+            "Height": "2.42",
+            "Width": "0.813",
+            "Function": "1.0",
+            "Construction Type": "Construction Type",
+            "Door Material": "Door - Panel",
+            "Frame Material": "Door - Frame",
+            "Manufacturer": "Manufacturer",
+            "OmniClass Number": "23.30.10.00",
+            "OmniClass Title": "Doors",
+            "IsFireExit": "IsFireExit",
+            "ConstructionType": "ConstructionType",
+            "GlazingAreaFraction": "GlazingAreaFraction",
+            "Area": "Area",
+            "Color": "Color",
+            "Features": "Features",
+            "Finish": "Finish",
+            "Material": "Material",
+            "Shape": "Shape",
+            "Size": "Size"
+        }
+    },
+    "CompilationGroupID": "a8c0aa7437"
+}

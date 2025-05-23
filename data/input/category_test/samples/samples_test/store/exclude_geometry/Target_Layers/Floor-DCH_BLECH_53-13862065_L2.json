@@ -1,0 +1,78 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Dachdeckung - Bitumenbahn",
+        "Thickness": 0.01,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Floor:DCH_BLECH_53:13862065",
+            "Type": "IfcSlab",
+            "ObjectType": "Floor:DCH_BLECH_53"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Dachdeckung - Blechdach",
+                "Thickness": 0.007999999999999998,
+                "Thickness Unit": "METRE",
+                "Layer Number": 1
+            },
+            {
+                "Material Name": "Dachdeckung - Holz",
+                "Thickness": 0.025,
+                "Thickness Unit": "METRE",
+                "Layer Number": 3
+            },
+            {
+                "Material Name": "Dachdeckung - Bitumenbahn",
+                "Thickness": 0.01,
+                "Thickness Unit": "METRE",
+                "Layer Number": 4
+            }
+        ],
+        "Element Property Sets": {
+            "Psets Element": {
+                "Roughness": "0.3048",
+                "Category": "Floors",
+                "Reference": "DCH_BLECH_53",
+                "Description": "DCH_300",
+                "IsExternal": "True",
+                "LoadBearing": "False",
+                "ThermalTransmittance": "24.9783",
+                "unter Terrain": "False",
+                "Geschoss ID": "7.0",
+                "Umfang": "76.88",
+                "Fläche": "11.5602",
+                "Volumen": "0.6127",
+                "Dicke": "0.053",
+                "Lage Aussen ": "True",
+                "Bauteilklasse": "A_Dachbekleidung",
+                "Bauteilart": "Dachabdeckung",
+                "Typname": "DCH_BLECH_53"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "1.0",
+                "Analytical Properties.Absorptance": "0.1",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "24.9783",
+                "Analytical Properties.Thermal Mass": "53.3752",
+                "Analytical Properties.Thermal Resistance (R)": "0.04",
+                "Construction.Function": "Exterior",
+                "Construction.Lage Aussen": "True",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Floor Types",
+                "Identity Data.Description": "DCH_300",
+                "Identity Data.Type Name": "DCH_BLECH_53",
+                "Layers.EN Layers and Widths": "Dachdeckung - Blechdach 0.8cmDachdeckung - Bitumenbahn 1cmDachdeckung - Holz 2.5cmDämmung - weich 6cmDachdeckung - Bitumenbahn 1cm",
+                "Other.Category": "Floors",
+                "Other.Family Name": "Floor",
+                "Structural.Filter Tragend / Nichttragend": "False",
+                "Pset_ProductRequirements.Category": "Floors",
+                "Gewerbebau.Bauteilklasse": "A_Dachbekleidung",
+                "Gewerbebau.Bauteilart": "Dachabdeckung",
+                "Gewerbebau.Typname": "DCH_BLECH_53"
+            }
+        }
+    },
+    "CompilationGroupID": "7f5297254d"
+}

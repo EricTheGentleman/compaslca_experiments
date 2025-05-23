@@ -1,0 +1,83 @@
+{
+    "Element Metadata": {
+        "Name": "TU DF 1 - Pfostenstock Falztüre verglast:TUI_ZAR_MET_ML - 1100 x 2375_E 30:7560858",
+        "Type": "IfcDoor",
+        "ObjectType": "TU DF 1 - Pfostenstock Falztüre verglast:TUI_ZAR_MET_ML - 1100 x 2375_E 30"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Glas - klar"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 1.1,
+            "Width unit": "METRE",
+            "Height": 2.375,
+            "Height unit": "METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.1075,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 7.7092,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.1,
+            "Y": 0.18,
+            "Z": 2.38,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.4712,
+        "Real Volume to Bounding Box Volume Ratio": 0.2282
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "FireRating": "E 30",
+            "ConstructionType": "Typ 1 - Tür Metall Glas",
+            "IsExternal": "False",
+            "Reference": "TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+            "Category": "Doors",
+            "Türbezeichnung": "Typ 1 - Tür Metall Glas",
+            "Feuerwiderstandsklasse": "E 30",
+            "Bauteilklasse": "A_Tuer",
+            "Bauteilart": "Tuer",
+            "Typname": "TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+            "Level": "Level: 98",
+            "Area": "0.2205",
+            "Height": "2.375",
+            "Volume": "0.0002",
+            "Fluchttür": "True",
+            "Workset": "S-Struktur",
+            "Finish": "Opak",
+            "Frame Material": "Stahl",
+            "Family": "TU DF 1 - Pfostenstock Falztüre verglast: TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+            "Type": "TU DF 1 - Pfostenstock Falztüre verglast: TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+            "Wandstärke": "0.3",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Function": "Interior",
+            "Data.Form Tür": "rechteckig",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Family  : Doors : TU DF 1 - Pfostenstock Falztüre verglast",
+            "Identity Data.Description": "MG 1.1",
+            "Identity Data.Fire Rating": "E 30",
+            "Identity Data.OmniClass Title": "Doors",
+            "Identity Data.Type Name": "TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+            "Other.Category": "Doors",
+            "Other.Family Name": "TU DF 1 - Pfostenstock Falztüre verglast",
+            "Pset_ConcreteElementGeneral.FireRating": "E 30",
+            "Pset_ConcreteElementGeneral.ConstructionType": "Typ 1 - Tür Metall Glas",
+            "Pset_ProductRequirements.Category": "Doors",
+            "Pset_QuantityTakeOff.Reference": "TUI_ZAR_MET_ML - 1100 x 2375_E 30",
+            "Gewerbebau.Türbezeichnung": "Typ 1 - Tür Metall Glas",
+            "Gewerbebau.Feuerwiderstandsklasse": "E 30",
+            "Gewerbebau.Bauteilklasse": "A_Tuer",
+            "Gewerbebau.Bauteilart": "Tuer",
+            "Gewerbebau.Typname": "TUI_ZAR_MET_ML - 1100 x 2375_E 30"
+        }
+    },
+    "CompilationGroupID": "36444c6e35"
+}

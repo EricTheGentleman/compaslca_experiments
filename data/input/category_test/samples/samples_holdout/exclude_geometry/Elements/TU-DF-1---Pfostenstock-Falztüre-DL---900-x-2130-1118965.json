@@ -1,0 +1,36 @@
+{
+    "Element Metadata": {
+        "Name": "TU DF 1 - Pfostenstock Falztüre:DL - 900 x 2130:1118965",
+        "Type": "IfcDoor",
+        "ObjectType": "TU DF 1 - Pfostenstock Falztüre:DL - 900 x 2130"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "Level: 00_Eingang",
+            "Area": "6.8801",
+            "Height": "2205.0",
+            "Volume": "0.0467",
+            "Workset": "Architecture",
+            "Category": "Doors",
+            "Family": "TU DF 1 - Pfostenstock Falztüre: DL - 900 x 2130",
+            "Type": "TU DF 1 - Pfostenstock Falztüre: DL - 900 x 2130",
+            "Wandstärke": "140.0",
+            "Phase Created": "Zu Bauen"
+        },
+        "Psets Object Type": {
+            "Construction.Function": "Interior",
+            "Data.Form Tür": "rechteckig",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Fire Rating": "",
+            "Identity Data.Description": "1-teilig",
+            "Identity Data.OmniClass Title": "Doors",
+            "Identity Data.Type Name": "DL - 900 x 2130",
+            "Identity Data.Workset": "Family  : Doors : TU DF 1 - Pfostenstock Falztüre",
+            "Other.Category": "Doors",
+            "Other.Family Name": "TU DF 1 - Pfostenstock Falztüre"
+        }
+    },
+    "CompilationGroupID": "f235024de1"
+}

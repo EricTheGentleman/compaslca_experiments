@@ -1,0 +1,85 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:Fensterlaibung 40mm:6514187",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:Fensterlaibung 40mm"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:Fensterlaibung 40mm",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Massivholz Fichte, schwarz lasiert",
+                    "Thickness": 0.04,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.04,
+            "Width unit": "METRE",
+            "Length": 0.196,
+            "Length unit": "METRE",
+            "Height": 2.305,
+            "Height unit": "METRE",
+            "Gross Side Area": 0.4332,
+            "Gross Side Area unit": "SQUARE_METRE",
+            "Net Side Area": 0.4332,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Gross Footprint Area": 0.0078,
+            "Gross Footprint Area unit": "SQUARE_METRE",
+            "Gross Volume": 0.0173,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.0173,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.01733,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 1.06064,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.2,
+            "Y": 2.3,
+            "Z": 0.04,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0184,
+        "Real Volume to Bounding Box Volume Ratio": 0.94185
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Base Constraint": "Level: 00_Eingang",
+            "Location Line": "Core Face: Interior",
+            "Area": "0.4332",
+            "Length": "195.9998",
+            "Volume": "0.0173",
+            "Workset": "Architecture",
+            "Category": "Walls",
+            "Family": "Basic Wall: Fensterlaibung 40mm",
+            "Type": "Basic Wall: Fensterlaibung 40mm",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Construction.Function": "Exterior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Type Name": "Fensterlaibung 40mm",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall"
+        }
+    },
+    "CompilationGroupID": "6125c4d99e"
+}

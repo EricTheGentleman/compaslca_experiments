@@ -1,0 +1,77 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:GDE_BAL_MET_30:7151537",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:GDE_BAL_MET_30"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:GDE_BAL_MET_30",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Gitterrost",
+                    "Thickness": 0.03,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Roughness": "0.3048",
+            "Category": "Floors",
+            "Reference": "GDE_BAL_MET_30",
+            "Description": "None",
+            "IsExternal": "True",
+            "LoadBearing": "False",
+            "unter Terrain": "False",
+            "Geschoss ID": "Level: 06",
+            "Umfang": "154.0245",
+            "Fläche": "90.9747",
+            "Volumen": "2.7292",
+            "Lage Aussen ": "True",
+            "Tragende": "False",
+            "Dicke": "0.03",
+            "Material": "Gitterrost",
+            "Bauteilklasse": "A_Bodenaufbau",
+            "Bauteilart": "Bodenbelag",
+            "Typname": "GDE_BAL_MET_30",
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Level": "Level: 06",
+            "Area": "90.9747",
+            "Elevation at Bottom": "24.42",
+            "Perimeter": "154.0245",
+            "Thickness": "0.03",
+            "Volume": "2.7292",
+            "Workset": "A-Fassade",
+            "Family": "Floor: GDE_BAL_MET_30",
+            "Type": "Floor: GDE_BAL_MET_30",
+            "Phase Created": "Neubau",
+            "Structural": "False"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Construction.Function": "Exterior",
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Description": "",
+            "Identity Data.Type Name": "GDE_BAL_MET_30",
+            "Materials and Finishes.Structural Material": "Gitterrost",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Floors",
+            "Pset_QuantityTakeOff.Reference": "GDE_BAL_MET_30",
+            "Gewerbebau.Material": "Gitterrost",
+            "Gewerbebau.Bauteilklasse": "A_Bodenaufbau",
+            "Gewerbebau.Bauteilart": "Bodenbelag",
+            "Gewerbebau.Typname": "GDE_BAL_MET_30"
+        }
+    },
+    "CompilationGroupID": "09096b92cc"
+}

@@ -1,6 +1,9 @@
-# Ignore the entire configs folder and all contents
-configs/
+# Ignore only the model config file that contains the API key
+configs/model_config.yaml
+
+# Ignore .env and any private key files
 .env
 *.key
 
+# Python bytecode/cache
 **/__pycache__/

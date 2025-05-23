@@ -1,0 +1,73 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:BBA_ASP_120:11419651",
+        "Type": "IfcCovering",
+        "ObjectType": "Floor:BBA_ASP_120"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:BBA_ASP_120",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Asphalt",
+                    "Thickness": 0.12,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "BBA_ASP_120",
+            "Roughness": "0.3048",
+            "Category": "Floors",
+            "unter Terrain": "True",
+            "Geschoss ID": "99.0",
+            "Umfang": "4.5",
+            "Fläche": "0.215",
+            "Volumen": "0.0258",
+            "Dicke": "0.12",
+            "Material": "Asphalt",
+            "Lage Aussen ": "False",
+            "Bauteilklasse": "A_Bodenaufbau",
+            "Bauteilart": "Bodenbelag",
+            "Typname": "BBA_ASP_120",
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Level": "99.0",
+            "Area": "0.215",
+            "Elevation at Bottom": "-3.93",
+            "Perimeter": "4.5",
+            "Thickness": "0.12",
+            "Volume": "0.0258",
+            "Workset": "A-Innenausbau",
+            "Family": "Floor",
+            "Type": "BBA_ASP_120",
+            "Phase Created": "Neubau",
+            "Structural": "False"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Construction.Lage Aussen": "False",
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Description": "Gussasphalt 30",
+            "Identity Data.Type Name": "BBA_ASP_120",
+            "Layers.EN Layers and Widths": "Asphalt 3cm",
+            "Materials and Finishes.Structural Material": "Asphalt",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Floors",
+            "Gewerbebau.Material": "Asphalt",
+            "Gewerbebau.Bauteilklasse": "A_Bodenaufbau",
+            "Gewerbebau.Bauteilart": "Bodenbelag",
+            "Gewerbebau.Typname": "BBA_ASP_120"
+        }
+    },
+    "CompilationGroupID": "c2e36a8e3e"
+}

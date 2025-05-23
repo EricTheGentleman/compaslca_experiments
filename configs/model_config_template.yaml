@@ -1,0 +1,12 @@
+# === Family 1: Model Choice ===
+model_config:
+
+  company: "OpenAI"
+  
+  model: "gpt-4o"
+
+  key: 'YOUR_API_KEY_HERE'
+
+  max_tokens: 2048
+
+  temperature: 0

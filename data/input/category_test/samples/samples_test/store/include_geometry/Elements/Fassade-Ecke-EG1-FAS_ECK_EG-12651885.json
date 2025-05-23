@@ -1,0 +1,58 @@
+{
+    "Element Metadata": {
+        "Name": "Fassade Ecke EG1:FAS_ECK_EG:12651885",
+        "Type": "IfcWall",
+        "ObjectType": "Fassade Ecke EG1:FAS_ECK_EG"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Aluminum"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0237,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 1.3092,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.08,
+            "Y": 0.08,
+            "Z": 3.95,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0253,
+        "Real Volume to Bounding Box Volume Ratio": 0.9372
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "unter Terrain": "False",
+            "Volume": "0.0237",
+            "Workset": "A-Fassade",
+            "Category": "Columns",
+            "Family": "Fassade Ecke EG1",
+            "Type": "FAS_ECK_EG",
+            "Phase Created": "Neubau",
+            "Reference": "FAS_ECK_EG",
+            "IsExternal": "False",
+            "Volumen": "0.0237"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Workset": "A-Fassade",
+            "Identity Data.Type Name": "FAS_ECK_EG",
+            "Other.Category": "Columns",
+            "Other.Family Name": "Fassade Ecke EG1",
+            "Pset_ProductRequirements.Category": "Columns",
+            "Pset_WallCommon.IsExternal": "False",
+            "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+            "Gewerbebau.Bauteilart": "Fassadenelement",
+            "Gewerbebau.Typname": "FAS_ECK_EG"
+        }
+    }
+}

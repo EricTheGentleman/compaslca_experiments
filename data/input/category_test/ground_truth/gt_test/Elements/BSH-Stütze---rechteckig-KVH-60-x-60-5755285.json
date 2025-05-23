@@ -1,0 +1,18 @@
+{
+    "name": "BSH-Stütze---rechteckig-KVH-60-x-60-5755285",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "Brettschichtholz",
+        "Brettschichtholz, Produktion Schweiz"
+    ],
+    "reason": [
+        "clear semantic match"
+    ],
+    "Type": "IfcColumn",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 2
+}

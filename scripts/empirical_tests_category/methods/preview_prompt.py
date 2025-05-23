@@ -8,12 +8,12 @@ from methods.category_prompt_builder import build_category_prompt
 from methods.category_prompt_builder_ger import build_category_prompt_ger
 
 def preview_prompt(
-    config,
+    var_config,
     mode="element",  # or "target_layer"
     output_path="data/output/z_preview/preview_output_prompt.txt"
 ):
     # Load language setting from config
-    framing_config = config.get("prompt_framing_style", {})
+    framing_config = var_config.get("prompt_framing_style", {})
     german = framing_config.get("german", True)
 
     # Set dummy
@@ -26,14 +26,14 @@ def preview_prompt(
             bim_element=bim_element,
             category_entries=category_entries,
             mode=mode,
-            config = config
+            var_config = var_config
         )
     else:
         prompt = build_category_prompt(
             bim_element=bim_element,
             category_entries=category_entries,
             mode=mode,
-            config = config
+            var_config = var_config
         )
 
     output_file = Path(output_path)

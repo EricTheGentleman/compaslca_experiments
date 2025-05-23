@@ -1,0 +1,17 @@
+{
+    "name": "Basic-Wall-GEL_FÜL_OPK_BALK_100-11023610",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Titanzinkblech"
+    ],
+    "reason": [
+        "almost perfect semantic match"
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

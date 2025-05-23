@@ -1,0 +1,47 @@
+{
+    "Element Metadata": {
+        "Name": "Systemelement:PAN_GLAS_45 - OG:11226128",
+        "Type": "IfcPlate",
+        "ObjectType": "Systemelement:PAN_GLAS_45 - OG"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Glas - Isolierverglasung klar"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "3.0",
+            "unter Terrain": "False",
+            "Area": "1.0008",
+            "Height": "0.614",
+            "Volume": "0.045",
+            "Width": "1.63",
+            "Workset": "A-Fassade",
+            "Category": "Curtain Panels",
+            "Family": "Systemelement",
+            "Type": "PAN_GLAS_45 - OG",
+            "Phase Created": "Neubau",
+            "IsExternal": "False",
+            "Reference": "PAN_GLAS_45 - OG",
+            "Fläche": "1.0008",
+            "Volumen": "0.045"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "PAN_GLAS_45 - OG",
+            "Identity Data.Workset": "Family  : Curtain Panels : Systemelement",
+            "Other.Category": "Curtain Panels",
+            "Other.Family Name": "Systemelement",
+            "Pset_ProductRequirements.Category": "Curtain Panels",
+            "Gewerbebau.Material": "Glas - Isolierverglasung klar",
+            "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+            "Gewerbebau.Bauteilart": "Fassadenelement",
+            "Gewerbebau.Typname": "PAN_GLAS_45 - OG"
+        }
+    },
+    "CompilationGroupID": "7cba03312a"
+}

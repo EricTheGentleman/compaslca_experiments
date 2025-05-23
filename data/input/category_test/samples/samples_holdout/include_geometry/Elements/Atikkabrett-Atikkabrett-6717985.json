@@ -1,0 +1,56 @@
+{
+    "Element Metadata": {
+        "Name": "Atikkabrett:Atikkabrett:6717985",
+        "Type": "IfcSlab",
+        "ObjectType": "Atikkabrett:Atikkabrett"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Massivholz"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Net Volume": 0.1636,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.16356,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 13.5378,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 18.35,
+            "Y": 6.36,
+            "Z": 0.04,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 4.6682,
+        "Real Volume to Bounding Box Volume Ratio": 0.03504
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Level": "Level: 01_Brüstung",
+            "Elevation from Level": "0.0",
+            "Area": "6.7689",
+            "Volume": "0.1636",
+            "Workset": "Architecture",
+            "Category": "Floors",
+            "Family": "Atikkabrett: Atikkabrett",
+            "Type": "Atikkabrett: Atikkabrett",
+            "Phase Created": "Zu Bauen"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Architecture",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "Atikkabrett",
+            "Materials and Finishes.Structural Material": "Massivholz",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Atikkabrett"
+        }
+    }
+}

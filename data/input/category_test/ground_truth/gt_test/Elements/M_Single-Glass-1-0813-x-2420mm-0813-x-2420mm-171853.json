@@ -1,0 +1,20 @@
+{
+    "name": "M_Single-Glass-1-0813-x-2420mm-0813-x-2420mm-171853",
+    "category": "Türen",
+    "material_entries": [
+        "Aussentüre, Aluminium, Glaseinsatz",
+        "Aussentüre, Holz, Glaseinsatz"
+    ],
+    "reason": [
+        "Type is IfcDoor",
+        "Name implies glass usage in the door",
+        "pset IsExternal is true"
+    ],
+    "Type": "IfcDoor",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 2
+}

@@ -1,0 +1,45 @@
+{
+    "Element Metadata": {
+        "Name": "FE Dachkuppel rund:Ø=1200:13668242",
+        "Type": "IfcWindow",
+        "ObjectType": "FE Dachkuppel rund:Ø=1200"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "Category": "Windows",
+            "Reference": "Ø=1200",
+            "IsExternal": "False",
+            "unter Terrain": "False",
+            "Geschoss ID": "6.0",
+            "Breite": "1.36",
+            "Lage Aussen ": "True",
+            "Bauteilklasse": "A_Fenster",
+            "Bauteilart": "Dachfenster",
+            "Typname": "Ø=1200",
+            "Level": "6.0",
+            "Area": "3.6577",
+            "Volume": "0.1828",
+            "Workset": "A-Fassade",
+            "Family": "FE Dachkuppel rund",
+            "Type": "Ø=1200",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Description": "Dachfenster",
+            "Identity Data.OmniClass Title": "Skylights",
+            "Identity Data.Type Name": "Ø=1200",
+            "Identity Data.Workset": "Family  : Windows : FE Dachkuppel rund",
+            "Materials and Finishes.Material Kuppelglas": "Glas - Isolierverglasung klar",
+            "Other.Category": "Windows",
+            "Other.Family Name": "FE Dachkuppel rund",
+            "Pset_ProductRequirements.Category": "Windows",
+            "Gewerbebau.Bauteilklasse": "A_Fenster",
+            "Gewerbebau.Bauteilart": "Dachfenster",
+            "Gewerbebau.Typname": "Ø=1200"
+        }
+    },
+    "CompilationGroupID": "6e3905d4da"
+}

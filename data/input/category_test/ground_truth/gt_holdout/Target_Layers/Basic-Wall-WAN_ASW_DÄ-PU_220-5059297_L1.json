@@ -1,0 +1,24 @@
+{
+    "name": "Basic-Wall-WAN_ASW_DÄ-PU_220-5059297_L1",
+    "category": "Mörtel und Putze",
+    "material_entries": [
+        "Kunststoffputz (Dispersionsputz)",
+        "Silikatputz (Dispersionssilikatputz)",
+        "Silikonharzputz",
+        "Leichtputz mineralisch",
+        "Kalk-Zement/Zement-Kalk-Putz"
+    ],
+    "reason": [
+        "It is a plaster of external fassade (isexternal, workset: a-fassade)",
+        "plaster needs to be suitable for external use",
+        "so therefore also durable agains weather, sun, moisture",
+        "compatible with soft insulation substrate"
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 5
+}

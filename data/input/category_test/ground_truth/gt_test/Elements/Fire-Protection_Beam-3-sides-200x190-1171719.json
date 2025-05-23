@@ -1,0 +1,21 @@
+{
+    "name": "Fire-Protection_Beam-3-sides-200x190-1171719",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Steinwolle",
+        "Steinwolle, Flumroc"
+    ],
+    "reason": [
+        "while it says mineral wool, glass wool was not chosen",
+        "this is due to the fire protection specification",
+        "stone wool is more commonly used in fire protection applications",
+        "organic or polymer insulations are excluded"
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 2
+}

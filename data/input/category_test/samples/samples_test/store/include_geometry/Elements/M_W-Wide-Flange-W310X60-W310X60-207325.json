@@ -1,0 +1,51 @@
+{
+    "Element Metadata": {
+        "Name": "M_W-Wide Flange:W310X60:W310X60:207325",
+        "Type": "IfcBeam",
+        "ObjectType": "M_W-Wide Flange:W310X60:208816"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Metal - Steel - 345 MPa"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0574,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 10.174,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 7.42,
+            "Y": 0.2,
+            "Z": 0.3,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.4452,
+        "Real Volume to Bounding Box Volume Ratio": 0.1289
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "Reference",
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "Span": "7.4213",
+            "Length": "7.523",
+            "Volume": "0.0549",
+            "Structural Usage": "3.0",
+            "Phase Created": "New Construction",
+            "Manufacturer": "Manufacturer",
+            "OmniClass Number": "23.25.30.11.14.14",
+            "OmniClass Title": "Beams",
+            "Color": "Color",
+            "Features": "Features",
+            "Finish": "Finish",
+            "Material": "Material",
+            "Shape": "Shape",
+            "Size": "Size"
+        }
+    },
+    "CompilationGroupID": "45e3254100"
+}

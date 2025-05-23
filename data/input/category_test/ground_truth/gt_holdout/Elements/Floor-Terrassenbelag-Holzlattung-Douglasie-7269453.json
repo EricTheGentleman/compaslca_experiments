@@ -1,0 +1,20 @@
+{
+    "name": "Floor-Terrassenbelag-Holzlattung-Douglasie-7269453",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+        "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau, Produktion Schweiz"
+    ],
+    "reason": [
+        "outdoor terrace decking wood",
+        "luftgetrocknet is common for exterior wood, promotes natural mositure balancing",
+        "rau is suitable for terrace decking, as it is often minimally treated"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 2
+}

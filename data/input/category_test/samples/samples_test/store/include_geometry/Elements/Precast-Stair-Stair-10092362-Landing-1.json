@@ -1,0 +1,64 @@
+{
+    "Element Metadata": {
+        "Name": "Precast Stair:Stair:10092362 Landing 1",
+        "Type": "IfcSlab",
+        "ObjectType": "Monolithic Landing:POD_STB_FER_200"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Betonfertigteil"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 1.2,
+            "Width unit": "METRE",
+            "Gross Volume": 0.324,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.324,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.324,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 4.2278,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.2,
+            "Y": 1.2,
+            "Z": 0.41,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.5904,
+        "Real Volume to Bounding Box Volume Ratio": 0.5487
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Category": "Landings",
+            "Reference": "POD_STB_FER_200",
+            "IsExternal": "False",
+            "Bauteilklasse": "A_TreppeRampe",
+            "Bauteilart": "Treppe",
+            "Typname": "POD_STB_FER_200",
+            "Workset": "A-Innenausbau",
+            "Family": "Monolithic Landing: POD_STB_FER_200",
+            "Type": "Monolithic Landing: POD_STB_FER_200",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Stair Types",
+            "Identity Data.Type Name": "POD_STB_FER_200",
+            "Other.Category": "Landings",
+            "Other.Family Name": "Monolithic Landing",
+            "Pset_ProductRequirements.Category": "Landings",
+            "Pset_QuantityTakeOff.Reference": "POD_STB_FER_200",
+            "Gewerbebau.Bauteilklasse": "A_TreppeRampe",
+            "Gewerbebau.Bauteilart": "Treppe",
+            "Gewerbebau.Typname": "POD_STB_FER_200"
+        }
+    },
+    "CompilationGroupID": "3a57fddac6"
+}

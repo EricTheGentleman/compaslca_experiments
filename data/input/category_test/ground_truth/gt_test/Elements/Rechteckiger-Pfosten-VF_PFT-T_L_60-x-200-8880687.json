@@ -1,0 +1,20 @@
+{
+    "name": "Rechteckiger-Pfosten-VF_PFT-T_L_60-x-200-8880687",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Aluminiumprofil, blank",
+        "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R"
+    ],
+    "reason": [
+        "material name says aluminum",
+        "it's a pfosten/member, part of a curtain wall system",
+        "aluminum sheets typically not used for structural mullions"
+    ],
+    "Type": "IfcMember",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 2
+}

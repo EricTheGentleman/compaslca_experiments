@@ -1,0 +1,27 @@
+{
+    "Element Metadata": {
+        "Name": "1OG-I-1-2",
+        "Type": "IfcWallStandardCase"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Gips",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Gips",
+                    "Thickness": 0.1,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "ThermalTransmittance": "2.28",
+            "IsExternal": "False",
+            "LoadBearing": "False"
+        }
+    }
+}

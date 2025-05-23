@@ -1,0 +1,83 @@
+{
+    "Element Metadata": {
+        "Name": "Fertigteil-TT-Platte - Entrée:TRA_RIP_STB_2700 x 480_Entrée_4:13843837",
+        "Type": "IfcBeam",
+        "ObjectType": "Fertigteil-TT-Platte - Entrée:TRA_RIP_STB_2700 x 480_Entrée_4"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Betonfertigteil"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Net Volume": 1.0221,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 1.0221,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 21.4499,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 2.7,
+            "Y": 2.98,
+            "Z": 0.48,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 3.8621,
+        "Real Volume to Bounding Box Volume Ratio": 0.2647
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "Reference": "TRA_RIP_STB_2700 x 480_Entrée_4",
+            "Span": "2.98",
+            "FireRating": "REI 60",
+            "Category": "Structural Framing",
+            "unter Terrain": "False",
+            "Geschoss ID": "1.0",
+            "Länge": "2.98",
+            "Volumen": "1.0221",
+            "Dicke": "2.75",
+            "Höhe ": "0.48",
+            "Feuerwiderstandsklasse": "REI 60",
+            "Material": "Betonfertigteil",
+            "Lage Aussen ": "False",
+            "Bauteilklasse": "A_Decke",
+            "Bauteilart": "Rippenplatte",
+            "Typname": "TRA_RIP_STB_2700 x 480_Entrée_4",
+            "Elevation at Bottom": "0.54",
+            "Length": "2.98",
+            "Volume": "1.0221",
+            "Workset": "S-Struktur",
+            "Family": "Fertigteil-TT-Platte - Entrée",
+            "Type": "TRA_RIP_STB_2700 x 480_Entrée_4",
+            "Phase Created": "Neubau",
+            "Structural Usage": "Other"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "False",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Family  : Structural Framing : Fertigteil-TT-Platte - Entrée",
+            "Identity Data.Fire Rating": "REI 60",
+            "Identity Data.OmniClass Title": "Beams",
+            "Identity Data.Type Name": "TRA_RIP_STB_2700 x 480_Entrée_4",
+            "Materials and Finishes.Structural Material": "Betonfertigteil",
+            "Materials and Finishes.Überbeton Material": "Beton - Ortbeton - Überbeton",
+            "Other.Category": "Structural Framing",
+            "Other.Family Name": "Fertigteil-TT-Platte - Entrée",
+            "Structural.Filter Tragend / Nichttragend": "True",
+            "Pset_ConcreteElementGeneral.FireRating": "REI 60",
+            "Pset_ProductRequirements.Category": "Structural Framing",
+            "Gewerbebau.Feuerwiderstandsklasse": "REI 60",
+            "Gewerbebau.Material": "Betonfertigteil",
+            "Gewerbebau.Bauteilklasse": "A_Decke",
+            "Gewerbebau.Bauteilart": "Rippenplatte",
+            "Gewerbebau.Typname": "TRA_RIP_STB_2700 x 480_Entrée_4"
+        }
+    }
+}

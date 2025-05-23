@@ -7,20 +7,20 @@ import re
 
 
 # material llm interface
-def category_inference(bim_element, category_entries, mode, config):
+def category_inference(bim_element, category_entries, mode, var_config, model_config):
 
     # Load config (values)
-    model_config = config.get("model_config", {})
-    framing_config = config.get("prompt_framing_style", {})
+    model_config = model_config.get("model_config", {})
+    framing_config = model_config.get("prompt_framing_style", {})
     german = framing_config.get("german")
     key = model_config.get("key")
     client = OpenAI(api_key=key)
 
     # VAR 2: Prompt Language
     if german:
-        prompt = build_category_prompt_ger(bim_element, category_entries, mode, config)
+        prompt = build_category_prompt_ger(bim_element, category_entries, mode, var_config)
     else:
-        prompt = build_category_prompt(bim_element, category_entries, mode, config)
+        prompt = build_category_prompt(bim_element, category_entries, mode, var_config)
 
     # Get LLM response
     response = client.chat.completions.create(

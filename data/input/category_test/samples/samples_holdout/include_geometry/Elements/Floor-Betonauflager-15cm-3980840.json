@@ -1,0 +1,75 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:Betonauflager 15cm:3980840",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:Betonauflager 15cm"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:Betonauflager 15cm",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Beton",
+                    "Thickness": 0.15,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.15,
+            "Width unit": "METRE",
+            "Gross Volume": 0.1336,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.1336,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.13362,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 2.3973,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.48,
+            "Y": 0.63,
+            "Z": 0.15,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.1399,
+        "Real Volume to Bounding Box Volume Ratio": 0.95511
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Level": "Level: 01_UK Decke",
+            "Area": "0.8908",
+            "Elevation at Bottom": "2295.0",
+            "Perimeter": "4104.9298",
+            "Thickness": "150.0",
+            "Volume": "0.1336",
+            "Workset": "Architecture",
+            "Category": "Floors",
+            "Family": "Floor: Betonauflager 15cm",
+            "Type": "Floor: Betonauflager 15cm",
+            "Phase Created": "Zu Bauen",
+            "Structural": "True"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Feuerwiderstandsklasse": "R30",
+            "Identity Data.Type Name": "Betonauflager 15cm",
+            "Materials and Finishes.Structural Material": "Beton",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:OSB 25mm:5183063",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:OSB 25mm"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Floor:OSB 25mm",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "OSB",
+                    "Thickness": 0.025,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Net Volume": 0.6074,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.60736,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 49.08978,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 5.46,
+            "Y": 5.32,
+            "Z": 0.03,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.8714,
+        "Real Volume to Bounding Box Volume Ratio": 0.69699
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Level": "Level: 01_Galerie",
+            "Area": "24.2943",
+            "Elevation at Bottom": "2805.0",
+            "Perimeter": "19890.7951",
+            "Thickness": "25.0",
+            "Volume": "0.6074",
+            "Workset": "Architecture",
+            "Category": "Floors",
+            "Family": "Floor: OSB 25mm",
+            "Type": "Floor: OSB 25mm",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Construction.Function": "Interior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Type Name": "OSB 25mm",
+            "Materials and Finishes.Structural Material": "OSB",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor"
+        }
+    },
+    "CompilationGroupID": "763e457390"
+}

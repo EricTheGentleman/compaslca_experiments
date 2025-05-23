@@ -1,0 +1,15 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:Floor_Holz_40mm:21756579",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:Floor_Holz_40mm"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "Floor_Holz_40mm",
+            "LoadBearing": "False",
+            "IsExternal": "False"
+        }
+    }
+}

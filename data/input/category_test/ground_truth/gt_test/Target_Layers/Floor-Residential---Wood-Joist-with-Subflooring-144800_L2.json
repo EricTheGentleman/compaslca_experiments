@@ -1,0 +1,23 @@
+{
+    "name": "Floor-Residential---Wood-Joist-with-Subflooring-144800_L2",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "Balkenschichtholz",
+        "Brettschichtholz",
+        "Brettschichtholz, Produktion Schweiz",
+        "Konstruktionsvollholz",
+        "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+        "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz"
+    ],
+    "reason": [
+        "load-bearing layer of the slab",
+        "these are the viable structural entries"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 6
+}

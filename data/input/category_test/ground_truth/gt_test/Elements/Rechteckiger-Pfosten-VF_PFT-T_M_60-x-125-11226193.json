@@ -1,0 +1,18 @@
+{
+    "name": "Rechteckiger-Pfosten-VF_PFT-T_M_60-x-125-11226193",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Aluminiumprofil, blank",
+        "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R"
+    ],
+    "reason": [
+        "exact match for pfosten made out of aluminium"
+    ],
+    "Type": "IfcMember",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 2
+}

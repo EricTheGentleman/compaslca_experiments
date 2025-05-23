@@ -1,0 +1,41 @@
+{
+    "Element Metadata": {
+        "Name": "Holz Träger - rechteckig:Holz 60 x 160:22007091",
+        "Type": "IfcBeam",
+        "ObjectType": "Holz Träger - rechteckig:Holz 60 x 160"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Length": 3.86,
+            "Length unit": "METRE",
+            "Gross Volume": 0.0371,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.0371,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0371,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 1.7176,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.06,
+            "Y": 0.16,
+            "Z": 3.86,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0371,
+        "Real Volume to Bounding Box Volume Ratio": 0.9988
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "False",
+            "Reference": "Holz 60 x 160",
+            "Span": "3.66",
+            "LoadBearing": "True"
+        }
+    },
+    "CompilationGroupID": "99b21853bd"
+}

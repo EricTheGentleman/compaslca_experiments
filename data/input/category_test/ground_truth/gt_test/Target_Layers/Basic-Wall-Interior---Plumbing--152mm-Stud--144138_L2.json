@@ -1,0 +1,23 @@
+{
+    "name": "Basic-Wall-Interior---Plumbing--152mm-Stud--144138_L2",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Stahlprofil, blank",
+        "Stahlblech, verzinkt",
+        "Stahlblech, blank"
+    ],
+    "reason": [
+        "Metal framing components (metal-stud layer)",
+        "stahlprofil is the best match, aligns with form and function",
+        "metal studs are usually built from cold-formed sheet steel",
+        "wall is not load-bearing, rather partition wall",
+        "therefore sheets and profile made from sheets are a good match"
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 3
+}
