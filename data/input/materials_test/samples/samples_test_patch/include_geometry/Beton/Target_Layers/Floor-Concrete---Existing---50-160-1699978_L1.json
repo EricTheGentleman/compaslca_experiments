@@ -1,0 +1,61 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Topping Concrete - Screed",
+        "Thickness": 0.05,
+        "Thickness Unit": "METRE",
+        "Layer Number": 1
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Floor:Concrete - Existing - 50+160:1699978",
+            "Type": "IfcSlab",
+            "ObjectType": "Floor:Concrete - Existing - 50+160"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Concrete - Existing",
+                "Thickness": 0.16,
+                "Thickness Unit": "METRE",
+                "Layer Number": 2
+            }
+        ],
+        "Element Geometry Data": {
+            "Quantities (COMPAS)": {
+                "Net Volume": 4.52962,
+                "Net Volume unit": "CUBIC_METRE",
+                "Entire Surface Area": 47.0452,
+                "Entire Surface Area unit": "SQUARE_METRE"
+            },
+            "Bounding Box Dimensions (OBB - local frame)": {
+                "X": 4.88,
+                "Y": 4.42,
+                "Z": 0.21,
+                "Bounding Box Dimensions Unit": "METRE"
+            },
+            "Bounding Box Volume": 4.5296,
+            "Real Volume to Bounding Box Volume Ratio": 1.0
+        },
+        "Element Property Sets": {
+            "Psets Element": {
+                "Structural Material": "Concrete - Existing",
+                "Roughness": "1.0",
+                "Absorptance": "0.1",
+                "Function": "Interior",
+                "Workset": "Workset1",
+                "Level": "Level: VÅN 2",
+                "Room Bounding": "True",
+                "Related to Mass": "False",
+                "Perimeter": "18600.0",
+                "Area": "21.5696",
+                "Thickness": "210.0",
+                "Volume": "4.5296",
+                "Structural": "True",
+                "Phase Created": "New",
+                "Reference": "Concrete - Existing - 50+160",
+                "IsExternal": "False",
+                "LoadBearing": "True"
+            }
+        }
+    },
+    "CompilationGroupID": "1ddc9a0dd7"
+}

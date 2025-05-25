@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material Name: Dämmung - Trittschall, Element Type: IfcCovering, Element Name: Floor:BBA_BE-DÄ_120-Schmutzstreifen, Other Material Layers: Beton - CT, Category: Floors, Bauteilart: Bodenbelag",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 80,
+      "prompt_tokens": 1670,
+      "total_tokens": 1750,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.866,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00995
+  }
+}

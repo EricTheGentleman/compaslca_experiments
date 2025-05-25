@@ -1,0 +1,62 @@
+{
+    "Element Metadata": {
+        "Name": "Systemelement:Glas 100 - Versatz 25:5102516",
+        "Type": "IfcPlate",
+        "ObjectType": "Systemelement:Glas 100 - Versatz 25"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Glas - klar"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.4379,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 18.1102,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 2.67,
+            "Y": 0.05,
+            "Z": 3.28,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.4379,
+        "Real Volume to Bounding Box Volume Ratio": 1.0
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "Level: 00",
+            "Area": "8.7576",
+            "Height": "3.28",
+            "Volume": "0.4379",
+            "Width": "2.67",
+            "Workset": "A-Fassade",
+            "Category": "Curtain Panels",
+            "Family": "Systemelement: Glas 100 - Versatz 25",
+            "Type": "Systemelement: Glas 100 - Versatz 25",
+            "Phase Created": "Neubau",
+            "IsExternal": "True",
+            "Reference": "Glas 100 - Versatz 25",
+            "Bauteilklasse": "A_Fassadenbekleidung",
+            "Bauteilart": "Fassadenelement",
+            "Typname": "Glas 100 - Versatz 25"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Workset": "Family  : Curtain Panels : Systemelement",
+            "Identity Data.Type Name": "Glas 100 - Versatz 25",
+            "Other.Category": "Curtain Panels",
+            "Other.Family Name": "Systemelement",
+            "Pset_ProductRequirements.Category": "Curtain Panels",
+            "Pset_QuantityTakeOff.Reference": "Glas 100 - Versatz 25",
+            "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+            "Gewerbebau.Bauteilart": "Fassadenelement",
+            "Gewerbebau.Typname": "Glas 100 - Versatz 25"
+        }
+    },
+    "CompilationGroupID": "7514828577"
+}

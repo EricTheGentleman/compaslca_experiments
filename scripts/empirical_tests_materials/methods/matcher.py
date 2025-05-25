@@ -4,15 +4,15 @@ from methods.llm_interface import material_inference
 
 
 # Performs material match for a BIM element and writes the result to disk.
-def run_single_match(bim_element, material_entries, output_path, mode, category, config):
+def run_single_match(bim_element, material_entries, output_path, mode, category, var_config, model_config):
 
     # Get configuration
-    model_config = config.get("model_config", {})
-    company = model_config.get("company")
-    model = model_config.get("model")
+    model_config_temp = model_config.get("model_config", {})
+    company = model_config_temp.get("company")
+    model = model_config_temp.get("model")
 
     start_time = time.time()
-    llm_response, token_usage = material_inference(bim_element, material_entries, mode, category, config)
+    llm_response, token_usage = material_inference(bim_element, material_entries, mode, category, var_config, model_config)
     end_time = time.time()
     processing_time = round(end_time - start_time, 3)
 

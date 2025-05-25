@@ -1,0 +1,26 @@
+{
+    "name": "Floor-Finish-Floor---Wood-169093_L1",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+        "Massivholz Buche / Eiche, kammergetrocknet, gehobelt, Produktion Schweiz",
+        "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+        "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+        "3- und 5-Schicht Massivholzplatte",
+        "Furniersperrholz",
+        "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ],
+    "reason": [
+        "descriptor specifies wood flooring",
+        "these options are viable for solid or engineered wood flooring",
+        "confusingly, psets specified that the element is loadbearing",
+        "this is ignored due to the element obviously being a fussbodenaufbau"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 7
+}

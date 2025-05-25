@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a roof slab named 'Live Roof over Wood Joist Flat Roof', likely involving wood materials.",
+    "Preliminary Selection": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Konstruktionsvollholz"
+    ],
+    "Matched Materials": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Konstruktionsvollholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 90,
+      "prompt_tokens": 1098,
+      "total_tokens": 1188,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.031,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00729
+  }
+}

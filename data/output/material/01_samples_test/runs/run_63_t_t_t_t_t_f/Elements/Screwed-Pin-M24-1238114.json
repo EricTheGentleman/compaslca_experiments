@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a screwed pin with type IfcBuildingElementProxy, named 'Screwed Pin:M24:1238114'. It is made of steel, with a net volume of 0.00011 cubic meters and a surface area of 0.01928 square meters. The bounding box dimensions are 0.05m x 0.04m x 0.2m. The element is associated with a steel foundation plate.",
+    "Preliminary Selection": [
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 190,
+      "prompt_tokens": 1154,
+      "total_tokens": 1344,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.173,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00957
+  }
+}

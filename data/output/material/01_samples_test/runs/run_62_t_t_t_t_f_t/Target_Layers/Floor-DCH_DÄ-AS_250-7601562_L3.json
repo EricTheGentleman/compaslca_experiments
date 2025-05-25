@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcSlab with a target material layer named 'Dämmung - hart' with a thickness of 0.15 meters. The element is part of a floor construction with other layers including 'Umgebung - Asphalt' and 'Beton - Überbeton'. The element is external, non-load bearing, and has a thermal transmittance of 0.1782. It is categorized under 'Floors' and 'Bodenunterkonstruktion'.",
+    "Matched Materials": [
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Schaumglas",
+      "Schaumglas, GLAPOR",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 193,
+      "prompt_tokens": 1939,
+      "total_tokens": 2132,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "processing_time": 3.645,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.013555
+  }
+}

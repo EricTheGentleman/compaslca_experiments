@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is 'Umgebung - Asphalt' with a thickness of 0.04 meters, part of an IfcSlab element named 'Floor:DCH_DÄ-AS_250:7601562'. The element is a floor slab, external, non-load bearing, and part of the 'A_Unterkonstruktion' class, with a total thickness of 0.25 meters.",
+    "Preliminary Selection": [
+      "Gussasphalt, 27.5 mm"
+    ],
+    "Matched Materials": [
+      "Gussasphalt, 27.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 127,
+      "prompt_tokens": 1778,
+      "total_tokens": 1905,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.279,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01143
+  }
+}

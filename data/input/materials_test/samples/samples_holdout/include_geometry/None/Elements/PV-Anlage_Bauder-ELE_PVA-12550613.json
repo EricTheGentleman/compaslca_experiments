@@ -1,0 +1,54 @@
+{
+    "Element Metadata": {
+        "Name": "PV-Anlage_Bauder:ELE_PVA:12550613",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "PV-Anlage_Bauder:ELE_PVA"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "<Unnamed>"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0625,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 4.5801,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.05,
+            "Y": 1.77,
+            "Z": 0.65,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 1.208,
+        "Real Volume to Bounding Box Volume Ratio": 0.0517
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "ELE_PVA",
+            "Category": "Specialty Equipment",
+            "Width": "1.046",
+            "Height": "0.03",
+            "Level": "6.0",
+            "Area": "2.2901",
+            "Volume": "0.0625",
+            "Workset": "F-Ausstattung",
+            "Family": "PV-Anlage_Bauder",
+            "Type": "ELE_PVA",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "ELE_PVA",
+            "Identity Data.Workset": "Family  : Specialty Equipment : PV-Anlage_Bauder",
+            "Other.Category": "Specialty Equipment",
+            "Other.Family Name": "PV-Anlage_Bauder",
+            "Pset_ProductRequirements.Category": "Specialty Equipment"
+        }
+    },
+    "CompilationGroupID": "7737dc99e1"
+}

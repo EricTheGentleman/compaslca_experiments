@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a non-load-bearing, exterior basic wall with a material layer of 'Dämmung - hart' (hard insulation) with a thickness of 0.1 meters. It is categorized under 'Walls' and is part of a new construction phase.",
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 111,
+      "prompt_tokens": 1809,
+      "total_tokens": 1920,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.964,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.011265
+  }
+}

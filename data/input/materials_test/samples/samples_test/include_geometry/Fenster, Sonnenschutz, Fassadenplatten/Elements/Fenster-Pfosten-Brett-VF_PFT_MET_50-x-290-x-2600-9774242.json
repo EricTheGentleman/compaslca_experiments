@@ -1,0 +1,65 @@
+{
+    "Element Metadata": {
+        "Name": "Fenster-Pfosten Brett:VF_PFT_MET_50 x 290 x 2600:9774242",
+        "Type": "IfcMember",
+        "ObjectType": "Fenster-Pfosten Brett:VF_PFT_MET_50 x 290 x 2600"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Length": 2.6,
+            "Length unit": "METRE",
+            "Gross Volume": 0.0424,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.0424,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0424,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 2.4246,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.29,
+            "Y": 2.6,
+            "Z": 0.06,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0452,
+        "Real Volume to Bounding Box Volume Ratio": 0.9376
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "False",
+            "Reference": "VF_PFT_MET_50 x 290 x 2600",
+            "Category": "Generic Models",
+            "Bauteilklasse": "A_Fassadenbekleidung",
+            "Bauteilart": "Fassadenelement",
+            "Typname": "VF_PFT_MET_50 x 290 x 2600",
+            "Level": "Level: 01",
+            "Elevation from Level": "1.0",
+            "Host": "Level : 01",
+            "Area": "1.2123",
+            "Volume": "0.0424",
+            "Workset": "A-Innenausbau",
+            "Family": "Fenster-Pfosten Brett: VF_PFT_MET_50 x 290 x 2600",
+            "Type": "Fenster-Pfosten Brett: VF_PFT_MET_50 x 290 x 2600",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "VF_PFT_MET_50 x 290 x 2600",
+            "Identity Data.Workset": "Family  : Generic Models : Fenster-Pfosten Brett",
+            "Other.Category": "Generic Models",
+            "Other.Family Name": "Fenster-Pfosten Brett",
+            "Pset_ProductRequirements.Category": "Generic Models",
+            "Pset_QuantityTakeOff.Reference": "VF_PFT_MET_50 x 290 x 2600",
+            "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+            "Gewerbebau.Bauteilart": "Fassadenelement",
+            "Gewerbebau.Typname": "VF_PFT_MET_50 x 290 x 2600"
+        }
+    },
+    "CompilationGroupID": "907eb7ad76"
+}

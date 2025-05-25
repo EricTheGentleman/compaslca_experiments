@@ -1,0 +1,23 @@
+{
+    "Element Metadata": {
+        "Name": "Surface:2872326",
+        "Type": "IfcBuildingElementProxy"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 20492.2291,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 156.28,
+            "Y": 149.64,
+            "Z": 0.0,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0
+    },
+    "Element Property Sets": {}
+}

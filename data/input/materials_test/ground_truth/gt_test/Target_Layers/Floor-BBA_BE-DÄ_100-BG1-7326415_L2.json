@@ -1,0 +1,23 @@
+{
+    "name": "Floor-BBA_BE-DÄ_100-BG1-7326415_L2",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Steinwolle",
+        "Steinwolle, Flumroc",
+        "Glaswolle",
+        "Glaswolle, Isover, phenolbasiertes Bindemittel",
+        "Glaswolle, Isover, pflanzliches Bindemittel"
+    ],
+    "reason": [
+        "impact sound (trittschall) insulation usualy has soft mineral insulation",
+        "soft, such that it cushions the blow of the steps",
+        "corresponding materials were matched that match this criteria"
+    ],
+    "Type": "IfcCovering",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 5
+}

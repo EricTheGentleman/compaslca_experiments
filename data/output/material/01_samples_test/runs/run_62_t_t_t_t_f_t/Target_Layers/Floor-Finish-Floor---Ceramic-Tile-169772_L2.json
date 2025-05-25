@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab with a finish layer of ceramic tile and a second layer of masonry grout. The element is not external, is load-bearing, and is part of new construction. The target material is 'Masonry - Grout' with a thickness of 0.003 meters.",
+    "Matched Materials": [
+      "Baukleber/Einbettmörtel mineralisch",
+      "Baukleber/Einbettmörtel mineralisch Leichtzuschlag",
+      "Baukleber/Einbettmörtel organisch"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 125,
+      "prompt_tokens": 1342,
+      "total_tokens": 1467,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.361,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00921
+  }
+}

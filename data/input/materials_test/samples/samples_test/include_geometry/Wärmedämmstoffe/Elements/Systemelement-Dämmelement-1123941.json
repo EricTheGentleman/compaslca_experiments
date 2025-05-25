@@ -1,0 +1,57 @@
+{
+    "Element Metadata": {
+        "Name": "Systemelement:Dämmelement:1123941",
+        "Type": "IfcPlate",
+        "ObjectType": "Systemelement:Dämmelement"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Wärmedämmung druckfest"
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Net Volume": 0.0131,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.01313,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 1.3852,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.3,
+            "Y": 0.02,
+            "Z": 0.5,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.013,
+        "Real Volume to Bounding Box Volume Ratio": 1.01
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "Level: 01_Brüstung",
+            "Area": "0.6565",
+            "Height": "505.0",
+            "Volume": "0.0131",
+            "Width": "1300.0",
+            "Workset": "Architecture",
+            "Category": "Curtain Panels",
+            "Family": "Systemelement: Dämmelement",
+            "Type": "Systemelement: Dämmelement",
+            "Phase Created": "Zu Bauen"
+        },
+        "Psets Object Type": {
+            "Data.Unternehmer": "Pletscher / Kaufmann",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "Dämmelement",
+            "Identity Data.Workset": "Family  : Curtain Panels : Systemelement",
+            "Other.Category": "Curtain Panels",
+            "Other.Family Name": "Systemelement"
+        }
+    },
+    "CompilationGroupID": "e3b11c95ba"
+}

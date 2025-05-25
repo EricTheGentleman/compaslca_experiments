@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material is 'Knauf - Brio Heizboden 25' with a thickness of 0.025 meters, used in an IfcSlab element named 'Floor:Galerie Fussbodenaufbau'. The element is part of a floor assembly with other layers including 'PU Bodenbelag - Sika PS23', 'Knauf - Vidiwall', and 'Trittschalldämmung Flumroc 341'. The element is categorized as a floor, located on Level 01_Galerie, and is not structural.",
+    "Matched Materials": [
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 145,
+      "prompt_tokens": 1414,
+      "total_tokens": 1559,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.55,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00997
+  }
+}

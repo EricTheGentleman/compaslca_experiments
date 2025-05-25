@@ -1,0 +1,110 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:GEL_FÜL_OPK_BALK_100:11023610",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:GEL_FÜL_OPK_BALK_100"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:GEL_FÜL_OPK_BALK_100",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Fassade - Balkon Zinkblech",
+                    "Thickness": 0.1,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.1,
+            "Width unit": "METRE",
+            "Length": 60.5,
+            "Length unit": "METRE",
+            "Height": 1.295,
+            "Height unit": "METRE",
+            "Gross Side Area": 78.3475,
+            "Gross Side Area unit": "SQUARE_METRE",
+            "Net Side Area": 78.3475,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Gross Footprint Area": 6.05,
+            "Gross Footprint Area unit": "SQUARE_METRE",
+            "Gross Volume": 7.8348,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 7.8348,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 7.8347,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 169.054,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 60.5,
+            "Y": 0.1,
+            "Z": 1.3,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 7.865,
+        "Real Volume to Bounding Box Volume Ratio": 0.9962
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Location Line": "Core Face: Exterior",
+            "Base Constraint": "1.0",
+            "unter Terrain": "False",
+            "Area": "78.3475",
+            "Length": "60.5",
+            "Volume": "7.8348",
+            "Workset": "A-Fassade",
+            "Category": "Walls",
+            "Family": "Basic Wall",
+            "Type": "GEL_FÜL_OPK_BALK_100",
+            "Phase Created": "Neubau",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing",
+            "Roughness": "0.3048",
+            "Reference": "GEL_FÜL_OPK_BALK_100",
+            "Description": "STB_250",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "LoadBearing": "False",
+            "ThermalTransmittance": "1130.0",
+            "Geschoss ID": "1.0",
+            "Länge": "60.5",
+            "Fläche": "78.3475",
+            "Volumen": "7.8348"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "1130.0",
+            "Analytical Properties.Thermal Mass": "270.9",
+            "Analytical Properties.Thermal Resistance (R)": "0.0009",
+            "Construction.Function": "Exterior",
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "STB_250",
+            "Identity Data.Type Name": "GEL_FÜL_OPK_BALK_100",
+            "Layers.EN Layers and Widths": "Fußbodenaufbau 10cm",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_WallCommon.IsExternal": "True",
+            "Pset_WallCommon.ThermalTransmittance": "1130.0",
+            "Gewerbebau.Material": "Fassade - Balkon Zinkblech",
+            "Gewerbebau.Bauteilklasse": "A_Sicherung",
+            "Gewerbebau.Bauteilart": "Gelaender",
+            "Gewerbebau.Typname": "GEL_FÜL_OPK_BALK_100"
+        }
+    },
+    "CompilationGroupID": "3fb3993eec"
+}

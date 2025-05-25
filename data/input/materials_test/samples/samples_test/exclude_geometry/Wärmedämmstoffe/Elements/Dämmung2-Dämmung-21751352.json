@@ -1,0 +1,14 @@
+{
+    "Element Metadata": {
+        "Name": "Dämmung2:Dämmung:21751352",
+        "Type": "IfcSlab",
+        "ObjectType": "Dämmung2:Dämmung"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "Dämmung",
+            "IsExternal": "False"
+        }
+    }
+}

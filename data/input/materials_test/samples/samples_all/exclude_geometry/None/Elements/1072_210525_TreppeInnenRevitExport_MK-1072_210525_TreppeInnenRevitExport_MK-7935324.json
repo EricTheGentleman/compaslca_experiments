@@ -1,0 +1,24 @@
+{
+    "Element Metadata": {
+        "Name": "1072_210525_TreppeInnenRevitExport_MK:1072_210525_TreppeInnenRevitExport_MK:7935324",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "1072_210525_TreppeInnenRevitExport_MK:1072_210525_TreppeInnenRevitExport_MK"
+    },
+    "Element Material Data": "Not defined",
+    "Element Property Sets": {
+        "Psets Element": {
+            "Workset": "Architecture",
+            "Category": "Generic Models",
+            "Family": "1072_210525_TreppeInnenRevitExport_MK: 1072_210525_TreppeInnenRevitExport_MK",
+            "Type": "1072_210525_TreppeInnenRevitExport_MK: 1072_210525_TreppeInnenRevitExport_MK",
+            "Phase Created": "Zu Bauen"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Direct Shapes",
+            "Identity Data.Type Name": "1072_210525_TreppeInnenRevitExport_MK",
+            "Other.Category": "Generic Models",
+            "Other.Family Name": "1072_210525_TreppeInnenRevitExport_MK"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element Name: Basic Wall:DÄ_FUN_VER_100, Type: IfcWallStandardCase, Material: Dämmung - hart, Thickness: 0.1m, IsExternal: True, ThermalTransmittance: 0.27, Non-bearing, Exterior wall.",
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 139,
+      "prompt_tokens": 1588,
+      "total_tokens": 1727,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1536
+      }
+    },
+    "processing_time": 1.84,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01072
+  }
+}

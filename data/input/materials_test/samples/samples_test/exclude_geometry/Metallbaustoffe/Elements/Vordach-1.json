@@ -1,0 +1,26 @@
+{
+    "Element Metadata": {
+        "Name": "Vordach-1",
+        "Type": "IfcSlab"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Aluminium",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Aluminium",
+                    "Thickness": 0.09781476,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "True",
+            "LoadBearing": "True"
+        }
+    }
+}

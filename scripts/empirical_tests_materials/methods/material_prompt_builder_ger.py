@@ -2,7 +2,7 @@ import json
 from methods.material_prompt_components_ger import material_prompt_components_ger
 
 # Build dynamic prompt (german)
-def build_material_prompt_ger(bim_element, material_entries, mode, category, config):
+def build_material_prompt_ger(bim_element, material_entries, mode, category, var_config):
 
     # Load the inputs of the current element as strings
     ifc_string = json.dumps(bim_element, indent=2, ensure_ascii=False)
@@ -10,8 +10,8 @@ def build_material_prompt_ger(bim_element, material_entries, mode, category, con
     materials_string = json.dumps(material_entries, indent=2, ensure_ascii=False)
 
     # Get config values
-    reasoning_config = config.get("prompt_reasoning_strategy", {})
-    context_config = config.get("prompt_contextualization", {})
+    reasoning_config = var_config.get("prompt_reasoning_strategy", {})
+    context_config = var_config.get("prompt_contextualization", {})
 
     # get config booleans
     cot_bool = reasoning_config.get("chain_of_thought")
@@ -44,7 +44,11 @@ def build_material_prompt_ger(bim_element, material_entries, mode, category, con
     # Initialize window and concrete specific cases
     concrete_instruct = ""
     window_instruct = ""
-
+    if category == "Beton":
+        concrete_instruct = "- Falls tragender Beton, die Bewehrung ignorieren. Einfach alle geeigneten generischen und spezifischen Betone zuordnen und die passende Zementmischung für die Funktion des Elements berücksichtigen."
+    if category == "Fenster, Sonnenschutz, Fassadenplatten":
+         window_instruct = "- Bei IfcWindow-Elementen nur die Verglasung zuordnen und keine Rahmenoptionen berücksichtigen."
+    
     # Load context-aware few-shot examples
     exp = ""
     if exp_bool == True:
@@ -52,14 +56,12 @@ def build_material_prompt_ger(bim_element, material_entries, mode, category, con
             exp = material_prompt_components_ger["examples_anstrichstoffe"]
         elif category == "Beton":
             exp = material_prompt_components_ger["examples_beton"]
-            concrete_instruct = "- Falls tragender Beton, die Bewehrung ignorieren. Einfach alle geeigneten generischen und spezifischen Betone zuordnen und die passende Zementmischung für die Funktion des Elements berücksichtigen."
         elif category == "Bodenbeläge":
             exp = material_prompt_components_ger["examples_bodenbelaege"]
         elif category == "Dichtungsbahnen, Schutzfolien":
             exp = material_prompt_components_ger["examples_dichtungsbahnen"]
         elif category == "Fenster, Sonnenschutz, Fassadenplatten":
             exp = material_prompt_components_ger["examples_fenster"]
-            window_instruct = "- Bei IfcWindow-Elementen nur die Verglasung zuordnen und keine Rahmenoptionen berücksichtigen."
         elif category == "Holz und Holzwerkstoffe":
             exp = material_prompt_components_ger["examples_holz"]
         elif category == "Kunststoffe":

@@ -1,0 +1,25 @@
+{
+    "name": "Basic-Wall-FAS_ASW_DÄ-PU_325-11226723_L1",
+    "category": "Mörtel und Putze",
+    "material_entries": [
+        "Kunststoffputz (Dispersionsputz)",
+        "Silikatputz (Dispersionssilikatputz)",
+        "Silikonharzputz",
+        "Kalk-Zement/Zement-Kalk-Putz",
+        "Zementputz"
+    ],
+    "reason": [
+        "outermost layer (layer 1)",
+        "is external",
+        "plaster needs to be weather resistant",
+        "protective and decorative exterior render",
+        "choice of materials is based upon these aspects"
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 5
+}

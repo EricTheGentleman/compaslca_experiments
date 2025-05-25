@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is 'Dämmung - Trittschall' with a thickness of 0.02 meters, part of an IfcCovering element named 'Floor:BBA_BE-DÄ_120-Schmutzstreifen'. The element is categorized under 'Floors' and is part of the 'A_Bodenaufbau' class, indicating it is a floor covering with sound insulation properties.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Steinwolle",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 187,
+      "prompt_tokens": 1665,
+      "total_tokens": 1852,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1664
+      }
+    },
+    "processing_time": 7.769,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.012065
+  }
+}

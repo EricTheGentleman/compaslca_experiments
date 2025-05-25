@@ -1,0 +1,17 @@
+{
+    "name": "TU-DF-1---Pfostenstock-Falztüre-verglast-TUI_ZAR_MET_ML---1100-x-2375_E-30-7560858",
+    "category": "Türen",
+    "material_entries": [
+        "Innentüre, Aluminium, Glaseinsatz"
+    ],
+    "reason": [
+        "only viable entry based upon specs"
+    ],
+    "Type": "IfcDoor",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element Name: Basic Wall:WAN_TWÄ_MW_150-KS:10152070, Type: IfcWallStandardCase, Material: Mauerwerk - Ziegel, Description: Kalksandstein 150, FireRating: REI 60-RF1, Structural Usage: Non-bearing",
+    "Matched Materials": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 108,
+      "prompt_tokens": 1508,
+      "total_tokens": 1616,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.647,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.0097
+  }
+}

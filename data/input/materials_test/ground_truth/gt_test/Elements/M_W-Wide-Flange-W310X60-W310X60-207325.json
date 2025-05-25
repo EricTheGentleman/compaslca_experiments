@@ -1,0 +1,20 @@
+{
+    "name": "M_W-Wide-Flange-W310X60-W310X60-207325",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Stahlprofil, blank"
+    ],
+    "reason": [
+        "type is ifcbeam",
+        "descriptor says steel 345 Mpa, indicating high strength structural steel",
+        "dimensions are W310X60",
+        "steelprofile is only viable match"
+    ],
+    "Type": "IfcBeam",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 1
+}

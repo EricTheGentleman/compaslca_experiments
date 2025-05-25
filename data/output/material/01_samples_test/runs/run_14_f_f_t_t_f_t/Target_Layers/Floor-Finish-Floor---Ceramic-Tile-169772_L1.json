@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcSlab with a finish floor layer made of Ceramic Tile, 0.01 meters thick, used in a non-external, load-bearing, and room-bounding context. It is part of a new construction phase and classified as Tile Flooring.",
+    "Matched Materials": [
+      "Keramik-/Steinzeugplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 80,
+      "prompt_tokens": 988,
+      "total_tokens": 1068,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.775,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00654
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Rebar-Bar-12-B500C-T---Shape-A-2111867",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Armierungsstahl",
+        "Armierungsstahl, Stahl Gerlafingen"
+    ],
+    "reason": [
+        "Rebar bar translates to armierungsstahl",
+        "exact semantic match"
+    ],
+    "Type": "IfcReinforcingBar",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 2
+}

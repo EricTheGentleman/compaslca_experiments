@@ -1,0 +1,24 @@
+{
+    "name": "Floor-Funicular-Floor-687636_L2",
+    "category": "Beton",
+    "material_entries": [
+        "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)",
+        "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "reason": [
+        "35 centimeters slab is very thick",
+        "implies strong load distribution and structural performance",
+        "high performance rquires building grade (hochbaubeton) with sufficient cement content",
+        "minimum of 300 kg/m^3 cement content"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 5
+}

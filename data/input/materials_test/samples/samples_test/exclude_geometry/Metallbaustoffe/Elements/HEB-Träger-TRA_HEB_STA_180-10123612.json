@@ -1,0 +1,64 @@
+{
+    "Element Metadata": {
+        "Name": "HEB Träger:TRA_HEB_STA_180:10123612",
+        "Type": "IfcBeam",
+        "ObjectType": "HEB Träger:TRA_HEB_STA_180"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Metall - Baustahl S235"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "Reference": "TRA_HEB_STA_180",
+            "Span": "1.5",
+            "FireRating": "R 60",
+            "Category": "Structural Framing",
+            "unter Terrain": "False",
+            "Geschoss ID": "6.0",
+            "Länge": "1.4073",
+            "Volumen": "0.0089",
+            "Tragende": "True",
+            "Lage Aussen ": "True",
+            "Breite": "0.18",
+            "Höhe ": "0.18",
+            "Feuerwiderstandsklasse": "R 60",
+            "Material": "Metall - Baustahl S235",
+            "Bauteilklasse": "A_Unterzug",
+            "Bauteilart": "Unterzug",
+            "Typname": "TRA_HEB_STA_180",
+            "Elevation at Bottom": "24.27",
+            "Length": "1.5",
+            "Volume": "0.0089",
+            "Workset": "A-Fassade",
+            "Structural Material": "Metall - Baustahl S235",
+            "Family": "HEB Träger: TRA_HEB_STA_180",
+            "Type": "HEB Träger: TRA_HEB_STA_180",
+            "Phase Created": "Neubau",
+            "Structural Usage": "Joist"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Fire Rating": "R 60",
+            "Identity Data.Type Name": "TRA_HEB_STA_180",
+            "Identity Data.Workset": "Family  : Structural Framing : HEB Träger",
+            "Other.Category": "Structural Framing",
+            "Other.Family Name": "HEB Träger",
+            "Structural.Filter Tragend / Nichttragend": "True",
+            "Pset_ConcreteElementGeneral.FireRating": "R 60",
+            "Pset_ProductRequirements.Category": "Structural Framing",
+            "Pset_QuantityTakeOff.Reference": "TRA_HEB_STA_180",
+            "Gewerbebau.Feuerwiderstandsklasse": "R 60",
+            "Gewerbebau.Bauteilklasse": "A_Unterzug",
+            "Gewerbebau.Bauteilart": "Unterzug",
+            "Gewerbebau.Typname": "TRA_HEB_STA_180"
+        }
+    },
+    "CompilationGroupID": "73829a956d"
+}

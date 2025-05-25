@@ -1,0 +1,37 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:Floor_Linoleum_5mm:21756586:2",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:Floor_Linoleum_5mm"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Gross Volume": 0.0076,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 0.0353,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.0076,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 3.0502,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.24,
+            "Y": 0.0,
+            "Z": 1.22,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.0
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "Floor_Linoleum_5mm",
+            "LoadBearing": "False",
+            "IsExternal": "False"
+        }
+    },
+    "CompilationGroupID": "64a56d574d"
+}

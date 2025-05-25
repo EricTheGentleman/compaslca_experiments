@@ -1,0 +1,57 @@
+{
+    "Element Metadata": {
+        "Name": "Sockel-gerade:PAN_BET_2.735 / h5.13:11944128",
+        "Type": "IfcPlate",
+        "ObjectType": "Sockel-gerade:PAN_BET_2.735 / h5.13"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Betonfertigteil - Sockel"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "False",
+            "Reference": "PAN_BET_2.735 / h5.13",
+            "FireRating": "-",
+            "Category": "Generic Models",
+            "unter Terrain": "False",
+            "Geschoss ID": "0.0",
+            "Fläche": "15.2129",
+            "Volumen": "1.9685",
+            "Länge": "2.735",
+            "Dicke": "0.14",
+            "Feuerwiderstandsklasse": "-",
+            "Material": "Betonfertigteil - Sockel",
+            "Lage Aussen ": "True",
+            "Bauteilklasse": "A_Fassadenbekleidung",
+            "Bauteilart": "Fassadenelement",
+            "Typname": "PAN_BET_2.735 / h5.13",
+            "Level": "0.0",
+            "Elevation from Level": "0.0",
+            "Area": "15.2129",
+            "Volume": "1.9685",
+            "Workset": "A-Fassade",
+            "Family": "Sockel-gerade",
+            "Type": "PAN_BET_2.735 / h5.13",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Type Name": "PAN_BET_2.735 / h5.13",
+            "Identity Data.Workset": "Family  : Generic Models : Sockel-gerade",
+            "Other.Category": "Generic Models",
+            "Other.Family Name": "Sockel-gerade",
+            "Pset_ProductRequirements.Category": "Generic Models",
+            "Gewerbebau.Feuerwiderstandsklasse": "-",
+            "Gewerbebau.Material": "Betonfertigteil - Sockel",
+            "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+            "Gewerbebau.Bauteilart": "Fassadenelement",
+            "Gewerbebau.Typname": "PAN_BET_2.735 / h5.13"
+        }
+    },
+    "CompilationGroupID": "3c057e22d7"
+}

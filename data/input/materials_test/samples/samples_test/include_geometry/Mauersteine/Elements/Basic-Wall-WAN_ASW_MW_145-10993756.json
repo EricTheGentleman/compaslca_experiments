@@ -1,0 +1,111 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:WAN_ASW_MW_145:10993756",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:WAN_ASW_MW_145"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:WAN_ASW_MW_145",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Mauerwerk - Kalksandstein bewehrt",
+                    "Thickness": 0.145,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 0.145,
+            "Width unit": "METRE",
+            "Length": 12.7,
+            "Length unit": "METRE",
+            "Height": 3.65,
+            "Height unit": "METRE",
+            "Gross Side Area": 46.355,
+            "Gross Side Area unit": "SQUARE_METRE",
+            "Net Side Area": 46.355,
+            "Net Side Area unit": "SQUARE_METRE",
+            "Gross Footprint Area": 1.8415,
+            "Gross Footprint Area unit": "SQUARE_METRE",
+            "Gross Volume": 6.7215,
+            "Gross Volume unit": "CUBIC_METRE",
+            "Net Volume": 6.7215,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 6.7215,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 97.4515,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.14,
+            "Y": 12.7,
+            "Z": 3.65,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 6.4897,
+        "Real Volume to Bounding Box Volume Ratio": 1.0357
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Location Line": "Finish Face: Exterior",
+            "Base Constraint": "2.0",
+            "unter Terrain": "False",
+            "Area": "46.355",
+            "Length": "12.7",
+            "Volume": "6.7215",
+            "Workset": "S-Struktur",
+            "Category": "Walls",
+            "Family": "Basic Wall",
+            "Type": "WAN_ASW_MW_145",
+            "Phase Created": "Neubau",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing",
+            "Roughness": "0.3048",
+            "Reference": "WAN_ASW_MW_145",
+            "Description": "Kalksandstein 145 - 1'800 kg/m³",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "LoadBearing": "False",
+            "ThermalTransmittance": "20.0",
+            "Geschoss ID": "2.0",
+            "Länge": "12.7",
+            "Fläche": "46.355",
+            "Volumen": "6.7215"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "20.0",
+            "Analytical Properties.Thermal Mass": "334.95",
+            "Analytical Properties.Thermal Resistance (R)": "0.05",
+            "Construction.Function": "Exterior",
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "Kalksandstein 145 - 1'800 kg/m³",
+            "Identity Data.Type Name": "WAN_ASW_MW_145",
+            "Layers.EN Layers and Widths": "Mauerwerk - Kalksandstein 14.5cm",
+            "Materials and Finishes.Structural Material": "Mauerwerk - Kalksandstein bewehrt",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_WallCommon.IsExternal": "True",
+            "Pset_WallCommon.ThermalTransmittance": "20.0",
+            "Gewerbebau.Material": "Mauerwerk - Kalksandstein bewehrt",
+            "Gewerbebau.Bauteilklasse": "A_Wand",
+            "Gewerbebau.Bauteilart": "Massivwand",
+            "Gewerbebau.Typname": "WAN_ASW_MW_145"
+        }
+    },
+    "CompilationGroupID": "eeb827ee38"
+}

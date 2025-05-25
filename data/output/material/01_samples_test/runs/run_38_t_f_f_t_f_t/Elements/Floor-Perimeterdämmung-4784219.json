@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcSlab named 'Floor:Perimeterdämmung' with a material layer of 'Wärmedämmung XPS' and a thickness of 0.08 meters. It is categorized as a floor with thermal properties including a heat transfer coefficient (U) of 0.125 and thermal resistance (R) of 8.0.",
+    "Matched Materials": [
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 118,
+      "prompt_tokens": 1420,
+      "total_tokens": 1538,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1408
+      }
+    },
+    "processing_time": 2.118,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00946
+  }
+}

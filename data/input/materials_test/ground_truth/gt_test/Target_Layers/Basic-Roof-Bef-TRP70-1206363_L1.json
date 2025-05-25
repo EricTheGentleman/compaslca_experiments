@@ -1,0 +1,20 @@
+{
+    "name": "Basic-Roof-Bef-TRP70-1206363_L1",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Stahlblech, verzinkt",
+        "Titanzinkblech"
+    ],
+    "reason": [
+        "tin roof is a term that refers to steel sheet metal coted with tin",
+        "used for corrosion protection",
+        "tin -> zink"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 2
+}

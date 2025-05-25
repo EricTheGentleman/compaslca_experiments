@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcWall with the name 'Basic Wall:WAN_ASW_MW_100'. It is described as 'Mauerwerk - ohne Dämmeigenschaften' with a thickness of 0.1 meters. The wall is non-bearing, external, and has a thermal transmittance of 12.97. The description 'Leichtbau_100' suggests a lightweight construction.",
+    "Matched Materials": [
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 120,
+      "prompt_tokens": 1544,
+      "total_tokens": 1664,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.477,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01012
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element Name: Holz Träger - rechteckig:Holz 60 x 160:22007091, Type: IfcBeam, ObjectType: Holz Träger - rechteckig:Holz 60 x 160, Material: Not defined, LoadBearing: True",
+    "Preliminary Selection": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Konstruktionsvollholz"
+    ],
+    "Matched Materials": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Konstruktionsvollholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 127,
+      "prompt_tokens": 1493,
+      "total_tokens": 1620,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.871,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010005
+  }
+}

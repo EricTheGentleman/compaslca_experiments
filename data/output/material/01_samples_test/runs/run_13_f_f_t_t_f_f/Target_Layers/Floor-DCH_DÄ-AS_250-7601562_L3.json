@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is 'Dämmung - hart' with a thickness of 0.15 meters, part of an IfcSlab element named 'Floor:DCH_DÄ-AS_250:7601562'. The element is a non-load-bearing, exterior floor under terrain, with a thermal transmittance of 0.1782. It is part of the 'A_Unterkonstruktion' class and 'Bodenunterkonstruktion' type.",
+    "Matched Materials": [
+      "Schaumglas",
+      "Schaumglas, GLAPOR",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 187,
+      "prompt_tokens": 1582,
+      "total_tokens": 1769,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.8,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01165
+  }
+}

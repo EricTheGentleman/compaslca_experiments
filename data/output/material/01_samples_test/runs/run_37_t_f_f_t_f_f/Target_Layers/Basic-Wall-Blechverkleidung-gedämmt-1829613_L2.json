@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is 'Wärmedämmung Slentex Aerogel' with a thickness of 0.046 meters, part of a 'Basic Wall:Blechverkleidung gedämmt' which is an IfcWallStandardCase. The wall is non-structural, exterior, and room bounding, with a thermal resistance (R) of 4.6001 and a heat transfer coefficient (U) of 0.2174.",
+    "Matched Materials": [
+      "Aerogel-Vlies"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 117,
+      "prompt_tokens": 1617,
+      "total_tokens": 1734,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.997,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010425
+  }
+}

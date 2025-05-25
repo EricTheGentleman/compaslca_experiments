@@ -1,0 +1,63 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Luft",
+        "Thickness": 0.03,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Wall:Holzfassade hinterlüftet:1105047",
+            "Type": "IfcWall",
+            "ObjectType": "Basic Wall:Holzfassade hinterlüftet"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Holzschalung Vertikal, Nadelholz,  schwarz gestrichen",
+                "Thickness": 0.02,
+                "Thickness Unit": "METRE",
+                "Layer Number": 1
+            },
+            {
+                "Material Name": "Luft",
+                "Thickness": 0.04,
+                "Thickness Unit": "METRE",
+                "Layer Number": 3
+            }
+        ],
+        "Element Property Sets": {
+            "Psets Element": {
+                "Related to Mass": "False",
+                "Room Bounding": "True",
+                "Base Constraint": "Level: 00_Betonplatte",
+                "Location Line": "Core Face: Exterior",
+                "Area": "18.6502",
+                "Length": "5923.3444",
+                "Volume": "1.6769",
+                "Workset": "Architecture",
+                "Category": "Walls",
+                "Family": "Basic Wall: Holzfassade hinterlüftet",
+                "Type": "Basic Wall: Holzfassade hinterlüftet",
+                "Phase Created": "Zu Bauen",
+                "Structural": "False",
+                "Structural Usage": "Non-bearing"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "3.0",
+                "Analytical Properties.Absorptance": "0.7",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "0.3571",
+                "Analytical Properties.Thermal Mass": "0.0078",
+                "Analytical Properties.Thermal Resistance (R)": "2.8",
+                "Construction.Function": "Exterior",
+                "Data.Unternehmer": "Künzli",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Wall Types",
+                "Identity Data.Fire Rating": "",
+                "Identity Data.Type Name": "Holzfassade hinterlüftet",
+                "Other.Category": "Walls",
+                "Other.Family Name": "Basic Wall"
+            }
+        }
+    },
+    "CompilationGroupID": "78593db8a4"
+}

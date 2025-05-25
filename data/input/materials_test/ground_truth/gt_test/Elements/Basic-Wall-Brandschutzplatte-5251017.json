@@ -1,0 +1,17 @@
+{
+    "name": "Basic-Wall-Brandschutzplatte-5251017",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "3- und 5-Schicht Massivholzplatte"
+    ],
+    "reason": [
+        "exact semantic match"
+    ],
+    "Type": "IfcWall",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

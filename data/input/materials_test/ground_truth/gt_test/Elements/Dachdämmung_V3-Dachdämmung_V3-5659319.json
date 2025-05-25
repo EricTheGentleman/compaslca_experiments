@@ -1,0 +1,26 @@
+{
+    "name": "Dachdämmung_V3-Dachdämmung_V3-5659319",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Polystyrol extrudiert (XPS)",
+        "Polystyrol extrudiert, SwissporXPS",
+        "Polyurethan (PUR/PIR)",
+        "Polyurethan, SwissporPIR",
+        "Steinwolle",
+        "Steinwolle, Flumroc"
+    ],
+    "reason": [
+        "although no specific entity, name specifies that it is roof insulation",
+        "must have compression strength",
+        "must be moisture resistant in some cases",
+        "must be compatible with vapor control and membranes",
+        "EPS usually not chosen for roofs by manufacturers, not so resistant to mositure and compression (consider snow in switzerland)"
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 6
+}

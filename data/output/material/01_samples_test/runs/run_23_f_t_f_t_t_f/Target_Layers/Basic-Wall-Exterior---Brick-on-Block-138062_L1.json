@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a standard exterior wall with a primary material layer of 'Masonry - Brick' with a thickness of 0.092 meters. It is part of a multi-layered wall system including air space, rigid insulation, concrete block, metal stud layer, and plasterboard. The wall is non-load bearing, external, and part of new construction. It is classified as a masonry structural wall.",
+    "Preliminary Selection": [
+      "Backstein",
+      "Backstein, perlitgefüllt, zzwancor"
+    ],
+    "Matched Materials": [
+      "Backstein",
+      "Backstein, perlitgefüllt, zzwancor"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 141,
+      "prompt_tokens": 1292,
+      "total_tokens": 1433,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.702,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00928
+  }
+}

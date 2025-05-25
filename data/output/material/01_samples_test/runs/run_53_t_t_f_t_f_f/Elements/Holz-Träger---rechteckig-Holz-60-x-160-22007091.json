@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element Name: Holz Träger - rechteckig:Holz 60 x 160:22007091, Type: IfcBeam, ObjectType: Holz Träger - rechteckig:Holz 60 x 160, Material: Not defined, LoadBearing: True, IsExternal: False",
+    "Matched Materials": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 199,
+      "prompt_tokens": 1417,
+      "total_tokens": 1616,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.513,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.011065
+  }
+}

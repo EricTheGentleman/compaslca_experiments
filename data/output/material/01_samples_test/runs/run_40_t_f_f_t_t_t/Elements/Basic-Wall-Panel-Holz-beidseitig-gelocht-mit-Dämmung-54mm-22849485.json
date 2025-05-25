@@ -1,0 +1,49 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a non-load-bearing, external wall panel with a fire rating of REI 60, described as 'Panel Holz beidseitig gelocht mit Dämmung 54mm'.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Holzwolle-Leichtbauplatte, zementgebunden",
+      "OSB Platte, PF-gebunden, Feuchtbereich",
+      "Spanplatte, PF-gebunden, Feuchtbereich",
+      "Spanplatte, UF-gebunden, beschichtet, Trockenbereich",
+      "Spanplatte, UF-gebunden, Trockenbereich",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Holzwolle-Leichtbauplatte, zementgebunden",
+      "OSB Platte, PF-gebunden, Feuchtbereich",
+      "Spanplatte, PF-gebunden, Feuchtbereich",
+      "Spanplatte, UF-gebunden, beschichtet, Trockenbereich",
+      "Spanplatte, UF-gebunden, Trockenbereich",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 300,
+      "prompt_tokens": 1616,
+      "total_tokens": 1916,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.239,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01408
+  }
+}

@@ -1,15 +1,15 @@
 {
   "llm_response": {
-    "Key Information Summary": "Element is an IfcWindow, external, with a thermal transmittance of 1.4.",
+    "Key Information Summary": "Element is an IfcWindow, external, with thermal transmittance of 1.4.",
     "Matched Category": "Fenster, Sonnenschutz, Fassadenplatten"
   },
   "llm_metadata": {
     "matched_type": "category",
     "message": "Match successful",
     "token_usage": {
-      "completion_tokens": 48,
+      "completion_tokens": 47,
       "prompt_tokens": 651,
-      "total_tokens": 699,
+      "total_tokens": 698,
       "completion_tokens_details": {
         "accepted_prediction_tokens": 0,
         "audio_tokens": 0,
@@ -21,9 +21,9 @@
         "cached_tokens": 0
       }
     },
-    "processing_time": 1.024,
+    "processing_time": 0.901,
     "company": "OpenAI",
     "model": "gpt-4o",
-    "inference_cost_usd": 0.004215
+    "inference_cost_usd": 0.004195
   }
 }

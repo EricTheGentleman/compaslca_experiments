@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcSlab with the name 'Floor:Floor_Linoleum_5mm', indicating it is a floor element with linoleum material, 5mm thick. It is not load-bearing and not external.",
+    "Matched Materials": [
+      "Linoleum, 2.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 73,
+      "prompt_tokens": 1182,
+      "total_tokens": 1255,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.615,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00737
+  }
+}

@@ -1,0 +1,48 @@
+{
+    "Element Metadata": {
+        "Name": "hlks1:hlks:10122938",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "hlks1:hlks"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 265.038,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 376.6733,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 14.88,
+            "Y": 8.51,
+            "Z": 4.66,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 590.0902,
+        "Real Volume to Bounding Box Volume Ratio": 0.4491
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Reference": "hlks",
+            "Category": "Generic Models",
+            "Width": "4.06",
+            "Elevation from Level": "0.0",
+            "Area": "67.7709",
+            "Volume": "265.0378",
+            "Workset": "A-Innenausbau",
+            "Family": "hlks1: hlks",
+            "Type": "hlks1: hlks",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Workset": "A-Innenausbau",
+            "Identity Data.Type Name": "hlks",
+            "Other.Category": "Generic Models",
+            "Other.Family Name": "hlks1",
+            "Pset_ProductRequirements.Category": "Generic Models",
+            "Pset_QuantityTakeOff.Reference": "hlks"
+        }
+    }
+}

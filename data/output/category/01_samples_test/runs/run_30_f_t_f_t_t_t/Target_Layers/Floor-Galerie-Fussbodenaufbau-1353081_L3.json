@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material Name: Knauf - Brio Heizboden 25, Element Type: IfcSlab, Element Name: Floor:Galerie Fussbodenaufbau, Other Material Layers: PU Bodenbelag - Sika PS23, Knauf - Vidiwall, Trittschalldämmung Flumroc 341",
+    "Preliminary Selection": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "Matched Category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 121,
+      "prompt_tokens": 1455,
+      "total_tokens": 1576,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.534,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009695
+  }
+}

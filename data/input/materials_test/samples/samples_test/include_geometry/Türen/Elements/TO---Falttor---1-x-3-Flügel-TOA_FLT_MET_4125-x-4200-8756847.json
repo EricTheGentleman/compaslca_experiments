@@ -1,0 +1,64 @@
+{
+    "Element Metadata": {
+        "Name": "TO - Falttor - 1 x 3 Flügel:TOA_FLT_MET_4125 x 4200:8756847",
+        "Type": "IfcDoor",
+        "ObjectType": "TO - Falttor - 1 x 3 Flügel:TOA_FLT_MET_4125 x 4200"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Width": 4.125,
+            "Width unit": "METRE",
+            "Height": 4.2,
+            "Height unit": "METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 1.7325,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 40.38,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 4.12,
+            "Y": 0.1,
+            "Z": 4.2,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 1.7304,
+        "Real Volume to Bounding Box Volume Ratio": 1.0012
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "True",
+            "Reference": "TOA_FLT_MET_4125 x 4200",
+            "Category": "Doors",
+            "unter Terrain": "False",
+            "Bauteilklasse": "A_Tuer",
+            "Bauteilart": "Tor",
+            "Typname": "TOA_FLT_MET_4125 x 4200",
+            "Level": "Level: 00",
+            "Area": "20.19",
+            "Volume": "1.7325",
+            "Workset": "A-Fassade",
+            "Family": "TO - Falttor - 1 x 3 Flügel: TOA_FLT_MET_4125 x 4200",
+            "Type": "TO - Falttor - 1 x 3 Flügel: TOA_FLT_MET_4125 x 4200",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Function": "Exterior",
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "Doors",
+            "Identity Data.Type Name": "TOA_FLT_MET_4125 x 4200",
+            "Identity Data.Workset": "Family  : Doors : TO - Falttor - 1 x 3 Flügel",
+            "Other.Category": "Doors",
+            "Other.Family Name": "TO - Falttor - 1 x 3 Flügel",
+            "Pset_ProductRequirements.Category": "Doors",
+            "Pset_QuantityTakeOff.Reference": "TOA_FLT_MET_4125 x 4200",
+            "Gewerbebau.Bauteilklasse": "A_Tuer",
+            "Gewerbebau.Bauteilart": "Tor",
+            "Gewerbebau.Typname": "TOA_FLT_MET_4125 x 4200"
+        }
+    },
+    "CompilationGroupID": "a150aa3263"
+}

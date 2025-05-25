@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a 'Plate (face based)' with type 'IfcBuildingElementProxy'. The primary material is 'Steel'. The element has a net volume of 0.00014 cubic meters and a surface area of 0.0334 square meters. It is associated with a 'Beam UPE : UPE270' and is created in the 'New' phase.",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 145,
+      "prompt_tokens": 1137,
+      "total_tokens": 1282,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.373,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008585
+  }
+}

@@ -21,7 +21,7 @@
         "cached_tokens": 0
       }
     },
-    "processing_time": 1.251,
+    "processing_time": 0.971,
     "company": "OpenAI",
     "model": "gpt-4o",
     "inference_cost_usd": 0.003985

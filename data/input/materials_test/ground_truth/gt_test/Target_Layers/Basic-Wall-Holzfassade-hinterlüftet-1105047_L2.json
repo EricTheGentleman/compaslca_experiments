@@ -1,0 +1,15 @@
+{
+    "name": "Basic-Wall-Holzfassade-hinterlüftet-1105047_L2",
+    "category": "None",
+    "material_entries": [],
+    "reason": [
+        "air layer cannot be assigned to category"
+    ],
+    "Type": "IfcWall",
+    "Matching Scenario": "True Negative",
+    "Data Structure": "Target Layer",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 0
+}

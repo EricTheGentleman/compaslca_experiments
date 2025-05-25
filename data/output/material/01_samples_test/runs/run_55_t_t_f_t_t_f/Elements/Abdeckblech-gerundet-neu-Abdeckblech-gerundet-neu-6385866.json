@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element Name: Abdeckblech gerundet-neu, Type: IfcBuildingElementProxy, Material: Unnamed, Category: Generic Models, Family: Abdeckblech gerundet-neu",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Aluminiumprofil, blank",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Stahlblech, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 110,
+      "prompt_tokens": 1264,
+      "total_tokens": 1374,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.845,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00852
+  }
+}

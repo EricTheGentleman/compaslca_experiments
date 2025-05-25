@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcSlab with the name 'Floor:AHD_DÄ_160'. It is a floor element with a material layer named 'Dämmung - weich' and a thickness of 0.16 meters. The element is load-bearing, not external, and has a thermal transmittance of 0.2125. It is categorized under 'Floors' and 'A_Deckenbekleidung'.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Steinwolle",
+      "Weichfaserplatte"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle",
+      "Weichfaserplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 147,
+      "prompt_tokens": 1542,
+      "total_tokens": 1689,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.324,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01065
+  }
+}

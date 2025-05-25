@@ -1,0 +1,32 @@
+{
+    "Element Metadata": {
+        "Name": "Column Planed Wood:38x145:946122",
+        "Type": "IfcColumn",
+        "ObjectType": "38x145"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Wood"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Height": "145.0",
+            "Width": "38.0",
+            "OmniClass Number": "",
+            "Workset": "Workset1",
+            "OmniClass Title": "",
+            "Structural Material": "Wood",
+            "Fire protection": "",
+            "Fire resistance class": "",
+            "Volume": "0.0174",
+            "Material Quality": "",
+            "Phase Created": "New",
+            "Reference": "38x145",
+            "LoadBearing": "True",
+            "IsExternal": "False"
+        }
+    },
+    "CompilationGroupID": "77173fe8f0"
+}

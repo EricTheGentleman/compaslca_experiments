@@ -1,0 +1,141 @@
+Name,KBOB Category,Type,Matching Scenario,Data Structure,Model,Design Stage,Language,Entries Count
+Abdeckblech-gerundet-neu-Abdeckblech-gerundet-neu-6385866,Metallbaustoffe,IfcBuildingElementProxy,Ambiguous,Element,HiLo,Technical Design,German,7
+Floor-DCH_DÄ-AS_250-7601562_L1,Bodenbeläge,IfcSlab,Precise,Target Layer,zwhatt32,Developed Design,German,1
+Floor-Galerie-Fussbodenaufbau-1353081_L3,"Mineralische Platten, Schüttungen, Steine und Ziegel",IfcSlab,Precise,Target Layer,HiLo,Technical Design,German,2
+Basic-Wall-Brandschutzplatte-28mm-1935406,"Mineralische Platten, Schüttungen, Steine und Ziegel",IfcWallStandardCase,Precise,Element,HiLo,Technical Design,German,2
+Basic-Wall-Brandschutzplatte-5251017,Holz und Holzwerkstoffe,IfcWall,Precise,Element,HiLo,Technical Design,German,1
+Floor-OSB-25mm-5183063,Holz und Holzwerkstoffe,IfcSlab,Precise,Element,HiLo,Technical Design,German,1
+Basic-Wall-WAN_ASW_VKL_10-12099875,Metallbaustoffe,IfcWallStandardCase,Precise,Element,zwhatt51,Technical Design,German,1
+Basic-Wall-Innenwandelement-Archisonic-ohne-MDF-3995377,Kunststoffe,IfcWallStandardCase,True Negative,Element,HiLo,Technical Design,German,0
+Basic-Wall-Holzbau_Archisonic_Vorbauschale-2146702_L2,Holz und Holzwerkstoffe,IfcWallStandardCase,Precise,Target Layer,HiLo,Technical Design,German,1
+Basic-Wall-Blechverkleidung-gedämmt-1829613_L2,Wärmedämmstoffe,IfcWallStandardCase,Precise,Target Layer,HiLo,Technical Design,German,1
+Basic-Wall-WAT_ASW_STB_250-5585349,Beton,IfcWall,Ambiguous,Element,zwhatt32,Developed Design,German,6
+Basic-Wall-Holzfassade-hinterlüftet-1105047_L2,,IfcWall,True Negative,Target Layer,HiLo,Technical Design,German,0
+Attikablech-Galerie-Südwest-Attikablech-Galerie-Südwest-6351305,Metallbaustoffe,IfcWall,Ambiguous,Element,HiLo,Technical Design,German,7
+Floor-AHD_DÄ_90-13984336,Wärmedämmstoffe,IfcSlab,Ambiguous,Element,zwhatt41,Technical Design,German,13
+Floor-BBA_BL_15-Mieterausbau-11598222,Bodenbeläge,IfcCovering,True Negative,Element,zwhatt41,Technical Design,German,0
+Floor-BBA_HBE_50-BG1-7590425,Beton,IfcCovering,Precise,Element,zwhatt32,Developed Design,German,2
+TO---Brandschutztor-TOI_SIT_MET_ST---2180-x-2200-8609379,Türen,IfcDoor,Precise,Element,zwhatt32,Developed Design,German,1
+TO---Brandschutztor-TOI_SIT_MET_ST---2300-x-2200-10306412,Türen,IfcDoor,Precise,Element,zwhatt51,Technical Design,German,1
+Assembled-Stair-Stair-1458173-Run-1,Metallbaustoffe,IfcStairFlight,Precise,Element,HiLo,Technical Design,German,2
+Floor-Bodenaufbau-12-beton---5-aufbau-2462797_L2,Beton,IfcSlab,Ambiguous,Target Layer,zwhatt31,Concept Design,German,10
+Basic-Wall-STB-1560-3067474,Beton,IfcWallStandardCase,Ambiguous,Element,zwhatt31,Concept Design,German,12
+Floor-Residential---Wood-Joist-with-Subflooring-144800_L2,Holz und Holzwerkstoffe,IfcSlab,Ambiguous,Target Layer,Duplex,Developed Design,English,6
+Systemelement-Contraflam-EI30-1753138,"Fenster, Sonnenschutz, Fassadenplatten",IfcPlate,Ambiguous,Element,HiLo,Technical Design,German,5
+Basic-Wall-WAN_DCK_DÄ_100-8137387,Wärmedämmstoffe,IfcWallStandardCase,Ambiguous,Element,zwhatt32,Developed Design,German,12
+Floor-Perimeterdämmung-4784219,Wärmedämmstoffe,IfcSlab,Precise,Element,HiLo,Technical Design,German,2
+Floor-AHD_DÄ_160-12312285,Wärmedämmstoffe,IfcSlab,Ambiguous,Element,zwhatt51,Technical Design,German,14
+Basic-Wall-Fensterlaibung-40mm-6514187,Holz und Holzwerkstoffe,IfcWallStandardCase,Ambiguous,Element,HiLo,Technical Design,German,4
+Basic-Wall-WAN_BRÜ_STB_160-dachrand-8113151,Beton,IfcWallStandardCase,Ambiguous,Element,zwhatt32,Developed Design,German,7
+Geländer-Kern-6-OG2-GEL_TREP_6OG-14099961,Metallbaustoffe,IfcRailing,Precise,Element,zwhatt51,Technical Design,German,1
+1072_210525_TreppeInnenRevitExport_MK-1072_210525_TreppeInnenRevitExport_MK-7935324,,IfcBuildingElementProxy,True Negative,Element,HiLo,Technical Design,German,0
+Floor-Funicular-Floor-687636_L2,Beton,IfcSlab,Ambiguous,Target Layer,HiLo,Technical Design,German,5
+Floor-OSB-22mm-4937655,Holz und Holzwerkstoffe,IfcSlab,Precise,Element,HiLo,Technical Design,German,1
+Basic-Wall-FAS_ASW_DÄ-ABD_120-13861927_L3,"Dichtungsbahnen, Schutzfolien",IfcWall,Ambiguous,Target Layer,zwhatt41,Technical Design,German,4
+Basic-Wall-Holzfassade_Hinterlüftet_Laibung-2906806,Holz und Holzwerkstoffe,IfcWallStandardCase,Precise,Element,HiLo,Technical Design,German,2
+Kemper-Wandtresor-TRES_350x350-15539713,Metallbaustoffe,IfcBuildingElementProxy,Precise,Element,zwhatt51,Technical Design,German,2
+Rechteckiger-Pfosten-VF_PFT-T_M_60-x-125-11226193,Metallbaustoffe,IfcMember,Precise,Element,zwhatt41,Technical Design,German,2
+Basic-Wall-FAS_ASW_DÄ-PU_325-11226723_L1,Mörtel und Putze,IfcWallStandardCase,Ambiguous,Target Layer,zwhatt51,Technical Design,German,5
+Floor-DCH_DÄ-AS_250-7601562_L3,Wärmedämmstoffe,IfcSlab,Ambiguous,Target Layer,zwhatt32,Developed Design,German,8
+Plate--face-based--Plate--face-based--1696783,Metallbaustoffe,IfcBuildingElementProxy,Precise,Element,LTU,Technical Design,English,2
+Floor-DCH_BLECH_53-13862065_L3,Holz und Holzwerkstoffe,IfcSlab,Ambiguous,Target Layer,zwhatt51,Technical Design,German,3
+Precast-Stair-Stair-10092362-Landing-1,Beton,IfcSlab,Precise,Element,zwhatt32,Developed Design,German,2
+Floor-BBA_GIT_MET_30-11023640-10,Metallbaustoffe,IfcSlab,Precise,Element,zwhatt51,Technical Design,German,1
+Basic-Wall-Exterior---Brick-on-Block-138062_L1,Mauersteine,IfcWallStandardCase,Precise,Target Layer,Duplex,Developed Design,English,1
+Floor-Bodenaufbau-Hauptgeschoss-687594,,IfcSlab,True Negative,Element,HiLo,Technical Design,German,0
+Basic-Wall-Isolamin-100-2350191_L2,Wärmedämmstoffe,IfcWallStandardCase,Ambiguous,Target Layer,LTU,Technical Design,English,6
+Floor-BBA_BE-DÄ_100-BG1-7326415_L2,Wärmedämmstoffe,IfcCovering,Ambiguous,Target Layer,zwhatt32,Developed Design,German,5
+Rechteckiger-Pfosten-VF_PFT-T_L_60-x-200-8880687,Metallbaustoffe,IfcMember,Precise,Element,zwhatt32,Developed Design,German,2
+Floor-Finish-Floor---Wood-169093_L2,Wärmedämmstoffe,IfcSlab,Ambiguous,Target Layer,Duplex,Developed Design,English,8
+Basic-Roof-Live-Roof-over-Wood-Joist-Flat-Roof-184483,,IfcSlab,True Negative,Element,Duplex,Developed Design,English,0
+Floor-DCH_BLECH_53-13862065_L2,"Dichtungsbahnen, Schutzfolien",IfcSlab,Ambiguous,Target Layer,zwhatt41,Technical Design,German,4
+Basic-Wall-WAN_ASW_MW_100-8756190,Mauersteine,IfcWall,Ambiguous,Element,zwhatt32,Developed Design,German,6
+System-Panel-PAN_DÄM_ALU_50-11227867,"Fenster, Sonnenschutz, Fassadenplatten",IfcPlate,Precise,Element,zwhatt51,Technical Design,German,1
+Floor-GDE_BAL_MET_30-7151537,Metallbaustoffe,IfcSlab,Precise,Element,zwhatt32,Developed Design,German,1
+Beam-Planed-Timber-45x95-1091811,Holz und Holzwerkstoffe,IfcMember,Ambiguous,Element,LTU,Technical Design,English,5
+Vierkantstahl-Stütze-140-x-80-12651870,Metallbaustoffe,IfcColumn,Precise,Element,zwhatt41,Technical Design,German,1
+Basic-Wall-WAT_ASW_STB_250-2826560,Beton,IfcWall,Ambiguous,Element,zwhatt51,Technical Design,German,10
+Wall-Foundation-Concrete---Cast-in-Place---1200x300-1282521,Beton,IfcFooting,Ambiguous,Element,LTU,Technical Design,English,3
+Basic-Wall-DÄ_FUN_VER_100-12568941,Wärmedämmstoffe,IfcWallStandardCase,Ambiguous,Element,zwhatt51,Technical Design,German,8
+Screwed-Pin-M24-1238114,Metallbaustoffe,IfcBuildingElementProxy,True Negative,Element,LTU,Technical Design,English,0
+Holz-Träger---rechteckig-Holz-60-x-160-22007091,Holz und Holzwerkstoffe,IfcBeam,Ambiguous,Element,zwhatt_xrite,Concept Design,German,7
+Rechteckiger-Pfosten-140-x-60---Holz-21414725,Holz und Holzwerkstoffe,IfcMember,Ambiguous,Element,zwhatt_xrite,Concept Design,German,5
+BSH-Stütze---rechteckig-KVH-60-x-60-5755285,Holz und Holzwerkstoffe,IfcColumn,Precise,Element,HiLo,Technical Design,German,2
+Holz-Träger---rechteckig-Alu-Eurotec-40-x-60-7547868,Metallbaustoffe,IfcBeam,Precise,Element,HiLo,Technical Design,German,2
+Floor-Funicular-Floor-687636_L1,Mörtel und Putze,IfcSlab,Ambiguous,Target Layer,HiLo,Technical Design,German,3
+Window-Opening-Circle-120-2373865,"Fenster, Sonnenschutz, Fassadenplatten",IfcWindow,Ambiguous,Element,LTU,Technical Design,English,11
+Holz-Träger---rechteckig-Holz-60-x-200-6746028,Holz und Holzwerkstoffe,IfcBeam,Ambiguous,Element,HiLo,Technical Design,German,3
+1OG-I-1-2,Mörtel und Putze,IfcWallStandardCase,Precise,Element,KIT_SmileyWest,Concept Design,German,2
+STB-Stütze---rechteckig-STB-500-x-500-2623790,Beton,IfcColumn,Precise,Element,zwhatt31,Concept Design,German,2
+Basic-Wall-WAN_TWÄ_MW-VS_300---EI60-11586674_L4,Mauersteine,IfcWall,Ambiguous,Target Layer,zwhatt41,Technical Design,German,3
+Basic-Wall-WAN_ASW_LB_100-gel-5059296,Bodenbeläge,IfcWallStandardCase,True Negative,Element,zwhatt32,Developed Design,German,0
+HEB-Träger-TRA_HEB_STA_180-10123612,Metallbaustoffe,IfcBeam,Precise,Element,zwhatt32,Developed Design,German,1
+Systemelement-Glas-100---Versatz-25-5102516,"Fenster, Sonnenschutz, Fassadenplatten",IfcPlate,Precise,Element,zwhatt32,Developed Design,German,1
+FE-Dachkuppel-rund-Ø-1200-13668242,"Fenster, Sonnenschutz, Fassadenplatten",IfcWindow,Ambiguous,Element,zwhatt41,Technical Design,German,4
+Parkplatz---01-90-PAR_2400-x-5000-10260983,"Anstrichstoffe, Beschichtungen",IfcBuildingElementProxy,Precise,Element,zwhatt41,Technical Design,German,2
+IPE-Träger-Kammerbeton-TRA_IPE-KAB_STA_STB_400-8222212,Beton,IfcBeam,Ambiguous,Element,zwhatt32,Developed Design,German,10
+Fertigteil-TT-Platte---Entrée-TRA_RIP_STB_2700-x-480_Entrée_4-13843837,Beton,IfcBeam,Precise,Element,zwhatt41,Technical Design,German,2
+Dachdämmung_V3-Dachdämmung_V3-5659319,Wärmedämmstoffe,IfcBuildingElementProxy,Ambiguous,Element,HiLo,Technical Design,German,6
+Basic-Wall-Holzwerkstoffplatte-20mm-21680813,Holz und Holzwerkstoffe,IfcWallStandardCase,Ambiguous,Element,zwhatt_xrite,Concept Design,German,6
+Basic-Wall-Brick--Existing---200-1441293,Mauersteine,IfcWallStandardCase,Precise,Element,LTU,Technical Design,English,1
+1OG-I-1-1,Mauersteine,IfcWallStandardCase,Ambiguous,Element,KIT_SmileyWest,Concept Design,German,3
+Vordach-1,Metallbaustoffe,IfcSlab,Precise,Element,KIT_SmileyWest,Concept Design,German,1
+Floor-GDE_STB_200-6529254,Beton,IfcSlab,Ambiguous,Element,zwhatt32,Developed Design,German,10
+Fertigteil-TT-Platte---Ausklinkung-beidseitig---ohne-Fase-TRA_RIP_STB_2750-x-480_ohne-gabel-2623718,Beton,IfcBeam,Precise,Element,zwhatt32,Developed Design,German,2
+Floor-BBA_HBE_30-BG2-geschliffen-9576469,Beton,IfcCovering,Precise,Element,zwhatt41,Technical Design,German,2
+Basic-Wall-Panel-Holz-beidseitig-gelocht-mit-Dämmung-54mm-22849485,Holz und Holzwerkstoffe,IfcWallStandardCase,True Negative,Element,zwhatt_xrite,Concept Design,German,0
+Floor-BBA_BE-DÄ_120-Schmutzstreifen-12439757_L3,Wärmedämmstoffe,IfcCovering,Ambiguous,Target Layer,zwhatt41,Technical Design,German,5
+TO---Falttor---1-x-3-Flügel-TOA_FLT_MET_4125-x-4200-8756847,Türen,IfcDoor,Ambiguous,Element,zwhatt32,Developed Design,German,3
+Beam-Gluelam-90x225-1335823,Holz und Holzwerkstoffe,IfcBeam,Precise,Element,LTU,Technical Design,English,2
+Floor-Concrete---Existing---50-160-1699978_L1,Beton,IfcSlab,Precise,Target Layer,LTU,Technical Design,English,2
+STB-Stütze---rechteckig-STZ_RTE_STB_450-x-450-2634854,Beton,IfcColumn,Precise,Element,zwhatt32,Developed Design,German,2
+Basic-Roof-Bef-TRP70-1206363_L2,Wärmedämmstoffe,IfcSlab,Ambiguous,Target Layer,LTU,Technical Design,English,6
+Wall-Foundation-Bearing-Footing---900-x-300-186596,Beton,IfcFooting,Ambiguous,Element,Duplex,Developed Design,English,7
+Shell_V12-Shell_V12-5294566,Beton,IfcBuildingElementProxy,Precise,Element,HiLo,Technical Design,German,1
+hlks1-hlks-10122938,,IfcBuildingElementProxy,True Negative,Element,zwhatt32,Developed Design,German,0
+M_W-Wide-Flange-W310X60-W310X60-207325,Metallbaustoffe,IfcBeam,Precise,Element,Duplex,Developed Design,English,1
+Basic-Wall-WAN_TWÄ_MW_150-KS-10152070,Mauersteine,IfcWallStandardCase,Precise,Element,zwhatt32,Developed Design,German,2
+Surface-2872326,,IfcBuildingElementProxy,True Negative,Element,zwhatt31,Concept Design,German,0
+Basic-Wall-WAN_ASW_DÄ-BET_300-5102504_L1,Beton,IfcWallStandardCase,Precise,Target Layer,zwhatt32,Developed Design,German,2
+Basic-Wall-Purenit-Fusspunkt-6169888,Wärmedämmstoffe,IfcWall,Precise,Element,HiLo,Technical Design,German,2
+M_Skylight-1180-x-1170mm-1180-x-1170mm-185337,"Fenster, Sonnenschutz, Fassadenplatten",IfcWindow,Ambiguous,Element,Duplex,Developed Design,English,4
+Fertigteil-TT-Platte---Ausklinkung-beidseitig---ohne-Fase---asymmetrisch-2750-x-680-3647246,Beton,IfcBeam,Precise,Element,zwhatt31,Concept Design,German,2
+Basic-Wall-Exterior---Brick-on-Block-138062_L3,Wärmedämmstoffe,IfcWallStandardCase,Ambiguous,Target Layer,Duplex,Developed Design,English,13
+Dämmung2-Dämmung-21751352,Wärmedämmstoffe,IfcSlab,Ambiguous,Element,zwhatt_xrite,Concept Design,German,26
+Floor-Finish-Floor---Ceramic-Tile-169772_L1,"Mineralische Platten, Schüttungen, Steine und Ziegel",IfcSlab,Precise,Target Layer,Duplex,Developed Design,English,1
+Basic-Wall-WAN_ASW_MW_225-7610934,Mauersteine,IfcWallStandardCase,Ambiguous,Element,zwhatt32,Developed Design,German,3
+Stufen-Dach5-Stufen-Dach-13656116,Beton,IfcStair,Precise,Element,zwhatt41,Technical Design,German,2
+1OG-Tür-1-1,Türen,IfcDoor,Ambiguous,Element,KIT_SmileyWest,Concept Design,German,7
+Systemelement-Dämmelement-1123941,Wärmedämmstoffe,IfcPlate,Ambiguous,Element,HiLo,Technical Design,German,10
+Rebar-Bar-12-B500C-T---Shape-A-2111867,Metallbaustoffe,IfcReinforcingBar,Precise,Element,LTU,Technical Design,English,2
+Railing-GEL_STA_40x40-3STK-handlauf-unterbrochen-8881489,Metallbaustoffe,IfcRailing,Precise,Element,zwhatt32,Developed Design,German,1
+Basic-Wall-Technikschnittstelle-6225020,"Mineralische Platten, Schüttungen, Steine und Ziegel",IfcWall,Precise,Element,HiLo,Technical Design,German,2
+Basic-Wall-Party-Wall---CMU-Residential-Unit-Dimising-Wall-139234_L4,,IfcWallStandardCase,True Negative,Target Layer,Duplex,Developed Design,English,0
+Floor-Finish-Floor---Ceramic-Tile-169772_L2,Mörtel und Putze,IfcSlab,Ambiguous,Target Layer,Duplex,Developed Design,English,3
+Fire-Protection_Beam-3-sides-200x190-1171719,Wärmedämmstoffe,IfcBuildingElementProxy,Precise,Element,LTU,Technical Design,English,2
+Fassade---FE-1-flg-FEN_STA_50-x-60-Kippelement-8879976,"Fenster, Sonnenschutz, Fassadenplatten",IfcWindow,Ambiguous,Element,zwhatt32,Developed Design,German,5
+HEB-Stütze-mit-Kammerbeton-STZ_HEB-KAM_STA_650-x-300-2816822,Metallbaustoffe,IfcColumn,Precise,Element,zwhatt32,Developed Design,German,1
+Floor-Bodenaufbau-12-beton---5-aufbau-2462797_L1,Bodenbeläge,IfcSlab,True Negative,Target Layer,zwhatt31,Concept Design,German,0
+Fenster-Pfosten-Brett-VF_PFT_MET_50-x-290-x-2600-9774242,"Fenster, Sonnenschutz, Fassadenplatten",IfcMember,Precise,Element,zwhatt32,Developed Design,German,1
+Basic-Wall-WAN_ASW_MW_145-10993756,Mauersteine,IfcWallStandardCase,Ambiguous,Element,zwhatt41,Technical Design,German,3
+Basic-Wall-Exterior---Brick-on-Block-138062_L6,"Mineralische Platten, Schüttungen, Steine und Ziegel",IfcWallStandardCase,Ambiguous,Target Layer,Duplex,Developed Design,English,3
+Stair-Concrete-716803-1,Beton,IfcStairFlight,Ambiguous,Element,LTU,Technical Design,English,10
+UnnamedElement,Metallbaustoffe,IfcRailing,Precise,Element,KIT_SmileyWest,Concept Design,German,1
+Basic-Wall-WAN_TWÄ_GK_100_VS-4246877_L1,"Mineralische Platten, Schüttungen, Steine und Ziegel",IfcWallStandardCase,Ambiguous,Target Layer,zwhatt32,Developed Design,German,4
+Column-Planed-Wood-38x145-946122,Holz und Holzwerkstoffe,IfcColumn,Ambiguous,Element,LTU,Technical Design,English,5
+Stair-Residential---200mm-Max-Riser-250mm-Tread-151086-1,,IfcMember,True Negative,Element,Duplex,Developed Design,English,0
+Fassade-Ecke-EG1-FAS_ECK_EG-12651885,Metallbaustoffe,IfcWall,Precise,Element,zwhatt51,Technical Design,German,2
+Systemelement-Profilglas-15----mittig-21414704,"Fenster, Sonnenschutz, Fassadenplatten",IfcPlate,Precise,Element,zwhatt_xrite,Concept Design,German,1
+M_Single-Glass-1-0813-x-2420mm-0813-x-2420mm-171853,Türen,IfcDoor,Precise,Element,Duplex,Developed Design,English,2
+Basic-Wall-WAN_TWÄ_MW_125---EI30-11161798,Mauersteine,IfcWallStandardCase,Precise,Element,zwhatt51,Technical Design,German,1
+Beam-HE-HEA120-2415251,Metallbaustoffe,IfcBeam,Precise,Element,LTU,Technical Design,English,1
+Floor-Galerie-Fussbodenaufbau-1353081_L1,Bodenbeläge,IfcSlab,Precise,Target Layer,HiLo,Technical Design,German,1
+Precast-Stair-Stair-3039290-Run-1,Beton,IfcStairFlight,Precise,Element,zwhatt31,Concept Design,German,2
+Basic-Roof-Bef-TRP70-1206363_L1,Metallbaustoffe,IfcSlab,Precise,Target Layer,LTU,Technical Design,English,2
+Basic-Wall-Interior---Plumbing--152mm-Stud--144138_L2,Metallbaustoffe,IfcWallStandardCase,Ambiguous,Target Layer,Duplex,Developed Design,English,3
+Sockel-gerade-PAN_BET_2-735---h5-13-11944128,Beton,IfcPlate,Precise,Element,zwhatt51,Technical Design,German,2
+Floor-Floor_Holz_40mm-21756579,Holz und Holzwerkstoffe,IfcSlab,Ambiguous,Element,zwhatt_xrite,Concept Design,German,8
+Floor-BBA_ASP_120-11419651,Bodenbeläge,IfcCovering,Precise,Element,zwhatt51,Technical Design,German,1
+Floor-Floor_Linoleum_5mm-21756586-2,Bodenbeläge,IfcSlab,Precise,Element,zwhatt_xrite,Concept Design,German,1
+Floor-DCH_BLECH_53-13862065_L1,Metallbaustoffe,IfcSlab,Ambiguous,Target Layer,zwhatt51,Technical Design,German,9
+1OG-Fenster-1-1,"Fenster, Sonnenschutz, Fassadenplatten",IfcWindow,Ambiguous,Element,KIT_SmileyWest,Concept Design,German,11

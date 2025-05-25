@@ -2,7 +2,7 @@ import json
 from methods.material_prompt_components import material_prompt_components
 
 # Build dynamic prompt
-def build_material_prompt(bim_element, material_entries, mode, category, config):
+def build_material_prompt(bim_element, material_entries, mode, category, var_config):
 
     # Load the inputs of the current element as strings
     ifc_string = json.dumps(bim_element, indent=2, ensure_ascii=False)
@@ -10,8 +10,8 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
     materials_string = json.dumps(material_entries, indent=2, ensure_ascii=False)
 
     # Get config values
-    reasoning_config = config.get("prompt_reasoning_strategy", {})
-    context_config = config.get("prompt_contextualization", {})
+    reasoning_config = var_config.get("prompt_reasoning_strategy", {})
+    context_config = var_config.get("prompt_contextualization", {})
 
     # get config booleans
     cot_bool = reasoning_config.get("chain_of_thought")
@@ -44,6 +44,10 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
     # Initialize window and concrete specific cases
     concrete_instruct = ""
     window_instruct = ""
+    if category == "Beton":
+        concrete_instruct = "- For structural concrete, ignore reinforcement. Just match all viable generic and specifc concretes, and consider the appropriate cement mix for the element type."
+    if category == "Fenster, Sonnenschutz, Fassadenplatten":
+        window_instruct = "- For IfcWindow entities, just match the glazing and don't match the frame options."
 
     # Load context-aware few-shot examples
     exp = ""

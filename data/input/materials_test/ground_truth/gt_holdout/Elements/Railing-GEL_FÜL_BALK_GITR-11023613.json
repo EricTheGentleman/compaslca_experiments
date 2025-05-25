@@ -1,0 +1,17 @@
+{
+    "name": "Railing-GEL_FÜL_BALK_GITR-11023613",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Stahlblech, verzinkt"
+    ],
+    "reason": [
+        "closest match to descriptor drahtgitter verzinkt"
+    ],
+    "Type": "IfcRailing",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

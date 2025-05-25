@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcSlab with the material 'Dachdeckung - Bitumenbahn' which is a type of bitumen sheet. The element is part of a roof covering system, indicated by 'Bauteilklasse': 'A_Dachbekleidung' and 'Bauteilart': 'Dachabdeckung'.",
+    "Preliminary Selection": "Dichtungsbahnen, Schutzfolien",
+    "Matched Category": "Dichtungsbahnen, Schutzfolien"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 115,
+      "prompt_tokens": 1464,
+      "total_tokens": 1579,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1408
+      }
+    },
+    "processing_time": 2.93,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00962
+  }
+}

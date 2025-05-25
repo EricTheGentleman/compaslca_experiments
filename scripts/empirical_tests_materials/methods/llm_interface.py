@@ -7,27 +7,27 @@ import re
 
 
 # material llm interface
-def material_inference(bim_element, material_entries, mode, category, config):
+def material_inference(bim_element, material_entries, mode, category, var_config, model_config):
 
     # Load config (values)
-    model_config = config.get("model_config", {})
-    framing_config = config.get("prompt_framing_style", {})
+    model_config_temp = model_config.get("model_config", {})
+    framing_config = var_config.get("prompt_framing_style", {})
     german = framing_config.get("german")
-    key = model_config.get("key")
+    key = model_config_temp.get("key")
     client = OpenAI(api_key=key)
 
     # VAR 2: Prompt Language
     if german:
-        prompt = build_material_prompt_ger(bim_element, material_entries, mode, category, config)
+        prompt = build_material_prompt_ger(bim_element, material_entries, mode, category, var_config)
     else:
-        prompt = build_material_prompt(bim_element, material_entries, mode, category, config)
+        prompt = build_material_prompt(bim_element, material_entries, mode, category, var_config)
 
     # Get LLM response
     response = client.chat.completions.create(
-        model=model_config.get("model"),
+        model=model_config_temp.get("model"),
         messages=[{"role": "user", "content": prompt}],
-        temperature=model_config.get("temperature"),
-        max_tokens=model_config.get("max_tokens")
+        temperature=model_config_temp.get("temperature"),
+        max_tokens=model_config_temp.get("max_tokens")
     )
 
     # Ensure clean response

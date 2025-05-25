@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is 'Luft' with a thickness of 0.03 meters, part of a 'Basic Wall:Holzfassade hinterlüftet' which is an exterior non-structural wall with a wooden facade. The wall includes other layers such as 'Holzschalung Vertikal, Nadelholz, schwarz gestrichen'.",
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 90,
+      "prompt_tokens": 1514,
+      "total_tokens": 1604,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.467,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00937
+  }
+}

@@ -23,7 +23,7 @@ def get_lci_path_for_category(category: str) -> Path:
         "Mauersteine": Path("data/KBOB/Mauersteine/llm_materials.json"),
         "Metallbaustoffe": Path("data/KBOB/Metallbaustoffe/llm_materials.json"),
         "Mörtel und Putze": Path("data/KBOB/Mörtel_und_Putze/llm_materials.json"),
-        "Steine, Schüttungen, Platten und Ziegel": Path("data/KBOB/Mineralische_Platten_Schüttungen_Steine_und_Ziegel/llm_materials.json"),
+        "Mineralische Platten, Schüttungen, Steine und Ziegel": Path("data/KBOB/Mineralische_Platten_Schüttungen_Steine_und_Ziegel/llm_materials.json"),
         "Türen": Path("data/KBOB/Türen/llm_materials.json"),
         "Wärmedämmstoffe": Path("data/KBOB/Wärmedämmstoffe/llm_materials.json")
     }

@@ -1,9 +1,10 @@
 {
     "name": "Basic-Wall-Party-Wall---CMU-Residential-Unit-Dimising-Wall-139234_L4",
-    "category": "None",
+    "category": "Mauersteine",
     "material_entries": [],
     "reason": [
-        "Air layer describes specific material, but is not present in KBOB"
+        "says concrete masonry block, might be in masonry.",
+        "But Air layer describes specific material, but is not present in KBOB"
     ],
     "Type": "IfcWallStandardCase",
     "Matching Scenario": "True Negative",

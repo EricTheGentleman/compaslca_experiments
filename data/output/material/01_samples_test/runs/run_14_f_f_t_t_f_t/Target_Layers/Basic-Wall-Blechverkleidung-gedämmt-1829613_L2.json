@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is 'Wärmedämmung Slentex Aerogel' with a thickness of 0.046 meters, part of a 'Basic Wall:Blechverkleidung gedämmt' which is an exterior non-bearing wall with a thermal resistance of 4.6001.",
+    "Matched Materials": [
+      "Aerogel-Vlies"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 82,
+      "prompt_tokens": 1302,
+      "total_tokens": 1384,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1280
+      }
+    },
+    "processing_time": 1.361,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00815
+  }
+}

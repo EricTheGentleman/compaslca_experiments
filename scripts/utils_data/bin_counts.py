@@ -1,25 +1,27 @@
-import pandas as pd
+from pathlib import Path
+import shutil
 
-# Load your CSV
-df = pd.read_csv("data/input/category_test/ground_truth/Samples.csv")
+# === CONFIGURATION ===
+first_parent = Path("data/output/material/01_samples_test/runs")
+second_parent = Path("data/output/material/01_samples_test/runs_patch")
 
-# Define binning function
-def bin_entries(count):
-    if count == 0:
-        return "0"
-    elif count in [1, 2]:
-        return "1-2"
-    elif 2 < count <= 5:
-        return "2-5"
-    elif 5 < count <= 10:
-        return "5-10"
-    elif 10 < count <= 15:
-        return "10-15"
-    else:
-        return "15+"
+# === Iterate through all subdirectories and their sub-subdirs in second_parent
+for subdir in second_parent.iterdir():
+    if not subdir.is_dir():
+        continue
 
-# Apply the function to create new column
-df["Entries Bin"] = df["Entries Count"].apply(bin_entries)
+    for subsub in ["Elements", "Target_Layers"]:
+        second_subsub_path = subdir / subsub
+        if not second_subsub_path.exists():
+            continue
 
-# Save updated CSV
-df.to_csv("data/input/category_test/ground_truth/Samples.csv", index=False)
+        for json_file in second_subsub_path.glob("*.json"):
+            # Compute corresponding path in the first parent directory
+            relative_path = json_file.relative_to(second_parent)
+            first_json_path = first_parent / relative_path
+
+            if first_json_path.exists():
+                shutil.copy(json_file, first_json_path)
+                print(f"Overwritten: {first_json_path}")
+            else:
+                print(f"Skipped (not found in first parent): {first_json_path}")

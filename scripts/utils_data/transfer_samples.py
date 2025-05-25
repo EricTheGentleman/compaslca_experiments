@@ -1,32 +1,53 @@
-import pandas as pd
-import os
-import shutil
 from pathlib import Path
+import json
+import shutil
 
-# === Configuration ===
-csv_path = "data/input/category_test/ground_truth/Samples_Holdout.csv"  # path to your CSV file
-source_dir = Path("data/input/category_test/samples/samples_all/include_geometry")  # parent directory with Elements and Target_Layers
-target_dir = Path("data/input/category_test/samples/samples_holdout/include_geometry")  # parent directory where Elements and Target_Layers will be copied to
+# === CONFIGURATION ===
+gt_base = Path(r"data/input/category_test/ground_truth/gt_holdout")
+samples_base = Path(r"data/input/category_test/samples/samples_holdout/exclude_geometry")
+output_base = Path(r"data/input/materials_test/samples/samples_holdout/exclude_geometry")
 
-# Load CSV and extract names
-df = pd.read_csv(csv_path)
-names_to_copy = set(df["Name"].astype(str))
+# Create output base directory if it doesn't exist
+output_base.mkdir(parents=True, exist_ok=True)
 
-# Subdirectories to handle
-subdirs = ["Elements", "Target_Layers"]
+subfolders = ["Elements", "Target_Layers"]
 
-# Process each subdirectory
-for subdir in subdirs:
-    src_subdir = source_dir / subdir
-    dst_subdir = target_dir / subdir
-    dst_subdir.mkdir(parents=True, exist_ok=True)
+# === Step 1: Collect all unique categories ===
+category_map = {}  # filename -> category
 
-    for name in names_to_copy:
-        json_filename = f"{name}.json"
-        src_file = src_subdir / json_filename
-        dst_file = dst_subdir / json_filename
+unique_categories = set()
 
-        if src_file.exists():
-            shutil.copy2(src_file, dst_file)
-        else:
-            pass
+for subfolder in subfolders:
+    gt_dir = gt_base / subfolder
+    for json_file in gt_dir.glob("*.json"):
+        try:
+            with json_file.open("r", encoding="utf-8") as f:
+                data = json.load(f)
+                category = data.get("category", "").strip()
+                if category:
+                    category_map[json_file.name] = category
+                    unique_categories.add(category)
+        except Exception as e:
+            print(f"Error reading {json_file}: {e}")
+
+# === Step 2: Create output directory structure ===
+for category in unique_categories:
+    cat_dir = output_base / category
+    (cat_dir / "Elements").mkdir(parents=True, exist_ok=True)
+    (cat_dir / "Target_Layers").mkdir(parents=True, exist_ok=True)
+
+# === Step 3: Copy sample files based on category ===
+for subfolder in subfolders:
+    sample_dir = samples_base / subfolder
+    for sample_file in sample_dir.glob("*.json"):
+        category = category_map.get(sample_file.name)
+        if not category:
+            continue  # Skip if no matching category from ground truth
+
+        destination = output_base / category / subfolder / sample_file.name
+        try:
+            shutil.copy(sample_file, destination)
+        except Exception as e:
+            print(f"Error copying {sample_file} to {destination}: {e}")
+
+print("✅ All files organized by category.")

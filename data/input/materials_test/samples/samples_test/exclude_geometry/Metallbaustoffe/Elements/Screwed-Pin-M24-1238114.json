@@ -1,0 +1,28 @@
+{
+    "Element Metadata": {
+        "Name": "Screwed Pin:M24:1238114",
+        "Type": "IfcBuildingElementProxy",
+        "ObjectType": "M24"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterial",
+            "Material Name": "Steel"
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Material": "Steel",
+            "OmniClass Title": "",
+            "Workset": "Workset1",
+            "OmniClass Number": "",
+            "Phase Created": "New",
+            "Host": "Steel Foundation Plate : Steel Foundation Plate 20x300x300",
+            "H": "40.0",
+            "Volume": "0.0001",
+            "L": "200.0",
+            "Reference": "M24"
+        }
+    },
+    "CompilationGroupID": "fd46fdbadd"
+}

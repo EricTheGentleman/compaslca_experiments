@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material Name: Topping Concrete - Screed, Element Type: IfcSlab, Function: Interior, LoadBearing: True, Phase Created: New",
+    "Matched Materials": [
+      "Magerbeton (ohne Bewehrung)",
+      "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 93,
+      "prompt_tokens": 1412,
+      "total_tokens": 1505,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.531,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00892
+  }
+}

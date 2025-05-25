@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material is 'Putz Kieselwurf' with a thickness of 0.025 meters, used in an exterior wall (IfcWallStandardCase) named 'Basic Wall:FAS_ASW_DÄ-PU_325'. The wall is non-load bearing, has a thermal transmittance of 0.1127, and is part of a facade system.",
+    "Matched Materials": [
+      "Kunststoffputz (Dispersionsputz)",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 131,
+      "prompt_tokens": 1864,
+      "total_tokens": 1995,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.177,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01194
+  }
+}

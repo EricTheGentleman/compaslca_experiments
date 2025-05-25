@@ -1,0 +1,21 @@
+{
+    "name": "Wall-Foundation-Concrete---Cast-in-Place---1200x300-1282521",
+    "category": "Beton",
+    "material_entries": [
+        "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+        "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+        "Tiefbaubeton (ohne Bewehrung)"
+    ],
+    "reason": [
+        "type is IfcFooting, and it is a wall foundation",
+        "here special concrete is needed for cast-in-place footing",
+        "hochbau beton is excluded, tiefbaubeton and generic beton with high structural loads is chosen"
+    ],
+    "Type": "IfcFooting",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 3
+}

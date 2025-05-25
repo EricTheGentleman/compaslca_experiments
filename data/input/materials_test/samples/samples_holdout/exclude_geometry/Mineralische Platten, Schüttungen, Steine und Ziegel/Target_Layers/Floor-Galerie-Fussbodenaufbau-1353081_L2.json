@@ -1,0 +1,68 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Knauf - Vidiwall",
+        "Thickness": 0.015,
+        "Thickness Unit": "METRE",
+        "Layer Number": 2
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Floor:Galerie Fussbodenaufbau:1353081",
+            "Type": "IfcSlab",
+            "ObjectType": "Floor:Galerie Fussbodenaufbau"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "PU Bodenbelag - Sika PS23",
+                "Thickness": 0.004,
+                "Thickness Unit": "METRE",
+                "Layer Number": 1
+            },
+            {
+                "Material Name": "Knauf - Brio Heizboden 25",
+                "Thickness": 0.025,
+                "Thickness Unit": "METRE",
+                "Layer Number": 3
+            },
+            {
+                "Material Name": "Trittschalldämmung Flumroc 341",
+                "Thickness": 0.03,
+                "Thickness Unit": "METRE",
+                "Layer Number": 4
+            }
+        ],
+        "Element Property Sets": {
+            "Psets Element": {
+                "Related to Mass": "False",
+                "Room Bounding": "True",
+                "Level": "Level: 01_Galerie",
+                "Area": "66.7957",
+                "Elevation at Bottom": "2852.0",
+                "Perimeter": "56030.7985",
+                "Thickness": "74.0",
+                "Volume": "4.9429",
+                "Workset": "Architecture",
+                "Category": "Floors",
+                "Family": "Floor: Galerie Fussbodenaufbau",
+                "Type": "Floor: Galerie Fussbodenaufbau",
+                "Phase Created": "Zu Bauen",
+                "Structural": "False"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "3.0",
+                "Analytical Properties.Absorptance": "0.7",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "1.1093",
+                "Analytical Properties.Thermal Mass": "5.4382",
+                "Analytical Properties.Thermal Resistance (R)": "0.9015",
+                "Construction.Function": "Interior",
+                "Data.Unternehmer": "Künzli",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Floor Types",
+                "Identity Data.Type Name": "Galerie Fussbodenaufbau",
+                "Materials and Finishes.Structural Material": "Knauf - Brio Heizboden 25",
+                "Other.Category": "Floors",
+                "Other.Family Name": "Floor"
+            }
+        }
+    }
+}

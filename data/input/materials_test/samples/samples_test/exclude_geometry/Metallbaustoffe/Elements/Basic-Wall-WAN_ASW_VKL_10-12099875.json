@@ -1,0 +1,71 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:WAN_ASW_VKL_10:12099875",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:WAN_ASW_VKL_10"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:WAN_ASW_VKL_10",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Metall - verzinkt-Tor",
+                    "Thickness": 0.01,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Base Constraint": "0.0",
+            "Location Line": "Finish Face: Exterior",
+            "unter Terrain": "False",
+            "Area": "0.8278",
+            "Length": "0.255",
+            "Volume": "0.0083",
+            "Workset": "A-Fassade",
+            "Category": "Walls",
+            "Family": "Basic Wall",
+            "Type": "WAN_ASW_VKL_10",
+            "Phase Created": "Neubau",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing",
+            "Roughness": "0.3048",
+            "Reference": "WAN_ASW_VKL_10",
+            "Description": "Verkleidung",
+            "IsExternal": "True",
+            "ExtendToStructure": "False",
+            "LoadBearing": "False",
+            "Geschoss ID": "0.0",
+            "Länge": "0.255",
+            "Fläche": "0.8278",
+            "Volumen": "0.0083"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Construction.Function": "Exterior",
+            "Construction.Lage Aussen": "True",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "Verkleidung",
+            "Identity Data.Type Name": "WAN_ASW_VKL_10",
+            "Layers.EN Layers and Widths": "Verkleidung - Blech 1cm",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_WallCommon.IsExternal": "True",
+            "Gewerbebau.Material": "Metall - verzinkt-Tor",
+            "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+            "Gewerbebau.Bauteilart": "Fassadenelement",
+            "Gewerbebau.Typname": "WAN_ASW_VKL_10"
+        }
+    },
+    "CompilationGroupID": "97e90d263c"
+}

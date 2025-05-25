@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcBuildingElementProxy named 'Plate (face based)' with a material of 'Steel'. It has a net volume of 0.00014 cubic meters and a surface area of 0.0334 square meters. The structural material is specified as 'Steel'.",
+    "Matched Materials": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 99,
+      "prompt_tokens": 1061,
+      "total_tokens": 1160,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.329,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.007285
+  }
+}

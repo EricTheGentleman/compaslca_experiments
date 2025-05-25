@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcColumn named 'HEB Stütze mit Kammerbeton:STZ_HEB-KAM_STA_650 x 300', categorized as a structural column. It is load-bearing, not external, and made of 'Metall - Baustahl S235'. The bounding box dimensions are 0.65m x 0.3m x 3.65m.",
+    "Preliminary Selection": [
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen",
+      "Stahlblech, blank",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 155,
+      "prompt_tokens": 1521,
+      "total_tokens": 1676,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.399,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010705
+  }
+}

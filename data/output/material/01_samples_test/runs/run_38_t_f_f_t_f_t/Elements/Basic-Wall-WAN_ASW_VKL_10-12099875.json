@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a non-loadbearing, external wall cladding with a material name 'Metall - verzinkt-Tor', described as 'Verkleidung - Blech 1cm'.",
+    "Matched Materials": [
+      "Stahlblech, verzinkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 64,
+      "prompt_tokens": 1698,
+      "total_tokens": 1762,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.658,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00977
+  }
+}

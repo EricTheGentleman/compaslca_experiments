@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor finish made of ceramic tile with a thickness of 0.01 meters. It is part of an IfcSlab and is described as 'Floor:Finish Floor - Ceramic Tile'. The element is not external, is load-bearing, and is located on Level 2. It has a perimeter of 11.368 meters, an area of 6.3398 square meters, and a volume of 0.0824 cubic meters. The classification description is 'Tile Flooring'.",
+    "Preliminary Selection": [
+      "Keramik-/Steinzeugplatte"
+    ],
+    "Matched Materials": [
+      "Keramik-/Steinzeugplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 145,
+      "prompt_tokens": 1157,
+      "total_tokens": 1302,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.227,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008685
+  }
+}

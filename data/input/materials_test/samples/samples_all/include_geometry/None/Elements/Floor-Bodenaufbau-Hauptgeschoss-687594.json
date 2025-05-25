@@ -1,0 +1,59 @@
+{
+    "Element Metadata": {
+        "Name": "Floor:Bodenaufbau Hauptgeschoss:687594",
+        "Type": "IfcSlab",
+        "ObjectType": "Floor:Bodenaufbau Hauptgeschoss"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Net Volume": 17.0593,
+            "Net Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 17.05995,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 89.58798,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 7.79,
+            "Y": 0.52,
+            "Z": 7.26,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 29.4088,
+        "Real Volume to Bounding Box Volume Ratio": 0.5801
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Level": "Level: 00_Eingang",
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Area": "38.0089",
+            "Perimeter": "29483.8664",
+            "Thickness": "581.0",
+            "Volume": "17.0593",
+            "Workset": "Architecture",
+            "Category": "Floors",
+            "Family": "Floor: Bodenaufbau Hauptgeschoss",
+            "Type": "Floor: Bodenaufbau Hauptgeschoss",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "0.0634",
+            "Analytical Properties.Thermal Mass": "12.6902",
+            "Analytical Properties.Thermal Resistance (R)": "15.7848",
+            "Construction.Function": "Interior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Floor Types",
+            "Identity Data.Type Name": "Bodenaufbau Hauptgeschoss",
+            "Other.Category": "Floors",
+            "Other.Family Name": "Floor"
+        }
+    }
+}

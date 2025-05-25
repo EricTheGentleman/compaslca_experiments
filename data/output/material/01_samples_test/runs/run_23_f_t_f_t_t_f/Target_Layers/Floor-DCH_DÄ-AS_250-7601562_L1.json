@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcSlab with the name 'Floor:DCH_DÄ-AS_250:7601562'. The primary material layer is 'Umgebung - Asphalt' with a thickness of 0.04 meters. It is part of a floor construction with additional layers of 'Beton - Überbeton' and 'Dämmung - hart'. The element is categorized as a floor, is external, non-load bearing, and has a thermal transmittance of 0.1782. It is located under terrain and is part of the 'A_Unterkonstruktion' class.",
+    "Preliminary Selection": [
+      "Gussasphalt, 27.5 mm"
+    ],
+    "Matched Materials": [
+      "Gussasphalt, 27.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 170,
+      "prompt_tokens": 1874,
+      "total_tokens": 2044,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.872,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01277
+  }
+}

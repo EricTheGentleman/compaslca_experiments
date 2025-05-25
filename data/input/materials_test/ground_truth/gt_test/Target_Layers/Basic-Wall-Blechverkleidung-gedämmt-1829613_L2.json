@@ -1,0 +1,17 @@
+{
+    "name": "Basic-Wall-Blechverkleidung-gedämmt-1829613_L2",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Aerogel-Vlies"
+    ],
+    "reason": [
+        "the only material entry with aerogel"
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

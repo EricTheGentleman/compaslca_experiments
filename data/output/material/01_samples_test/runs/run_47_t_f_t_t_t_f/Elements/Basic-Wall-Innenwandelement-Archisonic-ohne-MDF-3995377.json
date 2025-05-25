@@ -1,0 +1,31 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a non-structural interior wall (IfcWallStandardCase) named 'Basic Wall:Innenwandelement Archisonic ohne MDF' with a material layer 'Archisonic Charcoal' and a thickness of 0.012 meters. It is categorized under 'Walls' and is not related to mass or structural usage.",
+    "Preliminary Selection": [],
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Kunststoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 92,
+      "prompt_tokens": 1373,
+      "total_tokens": 1465,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.601,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008705
+  }
+}

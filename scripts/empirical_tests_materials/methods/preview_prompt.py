@@ -8,13 +8,13 @@ from methods.material_prompt_builder import build_material_prompt
 from methods.material_prompt_builder_ger import build_material_prompt_ger
 
 def preview_prompt(
-    config,
+    var_config,
     mode="element",  # or "target_layer"
     category="Beton",
     output_path="data/output/z_preview/preview_output_prompt.txt"
 ):
     # Load language setting from config
-    framing_config = config.get("prompt_framing_style", {})
+    framing_config = var_config.get("prompt_framing_style", {})
     german = framing_config.get("german", True)
 
     # Set dummy
@@ -28,7 +28,7 @@ def preview_prompt(
             material_entries=material_entries,
             mode=mode,
             category=category,
-            config = config
+            var_config = var_config
         )
     else:
         prompt = build_material_prompt(
@@ -36,7 +36,7 @@ def preview_prompt(
             material_entries=material_entries,
             mode=mode,
             category=category,
-            config = config
+            var_config = var_config
         )
 
     output_file = Path(output_path)

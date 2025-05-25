@@ -1,0 +1,34 @@
+{
+  "Basic-Wall-Purenit-Fusspunkt-6169888.json": {
+    "category": "Wärmedämmstoffe",
+    "matched_category": "Kunststoffe"
+  },
+  "Basic-Wall-WAN_ASW_MW_225-7610934.json": {
+    "category": "Mauersteine",
+    "matched_category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "Basic-Wall-WAN_TWÄ_MW_125---EI30-11161798.json": {
+    "category": "Mauersteine",
+    "matched_category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "Basic-Wall-WAN_TWÄ_MW_150-KS-10152070.json": {
+    "category": "Mauersteine",
+    "matched_category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "Fassade-Ecke-EG1-FAS_ECK_EG-12651885.json": {
+    "category": "Metallbaustoffe",
+    "matched_category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "Floor-Finish-Floor---Ceramic-Tile-169772_L1.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "matched_category": "Bodenbeläge"
+  },
+  "Floor-Finish-Floor---Ceramic-Tile-169772_L2.json": {
+    "category": "Mörtel und Putze",
+    "matched_category": "Bodenbeläge"
+  },
+  "Floor-Galerie-Fussbodenaufbau-1353081_L3.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "matched_category": "Bodenbeläge"
+  }
+}

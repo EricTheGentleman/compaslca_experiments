@@ -1,0 +1,22 @@
+{
+    "name": "Floor-Residential---Wood-Joist-with-Subflooring-144800_L1",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "Furniersperrholz",
+        "OSB Platte, PF-gebunden, Feuchtbereich",
+        "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+        "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ],
+    "reason": [
+        "sheating-plywood refers to sheet wood products used for flooring (ifcslab)",
+        "19 mm thickness also supports this, as well as it being the first layer",
+        "these material are panel products that are suitable for flooring"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 4
+}

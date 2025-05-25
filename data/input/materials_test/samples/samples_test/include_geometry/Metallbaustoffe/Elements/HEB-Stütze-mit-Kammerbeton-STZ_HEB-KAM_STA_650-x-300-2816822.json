@@ -1,0 +1,73 @@
+{
+    "Element Metadata": {
+        "Name": "HEB Stütze mit Kammerbeton:STZ_HEB-KAM_STA_650 x 300:2816822",
+        "Type": "IfcColumn",
+        "ObjectType": "HEB Stütze mit Kammerbeton:STZ_HEB-KAM_STA_650 x 300"
+    },
+    "Element Material Data": "Not defined",
+    "Element Geometry Data": {
+        "Quantities (IFC)": {
+            "Gross Volume": 0.7118,
+            "Gross Volume unit": "CUBIC_METRE"
+        },
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.7117,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 19.7178,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 0.65,
+            "Y": 0.3,
+            "Z": 3.65,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.7117,
+        "Real Volume to Bounding Box Volume Ratio": 1.0001
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "IsExternal": "False",
+            "LoadBearing": "True",
+            "Reference": "STZ_HEB-KAM_STA_650 x 300",
+            "Category": "Structural Columns",
+            "unter Terrain": "False",
+            "Geschoss ID": "Level: 00",
+            "Volumen": "0.7118",
+            "Lage Aussen ": "False",
+            "Tragende": "True",
+            "Breite": "0.3",
+            "Dicke": "0.65",
+            "Material": "Metall - Baustahl S235",
+            "Bauteilklasse": "A_Stuetze",
+            "Bauteilart": "Stuetze",
+            "Typname": "STZ_HEB-KAM_STA_650 x 300",
+            "Room Bounding": "True",
+            "Level": "Level: 00",
+            "Length": "3.65",
+            "Volume": "0.7118",
+            "Workset": "S-Struktur",
+            "Family": "HEB Stütze mit Kammerbeton: STZ_HEB-KAM_STA_650 x 300",
+            "Type": "HEB Stütze mit Kammerbeton: STZ_HEB-KAM_STA_650 x 300",
+            "Phase Created": "Neubau"
+        },
+        "Psets Object Type": {
+            "Construction.Lage Aussen": "False",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.OmniClass Title": "",
+            "Identity Data.Workset": "Family  : Structural Columns : HEB Stütze mit Kammerbeton",
+            "Identity Data.Type Name": "STZ_HEB-KAM_STA_650 x 300",
+            "Materials and Finishes.Structural Material": "Metall - Baustahl S235",
+            "Other.Category": "Structural Columns",
+            "Other.Family Name": "HEB Stütze mit Kammerbeton",
+            "Structural.Filter Tragend / Nichttragend": "True",
+            "Pset_ProductRequirements.Category": "Structural Columns",
+            "Pset_QuantityTakeOff.Reference": "STZ_HEB-KAM_STA_650 x 300",
+            "Gewerbebau.Material": "Metall - Baustahl S235",
+            "Gewerbebau.Bauteilklasse": "A_Stuetze",
+            "Gewerbebau.Bauteilart": "Stuetze",
+            "Gewerbebau.Typname": "STZ_HEB-KAM_STA_650 x 300"
+        }
+    },
+    "CompilationGroupID": "772eecc160"
+}

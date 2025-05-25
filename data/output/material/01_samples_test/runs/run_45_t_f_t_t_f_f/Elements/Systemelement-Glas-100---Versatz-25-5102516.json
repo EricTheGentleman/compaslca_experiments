@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcPlate used as a curtain panel with clear glass material, part of a facade system, and is external.",
+    "Matched Materials": [
+      "Fassade, Pfosten-Riegel, Alu/Glas"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 58,
+      "prompt_tokens": 1751,
+      "total_tokens": 1809,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.619,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009915
+  }
+}

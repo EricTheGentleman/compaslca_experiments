@@ -1,0 +1,75 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:WAN_DCK_DÄ_100:8137387",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:WAN_DCK_DÄ_100"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:WAN_DCK_DÄ_100",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Dämmung - weich",
+                    "Thickness": 0.1,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Room Bounding": "True",
+            "Related to Mass": "False",
+            "Base Constraint": "Level: 99",
+            "Location Line": "Finish Face: Interior",
+            "Area": "9.765",
+            "Length": "32.55",
+            "Volume": "0.9765",
+            "unter Terrain": "True",
+            "Workset": "A-Innenausbau",
+            "Category": "Walls",
+            "Family": "Basic Wall: WAN_DCK_DÄ_100",
+            "Type": "Basic Wall: WAN_DCK_DÄ_100",
+            "Phase Created": "Neubau",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing",
+            "Roughness": "0.3048",
+            "Reference": "WAN_DCK_DÄ_100",
+            "Description": "Dämmung 100",
+            "IsExternal": "False",
+            "ExtendToStructure": "False",
+            "LoadBearing": "False",
+            "ThermalTransmittance": "0.34",
+            "Geschoss ID": "Level: 99",
+            "Länge": "32.55",
+            "Fläche": "9.765",
+            "Volumen": "0.9765"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "1.0",
+            "Analytical Properties.Absorptance": "0.1",
+            "Analytical Properties.Heat Transfer Coefficient (U)": "0.34",
+            "Analytical Properties.Thermal Mass": "1.3192",
+            "Analytical Properties.Thermal Resistance (R)": "2.9412",
+            "Construction.Lage Aussen": "False",
+            "Construction.Function": "Interior",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Description": "Dämmung 100",
+            "Identity Data.Type Name": "WAN_DCK_DÄ_100",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall",
+            "Structural.Filter Tragend / Nichttragend": "False",
+            "Pset_ProductRequirements.Category": "Walls",
+            "Pset_QuantityTakeOff.Reference": "WAN_DCK_DÄ_100",
+            "Pset_WallCommon.IsExternal": "False",
+            "Pset_WallCommon.ThermalTransmittance": "0.34",
+            "Gewerbebau.Bauteilklasse": "A_Wand",
+            "Gewerbebau.Bauteilart": "Wandbekleidung",
+            "Gewerbebau.Typname": "WAN_DCK_DÄ_100"
+        }
+    },
+    "CompilationGroupID": "ab6fbb29b8"
+}

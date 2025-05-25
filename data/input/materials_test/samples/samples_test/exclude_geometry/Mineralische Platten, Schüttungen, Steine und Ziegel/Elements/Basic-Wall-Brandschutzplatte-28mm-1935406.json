@@ -1,0 +1,52 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:Brandschutzplatte 28mm:1935406",
+        "Type": "IfcWallStandardCase",
+        "ObjectType": "Basic Wall:Brandschutzplatte 28mm"
+    },
+    "Element Material Data": [
+        {
+            "IfcEntity": "IfcMaterialLayerSetUsage",
+            "Layer Set Name": "Basic Wall:Brandschutzplatte 28mm",
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Gipsfaserplatte",
+                    "Thickness": 0.028,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Location Line": "Core Face: Exterior",
+            "Base Constraint": "Level: 01_Galerie",
+            "Area": "3.0387",
+            "Length": "1554.6077",
+            "Volume": "0.0849",
+            "Workset": "Tragwerk",
+            "Category": "Walls",
+            "Family": "Basic Wall: Brandschutzplatte 28mm",
+            "Type": "Basic Wall: Brandschutzplatte 28mm",
+            "Phase Created": "Zu Bauen",
+            "Structural": "True",
+            "Structural Usage": "Bearing"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Construction.Function": "Exterior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Type Name": "Brandschutzplatte 28mm",
+            "Materials and Finishes.Structural Material": "Gipsfaserplatte",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall"
+        }
+    },
+    "CompilationGroupID": "cb2d94d550"
+}

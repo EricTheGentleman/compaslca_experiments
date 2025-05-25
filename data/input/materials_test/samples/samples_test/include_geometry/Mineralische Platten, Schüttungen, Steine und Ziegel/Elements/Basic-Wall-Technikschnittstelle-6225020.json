@@ -1,0 +1,64 @@
+{
+    "Element Metadata": {
+        "Name": "Basic Wall:Technikschnittstelle:6225020",
+        "Type": "IfcWall",
+        "ObjectType": "Basic Wall:Technikschnittstelle"
+    },
+    "Element Material Data": [
+        {
+            "Layers": [
+                {
+                    "IfcEntity": "IfcMaterialLayer",
+                    "Material Name": "Gipsfaserplatte",
+                    "Thickness": 0.025,
+                    "Thickness unit": "METRE"
+                }
+            ]
+        }
+    ],
+    "Element Geometry Data": {
+        "Quantities (COMPAS)": {
+            "Net Volume": 0.13166,
+            "Net Volume unit": "CUBIC_METRE",
+            "Entire Surface Area": 10.78399,
+            "Entire Surface Area unit": "SQUARE_METRE"
+        },
+        "Bounding Box Dimensions (OBB - local frame)": {
+            "X": 1.49,
+            "Y": 3.55,
+            "Z": 0.03,
+            "Bounding Box Dimensions Unit": "METRE"
+        },
+        "Bounding Box Volume": 0.1587,
+        "Real Volume to Bounding Box Volume Ratio": 0.82962
+    },
+    "Element Property Sets": {
+        "Psets Element": {
+            "Related to Mass": "False",
+            "Room Bounding": "True",
+            "Base Constraint": "Level: 00_Eingang",
+            "Location Line": "Core Face: Interior",
+            "Area": "5.2668",
+            "Length": "1485.0",
+            "Volume": "0.1317",
+            "Workset": "Architecture",
+            "Category": "Walls",
+            "Family": "Basic Wall: Technikschnittstelle",
+            "Type": "Basic Wall: Technikschnittstelle",
+            "Phase Created": "Zu Bauen",
+            "Structural": "False",
+            "Structural Usage": "Non-bearing"
+        },
+        "Psets Object Type": {
+            "Analytical Properties.Roughness": "3.0",
+            "Analytical Properties.Absorptance": "0.7",
+            "Construction.Function": "Exterior",
+            "Data.Unternehmer": "Künzli",
+            "Identity Data.Assembly Description": "",
+            "Identity Data.Workset": "Wall Types",
+            "Identity Data.Type Name": "Technikschnittstelle",
+            "Other.Category": "Walls",
+            "Other.Family Name": "Basic Wall"
+        }
+    }
+}

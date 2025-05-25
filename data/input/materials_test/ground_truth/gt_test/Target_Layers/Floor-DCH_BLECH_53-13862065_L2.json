@@ -1,0 +1,21 @@
+{
+    "name": "Floor-DCH_BLECH_53-13862065_L2",
+    "category": "Dichtungsbahnen, Schutzfolien",
+    "material_entries": [
+        "Dichtungsbahn bituminös",
+        "Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",
+        "Bituminöse Dichtungsbahn, swissporBIKUTOP",
+        "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO"
+    ],
+    "reason": [
+        "exact semantic match",
+        "dachdeckung - bitumenbahn"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 4
+}

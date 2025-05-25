@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcRailing with the name 'Railing:GEL_STA_40x40 3STK-handlauf unterbrochen'. It is categorized under 'Railings' and 'Bauteilart' as 'Gelaender'. The material is not defined, but the type suggests a metal railing, possibly aluminum or steel.",
+    "Matched Materials": [
+      "Aluminiumprofil, blank",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 101,
+      "prompt_tokens": 1191,
+      "total_tokens": 1292,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.309,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.007975
+  }
+}

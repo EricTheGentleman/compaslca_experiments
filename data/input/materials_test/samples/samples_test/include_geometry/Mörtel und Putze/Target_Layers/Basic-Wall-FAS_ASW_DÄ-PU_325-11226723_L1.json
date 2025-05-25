@@ -1,0 +1,111 @@
+{
+    "Target Layer of Material Inference": {
+        "Material Name": "Putz Kieselwurf",
+        "Thickness": 0.025,
+        "Thickness Unit": "METRE",
+        "Layer Number": 1
+    },
+    "Building Element Context": {
+        "Element Metadata": {
+            "Name": "Basic Wall:FAS_ASW_DÄ-PU_325:11226723",
+            "Type": "IfcWallStandardCase",
+            "ObjectType": "Basic Wall:FAS_ASW_DÄ-PU_325"
+        },
+        "Other Material Layers": [
+            {
+                "Material Name": "Dämmung - weich",
+                "Thickness": 0.29999999999999993,
+                "Thickness Unit": "METRE",
+                "Layer Number": 2
+            }
+        ],
+        "Element Geometry Data": {
+            "Quantities (IFC)": {
+                "Width": 0.325,
+                "Width unit": "METRE",
+                "Length": 13.3,
+                "Length unit": "METRE",
+                "Height": 3.85,
+                "Height unit": "METRE",
+                "Gross Side Area": 51.205,
+                "Gross Side Area unit": "SQUARE_METRE",
+                "Net Side Area": 51.205,
+                "Net Side Area unit": "SQUARE_METRE",
+                "Gross Footprint Area": 4.3225,
+                "Gross Footprint Area unit": "SQUARE_METRE",
+                "Gross Volume": 16.6416,
+                "Gross Volume unit": "CUBIC_METRE",
+                "Net Volume": 16.6416,
+                "Net Volume unit": "CUBIC_METRE"
+            },
+            "Quantities (COMPAS)": {
+                "Net Volume": 16.6416,
+                "Net Volume unit": "CUBIC_METRE",
+                "Entire Surface Area": 113.5575,
+                "Entire Surface Area unit": "SQUARE_METRE"
+            },
+            "Bounding Box Dimensions (OBB - local frame)": {
+                "X": 13.3,
+                "Y": 0.33,
+                "Z": 3.85,
+                "Bounding Box Dimensions Unit": "METRE"
+            },
+            "Bounding Box Volume": 16.8977,
+            "Real Volume to Bounding Box Volume Ratio": 0.9848
+        },
+        "Element Property Sets": {
+            "Psets Element": {
+                "Room Bounding": "True",
+                "Related to Mass": "False",
+                "Location Line": "Finish Face: Exterior",
+                "Base Constraint": "3.0",
+                "unter Terrain": "False",
+                "Area": "51.205",
+                "Length": "13.3",
+                "Volume": "16.6416",
+                "Workset": "A-Fassade",
+                "Category": "Walls",
+                "Family": "Basic Wall",
+                "Type": "FAS_ASW_DÄ-PU_325",
+                "Phase Created": "Neubau",
+                "Structural": "False",
+                "Structural Usage": "Non-bearing",
+                "Roughness": "0.3048",
+                "Reference": "FAS_ASW_DÄ-PU_325",
+                "IsExternal": "True",
+                "ExtendToStructure": "False",
+                "LoadBearing": "False",
+                "ThermalTransmittance": "0.1127",
+                "Geschoss ID": "3.0",
+                "Länge": "13.3",
+                "Fläche": "51.205",
+                "Volumen": "16.6416"
+            },
+            "Psets Object Type": {
+                "Analytical Properties.Roughness": "1.0",
+                "Analytical Properties.Absorptance": "0.1",
+                "Analytical Properties.Heat Transfer Coefficient (U)": "0.1127",
+                "Analytical Properties.Thermal Mass": "69.48",
+                "Analytical Properties.Thermal Resistance (R)": "8.8725",
+                "Construction.Function": "Exterior",
+                "Construction.Lage Aussen": "True",
+                "Identity Data.Assembly Description": "",
+                "Identity Data.Workset": "Wall Types",
+                "Identity Data.Description": "",
+                "Identity Data.Type Name": "FAS_ASW_DÄ-PU_325",
+                "Layers.EN Layers and Widths": "Putz 2cmDämmung - weich 30.5cm",
+                "Other.Category": "Walls",
+                "Other.Family Name": "Basic Wall",
+                "Structural.Filter Tragend / Nichttragend": "False",
+                "Pset_ProductRequirements.Category": "Walls",
+                "Pset_WallCommon.IsExternal": "True",
+                "Pset_WallCommon.ThermalTransmittance": "0.1127",
+                "Gewerbebau.Material": "Putz Kieselwurf, Dämmung - weich",
+                "Gewerbebau.Bauteilklasse": "A_Fassadenbekleidung",
+                "Gewerbebau.Bauteilart": "Fassadenbekleidung",
+                "Gewerbebau.Typname": "FAS_ASW_DÄ-PU_325"
+            }
+        }
+    },
+    "CompilationGroupID": "a910fa886b"
+}
