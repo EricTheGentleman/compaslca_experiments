@@ -80,8 +80,10 @@ for run_dir in runs_base.iterdir():
             except Exception as e:
                 print(f"Error reading run file {json_file}: {e}")
 
-    # Save per-run CSV
+    # Convert results to DataFrame
     df = pd.DataFrame(results)
+
+    # Save per-run CSV
     csv_path = output_csv_dir / f"{run_dir.name}.csv"
-    df.to_csv(csv_path, index=False)
+    df.to_csv(csv_path, index=False, encoding="utf-8-sig")
     print(f"Saved scores to: {csv_path}")

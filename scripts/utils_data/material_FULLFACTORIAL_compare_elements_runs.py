@@ -10,9 +10,9 @@ def extract_run_number(col_name):
 
 # === Configuration ===
 input_dir = "data/output/material/01_samples_test/runs_csv"
-output_file = "data/output/material/01_samples_test/material_test_f05_matrix.csv"
+output_file = "data/output/material/01_samples_test/material_test_f1_matrix.csv"
 reference_csv = "data/input/category_test/ground_truth/Samples_Test.csv"
-score = "f0.5_score"
+score = "f1_score"
 
 # === Step 1: Read and prepare reference metadata ===
 reference_df = pd.read_csv(reference_csv, encoding='utf-8')
