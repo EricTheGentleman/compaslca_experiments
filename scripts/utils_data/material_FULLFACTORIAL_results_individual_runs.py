@@ -4,9 +4,9 @@ from pathlib import Path
 from sklearn.metrics import precision_score, recall_score, fbeta_score
 
 # === CONFIGURATION ===
-ground_truth_base = Path("data/input/category_test/ground_truth/gt_test")
-runs_base = Path("data/output/material/01_samples_test/runs")
-output_csv_dir = Path("data/output/material/01_samples_test/runs_csv")
+ground_truth_base = Path("data/input/materials_test/ground_truth/gt_holdout")
+runs_base = Path("data/output/material/02_samples_holdout/runs")
+output_csv_dir = Path("data/output/material/02_samples_holdout/runs_csv")
 output_csv_dir.mkdir(parents=True, exist_ok=True)
 
 subfolders = ["Elements", "Target_Layers"]

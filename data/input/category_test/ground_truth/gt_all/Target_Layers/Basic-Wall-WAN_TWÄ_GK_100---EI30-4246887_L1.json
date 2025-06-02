@@ -2,13 +2,13 @@
     "name": "Basic-Wall-WAN_TWÄ_GK_100---EI30-4246887_L1",
     "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
     "material_entries": [
-        "Gipskartonplatte"
+        "Gipskartonplatte",
+        "Gipsfaserplatte",
+        "Gipsfaserplatte Fermacell"
     ],
     "reason": [
         "descriptor says only gipsplatte",
-        "usually (and during the ground truth processing) it would explicitly state gipsfaserplatte",
-        "because it doesnt, the assumption is that its a cardboard-gypsum board",
-        "not vollgips (because solid, and thicker than 0.025m)"
+        "therefore can either be gypsum fiber or gypsum cardboard"
     ],
     "Type": "IfcWallStandardCase",
     "Matching Scenario": "Precise",

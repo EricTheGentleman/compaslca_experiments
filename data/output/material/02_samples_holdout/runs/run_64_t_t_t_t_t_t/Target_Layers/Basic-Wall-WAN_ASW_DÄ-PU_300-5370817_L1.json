@@ -1,0 +1,46 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material is 'Putz' with a thickness of 0.02 meters, used as the outermost layer of a non-load-bearing exterior wall (IfcWallStandardCase) with a facade function. The wall is part of a new construction project and is categorized under 'A-Fassade'.",
+    "Preliminary Selection": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Wärmedämmputz EPS",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 219,
+      "prompt_tokens": 1987,
+      "total_tokens": 2206,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 10.884,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.014315
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element Name: Basic Wall:Wärmedämmung_Slentex 70, Type: IfcWallStandardCase, Material: Wärmedämmung Slentex Aerogel, Thickness: 0.07m, Function: Exterior, U-Value: 0.1429, R-Value: 7.0",
+    "Preliminary Selection": [
+      "Aerogel-Vlies"
+    ],
+    "Matched Materials": [
+      "Aerogel-Vlies"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 101,
+      "prompt_tokens": 1412,
+      "total_tokens": 1513,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.049,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00908
+  }
+}

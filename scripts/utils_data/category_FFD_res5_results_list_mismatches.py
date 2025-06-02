@@ -2,9 +2,9 @@ from pathlib import Path
 import json
 
 # === CONFIGURATION ===
-ground_truth_base = Path(r"data/input/category_test/ground_truth/gt_test")
-runs_base = Path(r"data/output/category/01_samples_test/runs")
-output_json_dir = Path(r"data/output/category/01_samples_test/runs_json")  # Target directory for JSON outputs
+ground_truth_base = Path(r"data/input/category_test/ground_truth/gt_holdout")
+runs_base = Path(r"data/output/category/02_samples_holdout/runs")
+output_json_dir = Path(r"data/output/category/02_samples_holdout/runs_mismatches")  # Target directory for JSON outputs
 output_json_dir.mkdir(parents=True, exist_ok=True)
 
 subfolders = ["Elements", "Target_Layers"]

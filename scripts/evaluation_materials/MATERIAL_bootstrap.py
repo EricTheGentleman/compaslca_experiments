@@ -24,11 +24,11 @@ import pandas as pd
 # ---------------------------------------------------------------------
 # 0  Settings
 # ---------------------------------------------------------------------
-DATA_DIR    = Path("data/output/material/01_samples_test/runs_csv")
+DATA_DIR    = Path("data/output/material/02_samples_holdout/runs_csv")
 FILE_PATTERN = "*.csv"
 
 COL_SAMPLE  = "filename"          # row identifier in every CSV
-COL_SCORE   = "f1_score"    # per-sample F0.5 column
+COL_SCORE   = "f0.5_score"    # per-sample F0.5 column
 
 N_BOOT      = 10_000
 ALPHA       = 0.05
@@ -37,7 +37,7 @@ RANDOM_SEED = 42
 BASELINE_FLAGS = "000000"     # ← all-false prompt you call “baseline”
 
 OUTPUT_DIR = Path(
-    "data/output/material/01_samples_test/bootstrap/pairwise_CI"
+    "data/output/material/02_samples_holdout/bootstrap/pairwise_CI"
 )
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -95,7 +95,7 @@ for b in range(N_BOOT):
     boot_means[b] = scores[:, idx].mean(axis=1)
 
 np.savez_compressed(
-    OUTPUT_DIR / "F1_boot_means.npz",
+    OUTPUT_DIR / "F0.5_boot_means.npz",
     boot_means=boot_means,
     prompt_names=np.array(prompt_names),
 )
@@ -135,7 +135,7 @@ for name in prompt_names:
 
 diff_best_df = pd.DataFrame(
     rows_best,
-    columns=["prompt", "ΔF1_vs_best",
+    columns=["prompt", "ΔF0.5_vs_best",
              f"{int((1-ALPHA)*100)}%_CI_low",
              f"{int((1-ALPHA)*100)}%_CI_high",
              "approx_p_value"],
@@ -164,7 +164,7 @@ for name in prompt_names:
 
 diff_base_df = pd.DataFrame(
     rows_base,
-    columns=["prompt", "ΔF1_vs_baseline",
+    columns=["prompt", "ΔF0.5_vs_baseline",
              f"{int((1-ALPHA)*100)}%_CI_low",
              f"{int((1-ALPHA)*100)}%_CI_high",
              "approx_p_value"],
@@ -173,11 +173,11 @@ diff_base_df = pd.DataFrame(
 # ---------------------------------------------------------------------
 # 8  Write CSVs
 # ---------------------------------------------------------------------
-ci_df.to_csv(OUTPUT_DIR / "F1_bootstrap_results_per_prompt.csv", index=False)
+ci_df.to_csv(OUTPUT_DIR / "F05_bootstrap_results_per_prompt.csv", index=False)
 print("→ bootstrap_results_per_prompt.csv written")
 
-diff_best_df.to_csv(OUTPUT_DIR / "F1_bootstrap_pairwise_vs_best.csv")
+diff_best_df.to_csv(OUTPUT_DIR / "F05_bootstrap_pairwise_vs_best.csv")
 print(f"→ bootstrap_pairwise_vs_best.csv written (best = {best_prompt})")
 
-diff_base_df.to_csv(OUTPUT_DIR / "F1_bootstrap_pairwise_vs_baseline.csv")
+diff_base_df.to_csv(OUTPUT_DIR / "F05_bootstrap_pairwise_vs_baseline.csv")
 print(f"→ bootstrap_pairwise_vs_baseline.csv written (baseline = {baseline_prompt})")

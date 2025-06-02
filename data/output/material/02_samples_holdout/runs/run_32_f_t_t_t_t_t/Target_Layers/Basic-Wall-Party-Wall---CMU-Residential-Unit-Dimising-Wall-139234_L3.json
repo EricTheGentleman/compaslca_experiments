@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material is 'Masonry - Concrete Block' with a thickness of 0.193 meters, used in a non-load-bearing, external wall context described as 'Basic Wall:Party Wall - CMU Residential Unit Dimising Wall'.",
+    "Preliminary Selection": [
+      "Zementstein"
+    ],
+    "Matched Materials": [
+      "Zementstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 80,
+      "prompt_tokens": 1503,
+      "total_tokens": 1583,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.732,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009115
+  }
+}

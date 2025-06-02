@@ -1,0 +1,10 @@
+bim_data_format:
+  include_geometry: true
+prompt_framing_style:
+  german: true
+prompt_reasoning_strategy:
+  chain_of_thought: false
+  extract_then_reason: false
+  iterative_self_refinement: false
+prompt_contextualization:
+  include_examples: true

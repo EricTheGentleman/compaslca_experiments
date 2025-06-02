@@ -24,7 +24,7 @@ import pandas as pd
 # ---------------------------------------------------------------------
 # 0  Settings
 # ---------------------------------------------------------------------
-DATA_DIR    = Path("data/output/category/01_samples_test/runs_csv")
+DATA_DIR    = Path("data/output/category/02_samples_holdout/runs_csv")
 FILE_PATTERN = "*.csv"
 
 COL_SAMPLE  = "filename"          # row identifier in every CSV
@@ -37,7 +37,7 @@ RANDOM_SEED = 42
 BASELINE_FLAGS = "000000"     # ← all-false prompt you call “baseline”
 
 OUTPUT_DIR = Path(
-    "data/output/category/01_samples_test/bootstrap/pairwise_CI"
+    "data/output/category/02_samples_holdout/bootstrap/pairwise_CI"
 )
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

@@ -3,8 +3,8 @@ import json
 from collections import defaultdict
 
 # === CONFIGURATION ===
-mismatch_json_dir = Path(r"data/output/category/01_samples_test/runs_mismatches")
-summary_output_path = Path(r"data/output/category/01_samples_test/runs_mismatches/mismatch_summary.json")
+mismatch_json_dir = Path(r"data/output/category/02_samples_holdout/runs_mismatches")
+summary_output_path = Path(r"data/output/category/02_samples_holdout/runs_mismatches/mismatch_summary.json")
 
 # === Load All Mismatch JSONs ===
 summary = defaultdict(lambda: {

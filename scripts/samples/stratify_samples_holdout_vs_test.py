@@ -3,7 +3,7 @@ from sklearn.model_selection import StratifiedShuffleSplit
 import hashlib
 
 # Load your data
-csv_path = "data/input/category_test/ground_truth/Samples.csv"  # <-- Update this
+csv_path = "data/input/category_test/ground_truth/Samples.csv"
 df = pd.read_csv(csv_path)
 
 # Attributes in priority order
@@ -13,8 +13,6 @@ attributes = [
     "Type",
     "Design Stage",
     "Language"
-    #"Data Structure"
-    #"Model"
 ]
 
 # Composite strat key
@@ -54,5 +52,3 @@ assert len(final_holdout) == 62, f"Hold-out set has {len(final_holdout)} element
 # Save results
 final_test.to_csv("data/input/category_test/ground_truth/test_elements.csv", index=False)
 final_holdout.to_csv("data/input/category_test/ground_truth/holdout_elements.csv", index=False)
-
-print("✅ Stratified split complete!")

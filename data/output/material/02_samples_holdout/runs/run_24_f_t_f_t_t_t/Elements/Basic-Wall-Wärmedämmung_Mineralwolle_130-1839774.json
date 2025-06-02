@@ -1,0 +1,45 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcWall named 'Basic Wall:Wärmedämmung_Mineralwolle_130' with a material layer of 'Wärmedämmung Mineralwolle, 0.035 W/mK' and a thickness of 0.13 meters. It is non-structural, exterior, and has a thermal resistance (R) of 3.8235.",
+    "Preliminary Selection": [
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL"
+    ],
+    "Matched Materials": [
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 235,
+      "prompt_tokens": 1406,
+      "total_tokens": 1641,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.571,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01173
+  }
+}

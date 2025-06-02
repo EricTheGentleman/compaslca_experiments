@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab named 'Floor:Galerie Fussbodenaufbau' with a specific material layer 'Knauf - Vidiwall' of 0.015 meters thickness. Other layers include 'PU Bodenbelag - Sika PS23', 'Knauf - Brio Heizboden 25', and 'Trittschalldämmung Flumroc 341'. The element is categorized as a floor, with a net volume of 4.9429 cubic meters and a surface area of 138.70794 square meters. It is an interior construction with a thermal resistance of 0.9015 and a heat transfer coefficient of 1.1093.",
+    "Preliminary Selection": [
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell"
+    ],
+    "Matched Materials": [
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 196,
+      "prompt_tokens": 1621,
+      "total_tokens": 1817,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.171,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.012025
+  }
+}

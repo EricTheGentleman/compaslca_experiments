@@ -3,8 +3,8 @@ import pandas as pd
 
 # === CONFIGURATION ===
 template_csv_path = Path("data/output/category/01_samples_test/category_test_matrix_FFD_res5.csv")  # e.g., data/input/template.csv
-runs_results_dir = Path("data/output/category/01_samples_test/runs_csv")  # e.g., data/output/category/01_samples_test/runs
-output_csv_path = Path("data/output/category/01_samples_test/category_test_runs_aggregated.csv")  # You choose the output location
+runs_results_dir = Path("data/output/category/02_samples_holdout/runs_csv")  # e.g., data/output/category/01_samples_test/runs
+output_csv_path = Path("data/output/category/02_samples_holdout/category_holdout_runs_aggregated.csv")  # You choose the output location
 
 # === Load Template CSV ===
 df_template = pd.read_csv(template_csv_path)

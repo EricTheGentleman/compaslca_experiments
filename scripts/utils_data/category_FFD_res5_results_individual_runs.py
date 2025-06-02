@@ -4,9 +4,9 @@ import pandas as pd
 from pathlib import Path
 
 # === CONFIGURATION ===
-ground_truth_base = Path(r"data/input/category_test/ground_truth/gt_test")
-runs_base = Path(r"data/output/category/01_samples_test/runs")
-output_csv_dir = Path(r"data/output/category/01_samples_test/runs_csv")  # Save CSVs inside each run folder or you can choose a separate dir
+ground_truth_base = Path(r"data/input/category_test/ground_truth/gt_holdout")
+runs_base = Path(r"data/output/category/02_samples_holdout/runs")
+output_csv_dir = Path(r"data/output/category/02_samples_holdout/runs_csv")  # Save CSVs inside each run folder or you can choose a separate dir
 
 subfolders = ["Elements", "Target_Layers"]  # Relevant subfolders in both base dirs
 

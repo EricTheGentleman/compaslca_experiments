@@ -44,9 +44,9 @@ def run_category_inference(model_config, var_config, parent_output_path):
     var_1_include_geometry = var_config.get("bim_data_format", {}).get("include_geometry")
 
     if var_1_include_geometry:
-        base_input_dir = Path("data/input/category_test/samples/samples_test/include_geometry")
+        base_input_dir = Path("data/input/category_test/samples/samples_holdout/include_geometry")
     else:
-        base_input_dir = Path("data/input/category_test/samples/samples_test/exclude_geometry")
+        base_input_dir = Path("data/input/category_test/samples/samples_holdout/exclude_geometry")
 
     # Dynamically create output directories
     output_dir_elements = parent_output_path / "Elements"
@@ -89,10 +89,10 @@ if __name__ == "__main__":
     from methods.utils import load_yaml_config
 
     # === Batch Config ===
-    var_config_dir = Path("configs/category")  # Base dir with all run_*.yaml files
-    output_root_dir = Path("data/output/category/01_samples_test/runs")
+    var_config_dir = Path("configs/category_holdout_2")  # Base dir with all run_*.yaml files
+    output_root_dir = Path("data/output/category/02_samples_holdout/runs")
     model_config_path = Path("configs/model_config.yaml")
-    prompts_output_path = Path("data/output/category/01_samples_test/prompts")
+    prompts_output_path = Path("data/output/category/02_samples_holdout/prompts")
 
     # Load shared model config once
     model_config = load_yaml_config(model_config_path)

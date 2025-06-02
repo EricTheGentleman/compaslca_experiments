@@ -1,0 +1,31 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a basic wall named 'Holzbau_Archisonic_Vorbauschale' with a primary material layer of 'Archisonic Charcoal' and a secondary layer of 'MDF'. The wall is non-structural, exterior, and part of the 'Innenausbau' workset. The material 'Archisonic Charcoal' is not directly matched with any of the provided material options.",
+    "Preliminary Selection": [],
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Kunststoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 112,
+      "prompt_tokens": 1569,
+      "total_tokens": 1681,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.458,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010085
+  }
+}

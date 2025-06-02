@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material is 'Trittschalldämmung Flumroc 341' with a thickness of 0.03 meters, used in an IfcSlab element named 'Floor:Galerie Fussbodenaufbau:1353081'. The element is part of a floor construction with other layers including 'PU Bodenbelag - Sika PS23', 'Knauf - Vidiwall', and 'Knauf - Brio Heizboden 25'. The element is categorized under 'Floors' and is intended for interior use.",
+    "Preliminary Selection": [
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ],
+    "Matched Materials": [
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 157,
+      "prompt_tokens": 1519,
+      "total_tokens": 1676,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.768,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010735
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcSlab with the name 'Floor:DCH_DÄ+AB_300:6785352'. It is associated with a material layer named 'Dämmung - weich' with a thickness of 0.2 meters. The element is categorized under 'Floors' and is described as 'Dachabdeckung' (roof covering) with a class 'A_Dachbekleidung'. It is an exterior, non-load-bearing element with a thermal transmittance of 0.17.",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 141,
+      "prompt_tokens": 1423,
+      "total_tokens": 1564,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.549,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009935
+  }
+}

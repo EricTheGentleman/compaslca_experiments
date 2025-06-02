@@ -1,0 +1,30 @@
+{
+  "Bleche-Fassade_V6-Bleche-Fassade_V6-4910201.json": {
+    "category": "Metallbaustoffe",
+    "matched_category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "TU-DF-1---Rahmenstock-flächenbündig-TUI_ZAR_STA_MÖ---1100-x-2200_EI-30-10129091.json": {
+    "category": "Türen",
+    "matched_category": "Metallbaustoffe"
+  },
+  "Attikabrett-Attikabrett-6718052.json": {
+    "category": "Holz und Holzwerkstoffe",
+    "matched_category": "None"
+  },
+  "Storen_ZIP-SOS_STO_275x395-14112561.json": {
+    "category": "Metallbaustoffe",
+    "matched_category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "Floor-DCH_SUB_100-14297034.json": {
+    "category": "None",
+    "matched_category": "Bodenbeläge"
+  },
+  "Basic-Wall-Holzbau_Archisonic_Vorbauschale-2146702_L1.json": {
+    "category": "Kunststoffe",
+    "matched_category": "Holz und Holzwerkstoffe"
+  },
+  "Basic-Wall-WAN_TWÄ_MW-VS_300---EI60-11586674_L3.json": {
+    "category": "None",
+    "matched_category": "Mauersteine"
+  }
+}
