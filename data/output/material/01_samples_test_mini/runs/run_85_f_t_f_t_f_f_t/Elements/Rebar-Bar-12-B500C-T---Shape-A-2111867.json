@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Armierungsstahl (Rebar Bar) mit der Bezeichnung B500C-T und einem Durchmesser von 0.0394 m. Es handelt sich um eine Bewehrungsstange mit einer spezifischen Form (Shape A).",
+    "Matched Materials": [
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 84,
+      "prompt_tokens": 855,
+      "total_tokens": 939,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.784,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.005955
+  }
+}

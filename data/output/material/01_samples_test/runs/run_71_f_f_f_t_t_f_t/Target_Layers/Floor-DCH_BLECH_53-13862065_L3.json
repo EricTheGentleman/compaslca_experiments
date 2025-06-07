@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab (IfcSlab) with a material layer named 'Dachdeckung - Holz' (wood) and a thickness of 0.025 meters. It is part of a roof covering assembly with other layers including metal and bitumen. The element is categorized as an exterior, non-load bearing floor.",
+    "Preliminary Selection": [
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetrocknet, gehobelt",
+      "Brettschichtholz",
+      "Balkenschichtholz"
+    ],
+    "Matched Materials": [
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetrocknet, gehobelt",
+      "Brettschichtholz",
+      "Balkenschichtholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 206,
+      "prompt_tokens": 1798,
+      "total_tokens": 2004,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.946,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00157
+  }
+}

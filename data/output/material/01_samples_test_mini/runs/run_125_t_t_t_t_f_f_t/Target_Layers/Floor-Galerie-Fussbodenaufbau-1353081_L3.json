@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Fußbodenaufbau (IfcSlab) mit mehreren Materialschichten, darunter ein Heizboden von Knauf. Die Schichten umfassen PU Bodenbelag, Gipsplatten und Trittschalldämmung. Die Dicke der Schichten variiert zwischen 0.004 und 0.03 Meter.",
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 87,
+      "prompt_tokens": 1545,
+      "total_tokens": 1632,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.939,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009465
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an external door (IfcDoor) with a specific type name indicating it is a folding door. No material is defined, but it is categorized as an exterior door.",
+    "Matched Materials": [
+      "Aussentüre, Aluminium, Glaseinsatz",
+      "Aussentüre, Aluminium, Paneelfüllung",
+      "Aussentüre, Holz",
+      "Aussentüre, Holz, aluminiumbeplankt",
+      "Aussentüre, Holz, Glaseinsatz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 116,
+      "prompt_tokens": 1232,
+      "total_tokens": 1348,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.584,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00102
+  }
+}

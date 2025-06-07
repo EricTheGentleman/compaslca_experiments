@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine tragende Decke (IfcSlab) mit dem Materialnamen 'Fußbodenaufbau', das eine Dicke von 0.05 m hat. Es enthält auch eine Schicht aus Ortbeton mit einer Dicke von 0.12 m. Die Element-Eigenschaften zeigen, dass es sich um einen Bodenaufbau handelt, der nicht extern ist und tragend ist.",
+    "Matched Materials": [
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 208,
+      "prompt_tokens": 1681,
+      "total_tokens": 1889,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.278,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00151
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine IfcSlab mit dem Namen 'Floor:BBA_GIT_MET_30', das eine Dicke von 0.03 Metern hat und als Bodenbelag klassifiziert ist. Das Material ist 'Gitterrost-2', das als nicht tragend und außen liegend beschrieben wird.",
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 81,
+      "prompt_tokens": 1411,
+      "total_tokens": 1492,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.562,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00104
+  }
+}

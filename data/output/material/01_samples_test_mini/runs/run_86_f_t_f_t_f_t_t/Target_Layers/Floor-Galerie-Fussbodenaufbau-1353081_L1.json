@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Fußbodenaufbau (IfcSlab) mit einem PU Bodenbelag (Sika PS23) von 4 mm Dicke. Weitere Schichten sind Knauf - Vidiwall, Knauf - Brio Heizboden 25 und Trittschalldämmung Flumroc 341. Es handelt sich um einen Innenbereich mit einer Fläche von 66.7957 m².",
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 102,
+      "prompt_tokens": 1682,
+      "total_tokens": 1784,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.358,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01045
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Standardwand mit der Bezeichnung 'Fensterlaibung 40mm', die aus 'Massivholz Fichte, schwarz lasiert' besteht und eine Dicke von 40mm hat. Es handelt sich um eine nicht tragende Wand, die mit einer Fläche von 0.4332 m² und einem Volumen von 0.0173 m³ beschrieben wird.",
+    "Matched Materials": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 148,
+      "prompt_tokens": 1874,
+      "total_tokens": 2022,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.522,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01233
+  }
+}

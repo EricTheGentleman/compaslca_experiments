@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a load-bearing wall made of reinforced concrete (Ortbeton) with a thickness of 0.25 meters. It is categorized as an external wall with a fire rating of REI 60.",
+    "Matched Materials": [
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 154,
+      "prompt_tokens": 2055,
+      "total_tokens": 2209,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.69,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0016
+  }
+}

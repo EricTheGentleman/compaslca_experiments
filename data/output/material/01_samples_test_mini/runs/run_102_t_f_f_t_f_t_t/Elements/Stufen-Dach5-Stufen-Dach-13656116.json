@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcStair named 'Stufen Dach5:Stufen Dach' made of 'Betonfertigteil'. It has a net volume of 0.0983 cubic meters and a bounding box volume of 0.0972 cubic meters.",
+    "Matched Materials": [
+      "Betonfertigteil, hochfester Beton, ab Werk",
+      "Betonfertigteil, Normalbeton, ab Werk"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 106,
+      "prompt_tokens": 1291,
+      "total_tokens": 1397,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.002,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008575
+  }
+}

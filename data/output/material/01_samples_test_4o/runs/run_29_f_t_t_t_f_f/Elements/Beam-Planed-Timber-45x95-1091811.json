@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a beam made of wood, specifically a planed timber beam with dimensions 45x95, classified as IfcMember. It is used structurally as a web, is load-bearing, and not external.",
+    "Matched Materials": [
+      "Balkenschichtholz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 126,
+      "prompt_tokens": 1331,
+      "total_tokens": 1457,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.598,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009175
+  }
+}

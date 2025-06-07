@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Träger (Beam) aus verleimtem Holz (Gluelam) mit den Abmessungen 90x225 mm. Es hat eine strukturelle Nutzung und ist tragend.",
+    "Matched Materials": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Stabschichtholz, Buche, fagus"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 88,
+      "prompt_tokens": 1433,
+      "total_tokens": 1521,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.125,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008925
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an aluminum beam (Holz Träger - rechteckig:Alu Eurotec 40 x 60) with a length of 7.755 meters and a net volume of 0.0186 cubic meters. The material specified is Aluminum - Flat - Version 1.1.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R",
+      "Aluminiumprofil, blank"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Aluminiumprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 146,
+      "prompt_tokens": 1239,
+      "total_tokens": 1385,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.179,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009115
+  }
+}

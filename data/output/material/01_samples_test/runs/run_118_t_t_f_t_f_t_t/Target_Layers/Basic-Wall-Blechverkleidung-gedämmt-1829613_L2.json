@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine gedämmte Wand mit einer Wärmedämmung aus Slentex Aerogel und einer Dicke von 0.046 m. Es hat eine Blechverkleidung aus Stahl und ist nicht tragend. Die Wand hat spezifische Eigenschaften wie einen Wärmeübergangskoeffizienten von 0.2174 und eine thermische Widerstandsfähigkeit von 4.6001.",
+    "Matched Materials": [
+      "Aerogel-Vlies"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 108,
+      "prompt_tokens": 1734,
+      "total_tokens": 1842,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.248,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0013
+  }
+}

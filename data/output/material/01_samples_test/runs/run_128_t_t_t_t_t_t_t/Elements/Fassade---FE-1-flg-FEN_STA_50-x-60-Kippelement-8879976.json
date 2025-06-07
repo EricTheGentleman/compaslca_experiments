@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist ein IfcWindow mit einer Breite von 1.345 m und einer Höhe von 0.62 m. Es hat eine Glasfläche von 0.6125 m² und einen U-Wert von 1.533. Die Materialien umfassen Aluminium für den Flügel und Glas für die Verglasung.",
+    "Preliminary Selection": [
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K"
+    ],
+    "Matched Materials": [
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 181,
+      "prompt_tokens": 2280,
+      "total_tokens": 2461,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.265,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0018
+  }
+}

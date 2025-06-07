@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a standard wall with a primary material layer named 'Putz Kieselwurf' and an additional insulation layer. The wall is categorized as an exterior, non-load bearing wall with specific thermal properties.",
+    "Matched Materials": [
+      "Gips-/Weissputz",
+      "Gips-Kalk-Putz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Lehmputz",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Sumpfkalkputz",
+      "Weisszementputz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 162,
+      "prompt_tokens": 1771,
+      "total_tokens": 1933,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.399,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.012095
+  }
+}

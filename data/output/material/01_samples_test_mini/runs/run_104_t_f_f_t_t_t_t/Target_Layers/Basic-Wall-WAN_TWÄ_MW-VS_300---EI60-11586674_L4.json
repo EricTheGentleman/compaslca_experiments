@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall made of 'Mauerwerk - Kalksandstein' with a thickness of 0.2m. It is a non-bearing wall with a fire rating of EI 60. Other layers include gypsum board and soft insulation.",
+    "Preliminary Selection": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ],
+    "Matched Materials": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 128,
+      "prompt_tokens": 1886,
+      "total_tokens": 2014,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.909,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01199
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a precast concrete beam (Fertigteil-TT-Platte) used in structural framing, made of 'Betonfertigteil', load-bearing, with fire rating REI 60.",
+    "Matched Materials": [
+      "Betonfertigteil, hochfester Beton, ab Werk",
+      "Betonfertigteil, Normalbeton, ab Werk"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 93,
+      "prompt_tokens": 1821,
+      "total_tokens": 1914,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.541,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010965
+  }
+}

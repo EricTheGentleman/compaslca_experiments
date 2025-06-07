@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target layer is a masonry grout with a thickness of 0.003 meters, part of a floor slab with ceramic tile finish, not external, load-bearing, and related to new construction.",
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 56,
+      "prompt_tokens": 1051,
+      "total_tokens": 1107,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.32,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.006375
+  }
+}

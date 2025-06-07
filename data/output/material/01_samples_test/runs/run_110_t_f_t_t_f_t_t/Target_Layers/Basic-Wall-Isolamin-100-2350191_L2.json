@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall with a primary material of Mineral Wool, with a thickness of 0.095 meters. It is categorized as a bearing wall and is not external. The wall has a total volume of 1.30963 cubic meters and an area of 28.03755 square meters.",
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 90,
+      "prompt_tokens": 1305,
+      "total_tokens": 1395,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.702,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.001
+  }
+}

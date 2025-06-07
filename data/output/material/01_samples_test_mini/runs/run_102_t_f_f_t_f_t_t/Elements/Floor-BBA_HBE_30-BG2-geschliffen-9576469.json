@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a floor covering with a thickness of 0.03 meters, made of a material named 'Beton - CT'. It is categorized as a non-structural floor type and is used for interior applications.",
+    "Matched Materials": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK A, 280kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)",
+      "Magerbeton (ohne Bewehrung)",
+      "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 228,
+      "prompt_tokens": 2003,
+      "total_tokens": 2231,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 7.346,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.014575
+  }
+}

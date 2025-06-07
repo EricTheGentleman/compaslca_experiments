@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material is a floor covering named 'PU Bodenbelag - Sika PS23' with a thickness of 4 mm, part of a floor slab assembly in a gallery. The element is an interior floor with a non-structural function, located on Level 01_Galerie.",
+    "Preliminary Selection": [
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "PVC homogen, 2 mm",
+      "Synthetische thermoplastische Beläge (TPO), 2 mm"
+    ],
+    "Matched Materials": [
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "PVC homogen, 2 mm",
+      "Synthetische thermoplastische Beläge (TPO), 2 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 183,
+      "prompt_tokens": 1546,
+      "total_tokens": 1729,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.923,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01139
+  }
+}

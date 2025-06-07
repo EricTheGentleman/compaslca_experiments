@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a non-bearing wall (Basic Wall: WAN_ASW_DÄ-BET_300) with a thickness of 0.1m made of concrete. It has a fire rating of REI 60 and is categorized as an exterior wall. The wall is part of a facade system and has a thermal transmittance of 0.17.",
+    "Matched Materials": [
+      "Betonfertigteil, hochfester Beton, ab Werk",
+      "Betonfertigteil, Normalbeton, ab Werk"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 124,
+      "prompt_tokens": 1792,
+      "total_tokens": 1916,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.044,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01144
+  }
+}

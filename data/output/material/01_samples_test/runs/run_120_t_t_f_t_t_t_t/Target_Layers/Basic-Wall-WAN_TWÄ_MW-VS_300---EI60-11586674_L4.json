@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Wand aus Mauerwerk - Kalksandstein mit einer Dicke von 0.2 Metern. Es handelt sich um eine nicht tragende Leichtbauwand mit einer Feuerwiderstandsklasse von EI 60. Weitere Materialschichten sind Trockenbau - Gipsplatte, Dämmung - weich und Luftschicht.",
+    "Preliminary Selection": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ],
+    "Matched Materials": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 153,
+      "prompt_tokens": 2021,
+      "total_tokens": 2174,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.254,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00158
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein rechteckiger Pfosten aus Holz mit den Abmessungen 140 x 60 mm und einer Länge von 2.38 m. Es hat ein Volumen von 0.02 m³ und ist als externes Element klassifiziert.",
+    "Preliminary Selection": [
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt"
+    ],
+    "Matched Materials": [
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 189,
+      "prompt_tokens": 1453,
+      "total_tokens": 1642,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.067,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.011045
+  }
+}

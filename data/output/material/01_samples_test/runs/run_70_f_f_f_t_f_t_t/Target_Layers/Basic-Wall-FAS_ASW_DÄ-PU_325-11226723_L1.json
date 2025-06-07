@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a basic wall with an exterior finish layer named 'Putz Kieselwurf' and a thickness of 0.025 meters. It is categorized as a non-bearing wall and is part of a facade construction. The wall has a thermal transmittance of 0.1127 and includes an insulation layer beneath the finish.",
+    "Matched Materials": [
+      "Gips-/Weissputz",
+      "Gips-Kalk-Putz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Lehmputz",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Sumpfkalkputz",
+      "Weisszementputz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 188,
+      "prompt_tokens": 1458,
+      "total_tokens": 1646,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.609,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00133
+  }
+}

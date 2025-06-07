@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine tragende rechteckige Stütze (STB Stütze) mit dem Material 'Betonfertigteil'. Es hat eine Breite und Dicke von 0.45 m und eine Länge von 3.35 m. Die Stütze ist nicht extern und befindet sich unter Terrain.",
+    "Matched Materials": [
+      "Betonfertigteil, hochfester Beton, ab Werk",
+      "Betonfertigteil, Normalbeton, ab Werk"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 117,
+      "prompt_tokens": 1758,
+      "total_tokens": 1875,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.846,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01113
+  }
+}

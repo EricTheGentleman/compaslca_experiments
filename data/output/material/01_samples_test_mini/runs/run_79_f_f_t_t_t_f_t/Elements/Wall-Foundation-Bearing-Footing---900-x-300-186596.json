@@ -1,0 +1,47 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Wall Foundation with dimensions 900mm x 300mm, categorized as a Bearing Footing. It has a volume of approximately 4.9364 cubic meters and is classified under Shallow Foundations. No specific material is defined.",
+    "Preliminary Selection": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Magerbeton (ohne Bewehrung)",
+      "Tiefbaubeton (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Magerbeton (ohne Bewehrung)",
+      "Tiefbaubeton (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 340,
+      "prompt_tokens": 1249,
+      "total_tokens": 1589,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.018,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.013045
+  }
+}

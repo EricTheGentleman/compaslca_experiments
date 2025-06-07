@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab named 'Floor:Floor_Holz_40mm' with a gross volume of 0.6608 cubic meters. It is not load-bearing and is not defined with specific materials.",
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 253,
+      "prompt_tokens": 1271,
+      "total_tokens": 1524,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.628,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.011415
+  }
+}

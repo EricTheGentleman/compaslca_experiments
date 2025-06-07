@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist ein IfcWindow mit dem Namen '1OG-Fenster-1-1'. Es hat keine definierten Materialien, eine gesamte Fläche von 6.1912 m² und eine thermische Transmittanz von 1.4 W/m²K. Es ist als extern klassifiziert.",
+    "Preliminary Selection": [
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K"
+    ],
+    "Matched Materials": [
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 176,
+      "prompt_tokens": 1688,
+      "total_tokens": 1864,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.314,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01196
+  }
+}

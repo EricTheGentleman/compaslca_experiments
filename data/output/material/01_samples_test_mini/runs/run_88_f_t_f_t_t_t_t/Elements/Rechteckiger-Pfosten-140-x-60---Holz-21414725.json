@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein rechteckiger Pfosten aus Holz mit den Abmessungen 140 x 60 mm. Es ist als tragendes Element klassifiziert und hat keine spezifischen Materialdaten definiert. Es ist extern und hat eine Spannweite von 2.38 m.",
+    "Preliminary Selection": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Konstruktionsvollholz"
+    ],
+    "Matched Materials": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Konstruktionsvollholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 182,
+      "prompt_tokens": 1375,
+      "total_tokens": 1557,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.153,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.010515
+  }
+}

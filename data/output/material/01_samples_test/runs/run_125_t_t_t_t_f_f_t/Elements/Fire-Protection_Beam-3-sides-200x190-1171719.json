@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Fire Protection_Beam mit den Abmessungen 200x190 mm und besteht aus Mineralwolle. Es hat ein Volumen von 0.1186 m³ und eine gesamte Oberfläche von 16.22 m².",
+    "Matched Materials": [
+      "Steinwolle",
+      "Mineral Wool"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 78,
+      "prompt_tokens": 1194,
+      "total_tokens": 1272,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.816,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0009
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine IfcSlab mit dem Namen 'DCH_BLECH_53', das eine Dachabdeckung darstellt. Die Hauptmaterialschicht ist ein Blechdach mit einer Dicke von 0.008 m. Weitere Materialschichten umfassen Bitumenbahn und Holz. Es handelt sich um ein externes, nicht tragendes Element.",
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 131,
+      "prompt_tokens": 1487,
+      "total_tokens": 1618,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.559,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00121
+  }
+}

@@ -3,8 +3,9 @@ import pandas as pd
 
 # === CONFIGURATION ===
 template_csv_path = Path("data/output/material/01_samples_test/material_test_matrix_FFD_full.csv")
-runs_results_dir = Path("data/output/material/02_samples_holdout/runs_csv")
-output_csv_path = Path("data/output/material/02_samples_holdout/material_holdout_runs_aggregated.csv")
+runs_jsons_dir = Path("data/output/material/01_samples_test/runs")
+runs_results_dir = Path("data/output/material/01_samples_test/runs_csv")
+output_csv_path = Path("data/output/material/01_samples_test/material_test_runs_aggregated.csv")
 
 # === Load Template CSV ===
 df_template = pd.read_csv(template_csv_path)

@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Basic Wall with a layer made of Gipsfaserplatte (gypsum fiberboard) and has a thickness of 0.025 meters. It is categorized as a non-bearing wall and is related to architectural work. The wall has a net volume of 0.13166 cubic meters and an entire surface area of 10.78399 square meters.",
+    "Matched Materials": [
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipskartonplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 130,
+      "prompt_tokens": 1151,
+      "total_tokens": 1281,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.046,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008355
+  }
+}

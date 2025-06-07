@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine nicht tragende Innenwand mit einer Dämmung von 0.1 m. Es hat eine thermische Übertragung von 0.34 und ist als 'Dämmung 100' klassifiziert.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Steinwolle",
+      "Zellulosefasern"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle",
+      "Zellulosefasern"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 104,
+      "prompt_tokens": 1671,
+      "total_tokens": 1775,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.331,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00125
+  }
+}

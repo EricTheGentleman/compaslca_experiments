@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab with a material layer named 'Spachtelmasse Boden' with a thickness of 0.01 meters. The element type is 'IfcSlab' and it is part of a funicular floor system. The primary structural material is 'Beton, Ortbeton'.",
+    "Matched Materials": [
+      "Baukleber/Einbettmörtel mineralisch",
+      "Baukleber/Einbettmörtel mineralisch Leichtzuschlag",
+      "Baukleber/Einbettmörtel organisch"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 129,
+      "prompt_tokens": 1265,
+      "total_tokens": 1394,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.993,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008905
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor covering with a thickness of 0.03m, made of a material named 'Beton - CT'. It is categorized as a floor and is not structural. The relevant material options from the LCA database include various types of concrete.",
+    "Preliminary Selection": [
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)",
+      "Magerbeton (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 263,
+      "prompt_tokens": 2076,
+      "total_tokens": 2339,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.63,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00188
+  }
+}

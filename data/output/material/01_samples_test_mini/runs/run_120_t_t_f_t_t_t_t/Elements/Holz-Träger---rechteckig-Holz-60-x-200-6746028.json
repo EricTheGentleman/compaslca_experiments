@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein rechteckiger Holzträger (60 x 200 mm) aus Holz - C 24 Cl.1, der als tragendes Element (Joist) in der Kategorie 'Structural Framing' klassifiziert ist.",
+    "Preliminary Selection": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Konstruktionsvollholz"
+    ],
+    "Matched Materials": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Konstruktionsvollholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 184,
+      "prompt_tokens": 1807,
+      "total_tokens": 1991,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.477,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.012715
+  }
+}

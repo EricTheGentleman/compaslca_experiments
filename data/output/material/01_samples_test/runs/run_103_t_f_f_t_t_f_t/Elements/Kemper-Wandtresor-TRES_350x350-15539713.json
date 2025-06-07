@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a proxy element named 'Kemper Wandtresor:TRES_350x350' made of 'Edelstahl' (stainless steel). It has a volume of 0.0145 cubic meters and is categorized as a facade element.",
+    "Preliminary Selection": [
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt"
+    ],
+    "Matched Materials": [
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 142,
+      "prompt_tokens": 1287,
+      "total_tokens": 1429,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.584,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00111
+  }
+}

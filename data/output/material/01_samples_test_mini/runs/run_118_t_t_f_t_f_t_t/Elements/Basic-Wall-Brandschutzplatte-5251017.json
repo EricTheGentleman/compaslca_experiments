@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Basic Wall mit dem Namen 'Brandschutzplatte', die aus einer 3-Schicht-Platte besteht. Es handelt sich um eine nicht tragende Wand mit einer Feuerwiderstandsklasse von EI30 und einer Dicke von 0.028 m.",
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 86,
+      "prompt_tokens": 1776,
+      "total_tokens": 1862,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.493,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0106
+  }
+}

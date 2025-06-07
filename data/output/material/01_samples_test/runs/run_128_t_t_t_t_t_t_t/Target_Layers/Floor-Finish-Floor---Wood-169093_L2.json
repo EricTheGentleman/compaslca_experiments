@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Finish Floor - Wood, das eine Schicht aus semi-rigid insulation (Dicke: 0.003 m) und eine Schicht aus Holz (Dicke: 0.016 m) hat. Es handelt sich um eine tragende Struktur mit einer Gesamtfläche von 22.0432 m².",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Steinwolle",
+      "Zellulosefasern"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle",
+      "Zellulosefasern"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 140,
+      "prompt_tokens": 1472,
+      "total_tokens": 1612,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.895,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00122
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Funicular Floor (IfcSlab) with a top layer of Spachtelmasse Boden (1 cm thick) and a bottom layer of Beton, Ortbeton (35 cm thick). It is categorized as a floor and has various analytical properties related to thermal performance.",
+    "Preliminary Selection": [
+      "Gips-/Weissputz",
+      "Gips-Kalk-Putz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Gips-/Weissputz",
+      "Gips-Kalk-Putz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 165,
+      "prompt_tokens": 1183,
+      "total_tokens": 1348,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.584,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00111
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a basic wall with a material layer of 'Massivholz Fichte, schwarz lasiert' and a thickness of 0.04 meters. It is categorized as a non-structural, exterior wall with a focus on architectural use.",
+    "Preliminary Selection": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau, Produktion Schweiz"
+    ],
+    "Matched Materials": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau, Produktion Schweiz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 354,
+      "prompt_tokens": 1816,
+      "total_tokens": 2170,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.068,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01616
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an external folding door (IfcDoor) with dimensions 4.125m x 4.2m. It is categorized as a door and is part of the facade. No specific material is defined.",
+    "Preliminary Selection": [
+      "Aussentüre, Aluminium, Glaseinsatz",
+      "Aussentüre, Aluminium, Paneelfüllung",
+      "Aussentüre, Holz",
+      "Aussentüre, Holz, aluminiumbeplankt",
+      "Aussentüre, Holz, Glaseinsatz"
+    ],
+    "Matched Materials": [
+      "Aussentüre, Aluminium, Glaseinsatz",
+      "Aussentüre, Aluminium, Paneelfüllung",
+      "Aussentüre, Holz",
+      "Aussentüre, Holz, aluminiumbeplankt",
+      "Aussentüre, Holz, Glaseinsatz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 200,
+      "prompt_tokens": 1525,
+      "total_tokens": 1725,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.993,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00139
+  }
+}

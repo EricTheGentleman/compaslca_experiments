@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a rectangular structural column named 'STB Stütze - rechteckig' with a material type of 'Betonfertigteil'. It is load-bearing and has dimensions of 0.45m x 0.45m x 3.35m.",
+    "Preliminary Selection": [
+      "Betonfertigteil, hochfester Beton, ab Werk",
+      "Betonfertigteil, Normalbeton, ab Werk",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Betonfertigteil, hochfester Beton, ab Werk",
+      "Betonfertigteil, Normalbeton, ab Werk",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 221,
+      "prompt_tokens": 1792,
+      "total_tokens": 2013,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.622,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01338
+  }
+}

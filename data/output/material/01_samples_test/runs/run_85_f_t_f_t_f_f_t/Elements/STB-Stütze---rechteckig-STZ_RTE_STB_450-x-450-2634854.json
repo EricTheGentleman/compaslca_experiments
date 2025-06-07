@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine tragende rechteckige Stütze (STB Stütze) mit den Abmessungen 450 x 450 mm und einem Volumen von 0.6784 m³. Das Material ist Betonfertigteil, und das Element ist nicht extern und unter Terrain.",
+    "Matched Materials": [
+      "Betonfertigteil, hochfester Beton, ab Werk",
+      "Betonfertigteil, Normalbeton, ab Werk"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 112,
+      "prompt_tokens": 1720,
+      "total_tokens": 1832,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.558,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0013
+  }
+}

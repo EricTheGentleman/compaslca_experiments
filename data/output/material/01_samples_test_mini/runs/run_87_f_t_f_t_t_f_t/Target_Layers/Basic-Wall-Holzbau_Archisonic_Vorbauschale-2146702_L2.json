@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Standardwand (IfcWallStandardCase) mit einer Schicht aus MDF (Mitteldichte Faserplatte) und einer Dicke von 0.012 Metern. Es hat eine nicht tragende Funktion und ist Teil des Innenausbaus.",
+    "Preliminary Selection": [
+      "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ],
+    "Matched Materials": [
+      "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 105,
+      "prompt_tokens": 1613,
+      "total_tokens": 1718,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.812,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.010165
+  }
+}

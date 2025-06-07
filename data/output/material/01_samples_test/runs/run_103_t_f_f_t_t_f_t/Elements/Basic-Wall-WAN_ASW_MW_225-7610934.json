@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a non-bearing wall made of 'Mauerwerk - Ziegel' (brickwork) with a thickness of 0.225 meters. It is categorized as an external wall and has a description indicating it is made of Kalksandstein (lime sandstone) with a density of 1,800 kg/m³.",
+    "Preliminary Selection": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ],
+    "Matched Materials": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 145,
+      "prompt_tokens": 1674,
+      "total_tokens": 1819,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.189,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00135
+  }
+}

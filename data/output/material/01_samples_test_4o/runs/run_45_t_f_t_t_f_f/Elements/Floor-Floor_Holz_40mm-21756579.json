@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcSlab named 'Floor:Floor_Holz_40mm', with a reference to 'Floor_Holz_40mm'. It is not load-bearing and not external. The bounding box dimensions are 3.66m x 0.04m x 5.32m.",
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Brettschichtholz",
+      "Konstruktionsvollholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 110,
+      "prompt_tokens": 1271,
+      "total_tokens": 1381,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.167,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008555
+  }
+}

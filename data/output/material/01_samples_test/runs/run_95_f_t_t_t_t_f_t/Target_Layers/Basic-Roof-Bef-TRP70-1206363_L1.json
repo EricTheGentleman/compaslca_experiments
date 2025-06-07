@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine IfcSlab mit dem Namen 'Basic Roof:Bef TRP70:1206363'. Es hat eine oberste Schicht aus 'Tape Covered Tin Roof - Black' mit einer Dicke von 0.005 Metern und eine darunterliegende Schicht aus 'Insulation - Mineral wool' mit einer Dicke von 0.308 Metern. Das Element ist tragend, extern und hat eine Absorptanz von 0.1.",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 159,
+      "prompt_tokens": 1109,
+      "total_tokens": 1268,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.626,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00105
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an external roof covering (Dachabdeckung) with a metal sheet (Blech) layer, specifically a 'Dachdeckung - Blechdach'. It is not load-bearing and is part of a multi-layered roof system.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt",
+      "Kupferblech, blank",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt",
+      "Kupferblech, blank",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 236,
+      "prompt_tokens": 1797,
+      "total_tokens": 2033,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.484,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.013705
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a non-structural, exterior basic wall with a ventilated wood facade. The target material layer is 'Luft' with a thickness of 0.03 meters. The wall includes a vertical wood cladding layer made of softwood, painted black, with a thickness of 0.02 meters.",
+    "Preliminary Selection": [],
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 91,
+      "prompt_tokens": 1993,
+      "total_tokens": 2084,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.17,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.011785
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcMember named 'Fenster-Pfosten Brett' with dimensions indicating it is a vertical member for a window frame. No specific material is defined, but it is categorized under 'Fassadenelement'.",
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 63,
+      "prompt_tokens": 1979,
+      "total_tokens": 2042,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.603,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.011155
+  }
+}

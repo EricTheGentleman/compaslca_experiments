@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an external door (IfcDoor) with a specified size and fire rating, but no material is defined. The door is categorized as a panel type.",
+    "Preliminary Selection": [
+      "Aussentüre, Aluminium, Glaseinsatz",
+      "Aussentüre, Aluminium, Paneelfüllung",
+      "Aussentüre, Holz, Glaseinsatz",
+      "Aussentüre, Holz, aluminiumbeplankt",
+      "Aussentüre, Holz, Paneelfüllung"
+    ],
+    "Matched Materials": [
+      "Aussentüre, Aluminium, Paneelfüllung",
+      "Aussentüre, Holz, Paneelfüllung"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 162,
+      "prompt_tokens": 1264,
+      "total_tokens": 1426,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.662,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00115
+  }
+}

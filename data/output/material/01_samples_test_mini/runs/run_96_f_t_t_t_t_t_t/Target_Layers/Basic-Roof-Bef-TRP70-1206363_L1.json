@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine tragende Dachplatte (IfcSlab) mit einer Schicht aus 'Tape Covered Tin Roof - Black' und einer Dicke von 0.005 Metern. Es ist extern und hat eine Absorptanz von 0.1. Eine weitere Schicht besteht aus Mineralwolle-Isolierung mit einer Dicke von 0.308 Metern.",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 147,
+      "prompt_tokens": 1234,
+      "total_tokens": 1381,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.663,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00911
+  }
+}

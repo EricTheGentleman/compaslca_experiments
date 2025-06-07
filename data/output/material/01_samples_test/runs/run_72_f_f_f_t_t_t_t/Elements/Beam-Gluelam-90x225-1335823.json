@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a beam made of Gluelam wood, with dimensions 90x225 mm and a load-bearing property. It is categorized under beams in the OmniClass classification.",
+    "Preliminary Selection": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Stabschichtholz, Buche, fagus"
+    ],
+    "Matched Materials": [
+      "Balkenschichtholz",
+      "Brettschichtholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 101,
+      "prompt_tokens": 1369,
+      "total_tokens": 1470,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.968,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00106
+  }
+}

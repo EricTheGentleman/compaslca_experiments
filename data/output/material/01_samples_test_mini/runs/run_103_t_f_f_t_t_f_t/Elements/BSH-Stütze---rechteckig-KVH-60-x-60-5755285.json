@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a rectangular column made of laminated wood (BSH) with dimensions 60 x 60 cm and a height of 2.21 m. The material specified is 'Holz Brettschicht - C24 Cl.1'.",
+    "Preliminary Selection": [
+      "Brettschichtholz",
+      "Balkenschichtholz",
+      "Konstruktionsvollholz"
+    ],
+    "Matched Materials": [
+      "Brettschichtholz",
+      "Balkenschichtholz",
+      "Konstruktionsvollholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 118,
+      "prompt_tokens": 1572,
+      "total_tokens": 1690,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.188,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01022
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Basic Wall made of MDF with a thickness of 0.012 meters. It is a non-bearing wall with an exterior function and has another layer made of Archisonic Charcoal. The wall is categorized under Walls and is part of the Innenausbau workset.",
+    "Matched Materials": [
+      "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 91,
+      "prompt_tokens": 1444,
+      "total_tokens": 1535,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.635,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00108
+  }
+}

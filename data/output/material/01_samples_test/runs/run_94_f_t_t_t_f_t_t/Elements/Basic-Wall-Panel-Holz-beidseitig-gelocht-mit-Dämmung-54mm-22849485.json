@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine Basic Wall aus Holz mit Dämmung, hat eine Feuerwiderstandsklasse von REI 60 und ist nicht tragend. Es ist als externes Element klassifiziert.",
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz",
+      "Furniersperrholz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetrocknet, rau",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 189,
+      "prompt_tokens": 1378,
+      "total_tokens": 1567,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.913,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00128
+  }
+}

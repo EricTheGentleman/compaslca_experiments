@@ -1,0 +1,31 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine nicht tragende Wand mit einer Holzfassade, die eine Luftschicht enthält. Die Wand hat eine Dicke von 0.03 m und ist Teil eines Außenbaus. Die anderen Materialschichten umfassen eine vertikale Holzschalung aus Nadelholz.",
+    "Preliminary Selection": [],
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 82,
+      "prompt_tokens": 1843,
+      "total_tokens": 1925,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.623,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0013
+  }
+}

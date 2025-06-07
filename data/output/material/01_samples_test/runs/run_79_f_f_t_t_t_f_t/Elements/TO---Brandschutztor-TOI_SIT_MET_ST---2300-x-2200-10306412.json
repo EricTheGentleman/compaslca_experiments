@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a fire-rated door (EI 30) categorized as a 'Brandschutztor' (fire protection door) with a construction type of 'Typ 3'. It is an interior door and has specific dimensions (2300 x 2200).",
+    "Preliminary Selection": [
+      "Innentüre, Aluminium, Glaseinsatz",
+      "Innentüre, Funktionstüre, Holz, Holzrahmen",
+      "Innentüre, Funktionstüre, Holz, Stahlzarge",
+      "Innentüre, Zimmertüre, Holz, Glaseinsatz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Glaseinsatz, Stahlzarge",
+      "Innentüre, Zimmertüre, Holz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Stahlzarge"
+    ],
+    "Matched Materials": [
+      "Innentüre, Funktionstüre, Holz, Holzrahmen",
+      "Innentüre, Funktionstüre, Holz, Stahlzarge"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 239,
+      "prompt_tokens": 1341,
+      "total_tokens": 1580,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.914,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00138
+  }
+}

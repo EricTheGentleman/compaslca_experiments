@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein IfcSlab mit dem Namen 'Floor:Floor_Holz_40mm', das als nicht tragend und nicht extern klassifiziert ist. Es sind keine spezifischen Materialdaten definiert.",
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Furniersperrholz",
+      "Konstruktionsvollholz",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 159,
+      "prompt_tokens": 1155,
+      "total_tokens": 1314,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.146,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008955
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a non-bearing wall named 'Basic Wall:Holzbau_Archisonic_Vorbauschale' with a thickness of 0.012 meters, made of MDF and another layer of 'Archisonic Charcoal'. It is categorized under walls and has properties indicating it is room bounding and has a specific construction function.",
+    "Preliminary Selection": [
+      "Mitteldichte Faserplatte (MDF), UF-gebunden",
+      "Hartfaserplatte"
+    ],
+    "Matched Materials": [
+      "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 127,
+      "prompt_tokens": 1493,
+      "total_tokens": 1620,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.289,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.010005
+  }
+}

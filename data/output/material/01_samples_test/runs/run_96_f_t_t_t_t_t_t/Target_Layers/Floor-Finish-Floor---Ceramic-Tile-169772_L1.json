@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Finish Floor aus Keramischen Fliesen mit einer Dicke von 0.01 Metern. Es handelt sich um eine tragende Struktur (IfcSlab) mit einer Fläche von 6.3398 m² und einer Höhe von 0.013 Metern. Es gibt auch eine andere Materialschicht aus Mauerwerk-Grout mit einer Dicke von 0.003 Metern.",
+    "Preliminary Selection": [
+      "Keramik-/Steinzeugplatte"
+    ],
+    "Matched Materials": [
+      "Keramik-/Steinzeugplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 120,
+      "prompt_tokens": 1195,
+      "total_tokens": 1315,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.336,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00101
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a parking space with a material name 'Farbe - Straßenmarkierung weiß', indicating a white road marking paint.",
+    "Preliminary Selection": [
+      "Anstrich, lösemittelverdünnbar, 2 Anstriche",
+      "Anstrich, wasserverdünnbar, 2 Anstriche"
+    ],
+    "Matched Materials": [
+      "Anstrich, lösemittelverdünnbar, 2 Anstriche",
+      "Anstrich, wasserverdünnbar, 2 Anstriche"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Anstrichstoffe, Beschichtungen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 119,
+      "prompt_tokens": 1224,
+      "total_tokens": 1343,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.223,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.0085
+  }
+}

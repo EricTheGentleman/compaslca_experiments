@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcBeam named 'HEB Träger:TRA_HEB_STA_180' with material 'Metall - Baustahl S235'. It is load-bearing, part of structural framing, and has a fire rating of R 60.",
+    "Preliminary Selection": [
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 87,
+      "prompt_tokens": 1831,
+      "total_tokens": 1918,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.167,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010895
+  }
+}

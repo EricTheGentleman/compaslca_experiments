@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Bodenbelag (IfcCovering) mit einer Dämmung für Trittschall von 0.02 m Dicke. Es enthält auch eine Schmutzstreifen-Schicht und eine Betonschicht von 0.08 m Dicke. Die relevanten Materialien sind Dämmung und Beton.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Polystyrol expandiert (EPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Polystyrol expandiert (EPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 147,
+      "prompt_tokens": 1823,
+      "total_tokens": 1970,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.867,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.012055
+  }
+}

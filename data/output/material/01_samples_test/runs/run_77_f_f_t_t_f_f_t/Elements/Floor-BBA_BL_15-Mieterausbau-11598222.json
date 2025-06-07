@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor covering named 'BBA_BL_15-Mieterausbau' with a thickness of 0.015 meters. It is categorized under floors and is used for interior applications. The material specified is 'Standard - Fußboden'.",
+    "Matched Materials": [
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Laminat, 8.5 mm",
+      "Linoleum, 2.5 mm",
+      "PVC homogen, 2 mm",
+      "Teppich Kunstfaser getuftet",
+      "Teppich Nadelfilz",
+      "Teppich Naturfaser"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 179,
+      "prompt_tokens": 1494,
+      "total_tokens": 1673,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.068,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00133
+  }
+}

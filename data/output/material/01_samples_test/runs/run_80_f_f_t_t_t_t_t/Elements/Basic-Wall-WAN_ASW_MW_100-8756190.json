@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a non-bearing exterior wall named 'Basic Wall:WAN_ASW_MW_100' with a material layer of 'Mauerwerk - ohne Dämmeigenschaften' (masonry without insulating properties) and a thickness of 0.1 meters.",
+    "Preliminary Selection": [
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims",
+      "Kalksandstein",
+      "Backstein"
+    ],
+    "Matched Materials": [
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims",
+      "Kalksandstein",
+      "Backstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 145,
+      "prompt_tokens": 1469,
+      "total_tokens": 1614,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.914,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00123
+  }
+}

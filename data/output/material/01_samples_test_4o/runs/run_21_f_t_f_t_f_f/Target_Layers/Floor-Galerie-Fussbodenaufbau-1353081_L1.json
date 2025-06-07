@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab named 'Floor:Galerie Fussbodenaufbau:1353081' with a primary material layer of 'PU Bodenbelag - Sika PS23' having a thickness of 4 mm. It is part of a multi-layered floor system with additional layers including 'Knauf - Vidiwall', 'Knauf - Brio Heizboden 25', and 'Trittschalldämmung Flumroc 341'. The element is categorized under 'Floors' and is located at 'Level: 01_Galerie'.",
+    "Matched Materials": [
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "PVC homogen, 2 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 169,
+      "prompt_tokens": 1566,
+      "total_tokens": 1735,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.604,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01121
+  }
+}

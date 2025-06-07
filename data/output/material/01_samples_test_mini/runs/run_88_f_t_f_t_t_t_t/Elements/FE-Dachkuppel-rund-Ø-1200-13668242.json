@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Elementtyp ist IfcWindow, spezifisch ein Dachfenster mit der Bezeichnung 'FE Dachkuppel rund:Ø=1200'. Es wird eine Isolierverglasung als Material angegeben, jedoch keine spezifischen Materialdaten für den Rahmen.",
+    "Preliminary Selection": [
+      "Isolierverglasung 3-fach, ESG/ESG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, ESG/VSG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, Ug-Wert 0.5 W/m2K, Dicke 36 mm",
+      "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K, Dicke 40 mm",
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K"
+    ],
+    "Matched Materials": [
+      "Isolierverglasung 3-fach, ESG/ESG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, ESG/VSG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, Ug-Wert 0.5 W/m2K, Dicke 36 mm",
+      "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K, Dicke 40 mm",
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 351,
+      "prompt_tokens": 1885,
+      "total_tokens": 2236,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.379,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.016445
+  }
+}

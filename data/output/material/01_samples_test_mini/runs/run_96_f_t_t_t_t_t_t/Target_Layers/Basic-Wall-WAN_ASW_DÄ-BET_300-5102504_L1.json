@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein nicht tragender Wandtyp mit dem Materialnamen 'Betonfertigteil' und einer Dicke von 0.1 Metern. Es handelt sich um eine Außenwand mit einer Feuerwiderstandsklasse von REI 60.",
+    "Preliminary Selection": [
+      "Betonfertigteil, hochfester Beton, ab Werk",
+      "Betonfertigteil, Normalbeton, ab Werk",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Betonfertigteil, hochfester Beton, ab Werk",
+      "Betonfertigteil, Normalbeton, ab Werk",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 216,
+      "prompt_tokens": 2162,
+      "total_tokens": 2378,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.571,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01513
+  }
+}

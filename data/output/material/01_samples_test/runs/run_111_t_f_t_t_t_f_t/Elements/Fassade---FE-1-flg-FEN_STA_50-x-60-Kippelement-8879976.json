@@ -1,0 +1,45 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a window (IfcWindow) with a name indicating it is a facade element. It has a glazing type specified as 'Glas - klar' and a frame material of 'Aluminum'. The dimensions are provided, and it is categorized under windows with specific thermal transmittance values.",
+    "Preliminary Selection": [
+      "Isolierverglasung 2-fach, ESG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, ESG/VSG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 18 mm",
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 24 mm",
+      "Isolierverglasung 2-fach, VSG, Ug-Wert 1.1 W/m2K",
+      "Fensterrahmen Aluminium"
+    ],
+    "Matched Materials": [
+      "Isolierverglasung 2-fach, ESG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, ESG/VSG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 18 mm",
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 24 mm",
+      "Isolierverglasung 2-fach, VSG, Ug-Wert 1.1 W/m2K",
+      "Fensterrahmen Aluminium"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 376,
+      "prompt_tokens": 2016,
+      "total_tokens": 2392,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 9.729,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00211
+  }
+}

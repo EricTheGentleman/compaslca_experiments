@@ -1,0 +1,47 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Bodenplatte (IfcSlab) mit einer Dicke von 581 mm, die im Innenbereich verwendet wird. Es hat eine Fläche von 38.0089 m² und ist Teil des Hauptgeschosses. Es sind keine spezifischen Materialien definiert.",
+    "Preliminary Selection": [
+      "2K-Fliessbelag Industrie (Epoxidharz), 2.25 mm",
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "Gummigranulat versiegelt, 7.5 mm",
+      "Hartbeton einschichtig, 27.5 mm",
+      "Hartbeton zweischichtig, 35 mm",
+      "Kautschuk, 2 mm",
+      "Linoleum, 2.5 mm",
+      "PVC homogen, 2 mm",
+      "Teppich Kunstfaser getuftet",
+      "Teppich Nadelfilz",
+      "Teppich Naturfaser"
+    ],
+    "Matched Materials": [
+      "Hartbeton zweischichtig, 35 mm",
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "Linoleum, 2.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 287,
+      "prompt_tokens": 1406,
+      "total_tokens": 1693,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.174,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01277
+  }
+}

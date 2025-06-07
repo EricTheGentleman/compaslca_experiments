@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a concrete stair flight with a tread depth of 300mm, width of 1400mm, and riser height of 165mm. The material is not defined, but it references concrete and is for interior use.",
+    "Matched Materials": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 196,
+      "prompt_tokens": 1217,
+      "total_tokens": 1413,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.893,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.010005
+  }
+}

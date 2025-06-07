@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcWall named 'Attikablech Galerie Südwest' with a defined area and volume, categorized under walls in the architecture workset. Material data is not defined.",
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 54,
+      "prompt_tokens": 852,
+      "total_tokens": 906,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.227,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00534
+  }
+}

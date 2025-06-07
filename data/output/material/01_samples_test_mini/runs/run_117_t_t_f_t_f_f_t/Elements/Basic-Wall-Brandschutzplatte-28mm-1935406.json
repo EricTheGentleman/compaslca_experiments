@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Basic Wall mit einer Brandschutzplatte aus Gipsfaserplatte mit einer Dicke von 28mm. Es hat eine strukturelle Funktion und ist für den Außenbereich vorgesehen.",
+    "Matched Materials": [
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 75,
+      "prompt_tokens": 1508,
+      "total_tokens": 1583,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.857,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00904
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a precast stair flight made of concrete, specifically referred to as 'Betonfertigteil'. The object type indicates it is a monolithic run with a reference to 'Beton Fertigteil 180'.",
+    "Preliminary Selection": [
+      "Betonfertigteil, hochfester Beton, ab Werk",
+      "Betonfertigteil, Normalbeton, ab Werk",
+      "Hochbaubeton (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Betonfertigteil, hochfester Beton, ab Werk",
+      "Betonfertigteil, Normalbeton, ab Werk"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 152,
+      "prompt_tokens": 1326,
+      "total_tokens": 1478,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.718,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00967
+  }
+}

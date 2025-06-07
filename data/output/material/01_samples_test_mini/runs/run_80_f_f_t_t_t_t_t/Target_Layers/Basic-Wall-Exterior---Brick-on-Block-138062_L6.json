@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Basic Wall:Exterior with a plasterboard layer of 0.016m thickness. Other layers include masonry brick, air space, rigid insulation, concrete block, and metal stud. The wall is external and not load-bearing.",
+    "Preliminary Selection": [
+      "Gipskartonplatte",
+      "Gips-Wandbauplatte / Vollgipsplatte"
+    ],
+    "Matched Materials": [
+      "Gipskartonplatte",
+      "Gips-Wandbauplatte / Vollgipsplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 116,
+      "prompt_tokens": 1255,
+      "total_tokens": 1371,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.15,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008595
+  }
+}

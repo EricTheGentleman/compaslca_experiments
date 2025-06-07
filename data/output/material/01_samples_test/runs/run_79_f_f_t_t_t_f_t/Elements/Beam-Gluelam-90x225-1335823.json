@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Gluelam beam with dimensions 90x225 mm, identified as a load-bearing structural element made of wood. Its properties indicate it is part of a workset and has a specific volume and length.",
+    "Preliminary Selection": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Stabschichtholz, Buche, fagus"
+    ],
+    "Matched Materials": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Stabschichtholz, Buche, fagus"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 130,
+      "prompt_tokens": 1291,
+      "total_tokens": 1421,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.047,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00109
+  }
+}

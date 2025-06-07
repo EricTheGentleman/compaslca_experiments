@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine nicht tragende Wand mit dem Namen 'Basic Wall:DÄ_FUN_VER_100', die eine Dämmung aus hartem Material mit einer Dicke von 0.1 Metern enthält. Die Wand hat eine Fläche von 8.4216 m² und eine thermische Übertragung von 0.27.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Polystyrol expandiert (EPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Polystyrol expandiert (EPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 147,
+      "prompt_tokens": 2040,
+      "total_tokens": 2187,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.291,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00158
+  }
+}

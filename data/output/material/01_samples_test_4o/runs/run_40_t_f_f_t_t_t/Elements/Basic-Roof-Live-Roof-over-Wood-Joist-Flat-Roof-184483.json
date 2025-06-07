@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a roof slab named 'Live Roof over Wood Joist Flat Roof'. Material data is not defined.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Balkenschichtholz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Balkenschichtholz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 191,
+      "prompt_tokens": 1326,
+      "total_tokens": 1517,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.36,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01045
+  }
+}

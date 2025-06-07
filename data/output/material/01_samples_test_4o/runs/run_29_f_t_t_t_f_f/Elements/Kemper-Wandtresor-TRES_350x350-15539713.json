@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a Kemper Wandtresor with type IfcBuildingElementProxy, primarily made of Edelstahl (stainless steel), categorized as a facade element (Fassadenelement) and part of facade cladding (A_Fassadenbekleidung).",
+    "Matched Materials": [
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 115,
+      "prompt_tokens": 1219,
+      "total_tokens": 1334,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.921,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008395
+  }
+}

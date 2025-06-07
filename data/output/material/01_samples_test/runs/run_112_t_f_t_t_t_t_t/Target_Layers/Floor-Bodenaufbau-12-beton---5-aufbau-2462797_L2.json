@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a load-bearing floor slab made of concrete with a thickness of 0.12 meters. The material name indicates it is a type of concrete (Ortbeton) suitable for structural applications.",
+    "Preliminary Selection": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK A, 280kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 252,
+      "prompt_tokens": 1627,
+      "total_tokens": 1879,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.53,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00158
+  }
+}

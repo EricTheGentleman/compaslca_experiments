@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcPlate used as a curtain panel with the type PAN_DÄM_ALU_50, associated with facades, specifically curtain panels. The material is unspecified (Default), but the name suggests an aluminum component.",
+    "Matched Materials": [
+      "Fassadenplatte, Aluverbund, 4 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 78,
+      "prompt_tokens": 1887,
+      "total_tokens": 1965,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.706,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010995
+  }
+}

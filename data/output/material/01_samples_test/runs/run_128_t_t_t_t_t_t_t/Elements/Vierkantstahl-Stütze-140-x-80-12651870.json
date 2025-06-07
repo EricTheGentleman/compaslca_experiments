@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Vierkantstahlstütze mit den Abmessungen 140 x 80 mm, aus Baustahl S235, tragend und nicht außenliegend. Es hat ein Volumen von 0.043 m³ und gehört zur Kategorie der strukturellen Säulen.",
+    "Preliminary Selection": [
+      "Stahlprofil, blank",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt"
+    ],
+    "Matched Materials": [
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 109,
+      "prompt_tokens": 1685,
+      "total_tokens": 1794,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.966,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00127
+  }
+}

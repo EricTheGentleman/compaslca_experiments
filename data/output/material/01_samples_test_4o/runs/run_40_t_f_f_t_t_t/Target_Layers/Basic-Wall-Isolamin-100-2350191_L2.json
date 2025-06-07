@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material is 'Mineral Wool' with a thickness of 0.095 meters, used in an interior, load-bearing, non-external wall (IfcWallStandardCase) named 'Basic Wall:Isolamin 100:2350191'. The wall is structural and uses mineral wool as the structural material.",
+    "Preliminary Selection": [
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ],
+    "Matched Materials": [
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 117,
+      "prompt_tokens": 1354,
+      "total_tokens": 1471,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1280
+      }
+    },
+    "processing_time": 1.884,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00911
+  }
+}

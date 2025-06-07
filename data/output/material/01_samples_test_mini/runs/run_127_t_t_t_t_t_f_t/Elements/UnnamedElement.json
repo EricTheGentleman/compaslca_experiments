@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein IfcRailing aus Stahl mit einer Höhe von 0.8 Metern und ist extern. Es hat ein Volumen von 0.0076 m³ und eine gesamte Oberfläche von 2.039 m².",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank",
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen"
+    ],
+    "Matched Materials": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank",
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 146,
+      "prompt_tokens": 1041,
+      "total_tokens": 1187,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.298,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008125
+  }
+}

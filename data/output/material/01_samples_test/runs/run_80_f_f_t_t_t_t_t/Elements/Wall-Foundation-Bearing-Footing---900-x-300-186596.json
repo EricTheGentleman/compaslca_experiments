@@ -1,0 +1,49 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Wall Foundation with dimensions 900 x 300 mm and a volume of approximately 4.9364 m³. It is classified as a shallow foundation and does not have a defined material.",
+    "Preliminary Selection": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK A, 280kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)",
+      "Tiefbaubeton (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK A, 280kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)",
+      "Tiefbaubeton (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 408,
+      "prompt_tokens": 1378,
+      "total_tokens": 1786,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 9.828,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00181
+  }
+}

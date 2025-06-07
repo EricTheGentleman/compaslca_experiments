@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Bodenbelag (IfcCovering) mit einer Dicke von 15 mm, der als 'Standard - Fußboden' klassifiziert ist. Es gehört zur Kategorie 'Floors' und hat eine Fläche von 355.0323 m².",
+    "Preliminary Selection": [
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Parkett 2-Schicht werkversiegelt, 11 mm",
+      "Parkett 3-Schicht werkversiegelt, 15 mm",
+      "Teppich Kunstfaser getuftet"
+    ],
+    "Matched Materials": [
+      "Parkett 3-Schicht werkversiegelt, 15 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 172,
+      "prompt_tokens": 1813,
+      "total_tokens": 1985,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.874,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0015
+  }
+}

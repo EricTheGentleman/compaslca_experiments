@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Preliminary Selection": [
+      "Konstruktionsvollholz",
+      "Brettschichtholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt"
+    ],
+    "Matched Materials": [
+      "Konstruktionsvollholz",
+      "Brettschichtholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 83,
+      "prompt_tokens": 1411,
+      "total_tokens": 1494,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.52,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00105
+  }
+}

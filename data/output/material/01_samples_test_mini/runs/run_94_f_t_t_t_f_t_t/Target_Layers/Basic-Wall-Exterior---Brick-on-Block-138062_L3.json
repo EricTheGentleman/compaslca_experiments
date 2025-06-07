@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Außenwand mit einer Schicht aus starren Dämmmaterialien (Rigid insulation) mit einer Dicke von 0.05 Metern. Die Wand besteht aus mehreren Schichten, darunter Ziegel, Luftschichten und Betonblöcke. Es handelt sich um eine nicht tragende Wand, die als Außenwand klassifiziert ist.",
+    "Matched Materials": [
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 123,
+      "prompt_tokens": 1434,
+      "total_tokens": 1557,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.201,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00963
+  }
+}

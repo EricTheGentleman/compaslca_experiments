@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine nicht tragende Innenbodenplatte (IfcSlab) mit einer Dicke von 0.09 m, einer Fläche von 54.2178 m² und einer Wärmeübertragungskoeffizienten von 0.425. Es ist als DÄ_80 klassifiziert und hat eine Dämmung aus weichem Material (8 cm).",
+    "Matched Materials": [
+      "Glaswolle",
+      "Polystyrol expandiert (EPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 124,
+      "prompt_tokens": 1434,
+      "total_tokens": 1558,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.682,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00116
+  }
+}

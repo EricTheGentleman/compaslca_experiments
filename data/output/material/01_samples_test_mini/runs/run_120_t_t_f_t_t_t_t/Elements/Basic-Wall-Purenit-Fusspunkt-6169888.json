@@ -1,0 +1,31 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine nicht tragende Wand mit dem Namen 'Basic Wall:Purenit Fusspunkt', die aus einem Material namens 'Purenit' besteht. Die Wand hat eine Dicke von 0.025 Metern und eine gesamte Fläche von 2.95077 Quadratmetern. Sie ist für den Außenbereich konzipiert und hat eine grobe Oberflächenbeschaffenheit.",
+    "Preliminary Selection": [],
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 100,
+      "prompt_tokens": 1458,
+      "total_tokens": 1558,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1408
+      }
+    },
+    "processing_time": 3.068,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00929
+  }
+}

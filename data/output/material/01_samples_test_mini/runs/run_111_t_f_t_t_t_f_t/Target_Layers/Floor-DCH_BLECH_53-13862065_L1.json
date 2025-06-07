@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a slab (Dachabdeckung) with a primary material of 'Dachdeckung - Blechdach' (metal roof covering) and has a thickness of approximately 8mm. It is categorized as an external load-bearing element. Other layers include bitumen and wood materials.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 144,
+      "prompt_tokens": 1695,
+      "total_tokens": 1839,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.412,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.011355
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab named 'Floor_Linoleum_5mm' with no defined material data. It is not load-bearing and is not external.",
+    "Preliminary Selection": [
+      "Linoleum, 2.5 mm"
+    ],
+    "Matched Materials": [
+      "Linoleum, 2.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 75,
+      "prompt_tokens": 1139,
+      "total_tokens": 1214,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.71,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.007195
+  }
+}

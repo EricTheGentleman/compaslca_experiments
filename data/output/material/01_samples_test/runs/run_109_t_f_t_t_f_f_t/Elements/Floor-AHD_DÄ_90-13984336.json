@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab (IfcSlab) with a volume of 4.8742 cubic meters, a thickness of 0.09 meters, and is categorized as an interior, non-load bearing floor. It has a thermal transmittance of 0.425 and is related to insulation materials.",
+    "Matched Materials": [
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Zellulosefasern"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 123,
+      "prompt_tokens": 1526,
+      "total_tokens": 1649,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.456,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00121
+  }
+}

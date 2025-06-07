@@ -1,0 +1,49 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Bodenbelag (IfcCovering) mit dem Namen 'Floor:BBA_HBE_50-BG1', der aus einer Schicht Beton (Material Name: 'Beton - CT') mit einer Dicke von 0.05 Metern besteht. Es handelt sich um einen tragenden Bodenbelag, der in einem Neubau verwendet wird.",
+    "Preliminary Selection": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton, NovoCon C50/E25, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+      "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK A, 280kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton, NovoCon C50/E25, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+      "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK A, 280kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 554,
+      "prompt_tokens": 1968,
+      "total_tokens": 2522,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 10.443,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.02092
+  }
+}

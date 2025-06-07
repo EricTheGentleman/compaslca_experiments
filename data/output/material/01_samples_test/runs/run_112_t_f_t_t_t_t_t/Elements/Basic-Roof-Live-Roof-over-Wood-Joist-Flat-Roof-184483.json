@@ -1,0 +1,47 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a flat roof slab named 'Basic Roof:Live Roof over Wood Joist Flat Roof'. It has no defined material data but is likely to be made of wood-based materials given the context of a live roof over wood joists.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 280,
+      "prompt_tokens": 1350,
+      "total_tokens": 1630,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.612,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00148
+  }
+}

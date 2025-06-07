@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab (IfcSlab) with a primary material layer of 'Dachdeckung - Bitumenbahn' (bitumen membrane) with a thickness of 0.01m. It is categorized as an external load-bearing element and is part of a roof covering assembly.",
+    "Matched Materials": [
+      "Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",
+      "Dichtungsbahn bituminös"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Dichtungsbahnen, Schutzfolien",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 142,
+      "prompt_tokens": 1372,
+      "total_tokens": 1514,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.275,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0097
+  }
+}

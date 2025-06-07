@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein rechteckiger Holzträger mit den Abmessungen 60 x 160 mm, der eine Spannweite von 3.66 m hat und tragend ist. Das Material ist nicht definiert, aber es handelt sich um einen Holzträger.",
+    "Matched Materials": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 149,
+      "prompt_tokens": 1228,
+      "total_tokens": 1377,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.607,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00109
+  }
+}

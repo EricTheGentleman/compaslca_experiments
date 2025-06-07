@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Funktionsdecke (IfcSlab) mit einer Schicht aus Spachtelmasse (1 cm dick) und einer darunter liegenden Schicht aus Ortbeton (35 cm dick). Es befindet sich in der Galerie auf der ersten Ebene und hat eine Fläche von 22.4425 m².",
+    "Matched Materials": [
+      "Unterlagsboden Anhydrit, 60 mm",
+      "Unterlagsboden Zement, 85 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 112,
+      "prompt_tokens": 1227,
+      "total_tokens": 1339,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.458,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.001
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Basic Wall with a Holzfassade (wood facade) and includes layers of Luft (air) and Holzschalung (wood cladding). The wall is non-bearing and has a total thickness of 0.03m for the Luft layer. The element is categorized under walls and is part of the architecture workset.",
+    "Matched Materials": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetrocknet, gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 163,
+      "prompt_tokens": 1640,
+      "total_tokens": 1803,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.917,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01146
+  }
+}

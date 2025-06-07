@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Bodenbelag (IfcCovering) mit dem Namen 'Floor:BBA_ASP_120', der aus Asphalt besteht und eine Dicke von 0.12 Metern hat. Es gehört zur Kategorie 'Floors' und ist für Innenräume vorgesehen.",
+    "Matched Materials": [
+      "Gussasphalt, 27.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 84,
+      "prompt_tokens": 1651,
+      "total_tokens": 1735,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.969,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00119
+  }
+}

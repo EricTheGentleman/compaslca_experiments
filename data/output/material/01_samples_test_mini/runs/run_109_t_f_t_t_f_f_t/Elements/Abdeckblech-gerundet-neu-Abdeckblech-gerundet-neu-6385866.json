@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an 'IfcBuildingElementProxy' named 'Abdeckblech gerundet-neu' with a net volume of -0.48424 cubic meters and a surface area of 15.62349 square meters. It belongs to the category 'Generic Models' and is associated with the architectural workset.",
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 112,
+      "prompt_tokens": 1095,
+      "total_tokens": 1207,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.184,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.007715
+  }
+}

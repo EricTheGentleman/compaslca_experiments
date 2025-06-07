@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine IfcSlab mit dem Material 'Umgebung - Asphalt' und einer Dicke von 0.04 m. Es gibt auch andere Materialschichten wie 'Beton - Überbeton' und 'Dämmung - hart'. Das Element ist als nicht tragend klassifiziert und hat eine Kategorie von 'Floors'.",
+    "Matched Materials": [
+      "Gussasphalt, 27.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 100,
+      "prompt_tokens": 2140,
+      "total_tokens": 2240,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.326,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0127
+  }
+}

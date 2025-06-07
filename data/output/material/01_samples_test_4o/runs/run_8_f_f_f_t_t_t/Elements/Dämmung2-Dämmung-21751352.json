@@ -1,0 +1,59 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcSlab named 'Dämmung2:Dämmung:21751352' with reference to 'Dämmung', indicating insulation material. It is not external.",
+    "Preliminary Selection": [
+      "Aerogel-Vlies",
+      "Blähperlit",
+      "Blähvermiculit",
+      "Flachsfasern",
+      "Glaswolle",
+      "Korkplatte",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Schaumglas",
+      "Steinwolle",
+      "Weichfaserplatte",
+      "Zellulosefasern"
+    ],
+    "Matched Materials": [
+      "Aerogel-Vlies",
+      "Blähperlit",
+      "Blähvermiculit",
+      "Flachsfasern",
+      "Glaswolle",
+      "Korkplatte",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Schaumglas",
+      "Steinwolle",
+      "Weichfaserplatte",
+      "Zellulosefasern"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 241,
+      "prompt_tokens": 884,
+      "total_tokens": 1125,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.549,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00924
+  }
+}

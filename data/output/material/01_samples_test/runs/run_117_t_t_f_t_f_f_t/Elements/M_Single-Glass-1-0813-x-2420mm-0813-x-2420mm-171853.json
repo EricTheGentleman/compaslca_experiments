@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Tür (IfcDoor) mit den Abmessungen 0.813 x 2.42 m. Es hat keine definierten Materialien, aber es gibt spezifische Eigenschaften wie 'Door Material' und 'Frame Material', die auf eine Tür mit einem Paneel oder Glaseinsatz hinweisen.",
+    "Matched Materials": [
+      "Aussentüre, Aluminium, Glaseinsatz",
+      "Aussentüre, Holz, Glaseinsatz",
+      "Innentüre, Aluminium, Glaseinsatz",
+      "Innentüre, Zimmertüre, Holz, Glaseinsatz, Holzrahmen"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 142,
+      "prompt_tokens": 1188,
+      "total_tokens": 1330,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.92,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00105
+  }
+}

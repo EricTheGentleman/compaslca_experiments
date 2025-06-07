@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Basic Wall with a primary material of 'Trockenbau - Gipsplatte' (drywall) and an additional layer of 'Dämmung - weich' (soft insulation). The wall is non-bearing, has a fire rating of REI 60-RF1, and is categorized as an interior wall.",
+    "Matched Materials": [
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipskartonplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 104,
+      "prompt_tokens": 1791,
+      "total_tokens": 1895,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.592,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.011035
+  }
+}

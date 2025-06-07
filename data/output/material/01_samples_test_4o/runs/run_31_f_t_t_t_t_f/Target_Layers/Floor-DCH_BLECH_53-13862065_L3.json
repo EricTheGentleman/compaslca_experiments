@@ -1,0 +1,44 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is 'Dachdeckung - Holz' with a thickness of 0.025 meters, part of an IfcSlab element named 'Floor:DCH_BLECH_53:13862065'. The element is categorized as 'A_Dachbekleidung' and 'Dachabdeckung', indicating it is part of a roof covering. The context suggests it is an exterior, non-load-bearing floor element with a thermal transmittance of 24.9783.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Brettschichtholz",
+      "Furniersperrholz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Brettschichtholz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 277,
+      "prompt_tokens": 1956,
+      "total_tokens": 2233,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.912,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01532
+  }
+}

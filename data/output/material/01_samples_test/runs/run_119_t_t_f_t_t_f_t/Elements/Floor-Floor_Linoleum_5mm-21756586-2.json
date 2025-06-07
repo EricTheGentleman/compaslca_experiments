@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Linoleum-Fußbodenbelag mit einer Dicke von 5 mm, der als nicht tragend und nicht extern klassifiziert ist. Es hat ein Netto-Volumen von 0.0353 m³ und eine gesamte Fläche von 3.0502 m².",
+    "Preliminary Selection": [
+      "Linoleum, 2.5 mm"
+    ],
+    "Matched Materials": [
+      "Linoleum, 2.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 100,
+      "prompt_tokens": 1351,
+      "total_tokens": 1451,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.865,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00105
+  }
+}

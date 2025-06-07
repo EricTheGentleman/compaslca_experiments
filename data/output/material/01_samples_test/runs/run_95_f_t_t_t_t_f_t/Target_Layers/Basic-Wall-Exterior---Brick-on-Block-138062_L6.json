@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Außenwand (IfcWallStandardCase) mit mehreren Materialschichten, darunter Gipskartonplatte (Plasterboard) und verschiedene Mauerwerksmaterialien. Die Wand ist nicht tragend und hat eine Dicke von 0.016 m für die Gipskartonplatte.",
+    "Preliminary Selection": [
+      "Gipskartonplatte"
+    ],
+    "Matched Materials": [
+      "Gipskartonplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 96,
+      "prompt_tokens": 1389,
+      "total_tokens": 1485,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.843,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00106
+  }
+}

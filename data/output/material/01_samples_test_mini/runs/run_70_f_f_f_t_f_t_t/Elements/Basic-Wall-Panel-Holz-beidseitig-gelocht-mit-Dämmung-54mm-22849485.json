@@ -1,0 +1,50 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a Basic Wall made of wood with insulation, is external, and is not load-bearing. The material is not defined.",
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz",
+      "Furniersperrholz",
+      "Hartfaserplatte",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetrocknet, gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Buche / Eiche, luftgetrocknet, rau",
+      "Mitteldichte Faserplatte (MDF), UF-gebunden",
+      "OSB Platte, PF-gebunden, Feuchtbereich",
+      "Spanplatte, PF-gebunden, Feuchtbereich",
+      "Spanplatte, UF-gebunden, beschichtet, Trockenbereich",
+      "Spanplatte, UF-gebunden, Trockenbereich",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 338,
+      "prompt_tokens": 1203,
+      "total_tokens": 1541,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.757,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.012775
+  }
+}

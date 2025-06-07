@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a flat roof slab named 'Basic Roof:Live Roof over Wood Joist Flat Roof'. It has no defined material data but is likely to be made of wood-based materials given the context of a live roof over wood joists.",
+    "Preliminary Selection": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetrocknet, gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Konstruktionsvollholz",
+      "Brettschichtholz",
+      "3- und 5-Schicht Massivholzplatte"
+    ],
+    "Matched Materials": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetrocknet, gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Konstruktionsvollholz",
+      "Brettschichtholz",
+      "3- und 5-Schicht Massivholzplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 217,
+      "prompt_tokens": 1326,
+      "total_tokens": 1543,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.814,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00132
+  }
+}

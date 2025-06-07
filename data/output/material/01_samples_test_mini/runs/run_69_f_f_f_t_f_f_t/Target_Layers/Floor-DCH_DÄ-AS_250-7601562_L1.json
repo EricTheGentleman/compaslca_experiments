@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab (IfcSlab) with a top layer of asphalt (0.04m thick) and additional layers of concrete and insulation. It is categorized as an exterior, non-load bearing floor construction.",
+    "Matched Materials": [
+      "Gussasphalt, 27.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 74,
+      "prompt_tokens": 1681,
+      "total_tokens": 1755,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.536,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009885
+  }
+}

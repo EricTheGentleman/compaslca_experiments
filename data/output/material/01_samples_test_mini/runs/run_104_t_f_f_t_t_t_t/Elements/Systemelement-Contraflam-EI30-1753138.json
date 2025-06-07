@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcPlate named 'Systemelement:Contraflam EI30' with a material of 'Glas EI30'. It is categorized under 'Curtain Panels' and has a volume of 0.1069 cubic meters.",
+    "Preliminary Selection": [
+      "Isolierverglasung 3-fach, ESG/ESG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, ESG/VSG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, VSG, Ug-Wert 0.6 W/m2K"
+    ],
+    "Matched Materials": [
+      "Isolierverglasung 3-fach, ESG/ESG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, ESG/VSG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, VSG, Ug-Wert 0.6 W/m2K"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 235,
+      "prompt_tokens": 1760,
+      "total_tokens": 1995,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.612,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0135
+  }
+}

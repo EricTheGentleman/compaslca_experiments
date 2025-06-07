@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Wand (IfcWall) mit dem Namen 'Attikablech Galerie Südwest'. Es hat keine definierten Materialdaten, aber es ist Teil der Kategorie 'Wände' und hat eine gesamte Fläche von 9.80863 m². Es könnte sich um ein äußeres Element handeln, das möglicherweise korrosionsbeständige Materialien benötigt.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 141,
+      "prompt_tokens": 1320,
+      "total_tokens": 1461,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.048,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00942
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a facade element (Fassadenelement) named 'Kemper Wandtresor:TRES_350x350:15539713', categorized as 'Generic Models'. It is made of 'Edelstahl' (stainless steel) and is located outside (Lage Aussen: True).",
+    "Matched Materials": [
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 124,
+      "prompt_tokens": 1214,
+      "total_tokens": 1338,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.947,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00855
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Basic Wall with a specific material layer of 'Dachdeckung - Bitumenbahn' (bitumen membrane) and includes insulation. The wall is external and non-load bearing.",
+    "Preliminary Selection": [
+      "Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",
+      "Dichtungsbahn bituminös"
+    ],
+    "Matched Materials": [
+      "Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",
+      "Dichtungsbahn bituminös"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Dichtungsbahnen, Schutzfolien",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 198,
+      "prompt_tokens": 1519,
+      "total_tokens": 1717,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.788,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.011555
+  }
+}

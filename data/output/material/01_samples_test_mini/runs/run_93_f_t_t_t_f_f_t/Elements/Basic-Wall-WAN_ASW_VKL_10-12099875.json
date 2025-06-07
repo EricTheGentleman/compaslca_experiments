@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine nicht tragende Außenwand mit einer Schicht aus verzinktem Metall und hat die Bezeichnung 'WAN_ASW_VKL_10'. Es ist eine Verkleidung mit einer Dicke von 1 cm und gehört zur Kategorie 'Wände'.",
+    "Matched Materials": [
+      "Stahlblech, verzinkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 81,
+      "prompt_tokens": 1411,
+      "total_tokens": 1492,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.868,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008675
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a wall (IfcWallStandardCase) with a material layer set named 'Gips' which consists of a single layer of gypsum (Gips) with a thickness of 0.1 meters. The wall is not external and is not load-bearing.",
+    "Matched Materials": [
+      "Gips-/Weissputz",
+      "Gips-Kalk-Putz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 85,
+      "prompt_tokens": 821,
+      "total_tokens": 906,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.947,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0007
+  }
+}

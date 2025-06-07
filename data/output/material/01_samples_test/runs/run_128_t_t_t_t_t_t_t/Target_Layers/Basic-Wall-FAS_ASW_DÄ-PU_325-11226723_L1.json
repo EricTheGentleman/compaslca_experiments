@@ -1,0 +1,53 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Außenwand mit einer Schicht aus 'Putz Kieselwurf' und einer darunterliegenden Schicht aus 'Dämmung - weich'. Die Wand hat eine Dicke von 0.025 m für den Putz und ist nicht tragend.",
+    "Preliminary Selection": [
+      "Gips-/Weissputz",
+      "Gips-Kalk-Putz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Lehmputz",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Sumpfkalkputz",
+      "Weisszementputz",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Gips-/Weissputz",
+      "Gips-Kalk-Putz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Weisszementputz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 266,
+      "prompt_tokens": 2037,
+      "total_tokens": 2303,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 7.157,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00186
+  }
+}

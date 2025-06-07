@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Railing (Geländer) mit einer Höhe von 0.9 m und einer Länge von 1.2 m. Es gehört zur Kategorie 'Railings' und ist nicht definiert in Bezug auf Materialien.",
+    "Matched Materials": [
+      "Aluminiumprofil blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Stahlprofil, blank",
+      "Stahlblech, verzinkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 142,
+      "prompt_tokens": 1012,
+      "total_tokens": 1154,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.765,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0079
+  }
+}

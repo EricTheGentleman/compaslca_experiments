@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a non-load-bearing exterior wall with a galvanized metal cladding, described as 'Metall - verzinkt-Tor', with a thickness of 0.01 meters. It is part of the facade and categorized under 'A_Fassadenbekleidung'.",
+    "Preliminary Selection": [
+      "Stahlblech, verzinkt"
+    ],
+    "Matched Materials": [
+      "Stahlblech, verzinkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 95,
+      "prompt_tokens": 1487,
+      "total_tokens": 1582,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.835,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009335
+  }
+}

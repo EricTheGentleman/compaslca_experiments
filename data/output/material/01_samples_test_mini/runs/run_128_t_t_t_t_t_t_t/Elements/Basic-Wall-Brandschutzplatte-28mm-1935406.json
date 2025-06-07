@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Brandschutzplatte mit einer Dicke von 28mm, aus Gipsfaserplatte, die als tragende Wand verwendet wird. Es hat eine Fläche von 3.0387 m² und ein Volumen von 0.0849 m³.",
+    "Preliminary Selection": [
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell"
+    ],
+    "Matched Materials": [
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 110,
+      "prompt_tokens": 1622,
+      "total_tokens": 1732,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.664,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01031
+  }
+}

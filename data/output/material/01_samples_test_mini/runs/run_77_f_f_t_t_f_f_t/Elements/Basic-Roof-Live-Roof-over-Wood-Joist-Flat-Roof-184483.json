@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a flat roof structure identified as a 'Basic Roof:Live Roof over Wood Joist Flat Roof'. It is categorized as an IfcSlab, but specific material data is not defined.",
+    "Matched Materials": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetrocknet, gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "OSB Platte, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 169,
+      "prompt_tokens": 1025,
+      "total_tokens": 1194,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.866,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008505
+  }
+}

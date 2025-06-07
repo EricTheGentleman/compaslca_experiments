@@ -1,0 +1,45 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a Wall Foundation Bearing Footing with dimensions 900mm x 300mm and a volume of approximately 4.9364 cubic meters. It is classified as a shallow foundation and has no defined material.",
+    "Preliminary Selection": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Tiefbaubeton (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Tiefbaubeton (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 305,
+      "prompt_tokens": 1375,
+      "total_tokens": 1680,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.567,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00156
+  }
+}

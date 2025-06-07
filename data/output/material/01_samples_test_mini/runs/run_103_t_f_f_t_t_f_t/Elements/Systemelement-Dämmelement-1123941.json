@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a plate type element named 'Systemelement:Dämmelement' with a material related to thermal insulation ('Wärmedämmung druckfest'). It has a net volume of 0.0131 cubic meters and is categorized under 'Curtain Panels'.",
+    "Preliminary Selection": [
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Glaswolle",
+      "Zellulosefasern"
+    ],
+    "Matched Materials": [
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Glaswolle",
+      "Zellulosefasern"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 141,
+      "prompt_tokens": 1284,
+      "total_tokens": 1425,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.998,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00924
+  }
+}

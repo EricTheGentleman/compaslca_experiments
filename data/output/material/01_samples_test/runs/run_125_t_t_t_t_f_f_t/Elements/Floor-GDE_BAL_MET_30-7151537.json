@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine IfcSlab mit dem Namen 'Floor:GDE_BAL_MET_30', das aus einem Material namens 'Gitterrost' besteht. Es hat eine Dicke von 0.03 Metern und ist nicht tragend. Es wird als Bodenbelag in einem externen Bereich verwendet.",
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 80,
+      "prompt_tokens": 1688,
+      "total_tokens": 1768,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.019,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0012
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a party wall made of masonry concrete blocks, with an air layer of 0.05m thickness. Other layers include plasterboard and metal stud layers.",
+    "Matched Materials": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG",
+      "Zementstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 85,
+      "prompt_tokens": 1281,
+      "total_tokens": 1366,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.378,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008105
+  }
+}

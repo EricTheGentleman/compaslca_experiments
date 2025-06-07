@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a railing (IfcRailing) named 'Geländer Kern 6.OG2:GEL_TREP_6OG' made of 'Metall Stahl Geländer'. It has a volume of 0.0218 and an area of 2.1156, categorized under railings and not external.",
+    "Preliminary Selection": [
+      "Armierungsstahl",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Armierungsstahl",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 143,
+      "prompt_tokens": 1112,
+      "total_tokens": 1255,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.809,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00842
+  }
+}

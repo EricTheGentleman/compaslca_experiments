@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Basic Wall made of a wood-based panel (Holzwerkstoffplatte) with a thickness of 20mm. It is classified as a non-load-bearing external wall with a fire rating of REI 60.",
+    "Preliminary Selection": [
+      "Hartfaserplatte",
+      "Spanplatte, UF-gebunden, Trockenbereich",
+      "Spanplatte, PF-gebunden, Trockenbereich",
+      "OSB Platte, PF-gebunden, Feuchtbereich",
+      "Röhrenspanplatte"
+    ],
+    "Matched Materials": [
+      "Hartfaserplatte",
+      "Spanplatte, UF-gebunden, Trockenbereich",
+      "Spanplatte, PF-gebunden, Trockenbereich",
+      "OSB Platte, PF-gebunden, Feuchtbereich",
+      "Röhrenspanplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 178,
+      "prompt_tokens": 1253,
+      "total_tokens": 1431,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.431,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009825
+  }
+}

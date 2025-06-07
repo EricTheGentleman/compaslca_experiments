@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a proxy element named 'Screwed Pin:M24:1238114' made of Steel, with a volume of 0.0001 cubic meters. It is associated with a steel foundation plate.",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 119,
+      "prompt_tokens": 1122,
+      "total_tokens": 1241,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.687,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00096
+  }
+}

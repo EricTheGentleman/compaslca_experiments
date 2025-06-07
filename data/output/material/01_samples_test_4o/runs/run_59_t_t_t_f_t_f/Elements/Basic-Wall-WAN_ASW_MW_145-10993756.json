@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Preliminary Selection": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ],
+    "Matched Materials": [
+      "Kalksandstein",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 64,
+      "prompt_tokens": 1780,
+      "total_tokens": 1844,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.486,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01018
+  }
+}

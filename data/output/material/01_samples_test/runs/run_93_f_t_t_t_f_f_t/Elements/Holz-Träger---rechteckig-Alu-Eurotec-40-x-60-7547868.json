@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein rechteckiger Holzträger mit Aluminium als Hauptmaterial. Es hat eine Länge von 7755 mm und gehört zur Kategorie 'Structural Framing'.",
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Aluminiumprofil, blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 93,
+      "prompt_tokens": 1118,
+      "total_tokens": 1211,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.966,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00089
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an HEB beam made of structural steel (Metall - Baustahl S235), categorized as load-bearing and part of structural framing. It has a fire rating of R 60.",
+    "Preliminary Selection": [
+      "Armierungsstahl",
+      "Stahlblech, blank",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Armierungsstahl",
+      "Stahlblech, blank",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 100,
+      "prompt_tokens": 1345,
+      "total_tokens": 1445,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.249,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008725
+  }
+}

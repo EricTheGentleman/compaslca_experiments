@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a railing with a height of 0.9 meters and a length of 1.2 meters. It is categorized under railings and is not defined with a specific material.",
+    "Matched Materials": [
+      "Aluminiumprofil, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 111,
+      "prompt_tokens": 857,
+      "total_tokens": 968,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.046,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.006505
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a System Panel named 'PAN_DÄM_ALU_50', categorized as a curtain panel, with a net volume of 0.0048 cubic meters and dimensions indicating it is likely made of aluminum or a similar material.",
+    "Matched Materials": [
+      "Fassadenplatte, Aluverbund, 4 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 85,
+      "prompt_tokens": 1750,
+      "total_tokens": 1835,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.865,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00125
+  }
+}

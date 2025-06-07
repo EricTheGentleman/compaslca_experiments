@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Dämmelement (IfcPlate) mit dem Material 'Wärmedämmung druckfest'. Es befindet sich auf der Ebene 01_Brüstung und gehört zur Kategorie 'Curtain Panels'.",
+    "Preliminary Selection": [
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle"
+    ],
+    "Matched Materials": [
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 144,
+      "prompt_tokens": 1221,
+      "total_tokens": 1365,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1152
+      }
+    },
+    "processing_time": 1.942,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008985
+  }
+}

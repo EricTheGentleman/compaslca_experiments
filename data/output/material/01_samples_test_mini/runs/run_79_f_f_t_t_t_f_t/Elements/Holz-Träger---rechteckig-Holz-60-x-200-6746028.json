@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a rectangular wooden beam (Holz Träger - rechteckig) with dimensions 60 x 200 mm, identified as Holz - C 24 Cl.1, used as a joist in structural framing.",
+    "Preliminary Selection": [
+      "Konstruktionsvollholz",
+      "Brettschichtholz",
+      "Balkenschichtholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetrocknet, gehobelt"
+    ],
+    "Matched Materials": [
+      "Konstruktionsvollholz",
+      "Brettschichtholz",
+      "Balkenschichtholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetrocknet, gehobelt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 183,
+      "prompt_tokens": 1388,
+      "total_tokens": 1571,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.81,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0106
+  }
+}

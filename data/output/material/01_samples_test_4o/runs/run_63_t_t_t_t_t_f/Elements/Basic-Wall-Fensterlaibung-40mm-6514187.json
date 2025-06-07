@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a basic wall with a thickness of 40mm, made of 'Massivholz Fichte, schwarz lasiert'. It is a non-structural, exterior wall with a gross volume of 0.0173 cubic meters.",
+    "Preliminary Selection": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz"
+    ],
+    "Matched Materials": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 263,
+      "prompt_tokens": 1950,
+      "total_tokens": 2213,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.945,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01501
+  }
+}

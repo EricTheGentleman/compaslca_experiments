@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Floor slab made of OSB (Oriented Strand Board) with a thickness of 25mm. It is categorized as an interior floor and is not load-bearing.",
+    "Matched Materials": [
+      "OSB Platte, PF-gebunden, Feuchtbereich"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 68,
+      "prompt_tokens": 1675,
+      "total_tokens": 1743,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.535,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009735
+  }
+}

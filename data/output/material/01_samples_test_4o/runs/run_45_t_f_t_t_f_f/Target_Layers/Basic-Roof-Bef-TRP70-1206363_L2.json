@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is 'Insulation - Mineral wool' with a thickness of 0.308 meters, part of an IfcSlab element named 'Basic Roof:Bef TRP70:1206363'. The element is external, load-bearing, and has a net volume of 4.00357 cubic meters and a surface area of 30.12276 square meters.",
+    "Matched Materials": [
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 112,
+      "prompt_tokens": 1196,
+      "total_tokens": 1308,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.933,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00822
+  }
+}

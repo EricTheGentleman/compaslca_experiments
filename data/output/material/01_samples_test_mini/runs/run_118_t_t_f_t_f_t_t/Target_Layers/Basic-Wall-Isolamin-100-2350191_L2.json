@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Wand (IfcWallStandardCase) mit einer Hauptmaterialschicht aus Mineralwolle und einer Dicke von 0.095 Metern. Es handelt sich um eine tragende Wand, die als Innenwand klassifiziert ist. Die Wand hat ein Volumen von 1.3096 m³ und eine Fläche von 12.7149 m².",
+    "Matched Materials": [
+      "Steinwolle",
+      "Glaswolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 104,
+      "prompt_tokens": 1398,
+      "total_tokens": 1502,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.847,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00907
+  }
+}

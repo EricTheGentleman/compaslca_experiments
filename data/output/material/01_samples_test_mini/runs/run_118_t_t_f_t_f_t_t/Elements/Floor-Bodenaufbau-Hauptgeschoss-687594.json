@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine IfcSlab mit dem Namen 'Bodenaufbau Hauptgeschoss'. Es hat eine Dicke von 581 mm und ist für den Innenbereich vorgesehen. Es gibt keine definierten Materialien.",
+    "Matched Materials": [
+      "Hartbeton einschichtig, 27.5 mm",
+      "Hartbeton zweischichtig, 35 mm",
+      "Natursteinplatte geschliffen, 15 mm",
+      "Natursteinplatte geschnitten, 15 mm",
+      "Natursteinplatte poliert, 15 mm",
+      "Terrazzo versiegelt, 40 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 139,
+      "prompt_tokens": 1631,
+      "total_tokens": 1770,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.582,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.010935
+  }
+}

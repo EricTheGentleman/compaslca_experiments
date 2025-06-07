@@ -1,0 +1,71 @@
+{
+  "llm_response": {
+    "Preliminary Selection": [
+      "2K-Fliessbelag Industrie (Epoxidharz), 2.25 mm",
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "Gummigranulat versiegelt, 7.5 mm",
+      "Gussasphalt, 27.5 mm",
+      "Hartbeton einschichtig, 27.5 mm",
+      "Hartbeton zweischichtig, 35 mm",
+      "Kautschuk, 2 mm",
+      "Keramik-/Steinzeugplatte, 9 mm",
+      "Kork Fertigparkett, 10.5 mm",
+      "Kork PVC-beschichtet, 3.2 mm",
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Kunststeinplatte zementgebunden, 10 mm",
+      "Laminat, 8.5 mm",
+      "Linoleum, 2.5 mm",
+      "Natursteinplatte geschliffen, 15 mm",
+      "Natursteinplatte geschliffen, Europa, 15 mm",
+      "Natursteinplatte geschliffen, Schweiz, 15 mm",
+      "Natursteinplatte geschliffen, Übersee, 15 mm",
+      "Natursteinplatte geschnitten, 15 mm",
+      "Natursteinplatte poliert, 15 mm",
+      "Parkett 2-Schicht werkversiegelt, 11 mm",
+      "Parkett 3-Schicht werkversiegelt, 15 mm",
+      "Parkett Mosaik werkversiegelt, 8 mm",
+      "PVC homogen, 2 mm",
+      "Steinholz versiegelt, 16.5 mm",
+      "Synthetische thermoplastische Beläge (TPO), 2 mm",
+      "Teppich Kunstfaser getuftet",
+      "Teppich Nadelfilz",
+      "Teppich Naturfaser",
+      "Terrazzo versiegelt, 40 mm"
+    ],
+    "Matched Materials": [
+      "2K-Fliessbelag Industrie (Epoxidharz), 2.25 mm",
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "Gussasphalt, 27.5 mm",
+      "Hartbeton einschichtig, 27.5 mm",
+      "Hartbeton zweischichtig, 35 mm",
+      "Kautschuk, 2 mm",
+      "Linoleum, 2.5 mm",
+      "PVC homogen, 2 mm",
+      "Terrazzo versiegelt, 40 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 578,
+      "prompt_tokens": 1459,
+      "total_tokens": 2037,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 10.13,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00226
+  }
+}

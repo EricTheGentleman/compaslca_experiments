@@ -65,7 +65,7 @@ ax.set_ylabel("Run")
 
 # Save plot
 plt.tight_layout()
-plt.savefig("data/output/material/02_samples_holdout/plots/materials_test_samples_deltaF05_vs_baseline.png", dpi=400)
+plt.savefig("data/output/material/02_samples_holdout/plots/materials_HO_samples_deltaF05_vs_baseline.png", dpi=400)
 plt.close()
 
 
@@ -101,7 +101,7 @@ ax.set_ylabel("Run")
 
 # Save second plot
 plt.tight_layout()
-plt.savefig("data/output/material/02_samples_holdout/plots/materials_test_samples_pvalues.png", dpi=400)
+plt.savefig("data/output/material/02_samples_holdout/plots/materials_HO_samples_pvalues.png", dpi=400)
 plt.close()
 
 
@@ -156,5 +156,5 @@ for spine in ax.spines.values():
 
 # Save plot
 plt.tight_layout()
-plt.savefig("data/output/material/02_samples_holdout/plots/materials_test_samples_configurations.png", dpi=400)
+plt.savefig("data/output/material/02_samples_holdout/plots/materials_HO_samples_configurations.png", dpi=400)
 plt.close()

@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Bodenbelag (IfcCovering) mit dem Namen 'Standard - Fußboden' und einer Dicke von 0.015 m. Es gehört zur Kategorie 'Floors' und ist für den Innenbereich vorgesehen.",
+    "Preliminary Selection": [
+      "Natursteinplatte geschliffen, 15 mm",
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Laminat, 8.5 mm"
+    ],
+    "Matched Materials": [
+      "Natursteinplatte geschliffen, 15 mm",
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Laminat, 8.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 148,
+      "prompt_tokens": 1817,
+      "total_tokens": 1965,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.056,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00145
+  }
+}

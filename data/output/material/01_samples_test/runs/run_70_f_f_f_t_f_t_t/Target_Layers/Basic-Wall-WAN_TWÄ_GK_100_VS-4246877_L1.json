@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a non-bearing interior wall (Basic Wall: WAN_TWÄ_GK_100_VS) with a primary material layer of 'Trockenbau - Gipsplatte' (drywall) and an additional insulation layer. It has a fire rating of REI 60-RF1 and a thermal transmittance of 0.4456.",
+    "Matched Materials": [
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipskartonplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 111,
+      "prompt_tokens": 1504,
+      "total_tokens": 1615,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.583,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00117
+  }
+}

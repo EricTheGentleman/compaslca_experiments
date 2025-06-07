@@ -1,0 +1,54 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Basic Wall with a layer named 'Putz Kieselwurf' and is categorized as an exterior wall. The wall has a thickness of 0.025 meters and is part of a construction phase labeled 'Neubau'.",
+    "Preliminary Selection": [
+      "Gips-/Weissputz",
+      "Gips-Kalk-Putz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Lehmputz",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Sumpfkalkputz",
+      "Weisszementputz",
+      "Wärmedämmputz EPS",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Gips-/Weissputz",
+      "Gips-Kalk-Putz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Weisszementputz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 274,
+      "prompt_tokens": 1531,
+      "total_tokens": 1805,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.648,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.013135
+  }
+}

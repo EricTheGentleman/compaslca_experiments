@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an internal fire-rated door (EI 30) with the type 'Brandschutztor', indicating a fire protection door. It is not external and is part of the interior construction.",
+    "Preliminary Selection": [
+      "Innentüre, Funktionstüre, Holz, Holzrahmen",
+      "Innentüre, Funktionstüre, Holz, Stahlzarge"
+    ],
+    "Matched Materials": [
+      "Innentüre, Funktionstüre, Holz, Holzrahmen",
+      "Innentüre, Funktionstüre, Holz, Stahlzarge"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 121,
+      "prompt_tokens": 1487,
+      "total_tokens": 1608,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.175,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009855
+  }
+}

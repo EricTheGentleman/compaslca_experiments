@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is named 'Abdeckblech gerundet-neu' and is categorized as a Generic Model. It has no specified material name and a net volume of -0.48424 cubic meters, indicating it may be a thin sheet or cover. The element is likely to be made from a metal material based on its name.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Stahlblech, blank",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Stahlblech, blank",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 136,
+      "prompt_tokens": 1246,
+      "total_tokens": 1382,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.962,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00107
+  }
+}

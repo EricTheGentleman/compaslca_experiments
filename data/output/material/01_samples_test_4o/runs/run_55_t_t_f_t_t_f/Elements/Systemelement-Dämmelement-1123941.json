@@ -1,0 +1,57 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element Name: Systemelement:Dämmelement:1123941, Type: IfcPlate, Material Name: Wärmedämmung druckfest, Category: Curtain Panels, Family: Systemelement: Dämmelement",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 323,
+      "prompt_tokens": 1404,
+      "total_tokens": 1727,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.549,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01348
+  }
+}

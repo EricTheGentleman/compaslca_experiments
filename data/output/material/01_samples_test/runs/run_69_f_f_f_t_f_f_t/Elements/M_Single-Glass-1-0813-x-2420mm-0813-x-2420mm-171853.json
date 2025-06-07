@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a door with dimensions 0.813m width and 2.42m height, categorized as an IfcDoor. It has unspecified materials but indicates a door panel and frame material. It is an external door with a fire rating.",
+    "Matched Materials": [
+      "Aussentüre, Aluminium, Glaseinsatz",
+      "Aussentüre, Aluminium, Paneelfüllung",
+      "Aussentüre, Holz, Glaseinsatz",
+      "Aussentüre, Holz, aluminiumbeplankt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 125,
+      "prompt_tokens": 922,
+      "total_tokens": 1047,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.661,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00085
+  }
+}

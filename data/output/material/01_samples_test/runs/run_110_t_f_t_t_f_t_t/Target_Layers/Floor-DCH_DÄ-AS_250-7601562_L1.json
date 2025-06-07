@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcSlab named 'Floor:DCH_DÄ-AS_250' with a top layer of 'Umgebung - Asphalt' (0.04 m thick) and other layers including 'Beton - Überbeton' (0.06 m) and 'Dämmung - hart' (0.15 m). It is categorized as an exterior floor and is not load-bearing.",
+    "Matched Materials": [
+      "Gussasphalt, 27.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 111,
+      "prompt_tokens": 2031,
+      "total_tokens": 2142,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.049,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00148
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine nicht tragende Außenwand mit einer Dämmung von 10 cm Dicke, die als 'Dämmung - hart' klassifiziert ist. Es hat eine thermische Übertragung von 0.27 und ist Teil eines Neubauprojekts.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Polystyrol expandiert (EPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Polystyrol expandiert (EPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 135,
+      "prompt_tokens": 1664,
+      "total_tokens": 1799,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.071,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00132
+  }
+}

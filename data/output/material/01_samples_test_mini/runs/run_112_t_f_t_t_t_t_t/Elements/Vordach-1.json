@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an external slab named 'Vordach-1' made of Aluminium, is load-bearing, and has a thickness of approximately 0.1 meters.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Aluminiumprofil, blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Aluminiumprofil, blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 131,
+      "prompt_tokens": 1155,
+      "total_tokens": 1286,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.332,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008395
+  }
+}

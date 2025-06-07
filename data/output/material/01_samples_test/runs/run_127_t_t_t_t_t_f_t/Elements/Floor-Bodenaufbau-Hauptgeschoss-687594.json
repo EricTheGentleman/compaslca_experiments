@@ -1,0 +1,44 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Bodenaufbau im Hauptgeschoss (IfcSlab) mit einem Volumen von 17.0593 m³ und einer Dicke von 581 mm. Es ist für Innenräume vorgesehen und hat spezifische analytische Eigenschaften wie Wärmeübertragungskoeffizient und thermische Masse.",
+    "Preliminary Selection": [
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "Gummigranulat versiegelt, 7.5 mm",
+      "Hartbeton zweischichtig, 35 mm",
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Natursteinplatte geschliffen, 15 mm",
+      "Terrazzo versiegelt, 40 mm"
+    ],
+    "Matched Materials": [
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "Hartbeton zweischichtig, 35 mm",
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Natursteinplatte geschliffen, 15 mm",
+      "Terrazzo versiegelt, 40 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 267,
+      "prompt_tokens": 1629,
+      "total_tokens": 1896,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.506,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00162
+  }
+}

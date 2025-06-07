@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a rectangular column (BSH Stütze) made of laminated wood (Holz Brettschicht - C24 Cl.1) with specific dimensions and properties indicating it is a structural element.",
+    "Matched Materials": [
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz",
+      "Balkenschichtholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 92,
+      "prompt_tokens": 1499,
+      "total_tokens": 1591,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.89,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00112
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcWall named 'Attikablech Galerie Südwest' with a volume of 0.00974 cubic meters and a surface area of 9.80863 square meters. It is categorized under 'Walls' and is part of the architectural workset.",
+    "Preliminary Selection": [],
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 76,
+      "prompt_tokens": 1075,
+      "total_tokens": 1151,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.933,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00083
+  }
+}

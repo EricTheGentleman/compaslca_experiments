@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a non-bearing wall named 'Basic Wall:Brandschutzplatte' with a material layer of '3-Schicht-Platte'. It has a fire rating of EI30 and is categorized as an exterior wall.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Hartfaserplatte",
+      "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Hartfaserplatte",
+      "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 134,
+      "prompt_tokens": 1610,
+      "total_tokens": 1744,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.009,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01073
+  }
+}

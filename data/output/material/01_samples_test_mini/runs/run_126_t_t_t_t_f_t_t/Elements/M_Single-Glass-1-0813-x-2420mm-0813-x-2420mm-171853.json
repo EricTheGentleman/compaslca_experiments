@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Tür (IfcDoor) mit den Abmessungen 0813 x 2420mm. Es ist als außenliegend gekennzeichnet und hat keine definierten Materialien. Die Tür hat eine Dicke von 0.051m und ist für den Einsatz in Neubauten vorgesehen.",
+    "Matched Materials": [
+      "Aussentüre, Aluminium, Glaseinsatz",
+      "Aussentüre, Aluminium, Paneelfüllung",
+      "Aussentüre, Holz",
+      "Aussentüre, Holz, aluminiumbeplankt",
+      "Aussentüre, Holz, Glaseinsatz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 144,
+      "prompt_tokens": 1337,
+      "total_tokens": 1481,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.406,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009565
+  }
+}

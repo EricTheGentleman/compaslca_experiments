@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine OSB-Platte mit einer Dicke von 22 mm, die als Bodenbelag verwendet wird. Es hat eine Netto-Volumen von 0.4962 m³ und ist Teil der Kategorie 'Floors'.",
+    "Matched Materials": [
+      "OSB Platte, PF-gebunden, Feuchtbereich"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 81,
+      "prompt_tokens": 1668,
+      "total_tokens": 1749,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.744,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0012
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "llm_response": {
+    "Preliminary Selection": [
+      "Natursteinplatte geschliffen, 15 mm",
+      "Natursteinplatte geschliffen, Europa, 15 mm",
+      "Natursteinplatte geschliffen, Schweiz, 15 mm",
+      "Natursteinplatte geschliffen, Übersee, 15 mm",
+      "Natursteinplatte geschnitten, 15 mm",
+      "Natursteinplatte poliert, 15 mm",
+      "Parkett 3-Schicht werkversiegelt, 15 mm"
+    ],
+    "Matched Materials": [
+      "Natursteinplatte geschliffen, 15 mm",
+      "Natursteinplatte geschliffen, Europa, 15 mm",
+      "Natursteinplatte geschliffen, Schweiz, 15 mm",
+      "Natursteinplatte geschliffen, Übersee, 15 mm",
+      "Natursteinplatte geschnitten, 15 mm",
+      "Natursteinplatte poliert, 15 mm",
+      "Parkett 3-Schicht werkversiegelt, 15 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 199,
+      "prompt_tokens": 1797,
+      "total_tokens": 1996,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.258,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.012965
+  }
+}

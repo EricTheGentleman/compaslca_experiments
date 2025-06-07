@@ -1,0 +1,46 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Elementtyp ist IfcPlate, Name ist 'Systemelement:Profilglas 15 -  mittig', keine spezifischen Materialdaten definiert, ist extern.",
+    "Preliminary Selection": [
+      "Fassade, Pfosten-Riegel, Alu/Glas",
+      "Fassadenplatte, Aluverbund, 4 mm",
+      "Fassadenplatte, Glasfaserbeton Ecomur, 15mm",
+      "Fassadenplatte, Glasfaserbeton Ecomur, 18mm",
+      "Fassadenplatte, Hochdrucklaminatplatte (HPL), 8.1 mm",
+      "Fassadenplatte, Kalkstein, 30 mm",
+      "Fassadenplatte, Kunststoff glasfaserverstärkt (GFK), 1.6 mm"
+    ],
+    "Matched Materials": [
+      "Fassade, Pfosten-Riegel, Alu/Glas",
+      "Fassadenplatte, Aluverbund, 4 mm",
+      "Fassadenplatte, Glasfaserbeton Ecomur, 15mm",
+      "Fassadenplatte, Glasfaserbeton Ecomur, 18mm",
+      "Fassadenplatte, Hochdrucklaminatplatte (HPL), 8.1 mm",
+      "Fassadenplatte, Kunststoff glasfaserverstärkt (GFK), 1.6 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 292,
+      "prompt_tokens": 1539,
+      "total_tokens": 1831,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.07,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.013535
+  }
+}

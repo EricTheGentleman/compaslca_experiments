@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Brandschutzplatte mit einer Dicke von 0.028 Metern, die als nicht tragende Wand klassifiziert ist. Es handelt sich um eine 3-Schicht-Platte, die für Außenanwendungen vorgesehen ist und eine Feuerwiderstandsklasse von EI30 hat.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Hartfaserplatte",
+      "Mitteldichte Faserplatte (MDF), UF-gebunden",
+      "Spanplatte, UF-gebunden, Trockenbereich"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Hartfaserplatte",
+      "Mitteldichte Faserplatte (MDF), UF-gebunden",
+      "Spanplatte, UF-gebunden, Trockenbereich"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 176,
+      "prompt_tokens": 1618,
+      "total_tokens": 1794,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.127,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00139
+  }
+}

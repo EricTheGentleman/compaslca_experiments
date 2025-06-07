@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material is 'Trockenbau - Gipsplatte' with a thickness of 0.025 meters, used in a non-load-bearing interior wall (IfcWallStandardCase) with fire rating REI 60-RF1. The wall is part of the 'Basic Wall: WAN_TWÄ_GK_100_VS' family, categorized as 'Leichtbauwand' (lightweight wall) and is not external.",
+    "Preliminary Selection": [
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gipskartonplatte"
+    ],
+    "Matched Materials": [
+      "Gipskartonplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 154,
+      "prompt_tokens": 1577,
+      "total_tokens": 1731,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.397,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010965
+  }
+}

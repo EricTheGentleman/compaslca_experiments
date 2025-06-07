@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Perimeterdämmung (IfcSlab) mit einer Materialschicht aus Wärmedämmung XPS und einer Dicke von 0.08 Metern. Es ist Teil der Kategorie 'Floors' und hat spezifische Eigenschaften wie Wärmeleitfähigkeit und thermischen Widerstand.",
+    "Matched Materials": [
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 107,
+      "prompt_tokens": 1348,
+      "total_tokens": 1455,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.74,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00888
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein IfcSlab, das als Bodenplatte in einem Wohngebäude dient. Es besteht aus zwei Materialschichten: einer Schicht aus 'Wood - Dimensional Lumber' mit einer Dicke von 0.286 m und einer Schicht aus 'Wood - Sheathing - plywood' mit einer Dicke von 0.019 m. Das Element ist tragend und hat eine Fläche von 59.229 m².",
+    "Matched Materials": [
+      "Konstruktionsvollholz",
+      "Brettschichtholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 152,
+      "prompt_tokens": 1617,
+      "total_tokens": 1769,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.403,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.011125
+  }
+}

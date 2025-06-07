@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcSlab named 'Floor:Floor_Holz_40mm', with a reference to 'Floor_Holz_40mm'. It is not load-bearing and not external.",
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Brettschichtholz",
+      "Furniersperrholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 132,
+      "prompt_tokens": 1062,
+      "total_tokens": 1194,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.98,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00795
+  }
+}

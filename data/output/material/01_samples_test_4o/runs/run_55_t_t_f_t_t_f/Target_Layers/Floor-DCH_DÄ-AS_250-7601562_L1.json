@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab (IfcSlab) with a primary material layer of 'Umgebung - Asphalt' with a thickness of 0.04 meters. It is part of a multi-layered structure including 'Beton - Überbeton' and 'Dämmung - hart'. The element is external, non-load bearing, and has a thermal transmittance of 0.1782. It is categorized under 'Floors' and is part of the 'A_Unterkonstruktion' class.",
+    "Preliminary Selection": [
+      "Gussasphalt, 27.5 mm"
+    ],
+    "Matched Materials": [
+      "Gussasphalt, 27.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 153,
+      "prompt_tokens": 2100,
+      "total_tokens": 2253,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.879,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01356
+  }
+}

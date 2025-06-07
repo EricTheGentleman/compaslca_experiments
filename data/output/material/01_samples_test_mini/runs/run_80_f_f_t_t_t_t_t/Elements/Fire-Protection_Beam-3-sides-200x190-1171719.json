@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a beam with dimensions 200x190 mm, identified as a fire protection element, and is associated with Mineral Wool as the fire isolation material.",
+    "Preliminary Selection": [
+      "Steinwolle",
+      "Glaswolle"
+    ],
+    "Matched Materials": [
+      "Steinwolle",
+      "Glaswolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 76,
+      "prompt_tokens": 987,
+      "total_tokens": 1063,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.255,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.006455
+  }
+}

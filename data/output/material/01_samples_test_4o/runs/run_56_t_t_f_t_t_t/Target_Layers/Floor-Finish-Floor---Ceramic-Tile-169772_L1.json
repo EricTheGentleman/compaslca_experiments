@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The building element is an IfcSlab with a finish floor made of ceramic tile, having a thickness of 0.01 meters. It is part of a floor system with a masonry grout layer beneath it. The element is not external, is load-bearing, and is located on Level 2. The classification description is 'Tile Flooring'.",
+    "Preliminary Selection": [
+      "Keramik-/Steinzeugplatte"
+    ],
+    "Matched Materials": [
+      "Keramik-/Steinzeugplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 109,
+      "prompt_tokens": 1307,
+      "total_tokens": 1416,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.939,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008715
+  }
+}

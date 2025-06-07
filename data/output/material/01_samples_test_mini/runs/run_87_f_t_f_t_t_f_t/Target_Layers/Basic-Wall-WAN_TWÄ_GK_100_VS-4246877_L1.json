@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Innenwand (Basic Wall) mit einer Gipsplatte als oberster Materialschicht und einer Dicke von 0.025 m. Es hat eine nicht tragende Funktion und eine Feuerwiderstandsklasse von REI 60-RF1. Die Wand hat auch eine Dämmschicht aus weichem Material mit einer Dicke von 0.075 m.",
+    "Preliminary Selection": [
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipskartonplatte"
+    ],
+    "Matched Materials": [
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipskartonplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 142,
+      "prompt_tokens": 1697,
+      "total_tokens": 1839,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.534,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.011325
+  }
+}

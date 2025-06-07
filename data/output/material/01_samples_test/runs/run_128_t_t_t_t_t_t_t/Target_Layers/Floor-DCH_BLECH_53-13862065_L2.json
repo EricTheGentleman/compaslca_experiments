@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Dachabdeckung (IfcSlab) mit dem Materialnamen 'Dachdeckung - Bitumenbahn' und einer Dicke von 0.01 m. Es gibt auch andere Materialschichten, darunter 'Dachdeckung - Blechdach' und 'Dachdeckung - Holz'. Die Elementmetadaten zeigen, dass es sich um eine externe, nicht tragende Struktur handelt.",
+    "Preliminary Selection": [
+      "Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",
+      "Dichtungsbahn bituminös"
+    ],
+    "Matched Materials": [
+      "Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",
+      "Dichtungsbahn bituminös"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Dichtungsbahnen, Schutzfolien",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 221,
+      "prompt_tokens": 1856,
+      "total_tokens": 2077,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.153,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00164
+  }
+}

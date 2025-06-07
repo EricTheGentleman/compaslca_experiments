@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab (IfcSlab) with a volume of approximately 17.06 cubic meters and a thickness of 581 mm. It is categorized as an interior floor and is part of the architectural workset. The element does not have defined materials.",
+    "Matched Materials": [
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "Gummigranulat versiegelt, 7.5 mm",
+      "Hartbeton einschichtig, 27.5 mm",
+      "Hartbeton zweischichtig, 35 mm",
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Natursteinplatte geschliffen, 15 mm",
+      "Natursteinplatte poliert, 15 mm",
+      "PVC homogen, 2 mm",
+      "Terrazzo versiegelt, 40 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 207,
+      "prompt_tokens": 1422,
+      "total_tokens": 1629,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.685,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01125
+  }
+}

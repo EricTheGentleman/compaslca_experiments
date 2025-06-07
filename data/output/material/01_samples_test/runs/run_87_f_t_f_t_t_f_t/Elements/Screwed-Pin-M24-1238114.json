@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Proxy-Element mit dem Namen 'Screwed Pin:M24:1238114', das aus Stahl besteht. Es hat eine Länge von 200.0 mm, eine Höhe von 40.0 mm und ein Volumen von 0.0001 m³. Es gehört zu einer Arbeitsgruppe namens 'Workset1'.",
+    "Preliminary Selection": [
+      "Armierungsstahl",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Armierungsstahl",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 150,
+      "prompt_tokens": 967,
+      "total_tokens": 1117,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.591,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00094
+  }
+}

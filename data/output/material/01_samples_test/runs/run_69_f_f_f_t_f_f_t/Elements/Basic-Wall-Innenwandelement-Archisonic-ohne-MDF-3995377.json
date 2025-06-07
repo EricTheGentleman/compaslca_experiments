@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a non-bearing interior wall element named 'Basic Wall:Innenwandelement Archisonic ohne MDF' with a specific material layer called 'Archisonic Charcoal'. It has properties indicating it is room bounding and has a construction function of exterior.",
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Kunststoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 71,
+      "prompt_tokens": 935,
+      "total_tokens": 1006,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.45,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00073
+  }
+}

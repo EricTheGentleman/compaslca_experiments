@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor covering with a material layer named 'Standard - Fußboden' and a thickness of 0.015 meters. It is categorized under 'Floors' and has a volume of 5.3255 cubic meters.",
+    "Preliminary Selection": [
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Parkett 2-Schicht werkversiegelt, 11 mm",
+      "Parkett 3-Schicht werkversiegelt, 15 mm",
+      "Teppich Kunstfaser getuftet",
+      "Teppich Nadelfilz",
+      "Teppich Naturfaser"
+    ],
+    "Matched Materials": [
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Parkett 2-Schicht werkversiegelt, 11 mm",
+      "Parkett 3-Schicht werkversiegelt, 15 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 197,
+      "prompt_tokens": 1817,
+      "total_tokens": 2014,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.276,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00156
+  }
+}

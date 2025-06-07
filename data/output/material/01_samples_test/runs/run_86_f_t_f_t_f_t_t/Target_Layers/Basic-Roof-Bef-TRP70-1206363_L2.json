@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine IfcSlab mit dem Namen 'Basic Roof:Bef TRP70:1206363'. Es hat eine Dicke von 0.308 Metern und enthält eine Schicht aus Mineralwolle als Dämmmaterial. Die Element-Eigenschaften zeigen, dass es tragend und extern ist.",
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 93,
+      "prompt_tokens": 1139,
+      "total_tokens": 1232,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.355,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00091
+  }
+}

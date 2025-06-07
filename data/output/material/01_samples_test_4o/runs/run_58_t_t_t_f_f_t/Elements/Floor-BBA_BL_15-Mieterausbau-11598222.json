@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Matched Materials": [
+      "Natursteinplatte geschliffen, 15 mm",
+      "Natursteinplatte geschliffen, Europa, 15 mm",
+      "Natursteinplatte geschliffen, Schweiz, 15 mm",
+      "Natursteinplatte geschliffen, Übersee, 15 mm",
+      "Natursteinplatte geschnitten, 15 mm",
+      "Natursteinplatte poliert, 15 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 89,
+      "prompt_tokens": 1759,
+      "total_tokens": 1848,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.596,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010575
+  }
+}

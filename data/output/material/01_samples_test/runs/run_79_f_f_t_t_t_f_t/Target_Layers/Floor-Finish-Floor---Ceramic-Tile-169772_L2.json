@@ -1,0 +1,31 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Finish Floor made of Ceramic Tile with an additional layer of Masonry - Grout. The element is a load-bearing slab with a thickness of 0.013m and is part of new construction.",
+    "Preliminary Selection": [],
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 66,
+      "prompt_tokens": 1075,
+      "total_tokens": 1141,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.446,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0008
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine nicht tragende Wand mit dem Namen 'Basic Wall:Technikschnittstelle', die eine Gipsfaserplatte als Materialschicht hat. Die Wand hat eine Dicke von 0.025 m und eine gesamte Fläche von 10.78399 m².",
+    "Preliminary Selection": [
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gips-Wandbauplatte / Vollgipsplatte"
+    ],
+    "Matched Materials": [
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gips-Wandbauplatte / Vollgipsplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 138,
+      "prompt_tokens": 1358,
+      "total_tokens": 1496,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.356,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00955
+  }
+}

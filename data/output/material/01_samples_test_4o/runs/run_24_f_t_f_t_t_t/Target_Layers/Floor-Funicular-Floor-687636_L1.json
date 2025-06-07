@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material Name: Spachtelmasse Boden, Element Type: IfcSlab, Function: Interior, Structural Material: Beton, Ortbeton",
+    "Preliminary Selection": [
+      "Baukleber/Einbettmörtel mineralisch",
+      "Baukleber/Einbettmörtel mineralisch Leichtzuschlag",
+      "Baukleber/Einbettmörtel organisch"
+    ],
+    "Matched Materials": [
+      "Baukleber/Einbettmörtel mineralisch",
+      "Baukleber/Einbettmörtel mineralisch Leichtzuschlag",
+      "Baukleber/Einbettmörtel organisch"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 146,
+      "prompt_tokens": 1362,
+      "total_tokens": 1508,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.485,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00973
+  }
+}

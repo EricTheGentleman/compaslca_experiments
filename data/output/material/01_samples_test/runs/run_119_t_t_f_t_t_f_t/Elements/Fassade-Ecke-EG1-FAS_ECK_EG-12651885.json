@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Fassade Ecke mit dem Typ IfcWall, die aus Aluminium besteht. Die Fassade hat ein Volumen von 0.0237 m³ und eine gesamte Oberfläche von 1.3092 m².",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R",
+      "Aluminiumprofil, blank"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R",
+      "Aluminiumprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 152,
+      "prompt_tokens": 1300,
+      "total_tokens": 1452,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.775,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00114
+  }
+}

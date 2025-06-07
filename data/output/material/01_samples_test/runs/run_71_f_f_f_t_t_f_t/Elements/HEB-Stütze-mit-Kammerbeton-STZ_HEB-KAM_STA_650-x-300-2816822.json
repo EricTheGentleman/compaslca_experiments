@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a structural column (HEB Stütze) made of S235 steel, with dimensions 650 x 300 mm and a volume of 0.7118 m³. It is load-bearing and not located externally.",
+    "Preliminary Selection": [
+      "Armierungsstahl",
+      "Stahlblech, blank",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Armierungsstahl",
+      "Stahlblech, blank",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 108,
+      "prompt_tokens": 1312,
+      "total_tokens": 1420,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.046,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00105
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a roof slab with a material name indicating a tape-covered tin roof. It is external, load-bearing, and has a thickness of 5mm. The element also has an insulation layer made of mineral wool.",
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 63,
+      "prompt_tokens": 1154,
+      "total_tokens": 1217,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.638,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00084
+  }
+}

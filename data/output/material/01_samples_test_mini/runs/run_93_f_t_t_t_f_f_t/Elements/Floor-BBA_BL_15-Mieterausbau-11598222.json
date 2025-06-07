@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Bodenbelag (IfcCovering) mit dem Namen 'Floor:BBA_BL_15-Mieterausbau'. Es hat eine Dicke von 0.015 m und ist als Innenbelag klassifiziert. Die Materialschicht wird als 'Standard - Fußboden' bezeichnet.",
+    "Matched Materials": [
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "Korkparkett geölt/versiegelt, 5.3 mm",
+      "Laminat, 8.5 mm",
+      "Linoleum, 2.5 mm",
+      "PVC homogen, 2 mm",
+      "Teppich Kunstfaser getuftet",
+      "Teppich Nadelfilz",
+      "Teppich Naturfaser"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 189,
+      "prompt_tokens": 1625,
+      "total_tokens": 1814,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.787,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.011905
+  }
+}

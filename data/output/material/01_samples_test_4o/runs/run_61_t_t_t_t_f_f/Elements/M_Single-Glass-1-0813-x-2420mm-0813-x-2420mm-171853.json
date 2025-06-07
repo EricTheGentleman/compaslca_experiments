@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an external door (IfcDoor) with dimensions 813mm x 2420mm, described as 'Single-Glass'. It is part of a new construction and has a glazing area fraction, indicating the presence of glass. The door is external ('IsExternal': True) and has a fire rating.",
+    "Matched Materials": [
+      "Aussentüre, Aluminium, Glaseinsatz",
+      "Aussentüre, Holz, Glaseinsatz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 104,
+      "prompt_tokens": 1226,
+      "total_tokens": 1330,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.379,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00821
+  }
+}

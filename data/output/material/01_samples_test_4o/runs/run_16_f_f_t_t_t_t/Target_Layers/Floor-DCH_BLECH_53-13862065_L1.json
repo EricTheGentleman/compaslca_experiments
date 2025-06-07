@@ -1,0 +1,47 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an external roof covering (Dachabdeckung) with a primary material layer named 'Dachdeckung - Blechdach'. It is not load-bearing and is part of a floor slab (IfcSlab) with a thickness of 0.008 meters. The element is external and requires corrosion resistance.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 218,
+      "prompt_tokens": 1569,
+      "total_tokens": 1787,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.878,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.012205
+  }
+}

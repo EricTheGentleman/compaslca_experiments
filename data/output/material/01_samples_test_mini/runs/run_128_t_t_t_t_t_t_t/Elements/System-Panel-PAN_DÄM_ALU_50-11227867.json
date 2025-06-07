@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein System Panel vom Typ PAN_DÄM_ALU_50, das als IfcPlate klassifiziert ist. Es hat eine Höhe von 2.656 m, eine Breite von 0.04 m und ein Volumen von 0.0048 m³. Es gehört zur Kategorie 'Curtain Panels' und ist nicht extern.",
+    "Preliminary Selection": [
+      "Fassadenplatte, Aluverbund, 4 mm",
+      "Fassade, Pfosten-Riegel, Alu/Glas"
+    ],
+    "Matched Materials": [
+      "Fassadenplatte, Aluverbund, 4 mm",
+      "Fassade, Pfosten-Riegel, Alu/Glas"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 153,
+      "prompt_tokens": 2087,
+      "total_tokens": 2240,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.01,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.013495
+  }
+}

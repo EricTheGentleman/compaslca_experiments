@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Basic Wall aus Holzwerkstoffplatte mit einer Dicke von 20mm. Es ist nicht tragend und hat eine Feuerwiderstandsklasse von REI 60. Es ist als extern klassifiziert.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Hartfaserplatte",
+      "Spanplatte, UF-gebunden, Trockenbereich",
+      "Spanplatte, PF-gebunden, Trockenbereich",
+      "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Hartfaserplatte",
+      "Spanplatte, UF-gebunden, Trockenbereich",
+      "Spanplatte, PF-gebunden, Trockenbereich",
+      "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 189,
+      "prompt_tokens": 1733,
+      "total_tokens": 1922,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.561,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.012445
+  }
+}

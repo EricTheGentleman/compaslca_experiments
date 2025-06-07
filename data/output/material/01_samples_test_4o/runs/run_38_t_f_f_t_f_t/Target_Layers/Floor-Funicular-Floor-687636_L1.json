@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is 'Spachtelmasse Boden' with a thickness of 0.01 meters, part of an IfcSlab element named 'Floor:Funicular Floor'. The context indicates it is an interior floor with a structural concrete layer beneath.",
+    "Matched Materials": [
+      "Baukleber/Einbettmörtel mineralisch",
+      "Baukleber/Einbettmörtel mineralisch Leichtzuschlag",
+      "Baukleber/Einbettmörtel organisch"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 117,
+      "prompt_tokens": 1386,
+      "total_tokens": 1503,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.961,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00927
+  }
+}

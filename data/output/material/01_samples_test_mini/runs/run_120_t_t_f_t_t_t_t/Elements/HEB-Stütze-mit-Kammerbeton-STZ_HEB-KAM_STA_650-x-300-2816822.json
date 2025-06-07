@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine HEB Stütze aus Baustahl S235, tragend, mit einem Volumen von 0.7118 m³ und einer Breite von 0.3 m sowie einer Dicke von 0.65 m. Es handelt sich um eine nicht-externe Struktur, die in einem Neubau verwendet wird.",
+    "Preliminary Selection": [
+      "Stahlprofil, blank",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt"
+    ],
+    "Matched Materials": [
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 120,
+      "prompt_tokens": 1742,
+      "total_tokens": 1862,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.047,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01111
+  }
+}

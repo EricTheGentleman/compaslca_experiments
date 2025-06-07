@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine rechteckige BSH Stütze aus Brettschichtholz (C24 Cl.1) mit spezifischen Abmessungen und Eigenschaften, die für tragende Strukturen geeignet sind.",
+    "Preliminary Selection": [
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz",
+      "Balkenschichtholz",
+      "Stabschichtholz, Buche, fagus"
+    ],
+    "Matched Materials": [
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz",
+      "Balkenschichtholz",
+      "Stabschichtholz, Buche, fagus"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 143,
+      "prompt_tokens": 1547,
+      "total_tokens": 1690,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.995,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00127
+  }
+}

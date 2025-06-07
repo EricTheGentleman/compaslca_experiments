@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab with a topping concrete screed layer. The screed is 0.05 meters thick, and the underlying concrete layer is 0.16 meters thick. The element is structural, load-bearing, and located indoors. The material name for the screed is 'Topping Concrete - Screed'.",
+    "Preliminary Selection": [
+      "Magerbeton (ohne Bewehrung)",
+      "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Magerbeton (ohne Bewehrung)",
+      "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 181,
+      "prompt_tokens": 1826,
+      "total_tokens": 2007,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.521,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01275
+  }
+}

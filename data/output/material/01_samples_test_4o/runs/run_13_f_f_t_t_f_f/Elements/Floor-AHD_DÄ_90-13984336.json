@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcSlab with the name 'Floor:AHD_DÄ_90:13984336', categorized as a floor, with a thickness of 0.09m, and described as 'Dämmung - weich 8cm'. It is an interior, non-load-bearing floor with thermal properties including a thermal transmittance of 0.425 and a thermal resistance of 2.3529.",
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 175,
+      "prompt_tokens": 1341,
+      "total_tokens": 1516,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.42,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010205
+  }
+}

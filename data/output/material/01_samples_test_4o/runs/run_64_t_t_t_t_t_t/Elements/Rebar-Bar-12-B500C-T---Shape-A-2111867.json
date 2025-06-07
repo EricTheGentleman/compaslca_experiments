@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a reinforcing bar with the name 'Rebar Bar:12 B500C-T : Shape A:2111867', type 'IfcReinforcingBar', and material 'B500C-T'. It is likely made of reinforcing steel.",
+    "Preliminary Selection": [
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen"
+    ],
+    "Matched Materials": [
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 102,
+      "prompt_tokens": 1242,
+      "total_tokens": 1344,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.312,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00825
+  }
+}

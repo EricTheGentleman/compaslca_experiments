@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Bodenplatte (IfcSlab) mit einer Dicke von 0.15 m, die eine harte Dämmung enthält. Es gibt auch andere Materialschichten wie Asphalt und Beton. Die Dämmung ist für den Außenbereich vorgesehen und hat spezifische Eigenschaften wie Wärmeübertragung und thermischen Widerstand.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 151,
+      "prompt_tokens": 1977,
+      "total_tokens": 2128,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.247,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.012905
+  }
+}

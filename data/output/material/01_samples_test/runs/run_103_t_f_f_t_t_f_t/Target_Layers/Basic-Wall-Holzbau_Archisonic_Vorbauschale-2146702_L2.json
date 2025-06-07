@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a standard wall made of MDF with a thickness of 0.012 meters. It is part of a basic wall type called Holzbau_Archisonic_Vorbauschale and has an exterior construction function. The wall has a net volume of 0.0324 cubic meters and is non-bearing.",
+    "Preliminary Selection": [
+      "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ],
+    "Matched Materials": [
+      "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 117,
+      "prompt_tokens": 1832,
+      "total_tokens": 1949,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.286,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00138
+  }
+}

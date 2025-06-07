@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a glass plate (IfcPlate) named 'Systemelement:Glas 100 - Versatz 25' with a material type of 'Glas - klar'. It is categorized as a curtain panel and has a volume of 0.4379 cubic meters and a surface area of 18.1102 square meters.",
+    "Matched Materials": [
+      "Isolierverglasung 2-fach, ESG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, ESG/VSG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 18 mm",
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 24 mm",
+      "Isolierverglasung 2-fach, VSG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 3-fach, ESG/ESG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, ESG/ESG/ESG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, ESG/VSG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, Ug-Wert 0.5 W/m2K, Dicke 36 mm",
+      "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K, Dicke 40 mm",
+      "Isolierverglasung 3-fach, VSG, Ug-Wert 0.6 W/m2K"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 416,
+      "prompt_tokens": 1751,
+      "total_tokens": 2167,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 8.73,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.017075
+  }
+}

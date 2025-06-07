@@ -1,0 +1,45 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a fire-rated door (EI 30) with dimensions 2180mm x 2200mm, categorized as an interior door (Brandschutztor).",
+    "Preliminary Selection": [
+      "Innentüre, Funktionstüre, Holz, Holzrahmen",
+      "Innentüre, Funktionstüre, Holz, Stahlzarge",
+      "Innentüre, Zimmertüre, Holz, Glaseinsatz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Glaseinsatz, Stahlzarge",
+      "Innentüre, Zimmertüre, Holz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Stahlzarge"
+    ],
+    "Matched Materials": [
+      "Innentüre, Funktionstüre, Holz, Holzrahmen",
+      "Innentüre, Funktionstüre, Holz, Stahlzarge",
+      "Innentüre, Zimmertüre, Holz, Glaseinsatz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Glaseinsatz, Stahlzarge",
+      "Innentüre, Zimmertüre, Holz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Stahlzarge"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 276,
+      "prompt_tokens": 1564,
+      "total_tokens": 1840,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.724,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01334
+  }
+}

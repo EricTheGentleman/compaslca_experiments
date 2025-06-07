@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab with a primary material of 'Dachdeckung - Blechdach' and is categorized as an external element. It has a thickness of approximately 8mm and is not load-bearing.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Stahlblech, blank",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Stahlblech, blank",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 102,
+      "prompt_tokens": 1773,
+      "total_tokens": 1875,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.948,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00131
+  }
+}

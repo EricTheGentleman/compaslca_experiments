@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor covering with a primary material layer for sound insulation (Dämmung - Trittschall) and a secondary layer of concrete (Beton - CTF). The element is categorized as a floor and has specific properties related to thermal resistance and sound insulation.",
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle",
+      "Polyurethan (PUR/PIR)",
+      "Zellulosefasern"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 107,
+      "prompt_tokens": 1470,
+      "total_tokens": 1577,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.048,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00114
+  }
+}

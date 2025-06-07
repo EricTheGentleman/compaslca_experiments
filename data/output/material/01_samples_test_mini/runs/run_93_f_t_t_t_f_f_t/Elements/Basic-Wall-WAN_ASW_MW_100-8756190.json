@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine nicht tragende Wand (Basic Wall) mit einer Schicht aus Mauerwerk ohne Dämmeigenschaften und einer Dicke von 0.1 Metern. Es ist eine Außenwand mit einer thermischen Übertragung von 12.97.",
+    "Matched Materials": [
+      "Backstein",
+      "Kalksandstein",
+      "Zementstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 85,
+      "prompt_tokens": 1414,
+      "total_tokens": 1499,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.232,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00877
+  }
+}

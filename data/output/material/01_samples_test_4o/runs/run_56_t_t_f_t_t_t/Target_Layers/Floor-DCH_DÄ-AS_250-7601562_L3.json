@@ -1,0 +1,57 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is a hard insulation with a thickness of 0.15 meters, part of an IfcSlab element named 'Floor:DCH_DÄ-AS_250:7601562'. The element is categorized as a floor, non-load bearing, external, and located under terrain. The thermal transmittance is 0.1782, and it is part of a construction with other layers including asphalt and concrete.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 366,
+      "prompt_tokens": 1977,
+      "total_tokens": 2343,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.005,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.017205
+  }
+}

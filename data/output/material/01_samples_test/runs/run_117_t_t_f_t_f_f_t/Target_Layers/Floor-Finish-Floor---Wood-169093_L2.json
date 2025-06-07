@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Finish Floor aus Holz mit einer Dicke von 0.019 Metern und einer zusätzlichen Schicht aus semi-rigid Isolierung mit einer Dicke von 0.003 Metern. Es ist ein tragendes Element auf Ebene 2 und hat eine Fläche von 22.0432 Quadratmetern.",
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 99,
+      "prompt_tokens": 1358,
+      "total_tokens": 1457,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.843,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00105
+  }
+}

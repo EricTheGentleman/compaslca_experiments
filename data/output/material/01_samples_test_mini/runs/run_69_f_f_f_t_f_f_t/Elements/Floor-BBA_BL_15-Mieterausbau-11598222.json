@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a floor covering (IfcCovering) named 'Floor:BBA_BL_15-Mieterausbau' with a thickness of 0.015 m. The material is described as 'Standard - Fußboden'. It is categorized under floors and has a roughness of 0.3048.",
+    "Matched Materials": [
+      "2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",
+      "Linoleum, 2.5 mm",
+      "Kork PVC-beschichtet, 3.2 mm",
+      "PVC homogen, 2 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 141,
+      "prompt_tokens": 1470,
+      "total_tokens": 1611,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.457,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01017
+  }
+}

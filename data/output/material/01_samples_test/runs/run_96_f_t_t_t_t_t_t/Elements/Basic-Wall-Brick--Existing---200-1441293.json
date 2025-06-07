@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Wand (IfcWallStandardCase) mit dem Namen 'Basic Wall:Brick- Existing - 200'. Es besteht aus 'Brick, Common' und hat spezifische Eigenschaften wie thermische Widerstandsfähigkeit und strukturelle Nutzung. Die Wand ist tragend und hat eine Dicke von 0.2 Metern.",
+    "Preliminary Selection": [
+      "Backstein",
+      "Backstein, perlitgefüllt, zzwancor"
+    ],
+    "Matched Materials": [
+      "Backstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 114,
+      "prompt_tokens": 1436,
+      "total_tokens": 1550,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.971,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00114
+  }
+}

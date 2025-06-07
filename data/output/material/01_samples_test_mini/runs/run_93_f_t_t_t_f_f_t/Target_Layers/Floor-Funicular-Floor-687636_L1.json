@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Funktionsplatte (IfcSlab) mit einer Schicht aus Spachtelmasse (0.01 m) und einer darunter liegenden Schicht aus Ortbeton (0.35 m). Es gehört zur Kategorie 'Böden' und hat spezifische Eigenschaften wie eine Fläche von 22.4425 m² und eine Dicke von 360 mm.",
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 97,
+      "prompt_tokens": 1265,
+      "total_tokens": 1362,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.856,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008265
+  }
+}

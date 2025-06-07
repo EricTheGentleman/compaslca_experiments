@@ -1,0 +1,51 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a non-load-bearing interior wall (IfcWallStandardCase) with a soft insulation material layer, 0.1 meters thick, and a thermal transmittance of 0.34. It is not external and is part of the 'A-Innenausbau' workset.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 263,
+      "prompt_tokens": 1709,
+      "total_tokens": 1972,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.358,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.013805
+  }
+}

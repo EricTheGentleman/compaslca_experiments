@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcBeam named 'Beam Gluelam:90x225:1335823' with a material specified as 'Wood - Gluelam'. It is a structural element with a length of 6120.0 mm, height of 225.0 mm, and a net volume of 0.12393 cubic meters. The element is not external and is load-bearing.",
+    "Matched Materials": [
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 116,
+      "prompt_tokens": 1499,
+      "total_tokens": 1615,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.726,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009815
+  }
+}

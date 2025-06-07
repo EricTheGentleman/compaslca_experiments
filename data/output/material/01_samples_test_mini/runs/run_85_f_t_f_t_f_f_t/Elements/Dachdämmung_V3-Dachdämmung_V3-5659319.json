@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Dachdämmung mit dem Namen 'Dachdämmung_V3:Dachdämmung_V3:5659319'. Es gehört zur Kategorie 'Generic Models' und hat eine Fläche von 77.7005 m². Das Material ist als 'Material 2' angegeben.",
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle",
+      "Polyurethan (PUR/PIR)",
+      "Zellulosefasern"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 113,
+      "prompt_tokens": 1161,
+      "total_tokens": 1274,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.864,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008065
+  }
+}

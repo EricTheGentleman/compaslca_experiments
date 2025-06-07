@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element Type: IfcWall, Name: Basic Wall:Holzfassade hinterlüftet, Material Layers: [Holzschalung Vertikal, Nadelholz, schwarz gestrichen, Luft], Target Material: Luft, Layer Number: 2, Thickness: 0.03m",
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 78,
+      "prompt_tokens": 1757,
+      "total_tokens": 1835,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.895,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010345
+  }
+}

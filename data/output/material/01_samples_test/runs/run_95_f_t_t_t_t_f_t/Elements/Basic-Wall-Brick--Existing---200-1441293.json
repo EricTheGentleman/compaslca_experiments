@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Standardwand aus Ziegeln mit dem Namen 'Basic Wall:Brick- Existing - 200'. Es hat eine Dicke von 0.2 Metern und ist als tragend klassifiziert. Das Hauptmaterial ist 'Brick, Common'.",
+    "Preliminary Selection": [
+      "Backstein",
+      "Backstein, perlitgefüllt, zzwancor"
+    ],
+    "Matched Materials": [
+      "Backstein",
+      "Backstein, perlitgefüllt, zzwancor"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 112,
+      "prompt_tokens": 1308,
+      "total_tokens": 1420,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.149,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00105
+  }
+}

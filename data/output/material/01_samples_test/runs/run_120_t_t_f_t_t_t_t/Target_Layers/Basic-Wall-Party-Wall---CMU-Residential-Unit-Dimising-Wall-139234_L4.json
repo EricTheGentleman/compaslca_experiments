@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Wand (IfcWallStandardCase) mit verschiedenen Materialschichten, darunter eine Luftschicht, Platten, Metallständer und Mauerwerk aus Betonblock. Die Wand ist nicht tragend und hat eine äußere Funktion.",
+    "Preliminary Selection": [
+      "Backstein",
+      "Kalksandstein",
+      "Zementstein"
+    ],
+    "Matched Materials": [
+      "Backstein",
+      "Kalksandstein",
+      "Zementstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 100,
+      "prompt_tokens": 1615,
+      "total_tokens": 1715,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 7.37,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00121
+  }
+}

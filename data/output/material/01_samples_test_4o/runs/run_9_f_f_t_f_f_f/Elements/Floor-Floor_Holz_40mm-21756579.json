@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau, Produktion Schweiz",
+      "Massivholz Fichte / Tanne, kammergetr., Vollholzhaus holzpur"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 213,
+      "prompt_tokens": 963,
+      "total_tokens": 1176,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.277,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009075
+  }
+}

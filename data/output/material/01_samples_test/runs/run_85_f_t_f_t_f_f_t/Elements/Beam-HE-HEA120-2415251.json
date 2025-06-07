@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Träger (IfcBeam) mit dem Namen 'Beam HE:HEA120:2415251', der aus Stahl besteht und eine Länge von 1467.0 mm hat. Es ist ein tragendes Element mit einer Höhe von 114.0 mm und hat ein Volumen von 0.0035 m³.",
+    "Matched Materials": [
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 134,
+      "prompt_tokens": 916,
+      "total_tokens": 1050,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.789,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00087
+  }
+}

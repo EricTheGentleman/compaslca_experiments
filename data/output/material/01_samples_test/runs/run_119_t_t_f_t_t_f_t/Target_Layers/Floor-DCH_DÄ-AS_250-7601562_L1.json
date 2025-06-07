@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine IfcSlab mit dem Namen 'Floor:DCH_DÄ-AS_250', die eine Dicke von 0.25 m hat und als Außenfläche klassifiziert ist. Es hat eine obere Materialschicht aus Asphalt mit einer Dicke von 0.04 m und darunter eine Schicht aus Beton mit 0.06 m sowie eine Dämmung mit 0.15 m.",
+    "Preliminary Selection": [
+      "Gussasphalt, 27.5 mm",
+      "Hartbeton einschichtig, 27.5 mm"
+    ],
+    "Matched Materials": [
+      "Gussasphalt, 27.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 141,
+      "prompt_tokens": 2100,
+      "total_tokens": 2241,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.649,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0016
+  }
+}

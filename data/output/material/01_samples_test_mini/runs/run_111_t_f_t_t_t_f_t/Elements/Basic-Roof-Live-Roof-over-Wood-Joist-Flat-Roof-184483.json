@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a flat roof slab named 'Basic Roof:Live Roof over Wood Joist Flat Roof' with a net volume of 60.7472 cubic meters and a surface area of 292.4974 square meters. No specific material is defined.",
+    "Preliminary Selection": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetrocknet, gehobelt"
+    ],
+    "Matched Materials": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetrocknet, gehobelt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 168,
+      "prompt_tokens": 1248,
+      "total_tokens": 1416,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.865,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0096
+  }
+}

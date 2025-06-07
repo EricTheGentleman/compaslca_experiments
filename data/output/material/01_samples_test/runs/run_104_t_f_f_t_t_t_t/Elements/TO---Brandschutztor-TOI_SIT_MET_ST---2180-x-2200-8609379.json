@@ -1,0 +1,31 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an internal fire-rated door (EI 30) with a construction type of 'Typ 3 - Brandschutztor'. It is not external and has specific dimensions.",
+    "Preliminary Selection": [],
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 56,
+      "prompt_tokens": 1660,
+      "total_tokens": 1716,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.329,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00113
+  }
+}

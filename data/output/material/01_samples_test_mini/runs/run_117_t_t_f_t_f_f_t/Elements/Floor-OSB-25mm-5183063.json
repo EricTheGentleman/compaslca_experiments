@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine IfcSlab mit dem Namen 'Floor:OSB 25mm', das aus einer OSB-Schicht mit einer Dicke von 25mm besteht. Es hat eine Nettofläche von 24.2943 m² und ein Volumen von 0.6074 m³. Es ist für den Innenbereich vorgesehen und gehört zur Kategorie 'Floors'.",
+    "Matched Materials": [
+      "OSB Platte, PF-gebunden, Feuchtbereich"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 110,
+      "prompt_tokens": 1666,
+      "total_tokens": 1776,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.944,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01053
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a load-bearing column (HEB Stütze) made of structural steel (Metall - Baustahl S235) with specific dimensions and volume. It is not external and is categorized under Structural Columns.",
+    "Preliminary Selection": [
+      "Stahlprofil, blank",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Armierungsstahl"
+    ],
+    "Matched Materials": [
+      "Stahlprofil, blank",
+      "Armierungsstahl"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 105,
+      "prompt_tokens": 1599,
+      "total_tokens": 1704,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.127,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00121
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Basic Wall:Exterior made of Brick on Block, with a primary material layer of Masonry - Brick. It has additional layers including air space, rigid insulation, concrete block, metal stud, and plasterboard. The wall is external, not load-bearing, and has a volume of 5.6761 cubic meters.",
+    "Matched Materials": [
+      "Backstein",
+      "Kalksandstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 95,
+      "prompt_tokens": 1273,
+      "total_tokens": 1368,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.916,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008265
+  }
+}

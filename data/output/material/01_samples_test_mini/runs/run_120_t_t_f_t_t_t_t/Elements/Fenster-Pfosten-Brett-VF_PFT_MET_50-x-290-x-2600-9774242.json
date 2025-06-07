@@ -1,0 +1,31 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Elementtyp ist IfcMember, spezifisch ein Fenster-Pfosten Brett mit einer Länge von 2.6 m und einer Kategorie von Fassadenelement. Materialdaten sind nicht definiert.",
+    "Preliminary Selection": [],
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 66,
+      "prompt_tokens": 2169,
+      "total_tokens": 2235,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.435,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.012165
+  }
+}

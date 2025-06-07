@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Außentür (IfcDoor) mit einer Höhe von 2.42m und einer Breite von 0.813m. Es gibt keine definierten Materialien, aber die Tür hat eine Funktion und ist als extern gekennzeichnet.",
+    "Preliminary Selection": [
+      "Aussentüre, Aluminium, Glaseinsatz",
+      "Aussentüre, Aluminium, Paneelfüllung",
+      "Aussentüre, Holz",
+      "Aussentüre, Holz, aluminiumbeplankt",
+      "Aussentüre, Holz, Glaseinsatz"
+    ],
+    "Matched Materials": [
+      "Aussentüre, Aluminium, Glaseinsatz",
+      "Aussentüre, Aluminium, Paneelfüllung",
+      "Aussentüre, Holz",
+      "Aussentüre, Holz, aluminiumbeplankt",
+      "Aussentüre, Holz, Glaseinsatz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 207,
+      "prompt_tokens": 1226,
+      "total_tokens": 1433,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.446,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01027
+  }
+}

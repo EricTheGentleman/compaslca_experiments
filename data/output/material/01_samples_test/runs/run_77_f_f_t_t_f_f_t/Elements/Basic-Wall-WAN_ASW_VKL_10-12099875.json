@@ -1,0 +1,32 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a non-bearing exterior wall named 'Basic Wall:WAN_ASW_VKL_10' with a material layer of 'Metall - verzinkt-Tor', which indicates it is likely made of galvanized metal. The wall has a thickness of 0.01 meters and is categorized under walls with a description of 'Verkleidung'.",
+    "Matched Materials": [
+      "Stahlblech, verzinkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 97,
+      "prompt_tokens": 1280,
+      "total_tokens": 1377,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.458,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.001
+  }
+}

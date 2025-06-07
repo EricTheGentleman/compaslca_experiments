@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein Armierungsstahl (Rebar) mit der Bezeichnung B500C-T und hat spezifische Eigenschaften wie einen Durchmesser von 0.0394 m und eine Form (Shape A). Es hat keine definierten Materialien, aber die Elementdaten deuten auf eine Verwendung von Armierungsstahl hin.",
+    "Preliminary Selection": [
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen"
+    ],
+    "Matched Materials": [
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 114,
+      "prompt_tokens": 1117,
+      "total_tokens": 1231,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.38,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.007865
+  }
+}

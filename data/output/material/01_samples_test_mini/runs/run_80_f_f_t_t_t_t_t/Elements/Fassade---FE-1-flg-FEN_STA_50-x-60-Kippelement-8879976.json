@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcWindow with a focus on a facade element. It has a glazing area of 0.6125 and a thermal transmittance (U-value) of 1.533. The materials specified include aluminum for the wing and metal steel for the frame.",
+    "Preliminary Selection": [
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K"
+    ],
+    "Matched Materials": [
+      "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 149,
+      "prompt_tokens": 1929,
+      "total_tokens": 2078,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.663,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.012625
+  }
+}

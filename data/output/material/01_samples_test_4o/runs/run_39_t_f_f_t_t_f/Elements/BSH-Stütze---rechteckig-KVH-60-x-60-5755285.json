@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcColumn named 'BSH Stütze - rechteckig:KVH 60 x 60' with material 'Holz Brettschicht - C24 Cl.1'. It is a structural column with dimensions 0.06m x 0.06m x 2.21m and a net volume of 0.008 cubic meters.",
+    "Preliminary Selection": [
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz"
+    ],
+    "Matched Materials": [
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 137,
+      "prompt_tokens": 1572,
+      "total_tokens": 1709,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.219,
+    "company": "OpenAI",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.0106
+  }
+}

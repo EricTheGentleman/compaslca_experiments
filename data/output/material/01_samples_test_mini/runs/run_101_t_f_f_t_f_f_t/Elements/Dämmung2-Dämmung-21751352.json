@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcSlab named 'Dämmung2:Dämmung:21751352' with a focus on insulation (Dämmung). It has a net volume of 2.0557 cubic meters and is not defined with a specific material. The property set indicates it is not external.",
+    "Matched Materials": [
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle",
+      "Zellulosefasern"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 127,
+      "prompt_tokens": 1037,
+      "total_tokens": 1164,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.15,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.007725
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a rectangular column (BSH Stütze) made of laminated wood (Holz Brettschicht - C24 Cl.1) with dimensions 60 x 60 cm and a height of 2.21 m. It is categorized as a structural column and is part of the interior construction phase.",
+    "Matched Materials": [
+      "Brettschichtholz",
+      "Balkenschichtholz",
+      "3- und 5-Schicht Massivholzplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 116,
+      "prompt_tokens": 1523,
+      "total_tokens": 1639,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.816,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009935
+  }
+}
