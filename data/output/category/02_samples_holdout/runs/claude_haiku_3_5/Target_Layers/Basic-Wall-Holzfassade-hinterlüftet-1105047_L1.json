@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Wooden vertical facade cladding made of softwood, painted black. Non-structural exterior wall with air gaps. Thickness: 0.02m",
+    "Preliminary Selection": "Holz und Holzwerkstoffe",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1478,
+      "completion_tokens": 87,
+      "total_tokens": 1565,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.029,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0015304
+  }
+}

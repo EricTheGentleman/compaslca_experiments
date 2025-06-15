@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase 'Basic Wall:Holzbau_Archisonic_Vorbauschale' with main layer 'Archisonic Charcoal' (12 mm, likely polyester/PET acoustic felt) and secondary layer 'MDF' (12 mm); non-bearing interior wall.",
+    "Preliminary Selection": [
+      "Polyester (UP) glasfaserverstärkt"
+    ],
+    "Matched Materials": [
+      "Polyester (UP) glasfaserverstärkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Kunststoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1191,
+      "completion_tokens": 1324,
+      "total_tokens": 2515,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 27.012,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.012974
+  }
+}

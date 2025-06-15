@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Wall element (IfcWallStandardCase) named 'Basic Wall:BSP 140 Sichtseite einseitig' with single material layer of Brettsperrholz (cross-laminated timber), 0.14 m thick; structural, exterior bearing wall.",
+    "Preliminary Selection": "Holz und Holzwerkstoffe",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1192,
+      "completion_tokens": 412,
+      "total_tokens": 1604,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 28.911,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.0568
+  }
+}

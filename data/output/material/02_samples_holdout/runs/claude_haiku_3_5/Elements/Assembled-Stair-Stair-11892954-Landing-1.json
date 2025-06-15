@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab Treppenabsatz, nicht massiv, mit Gitterrost-Material, Innenbereich",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Stahlblech, blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R",
+      "Aluminiumprofil, blank"
+    ],
+    "Matched Materials": [
+      "Stahlblech, blank",
+      "Aluminiumblech, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1609,
+      "completion_tokens": 155,
+      "total_tokens": 1764,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.786,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0019072
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is 'Knauf - Vidiwall', which is a gypsum fibreboard. It is part of an IfcSlab, specifically a floor assembly, and is positioned below a PU floor covering.",
+    "Preliminary Selection": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "Matched Category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1379,
+      "completion_tokens": 100,
+      "total_tokens": 1479,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.495,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.00055685
+  }
+}

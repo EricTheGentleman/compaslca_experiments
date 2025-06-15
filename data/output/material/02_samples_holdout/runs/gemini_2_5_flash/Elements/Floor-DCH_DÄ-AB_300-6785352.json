@@ -1,0 +1,65 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine 300mm dicke Dachplatte (IfcSlab), die als 'Dachbekleidung' und 'Dachabdeckung' klassifiziert ist. Sie ist ein nicht tragendes, externes Bauteil mit einer 200mm starken Dämmschicht, die explizit als 'Dämmung - weich' (weiche Dämmung) beschrieben wird und eine sehr gute Wärmedämmleistung (U-Wert 0.17) aufweist.",
+    "Preliminary Selection": [
+      "Aerogel-Vlies",
+      "Blähperlit",
+      "Blähvermiculit",
+      "Flachsfasern",
+      "Flachsfasern, feuerfest",
+      "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+      "Flachsfasern, MAGRIPOL, Premium",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ],
+    "Matched Materials": [
+      "Aerogel-Vlies",
+      "Blähperlit",
+      "Blähvermiculit",
+      "Flachsfasern",
+      "Flachsfasern, feuerfest",
+      "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+      "Flachsfasern, MAGRIPOL, Premium",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1890,
+      "completion_tokens": 465,
+      "total_tokens": 2355,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 17.27,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.001911
+  }
+}

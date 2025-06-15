@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcDoor, interior (IsExternal=false), fire-rated EI30, steel frame (Stahlzarge), stainless-steel finish; therefore a fire-resistant interior function door with steel frame.",
+    "Preliminary Selection": [
+      "Innentüre, Funktionstüre, Holz, Stahlzarge",
+      "Innentüre, Funktionstüre, Holz, Holzrahmen"
+    ],
+    "Matched Materials": [
+      "Innentüre, Funktionstüre, Holz, Stahlzarge"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1720,
+      "completion_tokens": 684,
+      "total_tokens": 2404,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 12.098,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.008912
+  }
+}

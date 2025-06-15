@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Wärmedämmschicht für externe Wand, weiche Dämmung, 3cm dick, nicht tragend, außenliegende Anwendung",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Steinwolle",
+      "Zellulosefasern",
+      "Flachsfasern",
+      "Polystyrol expandiert (EPS)",
+      "Polyurethan (PUR/PIR)"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle",
+      "Zellulosefasern",
+      "Flachsfasern"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2135,
+      "completion_tokens": 175,
+      "total_tokens": 2310,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.92,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.002408
+  }
+}

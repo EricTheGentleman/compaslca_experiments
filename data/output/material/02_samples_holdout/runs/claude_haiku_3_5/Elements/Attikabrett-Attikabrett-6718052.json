@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab namens 'Attikabrett', Kategorie 'Floors', kein definiertes Material, wahrscheinlich Holzprodukt für architektonische Zwecke",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Brettschichtholz",
+      "Furniersperrholz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Brettschichtholz",
+      "Furniersperrholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2027,
+      "completion_tokens": 261,
+      "total_tokens": 2288,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 33.072,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0026656
+  }
+}

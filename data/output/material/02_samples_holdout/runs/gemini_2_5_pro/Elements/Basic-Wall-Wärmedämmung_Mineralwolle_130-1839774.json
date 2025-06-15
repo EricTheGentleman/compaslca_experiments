@@ -1,0 +1,45 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Wand (IfcWall), die als Wärmedämmung dient. Der Elementname ('Wärmedämmung_Mineralwolle_130'), der ObjectType ('Basic Wall:Wärmedämmung_Mineralwolle_130') und der Materialname in der Materialschicht ('Wärmedämmung Mineralwolle, 0.035 W/mK') weisen eindeutig auf Mineralwolle als Hauptmaterial hin.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1529,
+      "completion_tokens": 244,
+      "total_tokens": 1773,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 17.915,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00435125
+  }
+}

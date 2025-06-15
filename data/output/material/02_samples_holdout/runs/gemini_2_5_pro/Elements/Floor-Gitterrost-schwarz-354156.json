@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist ein außenliegender Bodenrost (IfcSlab, Name: 'Floor:Gitterrost schwarz', Typ: 'Floor:Gitterrost schwarz'). Das explizit zugewiesene Material ist 'Zink Gitter' mit einer Dicke von 30mm (Element Material Data). Die vorgesehene Funktion ist 'Exterior' (PSet Construction.Function) und der Einsatzbereich ist 'Terrassenkonstruktion' (PSet Workset). Dies erfordert Korrosionsbeständigkeit. Der Namensbestandteil 'schwarz' deutet auf eine Oberflächenbeschichtung hin, beeinflusst aber nicht die Wahl des Grundmaterials.",
+    "Preliminary Selection": [
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1490,
+      "completion_tokens": 214,
+      "total_tokens": 1704,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 69.632,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.0040025
+  }
+}

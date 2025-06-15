@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcStairFlight element with material 'Gitterrost-Treppe' (grating staircase) and type 'Stahl_40 mm Auftritt' (steel 40 mm tread).",
+    "Preliminary Selection": "Metallbaustoffe",
+    "Matched Category": "Metallbaustoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1146,
+      "completion_tokens": 79,
+      "total_tokens": 1225,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.425,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.0004484
+  }
+}

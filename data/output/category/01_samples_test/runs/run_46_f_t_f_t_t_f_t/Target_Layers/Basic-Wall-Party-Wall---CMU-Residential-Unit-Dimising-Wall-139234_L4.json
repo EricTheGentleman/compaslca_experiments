@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall composed of multiple layers including plasterboard, metal studs, and masonry concrete blocks. The wall is classified as a party wall and is not load-bearing. It is external and has a thickness of 0.55 meters.",
+    "Preliminary Selection": "Mauersteine",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 84,
+      "prompt_tokens": 1251,
+      "total_tokens": 1335,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.264,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.007935
+  }
+}

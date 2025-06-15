@@ -21,7 +21,7 @@ for subfolder in subfolders:
 
 # === Process Each Run ===
 for run_dir in runs_base.iterdir():
-    if not run_dir.is_dir() or not run_dir.name.startswith("run_"):
+    if not run_dir.is_dir():
         continue
 
     mismatches = {}

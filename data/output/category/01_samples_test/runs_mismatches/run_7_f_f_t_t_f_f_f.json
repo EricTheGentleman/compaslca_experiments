@@ -1,0 +1,26 @@
+{
+  "Fassade-Ecke-EG1-FAS_ECK_EG-12651885.json": {
+    "category": "Metallbaustoffe",
+    "matched_category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "Basic-Wall-Purenit-Fusspunkt-6169888.json": {
+    "category": "Wärmedämmstoffe",
+    "matched_category": "Kunststoffe"
+  },
+  "Basic-Wall-WAN_ASW_LB_100-gel-5059296.json": {
+    "category": "Beton",
+    "matched_category": "None"
+  },
+  "Basic-Wall-WAN_ASW_MW_225-7610934.json": {
+    "category": "Mauersteine",
+    "matched_category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "Basic-Wall-Exterior---Brick-on-Block-138062_L6.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "matched_category": "Mörtel und Putze"
+  },
+  "Floor-Finish-Floor---Ceramic-Tile-169772_L1.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "matched_category": "Bodenbeläge"
+  }
+}

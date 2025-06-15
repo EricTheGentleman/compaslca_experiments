@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcBeam named 'Holz Träger - rechteckig' with a reference to wood (Holz) but lacks defined material data.",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 58,
+      "prompt_tokens": 917,
+      "total_tokens": 975,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.708,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.005745
+  }
+}

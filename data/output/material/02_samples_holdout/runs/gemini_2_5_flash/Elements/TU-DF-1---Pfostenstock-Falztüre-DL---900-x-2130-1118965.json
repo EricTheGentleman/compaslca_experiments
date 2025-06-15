@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine IfcDoor (Tür) mit der Funktion 'Interior' (innenliegend). Es sind keine Materialdaten ('Not defined') oder Brandschutzinformationen ('Identity Data.Fire Rating': '') hinterlegt. Der Objekttyp 'Pfostenstock Falztüre' beschreibt eine Bauart, die oft mit Holz assoziiert wird, schließt aber andere Materialien nicht explizit aus. Es handelt sich um eine standardmäßige Innentür.",
+    "Preliminary Selection": [
+      "Innentüre, Aluminium, Glaseinsatz",
+      "Innentüre, Zimmertüre, Holz, Glaseinsatz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Glaseinsatz, Stahlzarge",
+      "Innentüre, Zimmertüre, Holz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Stahlzarge"
+    ],
+    "Matched Materials": [
+      "Innentüre, Aluminium, Glaseinsatz",
+      "Innentüre, Zimmertüre, Holz, Glaseinsatz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Glaseinsatz, Stahlzarge",
+      "Innentüre, Zimmertüre, Holz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Stahlzarge"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1413,
+      "completion_tokens": 298,
+      "total_tokens": 1711,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 22.312,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.00125495
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine Tür (IfcDoor) mit unbekanntem Material, innenliegend, mit spezifischer Familien- und Typbezeichnung, Kategorie Türen, Wandstärke 140 mm, im Eingangsbereich.",
+    "Preliminary Selection": [
+      "Aussentüre, Holz",
+      "Aussentüre, Holz, Glaseinsatz",
+      "Aussentüre, Holz, Paneelfüllung"
+    ],
+    "Matched Materials": [
+      "Aussentüre, Holz",
+      "Aussentüre, Holz, Glaseinsatz",
+      "Aussentüre, Holz, Paneelfüllung"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 142,
+      "prompt_tokens": 1298,
+      "total_tokens": 1440,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.739,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0001866
+  }
+}

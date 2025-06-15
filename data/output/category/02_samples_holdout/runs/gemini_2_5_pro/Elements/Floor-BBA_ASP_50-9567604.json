@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab, Name: Floor:BBA_ASP_50, Type: Floor:BBA_ASP_50. Material: Default. PSet Description: Gussasphalt 50. PSet Gewerbebau.Bauteilart: Bodenbelag (floor covering). Thickness: 50mm.",
+    "Preliminary Selection": "Bodenbeläge",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1335,
+      "completion_tokens": 108,
+      "total_tokens": 1443,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 17.794,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00274875
+  }
+}

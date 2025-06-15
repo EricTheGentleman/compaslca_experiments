@@ -1,0 +1,65 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein IfcSlab (Floor:DCH_DÄ+AB_300), das als nichttragendes, außenliegendes Bauteil fungiert, wahrscheinlich als Teil einer Dachkonstruktion (PSet: Bauteilklasse 'A_Dachbekleidung', Bauteilart 'Dachabdeckung'). Die entscheidende Information für die Materialzuordnung ist die Materialschicht 'Dämmung - weich' mit einer Dicke von 0.2m.",
+    "Preliminary Selection": [
+      "Aerogel-Vlies",
+      "Blähperlit",
+      "Blähvermiculit",
+      "Flachsfasern",
+      "Flachsfasern, feuerfest",
+      "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+      "Flachsfasern, MAGRIPOL, Premium",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ],
+    "Matched Materials": [
+      "Aerogel-Vlies",
+      "Blähperlit",
+      "Blähvermiculit",
+      "Flachsfasern",
+      "Flachsfasern, feuerfest",
+      "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+      "Flachsfasern, MAGRIPOL, Premium",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1890,
+      "completion_tokens": 497,
+      "total_tokens": 2387,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 34.123,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.0073325
+  }
+}

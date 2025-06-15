@@ -4,7 +4,7 @@ from collections import defaultdict
 
 # === CONFIGURATION ===
 mismatch_json_dir = Path(r"data/output/category/02_samples_holdout/runs_mismatches")
-summary_output_path = Path(r"data/output/category/02_samples_holdout/runs_mismatches/mismatch_summary.json")
+summary_output_path = Path(r"data/output/category/02_samples_holdout/runs_mismatches/0_mismatch_summary.json")
 
 # === Load All Mismatch JSONs ===
 summary = defaultdict(lambda: {
@@ -13,7 +13,7 @@ summary = defaultdict(lambda: {
     "total_runs_with_mismatch": 0
 })
 
-for mismatch_file in mismatch_json_dir.glob("run_*.json"):
+for mismatch_file in mismatch_json_dir.glob("*.json"):
     with mismatch_file.open("r", encoding="utf-8") as f:
         mismatches = json.load(f)
 

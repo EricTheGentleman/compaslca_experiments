@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a precast stair landing made of 'Betonfertigteil', which is a type of concrete.",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 43,
+      "prompt_tokens": 1225,
+      "total_tokens": 1268,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1152
+      }
+    },
+    "processing_time": 1.329,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.006985
+  }
+}

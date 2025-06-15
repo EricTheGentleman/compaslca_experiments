@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab (floor) with an insulation layer named \"Wärmedämmung Mineralwolle, 0.035 W/mK\"; thickness 0.10 m; thermal conductivity 0.035 W/mK; non-structural interior application. Mineral wool implies glass or stone wool insulation.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Steinwolle"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1424,
+      "completion_tokens": 1063,
+      "total_tokens": 2487,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 67.884,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.11352
+  }
+}

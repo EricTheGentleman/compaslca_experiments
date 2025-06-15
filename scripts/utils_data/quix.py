@@ -1,12 +1,20 @@
-from pathlib import Path
+import pandas as pd
 
-# === CONFIGURATION ===
-parent_dir = Path("data/output/material/01_samples_test/runs")  # Replace with your path
+# Directly use the file path
+file_path = "data/output/material/02_samples_holdout/material_holdout_runs_aggregated.csv"
 
-# === Iterate over subdirectories ===
-for subfolder in parent_dir.iterdir():
-    if subfolder.is_dir():
-        # Create Elements and Target_Layers inside each subfolder
-        (subfolder / "Elements").mkdir(parents=True, exist_ok=True)
-        (subfolder / "Target_Layers").mkdir(parents=True, exist_ok=True)
-        print(f"Created in: {subfolder}")
+# Read the CSV file
+df = pd.read_csv(file_path)
+
+# Check if the required columns exist
+if "model" not in df.columns or "mean_f0.5_score" not in df.columns:
+    raise ValueError("CSV must contain 'model' and 'mean_f0.5_score' columns.")
+
+# Sort by mean_f0.5_score in ascending order
+sorted_df = df.sort_values(by="mean_f0.5_score", ascending=True)
+
+# Print the model names in order
+print("\nModels ordered by mean_f0.5_score (lowest to highest):")
+for model in sorted_df["model"]:
+    print(model)
+

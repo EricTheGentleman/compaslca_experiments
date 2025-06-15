@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcCovering. The target material layer is 'Standard - Fußboden-Schmutzabstreifer' (floor dirt trap/doormat). Property sets indicate 'Bauteilart: Bodenbelag' (floor covering) and 'Category: Floors'.",
+    "Preliminary Selection": "Bodenbeläge",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1740,
+      "completion_tokens": 101,
+      "total_tokens": 1841,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 15.771,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.003185
+  }
+}

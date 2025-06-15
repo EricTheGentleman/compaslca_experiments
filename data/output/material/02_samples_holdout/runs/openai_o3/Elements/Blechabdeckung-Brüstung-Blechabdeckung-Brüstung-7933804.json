@@ -1,0 +1,53 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a parapet metal cover (sheet metal) named 'Blechabdeckung Brüstung', exterior application likely requires weather-/corrosion-resistant sheet material; actual material not defined in IFC.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R",
+      "Aluminiumprofil, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt",
+      "Kupferblech, blank",
+      "Messing-/Baubronzeblech",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt",
+      "Kupferblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1145,
+      "completion_tokens": 771,
+      "total_tokens": 1916,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 10.239,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.008458
+  }
+}

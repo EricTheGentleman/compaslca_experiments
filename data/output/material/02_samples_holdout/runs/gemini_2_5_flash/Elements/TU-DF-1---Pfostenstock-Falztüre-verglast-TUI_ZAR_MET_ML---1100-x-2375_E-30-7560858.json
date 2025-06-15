@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Innentür ('IfcDoor', 'IsExternal': 'False', 'Construction.Function': 'Interior'). Sie ist eine Brandschutztür ('FireRating': 'E 30', 'Feuerwiderstandsklasse': 'E 30') und Fluchttür ('Fluchttür': 'True'), was auf eine Funktionstür hindeutet. Die Tür ist aus 'Metall Glas' ('ConstructionType') mit einem 'Stahl'-Rahmen ('Frame Material') und enthält 'Glas' ('Material Name').",
+    "Preliminary Selection": [
+      "Innentüre, Funktionstüre, Holz, Stahlzarge"
+    ],
+    "Matched Materials": [
+      "Innentüre, Aluminium, Glaseinsatz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1922,
+      "completion_tokens": 171,
+      "total_tokens": 2093,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 33.658,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.0008868
+  }
+}

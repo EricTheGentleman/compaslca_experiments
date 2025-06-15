@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material Name: Beton - Ortbeton - Überbeton, Element Type: IfcSlab, Element Name: Floor:Bodenaufbau 12 beton + 5 aufbau, Category: Floors",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 71,
+      "prompt_tokens": 1350,
+      "total_tokens": 1421,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.453,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00817
+  }
+}

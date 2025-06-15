@@ -1,0 +1,61 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein IfcSlab, kategorisiert als 'Floors', mit dem Namen 'Floor:AHD_DÄ_150' und einer Dicke von 0.15m. Es befindet sich 'unter Terrain' und ist nicht tragend ('LoadBearing: False', 'Structural: False'). Die entscheidende Materialinformation stammt aus 'Psets Object Type.Layers.EN Layers and Widths': 'Dämmung - weich 14cm'. 'DÄ' in Namen und Typ deutet ebenfalls auf Dämmung hin. Die Angabe 'Gewerbebau.Bauteilart: Deckenbekleidung' steht im leichten Widerspruch zu den dominanten Hinweisen auf eine Bodenplatte mit Dämmung.",
+    "Preliminary Selection": [
+      "Aerogel-Vlies",
+      "Flachsfasern",
+      "Flachsfasern, feuerfest",
+      "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+      "Flachsfasern, MAGRIPOL, Premium",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ],
+    "Matched Materials": [
+      "Aerogel-Vlies",
+      "Flachsfasern",
+      "Flachsfasern, feuerfest",
+      "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+      "Flachsfasern, MAGRIPOL, Premium",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1676,
+      "completion_tokens": 520,
+      "total_tokens": 2196,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 44.922,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.007295
+  }
+}

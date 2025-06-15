@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcBeam named 'IPE Träger Kammerbeton:TRA_IPE-KAB_STA_STB_400:8222212'. The material is 'Beton - Ortbeton bewehrt', indicating reinforced concrete. The element is structural, load-bearing, and categorized under 'Structural Framing'.",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 98,
+      "prompt_tokens": 1829,
+      "total_tokens": 1927,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.74,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.011105
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase 'Basic Wall FUN_STB_1500' with one 1.5 m thick layer of reinforced cast-in-place concrete (Beton - Ortbeton bewehrt); load-bearing foundation wall.",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1428,
+      "completion_tokens": 275,
+      "total_tokens": 1703,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 16.481,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.005056
+  }
+}

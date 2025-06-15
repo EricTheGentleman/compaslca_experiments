@@ -1,0 +1,17 @@
+{
+    "name": "Screwed-Pin-M24-1238114",
+    "category": "Metallbaustoffe",
+    "material_entries": [],
+    "reason": [
+        "screwed pins are small machined metal fasteners",
+        "they are not flat sheets or structural profiles",
+        "no suitable match found in category"
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "True Negative",
+    "Data Structure": "Element",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 0
+}

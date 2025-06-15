@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "External, load-bearing IfcWallStandardCase with a 0.15m thick material layer named 'Massiv'. 'Massiv' indicates a solid, heavy construction material (e.g., concrete or masonry), but the specific type is not explicitly defined by this name.",
+    "Preliminary Selection": "None",
+    "Matched Category": "None"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 866,
+      "completion_tokens": 89,
+      "total_tokens": 955,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 126.926,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.0019725
+  }
+}

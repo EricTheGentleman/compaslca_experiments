@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Target material is 'Luftschicht' (air layer) with 0.02m thickness, part of an IfcWall (lightweight interior wall) that also includes gypsum board, soft insulation, and sand-lime brick.",
+    "Preliminary Selection": "None",
+    "Matched Category": "None"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1852,
+      "completion_tokens": 80,
+      "total_tokens": 1932,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 13.442,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.0005578
+  }
+}

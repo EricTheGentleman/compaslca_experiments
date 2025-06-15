@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Trockenbau-Wand mit Gipsplatten-Verkleidung (25mm dick), Teil einer nicht-tragenden Innenwand (WAN_TWÄ_GK_100) mit Brandschutzklasse EI30. Die Wand besteht aus drei Schichten: Gipsplatte-Dämmung-Gipsplatte.",
+    "Preliminary Selection": [
+      "Gipskartonplatte",
+      "Gipsfaserplatte",
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte Fermacell"
+    ],
+    "Matched Materials": [
+      "Gipskartonplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2299,
+      "completion_tokens": 185,
+      "total_tokens": 2484,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 8.093,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.04836
+  }
+}

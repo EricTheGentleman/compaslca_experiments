@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcBeam named 'IPE Träger Kammerbeton' with material 'Beton - Ortbeton bewehrt' and structural material 'Metall - Baustahl S235'. It is a load-bearing structural framing element.",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 70,
+      "prompt_tokens": 1755,
+      "total_tokens": 1825,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1664
+      }
+    },
+    "processing_time": 1.846,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010175
+  }
+}

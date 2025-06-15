@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcWindow named 'FE Dachkuppel rund:Ø=1200', categorized as a 'Dachfenster' (skylight) with material data indicating 'Glas - Isolierverglasung klar' (clear insulating glass).",
+    "Matched Category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 81,
+      "prompt_tokens": 1238,
+      "total_tokens": 1319,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.747,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00781
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Wandkomponente. Während Name und Typ des Elements (\"Basic Wall:KVH Balken 120mm\") auf Konstruktionsvollholz (KVH) hindeuten, spezifizieren die expliziten Materialdaten (Materialname der Schicht: \"Brettschichtholz C24\" und PSet Structural Material: \"Brettschichtholz C24\") eindeutig Brettschichtholz. Das Element ist als nichttragend deklariert.",
+    "Preliminary Selection": [
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz"
+    ],
+    "Matched Materials": [
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1848,
+      "completion_tokens": 164,
+      "total_tokens": 2012,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 62.912,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00395
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcCovering floor element used as floor covering (Bodenbelag); main material layer named \"Standard - Fußboden-Schmutzabstreifer\" (entrance floor mat); other layers concrete and impact sound insulation.",
+    "Preliminary Selection": "Bodenbeläge",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1529,
+      "completion_tokens": 404,
+      "total_tokens": 1933,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 52.346,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.0629
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a non-load-bearing interior wall with a material name 'Mauerwerk - Ziegel', which translates to 'masonry - brick'.",
+    "Matched Category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 64,
+      "prompt_tokens": 1785,
+      "total_tokens": 1849,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.54,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010205
+  }
+}

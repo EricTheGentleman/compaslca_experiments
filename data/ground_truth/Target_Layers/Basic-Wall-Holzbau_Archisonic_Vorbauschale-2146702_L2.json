@@ -1,0 +1,17 @@
+{
+    "name": "Basic-Wall-Holzbau_Archisonic_Vorbauschale-2146702_L2",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ],
+    "reason": [
+        "exact semantic match"
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

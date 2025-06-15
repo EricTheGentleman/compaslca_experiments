@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist ein Treppenlauf ('IfcStairFlight', Name enthält 'Stair Run'), genauer ein nicht-monolithischer Lauf mit Stahlauftritten ('Non-Monolithic Run:Stahl_40 mm Auftritt'). Das explizite Material ist 'Gitterrost-Treppe', was auf ein Gitterrost aus Stahl hinweist. Mehrere Eigenschaften bestätigen 'Stahl' und 'Gitterrost'. Der Einsatzbereich ist 'A-Innenausbau'.",
+    "Preliminary Selection": [
+      "Stahlprofil, blank",
+      "Stahlblech, verzinkt",
+      "Stahlblech, blank"
+    ],
+    "Matched Materials": [
+      "Stahlprofil, blank",
+      "Stahlblech, verzinkt",
+      "Stahlblech, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1411,
+      "completion_tokens": 181,
+      "total_tokens": 1592,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 42.941,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00357375
+  }
+}

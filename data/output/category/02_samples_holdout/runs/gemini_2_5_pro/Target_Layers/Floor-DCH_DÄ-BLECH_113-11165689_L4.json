@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material is 'Dämmung - weich' (soft insulation). The IfcBuildingElement is an IfcSlab, likely part of a roof assembly, with object type 'Floor:DCH_DÄ+BLECH_113' and PSet Bauteilart 'Dachabdeckung' (roof covering).",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1610,
+      "completion_tokens": 110,
+      "total_tokens": 1720,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 13.16,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.0031125
+  }
+}

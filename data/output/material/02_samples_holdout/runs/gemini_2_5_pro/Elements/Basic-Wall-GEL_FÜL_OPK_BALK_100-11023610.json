@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IFC-Bauteil ist ein außenliegendes, nichttragendes Wandelement, das als Geländerfüllung ('GEL_FÜL_OPK_BALK_100', 'Gelaender') für einen Balkon ('BALK') im Fassadenbereich ('A-Fassade') dient. Das Material ist explizit als 'Fassade - Balkon Zinkblech' in den Materialschichten und im Property Set 'Gewerbebau.Material' spezifiziert.",
+    "Preliminary Selection": [
+      "Titanzinkblech",
+      "Stahlblech, verzinkt"
+    ],
+    "Matched Materials": [
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1889,
+      "completion_tokens": 154,
+      "total_tokens": 2043,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 40.789,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00390125
+  }
+}

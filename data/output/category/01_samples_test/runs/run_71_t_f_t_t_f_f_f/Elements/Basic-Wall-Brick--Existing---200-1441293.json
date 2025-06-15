@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a standard wall case made of 'Brick, Common' with a thickness of 0.2 meters, used as an interior load-bearing wall.",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 54,
+      "prompt_tokens": 1279,
+      "total_tokens": 1333,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.228,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.007475
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an exterior, non-loadbearing basic wall (IfcWall) with a single 3cm thick soft insulation layer ('Dämmung - weich'), used as facade cladding ('Wandbekleidung'), not structural, under terrain, with thermal transmittance U=1.1333. Material focus: soft insulation.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Flachsfasern",
+      "Flachsfasern, feuerfest",
+      "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+      "Flachsfasern, MAGRIPOL, Premium"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Flachsfasern",
+      "Flachsfasern, feuerfest",
+      "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+      "Flachsfasern, MAGRIPOL, Premium"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 362,
+      "prompt_tokens": 1613,
+      "total_tokens": 1975,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.378,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.006122
+  }
+}

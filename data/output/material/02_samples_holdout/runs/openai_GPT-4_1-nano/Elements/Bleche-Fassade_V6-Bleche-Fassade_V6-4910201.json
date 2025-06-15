@@ -1,0 +1,52 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist ein Fassadenblech mit dem Namen 'Bleche Fassade_V6', vermutlich aus Metall, ohne spezifische Materialangabe. Es ist ein Proxy-Element, wahrscheinlich für eine Fassadenverkleidung, mit einer Fläche von 13.55 m² und einem Volumen von 0.0646 m³. Die Materialdaten nennen 'Material 4', was keine direkte Zuordnung erlaubt. Es ist im Bereich 'Dachkonstruktion' kategorisiert, was auf eine metallische Fassadenbekleidung hindeuten könnte.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromstahlblech blank",
+      "Kupferblech, blank",
+      "Titanzinkblech",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R",
+      "Aluminiumprofil, blank",
+      "Stahlprofil, blank",
+      "Messing-/Baubronzeblech",
+      "Blei"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromstahlblech blank",
+      "Kupferblech, blank",
+      "Titanzinkblech",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 328,
+      "prompt_tokens": 1218,
+      "total_tokens": 1546,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.98,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.000253
+  }
+}

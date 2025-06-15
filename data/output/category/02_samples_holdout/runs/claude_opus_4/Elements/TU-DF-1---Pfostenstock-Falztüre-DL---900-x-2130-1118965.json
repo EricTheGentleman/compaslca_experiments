@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcDoor element, Type: 'TU DF 1 - Pfostenstock Falztüre' (German for post-stock rebated door), Interior function, 1-part construction, Dimensions: 900x2130mm, No material specified",
+    "Preliminary Selection": "Türen",
+    "Matched Category": "Türen"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1295,
+      "completion_tokens": 103,
+      "total_tokens": 1398,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.005,
+    "company": "Anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.02715
+  }
+}

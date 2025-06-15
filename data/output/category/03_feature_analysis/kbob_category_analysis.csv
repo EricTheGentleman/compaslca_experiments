@@ -1,0 +1,14 @@
+KBOB Category,Mean Accuracy,Number of Samples
+"Anstrichstoffe, Beschichtungen",1.0,1
+Beton,0.95375,25
+Bodenbeläge,0.8046875,7
+"Dichtungsbahnen, Schutzfolien",1.0,2
+"Fenster, Sonnenschutz, Fassadenplatten",0.9625,10
+Holz und Holzwerkstoffe,0.9657118055555556,18
+Kunststoffe,0.3359375,1
+Mauersteine,0.8411458333333334,9
+Metallbaustoffe,0.8740985576923077,26
+"Mineralische Platten, Schüttungen, Steine und Ziegel",0.5768229166666666,6
+Mörtel und Putze,0.640625,4
+Türen,1.0,5
+Wärmedämmstoffe,0.8506944444444444,18

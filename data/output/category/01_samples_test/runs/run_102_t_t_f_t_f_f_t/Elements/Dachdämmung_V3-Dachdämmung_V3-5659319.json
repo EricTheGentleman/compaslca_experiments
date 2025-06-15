@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a proxy element named 'Dachdämmung_V3' with a material named 'Material 2'. It is categorized under 'Generic Models' and is associated with a roof construction. The element is related to insulation.",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 71,
+      "prompt_tokens": 904,
+      "total_tokens": 975,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.896,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00594
+  }
+}

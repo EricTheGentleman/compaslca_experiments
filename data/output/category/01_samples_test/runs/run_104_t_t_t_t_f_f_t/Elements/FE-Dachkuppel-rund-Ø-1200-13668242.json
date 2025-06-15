@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a round skylight window (Dachfenster) with a diameter of 1200mm. It has no defined material but is categorized under 'Windows' in its property sets. The element is described as having insulating glass.",
+    "Matched Category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 77,
+      "prompt_tokens": 1256,
+      "total_tokens": 1333,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.742,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00782
+  }
+}

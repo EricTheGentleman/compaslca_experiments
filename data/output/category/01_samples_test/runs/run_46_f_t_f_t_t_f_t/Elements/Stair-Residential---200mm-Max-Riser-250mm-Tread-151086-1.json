@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a residential stair with a maximum riser of 200mm and a tread of 250mm. The element type is IfcMember and the object type is stringer. No material data is defined.",
+    "Preliminary Selection": "None",
+    "Matched Category": "None"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 70,
+      "prompt_tokens": 729,
+      "total_tokens": 799,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.545,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.005045
+  }
+}

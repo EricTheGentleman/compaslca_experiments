@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material: 'Heraklit-Platte' (wood wool cement board), thickness 0.01m. Element is an IfcSlab, type 'Floor:AHD_DÄ_150', acting as 'Deckenbekleidung' (ceiling lining). Another material layer is 'Dämmung - weich' (soft insulation). Thermal transmittance (U-value) is specified, indicating a thermal function.",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1598,
+      "completion_tokens": 128,
+      "total_tokens": 1726,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 44.902,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.0032775
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcSlab named 'Floor:Bodenaufbau 12 beton + 5 aufbau' with a material name indicating a floor construction involving concrete ('Fußbodenaufbau' and 'Beton - Ortbeton - Überbeton'). It is categorized under 'Floors' in the property sets.",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 90,
+      "prompt_tokens": 1276,
+      "total_tokens": 1366,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1152
+      }
+    },
+    "processing_time": 1.74,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00818
+  }
+}

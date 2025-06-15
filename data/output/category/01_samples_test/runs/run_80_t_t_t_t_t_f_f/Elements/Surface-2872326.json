@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcBuildingElementProxy with no defined material, large surface area, and zero volume.",
+    "Preliminary Selection": "Dichtungsbahnen, Schutzfolien",
+    "Matched Category": "Dichtungsbahnen, Schutzfolien"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 64,
+      "prompt_tokens": 847,
+      "total_tokens": 911,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.381,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.005515
+  }
+}

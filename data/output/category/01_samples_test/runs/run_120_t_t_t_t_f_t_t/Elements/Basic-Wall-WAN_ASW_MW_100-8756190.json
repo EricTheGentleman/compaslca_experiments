@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcWall named 'Basic Wall:WAN_ASW_MW_100' with a material layer identified as 'Mauerwerk - ohne Dämmeigenschaften', which translates to masonry without insulation properties. The wall is categorized as an external, non-bearing wall with a thermal transmittance value provided.",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 88,
+      "prompt_tokens": 1665,
+      "total_tokens": 1753,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.843,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.010085
+  }
+}

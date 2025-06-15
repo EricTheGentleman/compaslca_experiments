@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcWindow with undefined material, dimensions of 120.0 width and 0.0 height, located on Level: VÅN 2.",
+    "Matched Category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 59,
+      "prompt_tokens": 734,
+      "total_tokens": 793,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.459,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.00485
+  }
+}

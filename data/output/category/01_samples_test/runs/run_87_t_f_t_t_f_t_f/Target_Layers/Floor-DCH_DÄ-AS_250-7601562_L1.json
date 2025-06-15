@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab with multiple material layers. The primary material is 'Umgebung - Asphalt', with additional layers of 'Beton - Überbeton' and 'Dämmung - hart'. The element is categorized as a floor and is external, non-load bearing, and has a thermal transmittance of 0.1782.",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 93,
+      "prompt_tokens": 1862,
+      "total_tokens": 1955,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.533,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01117
+  }
+}

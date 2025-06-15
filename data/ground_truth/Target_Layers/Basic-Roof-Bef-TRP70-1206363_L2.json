@@ -1,0 +1,24 @@
+{
+    "name": "Basic-Roof-Bef-TRP70-1206363_L2",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Glaswolle",
+        "Glaswolle, Isover, phenolbasiertes Bindemittel",
+        "Glaswolle, Isover, pflanzliches Bindemittel",
+        "Glaswolle, SUPAFIL",
+        "Steinwolle",
+        "Steinwolle, Flumroc"
+    ],
+    "reason": [
+        "Mineralwolle is a general term",
+        "includes both glass wool and stone wool",
+        "all mineral wool variants of kbob are considered valid matches"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 6
+}

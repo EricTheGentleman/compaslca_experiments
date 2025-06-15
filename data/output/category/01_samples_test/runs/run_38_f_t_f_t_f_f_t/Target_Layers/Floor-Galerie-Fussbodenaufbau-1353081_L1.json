@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab named 'Galerie Fussbodenaufbau' with multiple material layers including 'PU Bodenbelag - Sika PS23', 'Knauf - Vidiwall', 'Knauf - Brio Heizboden 25', and 'Trittschalldämmung Flumroc 341'. It is categorized under 'Floors' and has a total thickness of 74.0 cm.",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 108,
+      "prompt_tokens": 1179,
+      "total_tokens": 1287,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1152
+      }
+    },
+    "processing_time": 2.067,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008055
+  }
+}

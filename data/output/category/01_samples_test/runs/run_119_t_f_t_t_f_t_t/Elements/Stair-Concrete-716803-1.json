@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a stair flight named 'Stair:Concrete:716803:1' with a reference to concrete in its properties. However, the material data is not defined. The stair is categorized as an interior element.",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 66,
+      "prompt_tokens": 1113,
+      "total_tokens": 1179,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.638,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.006885
+  }
+}

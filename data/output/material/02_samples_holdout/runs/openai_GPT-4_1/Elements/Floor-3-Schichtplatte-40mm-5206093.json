@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an interior floor slab (IfcSlab) named '3-Schichtplatte 40mm', with a single 40mm layer of 'Massivholz' (solid wood). The term '3-Schichtplatte' indicates a 3-layer solid wood panel, typically made from softwood species such as spruce, fir, or larch. The element is not structural.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau, Produktion Schweiz"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 277,
+      "prompt_tokens": 1738,
+      "total_tokens": 2015,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.598,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.005692
+  }
+}

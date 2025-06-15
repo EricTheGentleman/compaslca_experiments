@@ -1,157 +1,250 @@
 {
+  "Floor-GDE_BAL_MET_30-7151537.json": {
+    "category": "Metallbaustoffe",
+    "mismatches": {
+      "Bodenbeläge": 69
+    },
+    "total_runs_with_mismatch": 69
+  },
   "Basic-Wall-Purenit-Fusspunkt-6169888.json": {
     "category": "Wärmedämmstoffe",
     "mismatches": {
-      "Kunststoffe": 18
+      "Kunststoffe": 91
     },
-    "total_runs_with_mismatch": 18
-  },
-  "Basic-Wall-WAN_ASW_MW_225-7610934.json": {
-    "category": "Mauersteine",
-    "mismatches": {
-      "Mineralische Platten, Schüttungen, Steine und Ziegel": 32
-    },
-    "total_runs_with_mismatch": 32
-  },
-  "Basic-Wall-WAN_TWÄ_MW_125---EI30-11161798.json": {
-    "category": "Mauersteine",
-    "mismatches": {
-      "Mineralische Platten, Schüttungen, Steine und Ziegel": 32
-    },
-    "total_runs_with_mismatch": 32
-  },
-  "Basic-Wall-WAN_TWÄ_MW_150-KS-10152070.json": {
-    "category": "Mauersteine",
-    "mismatches": {
-      "Mineralische Platten, Schüttungen, Steine und Ziegel": 26
-    },
-    "total_runs_with_mismatch": 26
-  },
-  "Floor-Finish-Floor---Ceramic-Tile-169772_L1.json": {
-    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
-    "mismatches": {
-      "Bodenbeläge": 32
-    },
-    "total_runs_with_mismatch": 32
-  },
-  "Floor-Funicular-Floor-687636_L1.json": {
-    "category": "Mörtel und Putze",
-    "mismatches": {
-      "Bodenbeläge": 7
-    },
-    "total_runs_with_mismatch": 7
-  },
-  "Stair-Residential---200mm-Max-Riser-250mm-Tread-151086-1.json": {
-    "category": "None",
-    "mismatches": {
-      "Metallbaustoffe": 9
-    },
-    "total_runs_with_mismatch": 9
-  },
-  "Basic-Wall-Exterior---Brick-on-Block-138062_L6.json": {
-    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
-    "mismatches": {
-      "Mörtel und Putze": 27
-    },
-    "total_runs_with_mismatch": 27
-  },
-  "Basic-Wall-Innenwandelement-Archisonic-ohne-MDF-3995377.json": {
-    "category": "Kunststoffe",
-    "mismatches": {
-      "Wärmedämmstoffe": 7
-    },
-    "total_runs_with_mismatch": 7
+    "total_runs_with_mismatch": 91
   },
   "Basic-Wall-WAN_ASW_LB_100-gel-5059296.json": {
     "category": "Beton",
     "mismatches": {
-      "None": 11
+      "Wärmedämmstoffe": 19,
+      "None": 65,
+      "Mauersteine": 3
     },
-    "total_runs_with_mismatch": 11
+    "total_runs_with_mismatch": 87
+  },
+  "Basic-Wall-Brandschutzplatte-5251017.json": {
+    "category": "Holz und Holzwerkstoffe",
+    "mismatches": {
+      "Mineralische Platten, Schüttungen, Steine und Ziegel": 64
+    },
+    "total_runs_with_mismatch": 64
+  },
+  "Floor-BBA_GIT_MET_30-11023640-10.json": {
+    "category": "Metallbaustoffe",
+    "mismatches": {
+      "Bodenbeläge": 67
+    },
+    "total_runs_with_mismatch": 67
+  },
+  "Basic-Roof-Live-Roof-over-Wood-Joist-Flat-Roof-184483.json": {
+    "category": "Holz und Holzwerkstoffe",
+    "mismatches": {
+      "None": 73
+    },
+    "total_runs_with_mismatch": 73
+  },
+  "Abdeckblech-gerundet-neu-Abdeckblech-gerundet-neu-6385866.json": {
+    "category": "Metallbaustoffe",
+    "mismatches": {
+      "None": 76
+    },
+    "total_runs_with_mismatch": 76
+  },
+  "Systemelement-Profilglas-15----mittig-21414704.json": {
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "mismatches": {
+      "None": 26,
+      "Kunststoffe": 4
+    },
+    "total_runs_with_mismatch": 30
+  },
+  "Basic-Wall-Innenwandelement-Archisonic-ohne-MDF-3995377.json": {
+    "category": "Kunststoffe",
+    "mismatches": {
+      "Mineralische Platten, Schüttungen, Steine und Ziegel": 39,
+      "Wärmedämmstoffe": 21,
+      "None": 25
+    },
+    "total_runs_with_mismatch": 85
   },
   "Floor-Finish-Floor---Ceramic-Tile-169772_L2.json": {
     "category": "Mörtel und Putze",
     "mismatches": {
-      "Bodenbeläge": 13,
-      "Mauersteine": 2
+      "Bodenbeläge": 93,
+      "Mauersteine": 3
     },
-    "total_runs_with_mismatch": 15
+    "total_runs_with_mismatch": 96
   },
-  "Floor-DCH_DÄ-AS_250-7601562_L1.json": {
-    "category": "Bodenbeläge",
+  "Floor-Galerie-Fussbodenaufbau-1353081_L3.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
     "mismatches": {
-      "Beton": 7
+      "Bodenbeläge": 67
+    },
+    "total_runs_with_mismatch": 67
+  },
+  "Floor-Bodenaufbau-12-beton---5-aufbau-2462797_L1.json": {
+    "category": "Beton",
+    "mismatches": {
+      "Bodenbeläge": 65
+    },
+    "total_runs_with_mismatch": 65
+  },
+  "Floor-Funicular-Floor-687636_L1.json": {
+    "category": "Mörtel und Putze",
+    "mismatches": {
+      "Beton": 7,
+      "Bodenbeläge": 80
+    },
+    "total_runs_with_mismatch": 87
+  },
+  "Basic-Wall-Exterior---Brick-on-Block-138062_L6.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "mismatches": {
+      "Mörtel und Putze": 123
+    },
+    "total_runs_with_mismatch": 123
+  },
+  "Floor-Finish-Floor---Wood-169093_L2.json": {
+    "category": "Wärmedämmstoffe",
+    "mismatches": {
+      "Bodenbeläge": 52,
+      "Holz und Holzwerkstoffe": 12
+    },
+    "total_runs_with_mismatch": 64
+  },
+  "Floor-Finish-Floor---Ceramic-Tile-169772_L1.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "mismatches": {
+      "Bodenbeläge": 128
+    },
+    "total_runs_with_mismatch": 128
+  },
+  "Wall-Foundation-Bearing-Footing---900-x-300-186596.json": {
+    "category": "Beton",
+    "mismatches": {
+      "None": 44
+    },
+    "total_runs_with_mismatch": 44
+  },
+  "Floor-BBA_HBE_30-BG2-geschliffen-9576469.json": {
+    "category": "Beton",
+    "mismatches": {
+      "Bodenbeläge": 49
+    },
+    "total_runs_with_mismatch": 49
+  },
+  "Floor-BBA_HBE_50-BG1-7590425.json": {
+    "category": "Beton",
+    "mismatches": {
+      "Bodenbeläge": 17
+    },
+    "total_runs_with_mismatch": 17
+  },
+  "Railing-GEL_STA_40x40-3STK-handlauf-unterbrochen-8881489.json": {
+    "category": "Metallbaustoffe",
+    "mismatches": {
+      "None": 65
+    },
+    "total_runs_with_mismatch": 65
+  },
+  "Basic-Roof-Bef-TRP70-1206363_L1.json": {
+    "category": "Metallbaustoffe",
+    "mismatches": {
+      "Dichtungsbahnen, Schutzfolien": 36,
+      "Wärmedämmstoffe": 3
+    },
+    "total_runs_with_mismatch": 39
+  },
+  "Floor-DCH_BLECH_53-13862065_L1.json": {
+    "category": "Metallbaustoffe",
+    "mismatches": {
+      "Dichtungsbahnen, Schutzfolien": 21
+    },
+    "total_runs_with_mismatch": 21
+  },
+  "Basic-Wall-WAN_ASW_MW_225-7610934.json": {
+    "category": "Mauersteine",
+    "mismatches": {
+      "Mineralische Platten, Schüttungen, Steine und Ziegel": 63
+    },
+    "total_runs_with_mismatch": 63
+  },
+  "Stair-Residential---200mm-Max-Riser-250mm-Tread-151086-1.json": {
+    "category": "None",
+    "mismatches": {
+      "Metallbaustoffe": 17
+    },
+    "total_runs_with_mismatch": 17
+  },
+  "Fassade-Ecke-EG1-FAS_ECK_EG-12651885.json": {
+    "category": "Metallbaustoffe",
+    "mismatches": {
+      "Fenster, Sonnenschutz, Fassadenplatten": 7
     },
     "total_runs_with_mismatch": 7
   },
-  "Abdeckblech-gerundet-neu-Abdeckblech-gerundet-neu-6385866.json": {
-    "category": "Metallbaustoffe",
+  "Window-Opening-Circle-120-2373865.json": {
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "mismatches": {
+      "None": 9
+    },
+    "total_runs_with_mismatch": 9
+  },
+  "Fenster-Pfosten-Brett-VF_PFT_MET_50-x-290-x-2600-9774242.json": {
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
     "mismatches": {
       "None": 7
     },
     "total_runs_with_mismatch": 7
   },
-  "Attikablech-Galerie-Südwest-Attikablech-Galerie-Südwest-6351305.json": {
-    "category": "Metallbaustoffe",
-    "mismatches": {
-      "None": 4
-    },
-    "total_runs_with_mismatch": 4
-  },
-  "Basic-Roof-Live-Roof-over-Wood-Joist-Flat-Roof-184483.json": {
+  "Floor-Floor_Holz_40mm-21756579.json": {
     "category": "Holz und Holzwerkstoffe",
+    "mismatches": {
+      "None": 14
+    },
+    "total_runs_with_mismatch": 14
+  },
+  "Basic-Wall-Party-Wall---CMU-Residential-Unit-Dimising-Wall-139234_L4.json": {
+    "category": "Mauersteine",
+    "mismatches": {
+      "None": 5
+    },
+    "total_runs_with_mismatch": 5
+  },
+  "Systemelement-Contraflam-EI30-1753138.json": {
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "mismatches": {
+      "Kunststoffe": 2
+    },
+    "total_runs_with_mismatch": 2
+  },
+  "Floor-Bodenaufbau-Hauptgeschoss-687594.json": {
+    "category": "Bodenbeläge",
     "mismatches": {
       "None": 3
     },
     "total_runs_with_mismatch": 3
   },
-  "Floor-BBA_GIT_MET_30-11023640-10.json": {
-    "category": "Metallbaustoffe",
+  "Surface-2872326.json": {
+    "category": "None",
+    "mismatches": {
+      "Fenster, Sonnenschutz, Fassadenplatten": 4,
+      "Dichtungsbahnen, Schutzfolien": 3
+    },
+    "total_runs_with_mismatch": 7
+  },
+  "Floor-OSB-25mm-5183063.json": {
+    "category": "Holz und Holzwerkstoffe",
     "mismatches": {
       "Bodenbeläge": 1
     },
     "total_runs_with_mismatch": 1
   },
-  "Railing-GEL_STA_40x40-3STK-handlauf-unterbrochen-8881489.json": {
-    "category": "Metallbaustoffe",
+  "1OG-I-1-2.json": {
+    "category": "Mörtel und Putze",
     "mismatches": {
-      "None": 4
-    },
-    "total_runs_with_mismatch": 4
-  },
-  "Floor-GDE_BAL_MET_30-7151537.json": {
-    "category": "Metallbaustoffe",
-    "mismatches": {
-      "Bodenbeläge": 3
-    },
-    "total_runs_with_mismatch": 3
-  },
-  "Fassade-Ecke-EG1-FAS_ECK_EG-12651885.json": {
-    "category": "Metallbaustoffe",
-    "mismatches": {
-      "Fenster, Sonnenschutz, Fassadenplatten": 4
-    },
-    "total_runs_with_mismatch": 4
-  },
-  "Basic-Wall-Party-Wall---CMU-Residential-Unit-Dimising-Wall-139234_L4.json": {
-    "category": "Mauersteine",
-    "mismatches": {
-      "None": 1
+      "Mineralische Platten, Schüttungen, Steine und Ziegel": 1
     },
     "total_runs_with_mismatch": 1
-  },
-  "Floor-Bodenaufbau-12-beton---5-aufbau-2462797_L1.json": {
-    "category": "Beton",
-    "mismatches": {
-      "Bodenbeläge": 1
-    },
-    "total_runs_with_mismatch": 1
-  },
-  "Floor-Galerie-Fussbodenaufbau-1353081_L3.json": {
-    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
-    "mismatches": {
-      "Bodenbeläge": 2
-    },
-    "total_runs_with_mismatch": 2
   }
 }

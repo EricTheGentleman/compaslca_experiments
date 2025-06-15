@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is of type IfcRailing, made of a material named 'Stahl' (Steel). It has a net volume of 0.0076 cubic meters and an entire surface area of 2.039 square meters. It is marked as external and has a height of 0.8 meters.",
+    "Matched Category": "Metallbaustoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 89,
+      "prompt_tokens": 807,
+      "total_tokens": 896,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.84,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.005815
+  }
+}

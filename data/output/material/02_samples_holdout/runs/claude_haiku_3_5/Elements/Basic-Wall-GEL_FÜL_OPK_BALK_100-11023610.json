@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Außenwand (IfcWallStandardCase) mit Balkon-Fassadenelement, extern, nicht tragend, Material: Zinkblech, Dicke 0.1m",
+    "Preliminary Selection": [
+      "Titanzinkblech",
+      "Stahlblech, verzinkt",
+      "Chromnickelstahlblech 18/8 blank"
+    ],
+    "Matched Materials": [
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2264,
+      "completion_tokens": 136,
+      "total_tokens": 2400,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.388,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0023552
+  }
+}

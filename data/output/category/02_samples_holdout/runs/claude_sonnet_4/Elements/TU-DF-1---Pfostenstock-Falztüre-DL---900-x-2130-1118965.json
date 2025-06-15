@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Interior door element with type 'Pfostenstock Falztüre' (post-frame folding door), dimensions 900x2130mm, categorized as 'Doors' in BIM model, no material information specified",
+    "Preliminary Selection": "Türen",
+    "Matched Category": "Türen"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1295,
+      "completion_tokens": 92,
+      "total_tokens": 1387,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.019,
+    "company": "Anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.005265
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall (IfcWallStandardCase) with a material layer named 'Dämmung - weich', which translates to 'soft insulation'. The wall is categorized as a non-bearing interior wall with thermal properties.",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 81,
+      "prompt_tokens": 1607,
+      "total_tokens": 1688,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.973,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009655
+  }
+}

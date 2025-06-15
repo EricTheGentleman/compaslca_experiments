@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall (IfcWallStandardCase) made of 'Mauerwerk - Ziegel' (brickwork) with a thickness of 0.225 meters. It is categorized as an external wall and is non-load bearing.",
+    "Preliminary Selection": "Mauersteine",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 87,
+      "prompt_tokens": 1933,
+      "total_tokens": 2020,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.033,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.011405
+  }
+}

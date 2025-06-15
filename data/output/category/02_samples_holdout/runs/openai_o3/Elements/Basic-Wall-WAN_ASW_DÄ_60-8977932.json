@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase named 'Basic Wall:WAN_ASW_DÄ_60' with single 60 mm layer of material 'Dämmung - weich' (soft insulation).",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1392,
+      "completion_tokens": 207,
+      "total_tokens": 1599,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.204,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.00444
+  }
+}

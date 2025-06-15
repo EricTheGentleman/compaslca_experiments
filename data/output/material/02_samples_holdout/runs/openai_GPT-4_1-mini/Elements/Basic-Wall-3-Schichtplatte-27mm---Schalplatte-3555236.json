@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase named 'Basic Wall:3-Schichtplatte 27mm - Schalplatte' with a single material layer named '3-Schicht-Platte', thickness 27mm, non-structural, exterior wall, categorized as Walls, family 'Basic Wall: 3-Schichtplatte 27mm - Schalplatte', structural usage non-bearing.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Furniersperrholz",
+      "Mitteldichte Faserplatte (MDF), UF-gebunden",
+      "OSB Platte, PF-gebunden, Feuchtbereich",
+      "Spanplatte, PF-gebunden, Feuchtbereich",
+      "Spanplatte, UF-gebunden, beschichtet, Trockenbereich",
+      "Spanplatte, UF-gebunden, Trockenbereich",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1776,
+      "completion_tokens": 254,
+      "total_tokens": 2030,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.738,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0011168
+  }
+}

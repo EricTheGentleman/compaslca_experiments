@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a door with dimensions 0813 x 2420mm. It has no defined material but includes property sets indicating it is an external door with a fire rating. The door is categorized under 'Doors' in the OmniClass system.",
+    "Preliminary Selection": "Türen",
+    "Matched Category": "Türen"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 78,
+      "prompt_tokens": 1121,
+      "total_tokens": 1199,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.677,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.007165
+  }
+}

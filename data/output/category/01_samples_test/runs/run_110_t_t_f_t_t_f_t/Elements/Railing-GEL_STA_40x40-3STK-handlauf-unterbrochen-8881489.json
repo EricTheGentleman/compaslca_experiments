@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a railing with the name 'Railing:GEL_STA_40x40 3STK-handlauf unterbrochen'. It is categorized under 'Railings' and has no defined material. The element's dimensions and properties suggest it is a structural component, but without material information, classification is challenging.",
+    "Preliminary Selection": "None",
+    "Matched Category": "None"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 93,
+      "prompt_tokens": 1107,
+      "total_tokens": 1200,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1024
+      }
+    },
+    "processing_time": 1.949,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.007395
+  }
+}

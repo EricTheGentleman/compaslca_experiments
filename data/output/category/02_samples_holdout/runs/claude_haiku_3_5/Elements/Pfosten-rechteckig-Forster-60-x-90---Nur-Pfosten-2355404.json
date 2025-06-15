@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Steel rectangular post (60x90) for curtain wall mullions, powder-coated black, used in building facade",
+    "Preliminary Selection": "Metallbaustoffe",
+    "Matched Category": "Metallbaustoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1279,
+      "completion_tokens": 70,
+      "total_tokens": 1349,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.99,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0013032
+  }
+}

@@ -1,0 +1,4 @@
+Matching Scenario,Average F0.5 Score,Number of Samples
+Ambiguous,0.7715736137549619,85
+Precise,0.7950720207933438,98
+True Negative,0.5384615384615384,13

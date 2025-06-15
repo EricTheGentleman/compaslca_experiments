@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a Kemper Wandtresor with material Edelstahl (stainless steel), categorized as a facade element.",
+    "Matched Category": "Metallbaustoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 47,
+      "prompt_tokens": 1234,
+      "total_tokens": 1281,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.534,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00711
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcDoor, identified as \"TU DF 1 - Pfostenstock Falztüre...\". Property sets confirm its category as \"Doors\". Material information is not defined. It is an interior door.",
+    "Preliminary Selection": "Türen",
+    "Matched Category": "Türen"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1152,
+      "completion_tokens": 78,
+      "total_tokens": 1230,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 12.896,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00222
+  }
+}

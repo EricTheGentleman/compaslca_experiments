@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab als Dachelement mit mehreren Schichten, Dämmschicht 6cm dick, externe Anwendung, Dachbekleidung, nicht tragend",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Steinwolle",
+      "Zellulosefasern",
+      "Polystyrol expandiert (EPS)",
+      "Polyurethan (PUR/PIR)"
+    ],
+    "Matched Materials": [
+      "Steinwolle",
+      "Glaswolle",
+      "Zellulosefasern",
+      "Polyurethan (PUR/PIR)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2234,
+      "completion_tokens": 184,
+      "total_tokens": 2418,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.288,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0025232
+  }
+}

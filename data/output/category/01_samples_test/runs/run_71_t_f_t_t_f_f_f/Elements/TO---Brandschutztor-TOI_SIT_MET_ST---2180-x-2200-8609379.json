@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcDoor with the name 'TO - Brandschutztor:TOI_SIT_MET_ST - 2180 x 2200'. It is a fire-rated door (EI 30) used internally, classified under 'Doors'. Material name is unspecified.",
+    "Matched Category": "Türen"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 76,
+      "prompt_tokens": 1490,
+      "total_tokens": 1566,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.537,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00897
+  }
+}

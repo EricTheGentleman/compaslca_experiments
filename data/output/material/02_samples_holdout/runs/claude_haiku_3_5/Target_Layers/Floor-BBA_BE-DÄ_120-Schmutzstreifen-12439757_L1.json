@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcCovering Bodenbelag mit Schmutzabstreifer als oberste Schicht, Gesamtdicke 0.12m, Nutzungsbereich Innenraum, Bodenaufbau",
+    "Preliminary Selection": [
+      "Gummigranulat versiegelt, 7.5 mm",
+      "Linoleum, 2.5 mm",
+      "Kautschuk, 2 mm",
+      "PVC homogen, 2 mm"
+    ],
+    "Matched Materials": [
+      "Linoleum, 2.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2709,
+      "completion_tokens": 172,
+      "total_tokens": 2881,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.821,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0028552
+  }
+}

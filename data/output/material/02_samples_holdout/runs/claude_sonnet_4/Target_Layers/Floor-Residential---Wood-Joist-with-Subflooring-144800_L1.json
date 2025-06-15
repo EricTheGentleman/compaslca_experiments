@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Plywood sheathing material (19mm thick) used in a load-bearing residential wood joist floor construction. The material name 'Wood - Sheathing - plywood' indicates a structural plywood application for subflooring.",
+    "Preliminary Selection": [
+      "Furniersperrholz",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ],
+    "Matched Materials": [
+      "Furniersperrholz",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2186,
+      "completion_tokens": 197,
+      "total_tokens": 2383,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.227,
+    "company": "anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.009513
+  }
+}

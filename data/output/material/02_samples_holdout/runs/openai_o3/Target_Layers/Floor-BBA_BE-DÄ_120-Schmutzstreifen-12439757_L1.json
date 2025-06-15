@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcCovering (floor covering) named \"Floor:BBA_BE-DÄ_120-Schmutzstreifen\"; target layer material \"Standard - Fußboden-Schmutzabstreifer\" with 25 mm thickness. Function: interior floor dirt‐scraper strip (entrance mat). Surface finish, non-structural.",
+    "Preliminary Selection": [
+      "Teppich Kunstfaser getuftet",
+      "Teppich Nadelfilz",
+      "Kautschuk, 2 mm",
+      "Gummigranulat versiegelt, 7.5 mm"
+    ],
+    "Matched Materials": [
+      "Teppich Kunstfaser getuftet",
+      "Teppich Nadelfilz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2034,
+      "completion_tokens": 989,
+      "total_tokens": 3023,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 19.672,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.01198
+  }
+}

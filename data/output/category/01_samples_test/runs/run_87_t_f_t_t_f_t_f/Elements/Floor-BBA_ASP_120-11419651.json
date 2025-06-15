@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcCovering with the name 'Floor:BBA_ASP_120', primarily made of Asphalt, and categorized as a floor covering.",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 54,
+      "prompt_tokens": 1637,
+      "total_tokens": 1691,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.225,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009265
+  }
+}

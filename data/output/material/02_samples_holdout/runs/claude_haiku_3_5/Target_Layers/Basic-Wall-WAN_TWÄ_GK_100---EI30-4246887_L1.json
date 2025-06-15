@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase mit zwei Gipsplatten und Dämmung, Innenbereich, nicht tragend, EI30 Brandschutz, Trockenbauweise",
+    "Preliminary Selection": [
+      "Gipskartonplatte",
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell"
+    ],
+    "Matched Materials": [
+      "Gipskartonplatte",
+      "Gips-Wandbauplatte / Vollgipsplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2299,
+      "completion_tokens": 169,
+      "total_tokens": 2468,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.344,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0025152
+  }
+}

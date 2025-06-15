@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is named 'PV-Anlage' (Photovoltaic System), identified as an IfcBuildingElementProxy, and categorized as 'Specialty Equipment' in property sets. The material name is '<Unnamed>'. It represents a photovoltaic array, which is typically a panel-like component installed on building exteriors.",
+    "Preliminary Selection": "Fenster, Sonnenschutz, Fassadenplatten",
+    "Matched Category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1072,
+      "completion_tokens": 112,
+      "total_tokens": 1184,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 10.61,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.0005528
+  }
+}

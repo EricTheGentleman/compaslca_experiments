@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWall element named 'Attikablech Galerie Südost' which translates to 'Parapet sheet metal Gallery Southeast'. Key indicators: 'Attikablech' (parapet sheet metal), categorized as Walls, very thin volume (0.0049) relative to area (1.6563) suggesting sheet metal construction.",
+    "Preliminary Selection": "Metallbaustoffe",
+    "Matched Category": "Metallbaustoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1144,
+      "completion_tokens": 127,
+      "total_tokens": 1271,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.629,
+    "company": "Anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.026685
+  }
+}

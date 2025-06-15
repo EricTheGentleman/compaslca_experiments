@@ -1,0 +1,17 @@
+{
+    "name": "Vierkantstahl-Stütze-140-x-80-12651870",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Stahlprofil, blank"
+    ],
+    "reason": [
+        "exact match"
+    ],
+    "Type": "IfcColumn",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

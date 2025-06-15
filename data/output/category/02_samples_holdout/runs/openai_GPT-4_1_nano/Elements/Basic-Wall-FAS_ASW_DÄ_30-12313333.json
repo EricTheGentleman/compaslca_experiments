@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWall element with material 'Dämmung - weich' (soft insulation), external wall, non-structural, with relevant properties indicating insulation and wall category.",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1347,
+      "completion_tokens": 67,
+      "total_tokens": 1414,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.348,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0001615
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcPlate curtain wall panel 'Systemelement:PAN_GLAS_45 - OG'; category Curtain Panels; declared material: 'Glas - Isolierverglasung klar' (clear insulating glass); no further details on pane count or Ug-value.",
+    "Preliminary Selection": [
+      "Isolierverglasung 2-fach, ESG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, ESG/VSG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 18 mm",
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 24 mm",
+      "Isolierverglasung 2-fach, VSG, Ug-Wert 1.1 W/m2K"
+    ],
+    "Matched Materials": [
+      "Isolierverglasung 2-fach, ESG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, ESG/VSG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 18 mm",
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 24 mm",
+      "Isolierverglasung 2-fach, VSG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 3-fach, ESG/ESG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, ESG/ESG/ESG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, ESG/VSG, Ug-Wert 0.6 W/m2K",
+      "Isolierverglasung 3-fach, Ug-Wert 0.5 W/m2K, Dicke 36 mm",
+      "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K, Dicke 40 mm",
+      "Isolierverglasung 3-fach, VSG, Ug-Wert 0.6 W/m2K"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1876,
+      "completion_tokens": 1500,
+      "total_tokens": 3376,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 76.34,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.15752
+  }
+}

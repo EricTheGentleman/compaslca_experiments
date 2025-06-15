@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Floor element with material type 'Gussasphalt 50' (cast asphalt 50mm), interior floor, non-load bearing, thickness 0.05m, floor covering component",
+    "Preliminary Selection": [
+      "Gussasphalt, 27.5 mm"
+    ],
+    "Matched Materials": [
+      "Gussasphalt, 27.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2280,
+      "completion_tokens": 107,
+      "total_tokens": 2387,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 22.73,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.042225
+  }
+}

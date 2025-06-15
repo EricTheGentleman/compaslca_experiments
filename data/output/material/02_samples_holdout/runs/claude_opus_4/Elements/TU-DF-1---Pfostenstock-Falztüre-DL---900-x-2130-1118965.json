@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcDoor, Interior door (Construction.Function: Interior), Pfostenstock Falztüre (frame door), 900x2130mm, rectangular form, 1-teilig (single leaf), wall thickness 140mm, no fire rating specified",
+    "Preliminary Selection": [
+      "Innentüre, Funktionstüre, Holz, Holzrahmen",
+      "Innentüre, Funktionstüre, Holz, Stahlzarge",
+      "Innentüre, Zimmertüre, Holz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Stahlzarge"
+    ],
+    "Matched Materials": [
+      "Innentüre, Funktionstüre, Holz, Holzrahmen",
+      "Innentüre, Funktionstüre, Holz, Stahlzarge",
+      "Innentüre, Zimmertüre, Holz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Stahlzarge"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1792,
+      "completion_tokens": 280,
+      "total_tokens": 2072,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 15.478,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.04788
+  }
+}

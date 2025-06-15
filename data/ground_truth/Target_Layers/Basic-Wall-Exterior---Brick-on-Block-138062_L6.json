@@ -1,0 +1,20 @@
+{
+    "name": "Basic-Wall-Exterior---Brick-on-Block-138062_L6",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "material_entries": [
+        "Gipsfaserplatte",
+        "Gipsfaserplatte Fermacell",
+        "Gipskartonplatte"
+    ],
+    "reason": [
+        "Plasterboard refers to gipsplatte",
+        "These are the viable matches for this descriptor"
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 3
+}

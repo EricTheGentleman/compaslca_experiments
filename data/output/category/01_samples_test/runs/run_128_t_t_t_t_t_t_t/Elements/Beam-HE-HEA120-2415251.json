@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a beam made of steel, specifically identified as 'Beam HE:HEA120'. It has relevant metadata indicating its structural usage and material properties.",
+    "Preliminary Selection": "Metallbaustoffe",
+    "Matched Category": "Metallbaustoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 68,
+      "prompt_tokens": 1245,
+      "total_tokens": 1313,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.638,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.007585
+  }
+}

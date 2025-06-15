@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Mehrschichtige Innenwand (nicht tragend) mit Gipsplatte, Dämmung, Luftschicht und Kalksandstein, Brandschutzklasse EI60, Wanddicke ca. 30cm",
+    "Preliminary Selection": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ],
+    "Matched Materials": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2457,
+      "completion_tokens": 182,
+      "total_tokens": 2639,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 8.932,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0026936
+  }
+}

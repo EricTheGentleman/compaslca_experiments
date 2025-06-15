@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element name contains 'Blechabdeckung' (sheet metal cover) and 'Blech' (metal sheet); implies a metal sheet parapet cap despite no explicit material field.",
+    "Preliminary Selection": "Metallbaustoffe",
+    "Matched Category": "Metallbaustoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 898,
+      "completion_tokens": 207,
+      "total_tokens": 1105,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.776,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.003452
+  }
+}

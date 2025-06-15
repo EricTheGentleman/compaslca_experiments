@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab (floor) interior, layer 2 material name: Heraklit-Platte (wood wool cement-bonded board) thickness 0.01 m; other layer: soft insulation 0.14 m.",
+    "Preliminary Selection": "Holz und Holzwerkstoffe",
+    "Matched Category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1414,
+      "completion_tokens": 676,
+      "total_tokens": 2090,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 90.544,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.08236
+  }
+}

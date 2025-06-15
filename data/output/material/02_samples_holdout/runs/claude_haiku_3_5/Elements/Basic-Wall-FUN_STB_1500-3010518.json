@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Strukturelle, tragende Wand unter Terrain, Fundamentwand (FUN_STB_1500), Ortbeton bewehrt, 1.5m dick, externe Wand",
+    "Preliminary Selection": [
+      "Hochbaubeton (ohne Bewehrung)",
+      "Hochbaubeton, Möckli Primärbeton, NPK A, 280 kg CEM II/B-LL (ohne Bewehrung)",
+      "Hochbaubeton, NovoCon C50/E25, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Tiefbaubeton (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Hochbaubeton, Möckli Primärbeton, NPK A, 280 kg CEM II/B-LL (ohne Bewehrung)",
+      "Hochbaubeton, NovoCon C50/E25, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Tiefbaubeton (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2669,
+      "completion_tokens": 390,
+      "total_tokens": 3059,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.844,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0036952
+  }
+}

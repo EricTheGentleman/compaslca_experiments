@@ -1,0 +1,30 @@
+{
+  "Floor-GDE_BAL_MET_30-7151537.json": {
+    "category": "Metallbaustoffe",
+    "matched_category": "Bodenbeläge"
+  },
+  "Basic-Wall-Purenit-Fusspunkt-6169888.json": {
+    "category": "Wärmedämmstoffe",
+    "matched_category": "Kunststoffe"
+  },
+  "Basic-Wall-WAN_ASW_LB_100-gel-5059296.json": {
+    "category": "Beton",
+    "matched_category": "None"
+  },
+  "Abdeckblech-gerundet-neu-Abdeckblech-gerundet-neu-6385866.json": {
+    "category": "Metallbaustoffe",
+    "matched_category": "None"
+  },
+  "Basic-Wall-WAN_ASW_MW_225-7610934.json": {
+    "category": "Mauersteine",
+    "matched_category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "Floor-Finish-Floor---Ceramic-Tile-169772_L2.json": {
+    "category": "Mörtel und Putze",
+    "matched_category": "Bodenbeläge"
+  },
+  "Floor-Finish-Floor---Ceramic-Tile-169772_L1.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "matched_category": "Bodenbeläge"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcSlab named 'Attikabrett' with no defined material; categorized as 'Floors'; no material or further context provided.",
+    "Preliminary Selection": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "Matched Category": "None"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 897,
+      "completion_tokens": 73,
+      "total_tokens": 970,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.147,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.002378
+  }
+}

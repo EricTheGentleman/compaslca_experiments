@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine nicht-tragende Bodenplatte (IfcSlab), die als '3-Schichtplatte 40mm' bezeichnet wird. Das in den IFC-Daten angegebene Material ist 'Massivholz' mit einer Dicke von 40mm. Die Eigenschaft 'Structural' ist 'False'.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1882,
+      "completion_tokens": 121,
+      "total_tokens": 2003,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 61.465,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.0035625
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall named 'Basic Wall:WAN_ASW_MW_225' made of 'Mauerwerk - Ziegel' (brickwork) with a thickness of 0.225 meters. It is categorized as a non-bearing exterior wall with a thermal transmittance of 2.4.",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 86,
+      "prompt_tokens": 1345,
+      "total_tokens": 1431,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.108,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008445
+  }
+}

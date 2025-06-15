@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Wand vom Typ IfcWallStandardCase, speziell eine Basic Wall:Wärmedämmung_Slentex 70. Ihr primäres Material ist explizit als \"Wärmedämmung Slentex Aerogel\" angegeben, mit einer Dicke von 70mm. Die Eigenschaften der Wand, wie ein sehr niedriger U-Wert von 0.1429 und eine hohe Wärmedämmung (R-Wert von 7.0), bestätigen ihre Funktion als Dämmmaterial. Sie ist eine nicht-tragende, externe Komponente.",
+    "Preliminary Selection": [
+      "Aerogel-Vlies"
+    ],
+    "Matched Materials": [
+      "Aerogel-Vlies"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1536,
+      "completion_tokens": 166,
+      "total_tokens": 1702,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 7.949,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.0008114
+  }
+}

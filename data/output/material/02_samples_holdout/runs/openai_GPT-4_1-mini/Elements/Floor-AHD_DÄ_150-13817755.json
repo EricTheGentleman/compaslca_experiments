@@ -1,0 +1,73 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab element named Floor:AHD_DÄ_150, non-loadbearing interior floor slab with 15cm thickness, under terrain, described as Dämmung - weich 14cm (soft insulation 14cm), thermal transmittance U=0.2429, category Floors, non-structural, insulation layer indicated.",
+    "Preliminary Selection": [
+      "Flachsfasern",
+      "Flachsfasern, feuerfest",
+      "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+      "Flachsfasern, MAGRIPOL, Premium",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Korkplatte",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ],
+    "Matched Materials": [
+      "Flachsfasern",
+      "Flachsfasern, feuerfest",
+      "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+      "Flachsfasern, MAGRIPOL, Premium",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Korkplatte",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1512,
+      "completion_tokens": 550,
+      "total_tokens": 2062,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 8.799,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0014848
+  }
+}

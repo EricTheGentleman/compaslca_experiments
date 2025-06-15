@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Floor covering element with concrete material 'Beton - CTF' as primary layer (80mm thick), includes sound insulation layer, classified as floor/flooring system",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1695,
+      "completion_tokens": 77,
+      "total_tokens": 1772,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.686,
+    "company": "Anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.00624
+  }
+}

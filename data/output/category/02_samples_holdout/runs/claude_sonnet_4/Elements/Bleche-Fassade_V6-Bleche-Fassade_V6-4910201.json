@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Building element is facade panels (Bleche Fassade) which translates to metal sheets/panels for facade. Generic material name 'Material 4' provides no specific material information. Element categorized as Generic Models in BIM with workset 'Dachkonstruktion' (roof construction).",
+    "Preliminary Selection": "Metallbaustoffe",
+    "Matched Category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1205,
+      "completion_tokens": 123,
+      "total_tokens": 1328,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.746,
+    "company": "Anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.00546
+  }
+}

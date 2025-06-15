@@ -1,0 +1,45 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase named 'Basic Wall:BSP 140 Sichtseite einseitig' with a single material layer of 0.14m thickness made of 'Brettsperrholz'. The wall is structural, bearing, exterior, room bounding, and part of the 'Tragwerk' workset.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz",
+      "Furniersperrholz",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz",
+      "Furniersperrholz",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1792,
+      "completion_tokens": 258,
+      "total_tokens": 2050,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.195,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0011296
+  }
+}

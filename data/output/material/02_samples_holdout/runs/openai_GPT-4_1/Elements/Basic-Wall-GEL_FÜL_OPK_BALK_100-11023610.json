@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an exterior, non-loadbearing wall (Basic Wall:GEL_FÜL_OPK_BALK_100) with a material layer named 'Fassade - Balkon Zinkblech' (zinc sheet for balcony facade), thickness 0.1m. Category: Walls. Not structural. Use: facade/balcony railing. External application.",
+    "Preliminary Selection": [
+      "Titanzinkblech",
+      "Stahlblech, verzinkt"
+    ],
+    "Matched Materials": [
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 116,
+      "prompt_tokens": 1682,
+      "total_tokens": 1798,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.149,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.004292
+  }
+}

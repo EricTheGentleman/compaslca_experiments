@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine Außenwand mit Zinkblech-Fassade, nicht tragend, mit einer Materialschicht 'Fassade - Balkon Zinkblech'. Es handelt sich um eine Außenwand im Neubau, mit hoher Wärmeleitfähigkeit (1130.0) und einer Materialschicht, die wahrscheinlich Zinkblech entspricht.",
+    "Preliminary Selection": [
+      "Titanzinkblech",
+      "Zinkblech",
+      "Blei",
+      "Chromstahlblech verzinnt",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech",
+      "Chromnickelstahlblech 18/8 blank"
+    ],
+    "Matched Materials": [
+      "Titanzinkblech",
+      "Zinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 175,
+      "prompt_tokens": 1682,
+      "total_tokens": 1857,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.739,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0002382
+  }
+}

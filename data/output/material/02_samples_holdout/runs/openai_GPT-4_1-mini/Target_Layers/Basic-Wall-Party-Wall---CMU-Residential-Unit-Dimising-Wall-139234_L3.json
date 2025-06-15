@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase named 'Basic Wall:Party Wall - CMU Residential Unit Dimising Wall' with main material layer 'Masonry - Concrete Block' (0.193m thick), non-load bearing, external, masonry structural wall.",
+    "Preliminary Selection": [
+      "Zementstein",
+      "Porenbetonstein",
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims"
+    ],
+    "Matched Materials": [
+      "Zementstein",
+      "Porenbetonstein",
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1465,
+      "completion_tokens": 140,
+      "total_tokens": 1605,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.619,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.00081
+  }
+}

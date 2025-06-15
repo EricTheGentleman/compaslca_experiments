@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a Floor (IfcSlab) with multiple material layers including 'Dämmung - hart' (insulation), 'Umgebung - Asphalt' (asphalt), and 'Beton - Überbeton' (concrete). The element is categorized as a floor and has properties indicating it is an external, non-load bearing structure.",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 94,
+      "prompt_tokens": 1411,
+      "total_tokens": 1505,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1280
+      }
+    },
+    "processing_time": 3.015,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008935
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a beam made of wood, specifically described as 'Beam Planed Timber:45x95'. It has relevant material data indicating it is made of wood, and its properties suggest it is a structural element.",
+    "Preliminary Selection": "Holz und Holzwerkstoffe",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 87,
+      "prompt_tokens": 1267,
+      "total_tokens": 1354,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.046,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008075
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein IfcSlab vom Typ 'Floor: Gitterrost schwarz', dessen primäres Material als 'Zink Gitter' angegeben ist. Es hat eine Dicke von 30mm. Das Element ist für eine 'Terrassenkonstruktion' vorgesehen und hat die Funktion 'Exterior', was auf die Notwendigkeit von Korrosionsbeständigkeit hinweist. Es ist als 'Structural: False' gekennzeichnet, was bedeutet, dass es keine tragende Funktion hat.",
+    "Preliminary Selection": [
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1490,
+      "completion_tokens": 161,
+      "total_tokens": 1651,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 12.717,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.000787
+  }
+}

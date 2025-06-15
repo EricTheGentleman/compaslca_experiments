@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab floor element with material 'Dämmung - weich' (soft insulation), 0.2m thick, used for roof covering/cladding (Dachbekleidung/Dachabdeckung), external location, thermal properties indicate insulation function",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1762,
+      "completion_tokens": 114,
+      "total_tokens": 1876,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.216,
+    "company": "Anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.006996
+  }
+}

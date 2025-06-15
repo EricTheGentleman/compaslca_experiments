@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcBuildingElement is an IfcSlab, named 'Floor:AHD_DÄ_150'. Material is 'Not defined'. Key property sets indicate: ObjectType 'Floor:AHD_DÄ_150', Pset Category 'Floors', Pset Description 'DÄ_100', and crucial 'Layers.EN Layers and Widths: \"Dämmung - weich 14cm\"' (soft insulation 14cm). Element thickness is 0.15m (15cm).",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1400,
+      "completion_tokens": 154,
+      "total_tokens": 1554,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 23.918,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00329
+  }
+}

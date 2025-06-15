@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a non-loadbearing interior lightweight wall (Leichtbauwand) with layers: 'Trockenbau - Gipsplatte' (gypsum board) and 'Dämmung - weich' (soft insulation). Main material: gypsum board.",
+    "Preliminary Selection": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "Matched Category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1588,
+      "completion_tokens": 105,
+      "total_tokens": 1693,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.536,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.004016
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase named 'Basic Wall:3-Schichtplatte 27mm - Schalplatte' with material '3-Schicht-Platte' (a layered panel), non-structural, exterior finish, categorized under Walls, family 'Basic Wall', thickness 27mm.",
+    "Preliminary Selection": "Holz und Holzwerkstoffe",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1177,
+      "completion_tokens": 96,
+      "total_tokens": 1273,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.921,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0006244
+  }
+}

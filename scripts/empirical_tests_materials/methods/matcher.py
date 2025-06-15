@@ -26,8 +26,8 @@ def run_single_match(bim_element, material_entries, output_path, mode, category,
     completion_tokens = token_data.get("completion_tokens", 0)
 
     # Cost calculation (gpt 4o - May 2025)
-    cost_per_1k_prompt = 0.005      # $5.00 / 1M input tokens
-    cost_per_1k_completion = 0.02   # $20.00 / 1M output tokens
+    cost_per_1k_prompt = 0.0001      # 0.005 = $5.00 / 1M input tokens
+    cost_per_1k_completion = 0.0004  # 0.02 = $20.00 / 1M output tokens
     total_cost = round(
         (prompt_tokens * cost_per_1k_prompt / 1000) +
         (completion_tokens * cost_per_1k_completion / 1000), 6

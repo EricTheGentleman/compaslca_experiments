@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a System Panel named 'PAN_DÄM_ALU_50', categorized as a Curtain Panel. The material name is 'Default', which is not specific. The element is associated with external construction and has properties indicating it is part of a facade system.",
+    "Preliminary Selection": "Fenster, Sonnenschutz, Fassadenplatten",
+    "Matched Category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 96,
+      "prompt_tokens": 1315,
+      "total_tokens": 1411,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.526,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008495
+  }
+}

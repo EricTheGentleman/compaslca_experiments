@@ -1,0 +1,27 @@
+{
+    "name": "Floor-DCH_DÄ-AB_300-6785352",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Glaswolle",
+        "Glaswolle, Isover, pflanzliches Bindemittel",
+        "Glaswolle, Isover, phenolbasiertes Bindemittel",
+        "Glaswolle, SUPAFIL",
+        "Steinwolle",
+        "Steinwolle, Flumroc",
+        "Weichfaserplatte",
+        "Zellulosefasern",
+        "Zellulosefasern, Isofloc"
+    ],
+    "reason": [
+        "200mm thick and is external, is soft (weich) and roof insulation",
+        "these are typically insulation materials between rafters or attic floors",
+        "matched material entries fulfill these criteria identified as crucial"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "zwhatt32",
+    "Design Stage": "Developed Design",
+    "Language": "German",
+    "Material Entries Count": 9
+}

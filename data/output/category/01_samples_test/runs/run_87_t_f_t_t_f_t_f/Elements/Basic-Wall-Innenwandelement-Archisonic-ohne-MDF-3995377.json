@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a basic wall with the material 'Archisonic Charcoal'. It is a non-structural, non-bearing interior wall.",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 52,
+      "prompt_tokens": 1604,
+      "total_tokens": 1656,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.326,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00906
+  }
+}

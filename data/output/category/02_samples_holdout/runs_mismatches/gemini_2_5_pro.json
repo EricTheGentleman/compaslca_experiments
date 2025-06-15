@@ -1,0 +1,30 @@
+{
+  "Bleche-Fassade_V6-Bleche-Fassade_V6-4910201.json": {
+    "category": "Metallbaustoffe",
+    "matched_category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "PV-Anlage_Bauder-ELE_PVA-12550613.json": {
+    "category": "None",
+    "matched_category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "Floor-DCH_SUB_100-14297034.json": {
+    "category": "None",
+    "matched_category": "Dichtungsbahnen, Schutzfolien"
+  },
+  "EG-A-1-1.json": {
+    "category": "Beton",
+    "matched_category": "None"
+  },
+  "Basic-Wall-Holzbau_Archisonic_Vorbauschale-2146702_L1.json": {
+    "category": "Kunststoffe",
+    "matched_category": "Wärmedämmstoffe"
+  },
+  "Floor-Finish-Floor---Wood-169093_L1.json": {
+    "category": "Holz und Holzwerkstoffe",
+    "matched_category": "Bodenbeläge"
+  },
+  "Floor-AHD_DÄ_150-10969563_L2.json": {
+    "category": "Holz und Holzwerkstoffe",
+    "matched_category": "Wärmedämmstoffe"
+  }
+}

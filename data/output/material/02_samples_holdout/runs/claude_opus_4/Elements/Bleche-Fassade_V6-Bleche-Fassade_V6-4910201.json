@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Fassadenbleche für Außenbereich, Name deutet auf Metallfassade hin, Material 4 unspezifisch, Workset Dachkonstruktion, 13.55m² Fläche bei 0.06m³ Volumen (ca. 4.8mm dick), korrosionsbeständige Materialien erforderlich",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromstahlblech blank",
+      "Kupferblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1659,
+      "completion_tokens": 228,
+      "total_tokens": 1887,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 12.475,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.041985
+  }
+}

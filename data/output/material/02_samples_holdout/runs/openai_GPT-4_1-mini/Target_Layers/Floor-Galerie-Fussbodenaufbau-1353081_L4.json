@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab element named 'Floor:Galerie Fussbodenaufbau' with multiple material layers including 'Trittschalldämmung Flumroc 341' (0.03m thick) and 'Knauf - Brio Heizboden 25' as structural material; element is a non-structural interior floor with category 'Floors' and located at Level 01_Galerie.",
+    "Preliminary Selection": [
+      "Steinwolle, Flumroc",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)"
+    ],
+    "Matched Materials": [
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1519,
+      "completion_tokens": 166,
+      "total_tokens": 1685,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.745,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0008732
+  }
+}

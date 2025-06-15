@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcSlab with the material name 'Dachdeckung - Bitumenbahn'. Other materials include 'Dachdeckung - Blechdach' and 'Dachdeckung - Holz'. The element is categorized as 'Floors' and 'A_Dachbekleidung'.",
+    "Preliminary Selection": "Dichtungsbahnen, Schutzfolien",
+    "Matched Category": "Dichtungsbahnen, Schutzfolien"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 107,
+      "prompt_tokens": 1894,
+      "total_tokens": 2001,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.762,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01161
+  }
+}

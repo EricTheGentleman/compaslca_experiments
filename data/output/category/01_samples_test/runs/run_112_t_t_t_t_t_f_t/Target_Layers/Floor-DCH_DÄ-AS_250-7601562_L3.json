@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcSlab named 'Floor:DCH_DÄ-AS_250' with a primary material layer identified as 'Dämmung - hart' (insulation) and additional layers of 'Umgebung - Asphalt' (asphalt) and 'Beton - Überbeton' (concrete). It is categorized under floors and has various properties related to thermal transmittance and structural characteristics.",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 117,
+      "prompt_tokens": 1734,
+      "total_tokens": 1851,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.457,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01101
+  }
+}

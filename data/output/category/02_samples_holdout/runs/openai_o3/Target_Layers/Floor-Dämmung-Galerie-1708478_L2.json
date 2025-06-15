@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab floor element with material 'Wärmedämmung Mineralwolle' (mineral wool thermal insulation, λ 0.035 W/mK, 0.1 m thick).",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1158,
+      "completion_tokens": 276,
+      "total_tokens": 1434,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.221,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.004524
+  }
+}

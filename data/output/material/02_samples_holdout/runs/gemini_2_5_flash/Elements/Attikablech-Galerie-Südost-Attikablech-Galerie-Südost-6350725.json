@@ -1,0 +1,53 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein 'Attikablech' (Dachrandblech/Gesimsblech), was auf ein Bauteil aus Blech für den Aussenbereich hindeutet. Es ist als 'IfcWall' kategorisiert, was die Begrenzungsfunktion unterstützt. Die wichtigste Information für die Materialzuordnung ist die Funktion als Blech für den Aussenbereich, was Korrosionsbeständigkeit erfordert.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Blei",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt",
+      "Kupferblech, blank",
+      "Messing-/Baubronzeblech",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Blei",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt",
+      "Kupferblech, blank",
+      "Messing-/Baubronzeblech",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1257,
+      "completion_tokens": 330,
+      "total_tokens": 1587,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 8.993,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.00134355
+  }
+}

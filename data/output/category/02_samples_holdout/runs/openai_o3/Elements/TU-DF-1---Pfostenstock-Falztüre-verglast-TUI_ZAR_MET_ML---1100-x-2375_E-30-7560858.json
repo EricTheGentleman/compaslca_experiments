@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcDoor, interior fire-rated glazed metal door (steel frame) with clear glass panel, size 1100 x 2375 mm.",
+    "Preliminary Selection": "Fenster, Sonnenschutz, Fassadenplatten",
+    "Matched Category": "Türen"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1465,
+      "completion_tokens": 710,
+      "total_tokens": 2175,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 15.14,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.00861
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Rechteckiger Stahlpfosten für Vorhangfassade, pulverbeschichtet, 60x90mm, für Curtain Wall Mullions",
+    "Preliminary Selection": [
+      "Stahlprofil, blank",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt"
+    ],
+    "Matched Materials": [
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1733,
+      "completion_tokens": 124,
+      "total_tokens": 1857,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.893,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0018824
+  }
+}

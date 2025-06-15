@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Materialschicht: 'Dachdeckung - Bitumenbahn', Dicke: 0,01 m, Bauelement: Außenwand (IfcWall), Typ: Fassadenbekleidung, nichttragend, nicht strukturell, Kategorie: Walls, weitere Schichten: Dämmung - weich, Kontext: Außenwand, Fassadenbekleidung, Materialbezug: Bitumenbahn.",
+    "Preliminary Selection": [
+      "Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",
+      "Dichtungsbahn bituminös"
+    ],
+    "Matched Materials": [
+      "Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",
+      "Dichtungsbahn bituminös"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Dichtungsbahnen, Schutzfolien",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 233,
+      "prompt_tokens": 1664,
+      "total_tokens": 1897,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.66,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.005192
+  }
+}

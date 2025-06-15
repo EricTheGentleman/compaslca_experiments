@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element named 'Bleche Fassade' (German: facade sheets), proxy for facade cladding; no explicit material given but term 'Bleche' implies sheet metal façade panels.",
+    "Preliminary Selection": "Metallbaustoffe",
+    "Matched Category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 970,
+      "completion_tokens": 466,
+      "total_tokens": 1436,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 9.524,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.005668
+  }
+}

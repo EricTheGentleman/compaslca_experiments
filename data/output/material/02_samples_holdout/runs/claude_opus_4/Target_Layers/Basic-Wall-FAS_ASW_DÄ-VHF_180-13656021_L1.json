@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Exterior wall (IsExternal: True) with plaster layer (Putz) as outer layer (Layer 1), 6cm thick. Wall type FAS_ASW_DÄ-VHF_180 indicates ventilated facade system. Function: Exterior, located outside (Lage Aussen: True). Material list shows 'Putz' before insulation layer.",
+    "Preliminary Selection": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2258,
+      "completion_tokens": 260,
+      "total_tokens": 2518,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 9.834,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.05337
+  }
+}

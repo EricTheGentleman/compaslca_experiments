@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcWall with a material named 'Dachdeckung - Bitumenbahn' and includes layers of insulation and roofing materials. The wall is categorized as an exterior non-bearing wall.",
+    "Matched Category": "Dichtungsbahnen, Schutzfolien"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 68,
+      "prompt_tokens": 1643,
+      "total_tokens": 1711,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.431,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009575
+  }
+}

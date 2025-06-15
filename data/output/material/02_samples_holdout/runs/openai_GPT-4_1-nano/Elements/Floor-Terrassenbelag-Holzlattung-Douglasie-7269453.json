@@ -1,0 +1,46 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine Holzlattung für einen Terrassenbelag aus Douglasie, mit Materiallayer 'Terrassenbelag Holz' und einer Dicke von 26 mm. Es gehört zu den Floors, Family und Type 'Floor: Terrassenbelag Holzlattung Douglasie'.",
+    "Preliminary Selection": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., Vollholzhaus holzpur",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Buche / Eiche, luftgetrocknet, rau",
+      "Brettschichtholz",
+      "Konstruktionsvollholz"
+    ],
+    "Matched Materials": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Brettschichtholz",
+      "Konstruktionsvollholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 325,
+      "prompt_tokens": 1701,
+      "total_tokens": 2026,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.275,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0003001
+  }
+}

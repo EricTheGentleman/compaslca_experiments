@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Target layer is 'Dämmung - weich' (soft insulation) with 6cm thickness in a roof slab construction. Element type is IfcSlab used as external roof covering with insulation function.",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1772,
+      "completion_tokens": 101,
+      "total_tokens": 1873,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.506,
+    "company": "Anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.034155
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an internal or party wall (IfcWallStandardCase) with a main material layer named 'Masonry - Concrete Block' (thickness 0.193 m). The wall is classified as 'Masonry Structural Walls'. No further specification about block type (e.g. lightweight, aerated, or filled) is given.",
+    "Preliminary Selection": [
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims",
+      "Zementstein"
+    ],
+    "Matched Materials": [
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims",
+      "Zementstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 142,
+      "prompt_tokens": 1465,
+      "total_tokens": 1607,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.134,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.004066
+  }
+}

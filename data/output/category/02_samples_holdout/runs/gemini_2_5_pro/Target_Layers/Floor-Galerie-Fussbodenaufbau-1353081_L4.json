@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target IfcBuildingElement layer is 'Trittschalldämmung Flumroc 341'. 'Trittschalldämmung' translates to impact sound insulation, and Flumroc is a manufacturer of insulation materials, typically mineral wool. The element is an IfcSlab (Floor).",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1379,
+      "completion_tokens": 104,
+      "total_tokens": 1483,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 17.894,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00276375
+  }
+}

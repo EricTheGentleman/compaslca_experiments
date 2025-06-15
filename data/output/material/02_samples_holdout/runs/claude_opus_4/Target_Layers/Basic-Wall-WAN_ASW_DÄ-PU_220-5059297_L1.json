@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Außenwand mit Putzschicht (20mm) als äußerste Schicht. Element ist als 'IsExternal: True' und 'Function: Exterior' markiert. Location Line zeigt 'Finish Face: Exterior'. Die Wand besteht aus Putz außen und Dämmung innen.",
+    "Preliminary Selection": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2203,
+      "completion_tokens": 250,
+      "total_tokens": 2453,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 11.492,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.051795
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a wall with material layers including 'Putz' and 'Dämmung - weich'; category 'Gewerbebau.Bauteilklasse' is 'A_Fassadenbekleidung' with material 'Putz, Dämmung - weich'; material name 'Putz' matches 'Mörtel und Putze' category.",
+    "Preliminary Selection": "Mörtel und Putze",
+    "Matched Category": "Mörtel und Putze"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1488,
+      "completion_tokens": 107,
+      "total_tokens": 1595,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.262,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0001916
+  }
+}

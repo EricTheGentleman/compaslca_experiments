@@ -1,0 +1,49 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Außenwand (Fassade), erste Schicht: Putz, 2 cm dick, außenliegend, Kategorie: Fassadenbekleidung, nichttragend, Materialname: Putz, Einsatzbereich: Außen.",
+    "Preliminary Selection": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Sumpfkalkputz",
+      "Weisszementputz",
+      "Wärmedämmputz EPS",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Weisszementputz",
+      "Wärmedämmputz EPS",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 224,
+      "prompt_tokens": 1658,
+      "total_tokens": 1882,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.045,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.005108
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a standard wall made of 'Brick, Common' with a thickness of 0.2 meters. It is an interior, load-bearing wall with thermal properties specified.",
+    "Preliminary Selection": "Mauersteine",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 69,
+      "prompt_tokens": 1353,
+      "total_tokens": 1422,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.739,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008145
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab (Bodenplatte) mit Dämmschicht 'Dämmung - hart-horizontal' (10cm dick), Bauteilart: Daemmung, Bauteilklasse: A_Unterkonstruktion, U-Wert: 0.27, unter Terrain, tragend, Innenbereich",
+    "Preliminary Selection": [
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Schaumglas",
+      "Steinwolle"
+    ],
+    "Matched Materials": [
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Schaumglas"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2217,
+      "completion_tokens": 210,
+      "total_tokens": 2427,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.431,
+    "company": "anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.009801
+  }
+}

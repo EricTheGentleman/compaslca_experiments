@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an exterior, load-bearing wall (IfcWall) with a single material layer: 'Brettschichtholz C24' (glulam, strength class C24), thickness 0.14m. Structural usage is 'Bearing'. Fire rating R30. The structural material is specified as 'Brettschichtholz C24'.",
+    "Preliminary Selection": [
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz"
+    ],
+    "Matched Materials": [
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 131,
+      "prompt_tokens": 1709,
+      "total_tokens": 1840,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.888,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.004466
+  }
+}

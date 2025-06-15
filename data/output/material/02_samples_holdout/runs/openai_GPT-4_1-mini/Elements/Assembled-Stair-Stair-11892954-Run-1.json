@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcStairFlight element named 'Assembled Stair:Stair:11892954 Run 1' with ObjectType 'Non-Monolithic Run:Stahl_40 mm Auftritt', material 'Gitterrost-Treppe', category 'Stairs: Runs', tread material 'Gitterrost-Treppe', steel indicated by 'Stahl_40 mm Auftritt'.",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank",
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen"
+    ],
+    "Matched Materials": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1302,
+      "completion_tokens": 180,
+      "total_tokens": 1482,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.608,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0008088
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcReinforcingBar with name 'Rebar Bar:12 B500C-T : Shape A:2111867'. Material is B500C-T, which is a type of reinforcing steel. No specific material data is defined, but the type and name suggest it is a metal, specifically reinforcing steel.",
+    "Preliminary Selection": "Metallbaustoffe",
+    "Matched Category": "Metallbaustoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 103,
+      "prompt_tokens": 980,
+      "total_tokens": 1083,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.56,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00696
+  }
+}

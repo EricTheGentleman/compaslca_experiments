@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Air layer (Luftschicht) with 2cm thickness, part of interior wall assembly with fire rating EI60, located as layer 3 between insulation and masonry",
+    "Preliminary Selection": "None",
+    "Matched Category": "None"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2053,
+      "completion_tokens": 75,
+      "total_tokens": 2128,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.888,
+    "company": "Anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.007284
+  }
+}

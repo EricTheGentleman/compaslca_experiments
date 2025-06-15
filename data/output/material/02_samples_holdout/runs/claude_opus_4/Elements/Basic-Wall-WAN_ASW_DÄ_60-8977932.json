@@ -1,0 +1,51 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Wand mit Dämmschicht (WAN_ASW_DÄ_60), Material: 'Dämmung - weich' mit 60mm Dicke, Außenwand (IsExternal: True, Function: Exterior), U-Wert: 0.5667 W/m²K, Wandbekleidung",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Flachsfasern",
+      "Weichfaserplatte"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Flachsfasern",
+      "Weichfaserplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2211,
+      "completion_tokens": 328,
+      "total_tokens": 2539,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 17.2,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.057765
+  }
+}

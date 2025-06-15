@@ -1,0 +1,50 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Zielschicht ist 'Dämmung - weich' mit 6cm Dicke in einem Dachaufbau (IfcSlab/Floor). Das Element ist eine Außendachkonstruktion mit U-Wert 0.5603 und mehrschichtigem Aufbau. Die Materialbezeichnung deutet auf ein weiches Dämmmaterial hin.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Weichfaserplatte",
+      "Flachsfasern"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Weichfaserplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2234,
+      "completion_tokens": 331,
+      "total_tokens": 2565,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.781,
+    "company": "anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.011667
+  }
+}

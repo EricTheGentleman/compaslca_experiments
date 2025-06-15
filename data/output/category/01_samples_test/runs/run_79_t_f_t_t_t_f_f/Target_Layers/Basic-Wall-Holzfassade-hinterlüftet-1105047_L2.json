@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall with the name 'Basic Wall:Holzfassade hinterlüftet'. The primary material mentioned is 'Holzschalung Vertikal, Nadelholz, schwarz gestrichen', which is a type of wood. The element type is IfcWall, and it is used as an exterior wall.",
+    "Preliminary Selection": "Holz und Holzwerkstoffe",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 106,
+      "prompt_tokens": 1379,
+      "total_tokens": 1485,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.434,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009015
+  }
+}

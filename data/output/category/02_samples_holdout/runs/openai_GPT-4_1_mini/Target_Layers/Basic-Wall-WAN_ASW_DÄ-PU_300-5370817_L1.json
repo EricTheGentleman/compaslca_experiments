@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase named 'Basic Wall:WAN_ASW_DÄ-PU_300' with material layers including 'Putz' (plaster) and 'Dämmung - weich' (soft insulation). Wall is non-structural, external, described as 'Leichtbeton_300' (lightweight concrete 300). Category and family indicate wall element with plaster and insulation layers.",
+    "Preliminary Selection": "Mörtel und Putze",
+    "Matched Category": "Mörtel und Putze"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1444,
+      "completion_tokens": 121,
+      "total_tokens": 1565,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.535,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0007712
+  }
+}

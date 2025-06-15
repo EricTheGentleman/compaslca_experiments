@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcWindow with no defined material, external use, and a thermal transmittance of 1.4.",
+    "Preliminary Selection": "Fenster, Sonnenschutz, Fassadenplatten",
+    "Matched Category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 69,
+      "prompt_tokens": 898,
+      "total_tokens": 967,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.227,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00587
+  }
+}

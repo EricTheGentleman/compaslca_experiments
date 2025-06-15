@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab floor element 'DCH_DÄ-AS_250' with multilayer build-up; target material layer is 'Beton - Überbeton' (concrete overlay) 0.06 m thick; other layers include asphalt and rigid insulation.",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1484,
+      "completion_tokens": 217,
+      "total_tokens": 1701,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.736,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.004704
+  }
+}

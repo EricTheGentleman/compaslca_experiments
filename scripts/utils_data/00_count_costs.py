@@ -1,74 +1,50 @@
 import os
 import json
-import csv
 
-# Define the parent directory containing all run folders
-parent_dir = "data/output/material/01_samples_test/runs"
-output_csv = "data/output/material/01_samples_test/material_test_costs.csv"
+# Set your parent directory here
+parent_dir = "data/output/category/02_samples_holdout/runs/openai_o3_pro"  # ⬅️ change this to your actual path
 
-# Prepare list to store results
-results = []
+# set costs:
+input_tokens = 20  # per 1M tokens
+output_tokens = 80  # per 1M tokens
 
-# Iterate through each run directory
-for run_folder in os.listdir(parent_dir):
-    run_path = os.path.join(parent_dir, run_folder)
-    if not os.path.isdir(run_path):
-        continue
 
-    inference_costs = []
-    completion_tokens = []
-    prompt_tokens = []
+updated_files = 0
+skipped_files = []
 
-    # Traverse subdirectories for JSON files
-    for subdir, _, files in os.walk(run_path):
-        for file in files:
-            if file.endswith(".json"):
-                file_path = os.path.join(subdir, file)
-                try:
-                    with open(file_path, 'r') as f:
-                        data = json.load(f)
-                        meta = data.get("llm_metadata", {})
-                        tokens = meta.get("token_usage", {})
+for root, _, files in os.walk(parent_dir):
+    for file in files:
+        if file.endswith(".json"):
+            file_path = os.path.join(root, file)
 
-                        # Collect inference cost
-                        cost = meta.get("inference_cost_usd", 0)
-                        if isinstance(cost, (int, float)):
-                            inference_costs.append(cost)
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
 
-                        # Collect token counts
-                        comp = tokens.get("completion_tokens", 0)
-                        prompt = tokens.get("prompt_tokens", 0)
+                metadata = data.get("llm_metadata", {})
+                token_usage = metadata.get("token_usage", {})
+                prompt_tokens = token_usage.get("prompt_tokens", 0)
+                completion_tokens = token_usage.get("completion_tokens", 0)
 
-                        if isinstance(comp, int):
-                            completion_tokens.append(comp)
-                        if isinstance(prompt, int):
-                            prompt_tokens.append(prompt)
+                # Calculate the new inference cost
+                cost = (prompt_tokens * input_tokens + completion_tokens * output_tokens) / 1_000_000
 
-                except (json.JSONDecodeError, FileNotFoundError):
-                    print(f"Skipping invalid file: {file_path}")
+                # Overwrite the field
+                metadata["inference_cost_usd"] = round(cost, 10)  # round for clean output
 
-    num_files = max(len(inference_costs), 1)  # prevent division by zero
+                # Save back to file
+                with open(file_path, "w", encoding="utf-8") as f:
+                    json.dump(data, f, indent=2, ensure_ascii=False)
 
-    results.append({
-        "run_name": run_folder,
-        "total_cost": round(sum(inference_costs), 6),
-        "average_cost": round(sum(inference_costs) / num_files, 6),
-        "total_completion_tokens": sum(completion_tokens),
-        "average_completion_tokens": round(sum(completion_tokens) / num_files, 2),
-        "total_prompt_tokens": sum(prompt_tokens),
-        "average_prompt_tokens": round(sum(prompt_tokens) / num_files, 2)
-    })
+                updated_files += 1
 
-# Write to CSV
-with open(output_csv, 'w', newline='') as csvfile:
-    fieldnames = [
-        "run_name",
-        "total_cost", "average_cost",
-        "total_completion_tokens", "average_completion_tokens",
-        "total_prompt_tokens", "average_prompt_tokens"
-    ]
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-    writer.writerows(results)
+            except Exception as e:
+                skipped_files.append((file_path, str(e)))
 
-print(f"Saved summary to {output_csv}")
+# Summary output
+print(f"✅ Updated inference_cost_usd in {updated_files} JSON files.")
+if skipped_files:
+    print(f"⚠️ Skipped {len(skipped_files)} files due to errors:")
+    for path, msg in skipped_files:
+        print(f"  {path}: {msg}")
+

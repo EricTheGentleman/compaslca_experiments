@@ -24,7 +24,7 @@ import pandas as pd
 # ---------------------------------------------------------------------
 # 0  Settings
 # ---------------------------------------------------------------------
-DATA_DIR    = Path("data/output/category/02_samples_holdout/runs_csv")
+DATA_DIR    = Path("data/output/category/01_samples_test/runs_csv")
 FILE_PATTERN = "*.csv"
 
 COL_SAMPLE  = "filename"          # row identifier in every CSV
@@ -34,10 +34,10 @@ N_BOOT      = 10_000
 ALPHA       = 0.05
 RANDOM_SEED = 42
 
-BASELINE_FLAGS = "000000"     # ← all-false prompt you call “baseline”
+BASELINE_FLAGS = "0000000"     # ← all-false prompt you call “baseline”
 
 OUTPUT_DIR = Path(
-    "data/output/category/02_samples_holdout/bootstrap/pairwise_CI"
+    "data/output/category/01_samples_test/bootstrap/pairwise_CI"
 )
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -46,7 +46,7 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 # ---------------------------------------------------------------------
 def extract_run_prefix_and_binary(stem: str) -> str:
     # run_12_f_f_t_f_t_f → run12_001010
-    m = re.match(r"run_(\d+)_((?:[ft]_){5}[ft])$", stem)
+    m = re.match(r"run_(\d+)_((?:[ft]_){6}[ft])$", stem)
     if not m:
         raise ValueError(f"{stem!r} does not match run_* pattern")
     run_no = int(m.group(1))

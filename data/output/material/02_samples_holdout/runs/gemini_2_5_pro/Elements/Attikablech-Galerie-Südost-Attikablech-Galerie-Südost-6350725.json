@@ -1,0 +1,53 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist ein 'Attikablech', ein Abdeckblech für eine Attika/Mauerwerkskrone, typischerweise aus Metall. Die Lage 'Galerie Südost' impliziert eine Außenanwendung und erfordert Korrosionsbeständigkeit. Obwohl als 'IfcWall' klassifiziert, ist der Name 'Attikablech' entscheidend für die Materialwahl. Kein spezifisches Material ist im IFC-Modell definiert.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt",
+      "Kupferblech, blank",
+      "Messing-/Baubronzeblech",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech",
+      "Blei"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt",
+      "Kupferblech, blank",
+      "Messing-/Baubronzeblech",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech",
+      "Blei"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1257,
+      "completion_tokens": 356,
+      "total_tokens": 1613,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 50.704,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00513125
+  }
+}

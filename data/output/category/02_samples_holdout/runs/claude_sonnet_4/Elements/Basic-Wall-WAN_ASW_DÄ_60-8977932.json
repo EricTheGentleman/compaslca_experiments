@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "External wall element with single material layer 'Dämmung - weich' (soft insulation) with 0.06m thickness, thermal transmittance of 0.5667, classified as exterior wall cladding",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1749,
+      "completion_tokens": 99,
+      "total_tokens": 1848,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.172,
+    "company": "Anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.006732
+  }
+}

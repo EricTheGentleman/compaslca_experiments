@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Außenwand mit Putzschicht (1. Schicht), externe Fassade, Dicke 6 cm, Dämmung als 2. Schicht, Gesamtkontext Fassadenbekleidung",
+    "Preliminary Selection": [
+      "Gips-/Weissputz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Weisszementputz",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Silikonharzputz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2258,
+      "completion_tokens": 227,
+      "total_tokens": 2485,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.348,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0027144
+  }
+}

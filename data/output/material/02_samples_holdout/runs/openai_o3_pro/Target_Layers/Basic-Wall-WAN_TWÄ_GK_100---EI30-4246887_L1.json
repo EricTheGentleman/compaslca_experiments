@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Non-loadbearing interior lightweight partition wall (Leichtbauwand) with fire rating EI30; relevant target layer is 25 mm gypsum plasterboard (Trockenbau-Gipsplatte).",
+    "Preliminary Selection": [
+      "Gipskartonplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gips-Wandbauplatte / Vollgipsplatte"
+    ],
+    "Matched Materials": [
+      "Gipskartonplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1732,
+      "completion_tokens": 636,
+      "total_tokens": 2368,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 58.085,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.08552
+  }
+}

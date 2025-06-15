@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Stiffener element made of Steel S355J2G3, which is a structural steel grade. The element is a stiffener (structural reinforcement component) with small volume (0.0002 m³).",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1468,
+      "completion_tokens": 107,
+      "total_tokens": 1575,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 12.503,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.030045
+  }
+}

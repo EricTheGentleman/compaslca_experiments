@@ -1,0 +1,17 @@
+{
+    "name": "Basic-Wall-Brick--Existing---200-1441293",
+    "category": "Mauersteine",
+    "material_entries": [
+        "Backstein"
+    ],
+    "reason": [
+        "direct match"
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 1
+}

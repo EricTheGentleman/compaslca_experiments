@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Bolzen (M16) aus Stahl, strukturelles Element, vermutlich für tragende Konstruktion",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlprofil, blank",
+      "Armierungsstahl"
+    ],
+    "Matched Materials": [
+      "Stahlprofil, blank",
+      "Armierungsstahl"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1471,
+      "completion_tokens": 117,
+      "total_tokens": 1588,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.368,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0016448
+  }
+}

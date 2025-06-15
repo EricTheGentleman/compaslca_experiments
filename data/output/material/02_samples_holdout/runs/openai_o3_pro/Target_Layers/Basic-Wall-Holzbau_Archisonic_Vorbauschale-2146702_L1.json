@@ -1,0 +1,33 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase with main layer material 'Archisonic Charcoal' (12 mm acoustic felt made from recycled fibres) and a secondary layer 'MDF' (wood composite); no indication of plastics like PMMA, PA, PC, UP or PS.",
+    "Preliminary Selection": [
+      "Polyester (UP) glasfaserverstärkt"
+    ],
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Kunststoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1191,
+      "completion_tokens": 410,
+      "total_tokens": 1601,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 50.278,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.05662
+  }
+}

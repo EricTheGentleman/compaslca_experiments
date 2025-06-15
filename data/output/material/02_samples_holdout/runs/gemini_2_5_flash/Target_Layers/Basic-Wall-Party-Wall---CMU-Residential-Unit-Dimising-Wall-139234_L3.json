@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine IfcWallStandardCase mit dem Namen \"Basic Wall:Party Wall - CMU Residential Unit Dimising Wall\". Die zu inferierende Materialschicht ist \"Masonry - Concrete Block\" mit einer Dicke von 0.193m. Die Wand ist als \"Masonry Structural Walls\" klassifiziert.",
+    "Preliminary Selection": [
+      "Zementstein"
+    ],
+    "Matched Materials": [
+      "Zementstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1615,
+      "completion_tokens": 106,
+      "total_tokens": 1721,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 20.681,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.00061325
+  }
+}

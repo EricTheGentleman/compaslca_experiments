@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine IfcSlab mit dem Namen 'Floor:Residential - Wood Joist with Subflooring'. Es hat eine Materialschicht aus 'Wood - Sheathing - plywood' mit einer Dicke von 0.019 m und ist tragend. Eine weitere Materialschicht ist 'Wood - Dimensional Lumber' mit einer Dicke von 0.286 m.",
+    "Preliminary Selection": [
+      "Furniersperrholz",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ],
+    "Matched Materials": [
+      "Furniersperrholz",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 150,
+      "prompt_tokens": 1627,
+      "total_tokens": 1777,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.523,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0013362
+  }
+}

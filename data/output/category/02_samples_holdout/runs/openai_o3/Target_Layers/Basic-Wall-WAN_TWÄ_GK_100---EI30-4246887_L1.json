@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Interior non-loadbearing drywall wall; primary material layer is \"Trockenbau - Gipsplatte\" (gypsum plasterboard, 25 mm); other layer is soft insulation; element type IfcWallStandardCase.",
+    "Preliminary Selection": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "Matched Category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1587,
+      "completion_tokens": 363,
+      "total_tokens": 1950,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 7.415,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.006078
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall (IfcWallStandardCase) made of 'Mauerwerk - Ziegel' (brick masonry) with a thickness of 0.225 meters. It is categorized as a non-bearing exterior wall with a description indicating it is made of Kalksandstein (calcium silicate brick) with a density of 1,800 kg/m³.",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 97,
+      "prompt_tokens": 1547,
+      "total_tokens": 1644,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1408
+      }
+    },
+    "processing_time": 2.867,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009675
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an interior door (IfcDoor) with fire rating E 30, constructed as 'Typ 1 - Tür Metall Glas' (metal-glass door), with clear glass and steel frame, used as a fire-resistant escape door (Fluchttür: True), not external.",
+    "Preliminary Selection": [
+      "Innentüre, Aluminium, Glaseinsatz",
+      "Innentüre, Funktionstüre, Holz, Stahlzarge"
+    ],
+    "Matched Materials": [
+      "Innentüre, Aluminium, Glaseinsatz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 116,
+      "prompt_tokens": 1720,
+      "total_tokens": 1836,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.355,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.004368
+  }
+}

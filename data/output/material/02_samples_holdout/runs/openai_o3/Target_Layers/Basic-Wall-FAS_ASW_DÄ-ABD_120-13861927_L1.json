@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWall (Basic Wall) for exterior facade; target material layer named \"Dachdeckung - Bitumenbahn\", thickness 0.01 m (bituminous roofing/waterproofing membrane).",
+    "Preliminary Selection": [
+      "Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",
+      "Dampfbremse bituminös",
+      "Dichtungsbahn bituminös"
+    ],
+    "Matched Materials": [
+      "Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP",
+      "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",
+      "Dichtungsbahn bituminös"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Dichtungsbahnen, Schutzfolien",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1663,
+      "completion_tokens": 1028,
+      "total_tokens": 2691,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 15.863,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.01155
+  }
+}

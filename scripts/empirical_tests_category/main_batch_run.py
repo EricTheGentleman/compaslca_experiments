@@ -24,7 +24,7 @@ def match_bim_files(input_dir, output_dir, category_entries, mode_label, var_con
         with open(element_path, "r", encoding="utf-8") as f:
             bim_element = json.load(f)
 
-        #print(f"> Processing {mode_label.upper()} → {element_id}")
+        print(f"> Processing {mode_label.upper()} → {element_id}")
 
         run_single_match(
             bim_element=bim_element,
@@ -89,10 +89,10 @@ if __name__ == "__main__":
     from methods.utils import load_yaml_config
 
     # === Batch Config ===
-    var_config_dir = Path("configs/category_holdout_2")  # Base dir with all run_*.yaml files
-    output_root_dir = Path("data/output/category/02_samples_holdout/runs")
+    var_config_dir = Path("configs/category_holdout")  # Base dir with all run_*.yaml files
+    output_root_dir = Path("data/output/category/02_samples_holdout/runs/openai_o3_pro")
     model_config_path = Path("configs/model_config.yaml")
-    prompts_output_path = Path("data/output/category/02_samples_holdout/prompts")
+    prompts_output_path = Path("data/output/category/02_samples_holdout/runs/openai_o3_pro")
 
     # Load shared model config once
     model_config = load_yaml_config(model_config_path)

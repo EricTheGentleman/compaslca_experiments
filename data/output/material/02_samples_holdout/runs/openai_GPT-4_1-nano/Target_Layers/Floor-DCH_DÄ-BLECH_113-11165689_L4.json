@@ -1,0 +1,45 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine Bodenplatte (IfcSlab) mit mehreren Schichten, darunter eine weiche Dämmung mit 6cm Dicke, und befindet sich im Außenbereich. Es hat eine komplexe Schichtaufbau mit Dachmaterialien und Dämmung, sowie spezifische Eigenschaften wie Dicke, Lage und Kategorie.",
+    "Preliminary Selection": [
+      "Polyurethan (PUR/PIR)",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol expandiert (EPS)",
+      "Schaumglas",
+      "Zellulosefasern",
+      "Glaswolle"
+    ],
+    "Matched Materials": [
+      "Polyurethan (PUR/PIR)",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol expandiert (EPS)",
+      "Schaumglas",
+      "Zellulosefasern",
+      "Glaswolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 183,
+      "prompt_tokens": 1704,
+      "total_tokens": 1887,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.943,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0002436
+  }
+}

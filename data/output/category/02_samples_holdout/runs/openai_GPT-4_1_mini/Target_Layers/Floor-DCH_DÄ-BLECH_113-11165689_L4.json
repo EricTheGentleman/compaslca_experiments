@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab element named 'Floor:DCH_DÄ+BLECH_113' with multiple material layers including 'Dämmung - weich' (soft insulation), 'Dachdeckung - Blechdach' (metal roof covering), 'Dachdeckung - Bitumenbahn' (bitumen membrane), and 'Dachdeckung - Holz' (wood roof covering). Classified under 'Floors' category with Bauteilklasse 'A_Dachbekleidung' (roof covering) and Bauteilart 'Dachabdeckung' (roof covering).",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1438,
+      "completion_tokens": 153,
+      "total_tokens": 1591,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.31,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.00082
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist ein M16-Bolzen aus Stahl, mit einer Länge von 21 cm, das in einem Stahltragwerk verwendet wird. Es ist ein Proxy-Element, das wahrscheinlich aus Stahl gefertigt ist, und die Pset zeigt 'Structural Material: Steel'.",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Stahlblech, blank",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 115,
+      "prompt_tokens": 1082,
+      "total_tokens": 1197,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.147,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0001542
+  }
+}

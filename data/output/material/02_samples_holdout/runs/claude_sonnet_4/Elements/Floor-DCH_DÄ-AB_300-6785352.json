@@ -1,0 +1,61 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab (Dachplatte) mit Materialschicht 'Dämmung - weich' (0.2m dick), Bauteilklasse 'A_Dachbekleidung', Bauteilart 'Dachabdeckung', außenliegend, nicht tragend, U-Wert 0.17",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Flachsfasern",
+      "Korkplatte"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Weichfaserplatte",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Flachsfasern",
+      "Korkplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2224,
+      "completion_tokens": 450,
+      "total_tokens": 2674,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 8.29,
+    "company": "anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.013422
+  }
+}

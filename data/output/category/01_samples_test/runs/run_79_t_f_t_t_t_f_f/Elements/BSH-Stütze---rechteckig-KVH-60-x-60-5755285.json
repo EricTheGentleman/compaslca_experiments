@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcColumn named 'BSH Stütze - rechteckig:KVH 60 x 60:5755285' with material 'Holz Brettschicht - C24 Cl.1', indicating it is a wooden structural column.",
+    "Preliminary Selection": "Holz und Holzwerkstoffe",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 91,
+      "prompt_tokens": 1238,
+      "total_tokens": 1329,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.638,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00801
+  }
+}

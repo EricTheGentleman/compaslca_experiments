@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase, external facade wall; target material layer: Putz (plaster) 0.06 m; other layer: soft insulation; material keywords: Putz, plaster.",
+    "Preliminary Selection": "Mörtel und Putze",
+    "Matched Category": "Mörtel und Putze"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1487,
+      "completion_tokens": 211,
+      "total_tokens": 1698,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 33.176,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.04662
+  }
+}

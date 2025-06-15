@@ -1,5 +1,6 @@
 # Ignore only the model config file that contains the API key
 configs/model_config.yaml
+scrap.py
 
 # Ignore .env and any private key files
 .env

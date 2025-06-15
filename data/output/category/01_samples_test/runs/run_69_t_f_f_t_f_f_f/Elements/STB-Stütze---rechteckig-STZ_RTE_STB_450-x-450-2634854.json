@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcColumn named 'STB Stütze - rechteckig:STZ_RTE_STB_450 x 450' with material 'Betonfertigteil'. It is a structural column with a gross volume of 0.6784 cubic meters.",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 77,
+      "prompt_tokens": 1423,
+      "total_tokens": 1500,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.512,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008655
+  }
+}

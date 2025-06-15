@@ -1,0 +1,19 @@
+{
+    "name": "Basic-Wall-WAN_TWÄ_MW-VS_300---EI60-11586674_L4",
+    "category": "Mauersteine",
+    "material_entries": [
+        "Kalksandstein",
+        "Kalksandstein, FBB",
+        "Kalksandstein, Hunziker Kalksandstein AG"
+    ],
+    "reason": [
+        "semantic match"
+    ],
+    "Type": "IfcWall",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 3
+}

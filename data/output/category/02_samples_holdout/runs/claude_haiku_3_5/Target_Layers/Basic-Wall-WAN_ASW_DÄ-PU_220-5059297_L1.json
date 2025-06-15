@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Wall with plaster (Putz) layer, contains insulation (Dämmung), exterior wall, non-structural, lightweight concrete description",
+    "Preliminary Selection": "Mörtel und Putze",
+    "Matched Category": "Mörtel und Putze"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1795,
+      "completion_tokens": 79,
+      "total_tokens": 1874,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 7.369,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.001752
+  }
+}

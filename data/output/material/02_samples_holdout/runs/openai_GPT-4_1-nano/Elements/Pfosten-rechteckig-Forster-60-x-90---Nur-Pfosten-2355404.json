@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist ein rechteckiger Pfosten aus Stahl mit Pulverbeschichtung schwarz, im Bereich 'Curtain Wall Mullions' und hat eine Materialangabe 'Stahl, 45-34, Pulverbeschichtung schwarz'. Es handelt sich um ein tragendes, metallisches Bauelement mit spezifischer Oberflächenbehandlung.",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 120,
+      "prompt_tokens": 1272,
+      "total_tokens": 1392,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.181,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0001752
+  }
+}

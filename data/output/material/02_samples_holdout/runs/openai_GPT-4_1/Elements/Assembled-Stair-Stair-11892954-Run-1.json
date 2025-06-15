@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcStairFlight (stair run) with tread material 'Gitterrost-Treppe', type and references indicate 'Stahl_40 mm Auftritt' (steel, 40 mm tread), used in a non-monolithic steel stair run. All context points to steel grating/stair tread.",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 135,
+      "prompt_tokens": 1302,
+      "total_tokens": 1437,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.718,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.003684
+  }
+}

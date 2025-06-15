@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine nicht-massive, externe, landungsartige Podestfläche aus Gitterrost, im Bereich Innenausbau, mit Bezug auf Stairs: Landings und Podest (nicht massiv). Es handelt sich um eine nicht-massive, nicht-externe, metallische, wahrscheinlich gelochte oder offene Oberfläche.",
+    "Preliminary Selection": [
+      "Gitterrost",
+      "Stahlblech, blank",
+      "Stahlprofil, blank",
+      "Chromstahlblech blank",
+      "Aluminiumblech, blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R"
+    ],
+    "Matched Materials": [
+      "Gitterrost",
+      "Stahlblech, blank",
+      "Stahlprofil, blank",
+      "Chromstahlblech blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 185,
+      "prompt_tokens": 1186,
+      "total_tokens": 1371,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.66,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0001926
+  }
+}

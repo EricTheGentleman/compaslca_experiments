@@ -1,0 +1,42 @@
+{
+  "Railing-GEL_FÜL_BALK_GITR-11023613.json": {
+    "category": "Metallbaustoffe",
+    "matched_category": "None"
+  },
+  "Bleche-Fassade_V6-Bleche-Fassade_V6-4910201.json": {
+    "category": "Metallbaustoffe",
+    "matched_category": "None"
+  },
+  "TU-DF-1---Rahmenstock-flächenbündig-TUI_ZAR_STA_MÖ---1100-x-2200_EI-30-10129091.json": {
+    "category": "Türen",
+    "matched_category": "Metallbaustoffe"
+  },
+  "Attikablech-Galerie-Südost-Attikablech-Galerie-Südost-6350725.json": {
+    "category": "Metallbaustoffe",
+    "matched_category": "Wärmedämmstoffe"
+  },
+  "Floor-DCH_SUB_100-14297034.json": {
+    "category": "None",
+    "matched_category": "Wärmedämmstoffe"
+  },
+  "Basic-Wall-Holzbau_Archisonic_Vorbauschale-2146702_L1.json": {
+    "category": "Kunststoffe",
+    "matched_category": "Holz und Holzwerkstoffe"
+  },
+  "Floor-AHD_DÄ_150-10969563_L2.json": {
+    "category": "Holz und Holzwerkstoffe",
+    "matched_category": "Wärmedämmstoffe"
+  },
+  "Floor-Galerie-Fussbodenaufbau-1353081_L2.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "matched_category": "Bodenbeläge"
+  },
+  "Basic-Wall-WAN_TWÄ_GK_100---EI30-4246887_L1.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "matched_category": "Wärmedämmstoffe"
+  },
+  "Basic-Wall-WAN_TWÄ_MW-VS_300---EI60-11586674_L3.json": {
+    "category": "None",
+    "matched_category": "Wärmedämmstoffe"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element: tragende Außenwand (IfcWallStandardCase), Material: Brettsperrholz (BSP), Dicke: 140 mm, Kategorie: Walls, Nutzung: tragend (Structural: True, Structural Usage: Bearing), Sichtseite einseitig.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Furniersperrholz"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Furniersperrholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 117,
+      "prompt_tokens": 1792,
+      "total_tokens": 1909,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.637,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.00452
+  }
+}

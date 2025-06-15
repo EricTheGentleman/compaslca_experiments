@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a proxy type with no defined material. It belongs to the category of 'Generic Models' and is associated with architecture. The element name suggests it may represent a staircase or similar structure, but lacks specific material information.",
+    "Matched Category": "None"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 66,
+      "prompt_tokens": 905,
+      "total_tokens": 971,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.844,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.005845
+  }
+}

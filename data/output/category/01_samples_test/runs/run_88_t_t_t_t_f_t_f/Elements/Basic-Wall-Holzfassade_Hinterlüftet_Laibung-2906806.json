@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a basic wall with a material layer of 'Holzschalung Vertikal, Nadelholz, schwarz gestrichen', indicating it is made of wood.",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 59,
+      "prompt_tokens": 1613,
+      "total_tokens": 1672,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1536
+      }
+    },
+    "processing_time": 1.226,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009245
+  }
+}

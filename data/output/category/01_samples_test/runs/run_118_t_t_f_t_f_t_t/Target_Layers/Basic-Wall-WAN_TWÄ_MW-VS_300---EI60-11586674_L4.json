@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall made of 'Mauerwerk - Kalksandstein' (masonry - sand-lime brick) and includes layers of 'Trockenbau - Gipsplatte' (drywall) and 'Dämmung - weich' (soft insulation). The element is categorized as a non-bearing interior wall with a fire rating of EI 60.",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 96,
+      "prompt_tokens": 1935,
+      "total_tokens": 2031,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1792
+      }
+    },
+    "processing_time": 2.288,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.011595
+  }
+}

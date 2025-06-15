@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor covering named 'BBA_HBE_30-BG2 geschliffen' made of 'Beton - CT' (concrete) with a thickness of 0.03 meters. It is categorized under floors and has various properties related to its construction and material.",
+    "Preliminary Selection": "Bodenbeläge",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 91,
+      "prompt_tokens": 1823,
+      "total_tokens": 1914,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.942,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.010935
+  }
+}

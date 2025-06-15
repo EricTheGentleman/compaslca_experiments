@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine Bodenplatte (IfcSlab) mit einer 10cm dicken Dämmungsschicht aus hart-horizontaler Dämmung, vermutlich im Bereich der Innendämmung oder Bodenaufbau, mit Bezug auf die Kategorie 'Floors' und einer Wärmeleitfähigkeit (U-Wert) von 0.27 W/m²K.",
+    "Preliminary Selection": [
+      "Polyurethan (PUR/PIR)",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol expandiert (EPS)",
+      "Schaumglas",
+      "Steinwolle"
+    ],
+    "Matched Materials": [
+      "Polyurethan (PUR/PIR)",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol expandiert (EPS)",
+      "Schaumglas",
+      "Steinwolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 191,
+      "prompt_tokens": 1672,
+      "total_tokens": 1863,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 7.573,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0002436
+  }
+}

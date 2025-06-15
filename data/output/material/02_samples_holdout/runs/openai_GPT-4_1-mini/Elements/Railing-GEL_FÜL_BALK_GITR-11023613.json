@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcRailing element named 'Railing:GEL_FÜL_BALK_GITR:11023613', category Railings, exterior (Lage Aussen True), material described as 'Drahtgitter verzinkt', Bauteilklasse A_Sicherung, Bauteilart Gelaender, height 1.02m, length 1.2m.",
+    "Preliminary Selection": [
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech verzinnt"
+    ],
+    "Matched Materials": [
+      "Stahlblech, verzinkt",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech verzinnt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1175,
+      "completion_tokens": 183,
+      "total_tokens": 1358,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.867,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0007628
+  }
+}

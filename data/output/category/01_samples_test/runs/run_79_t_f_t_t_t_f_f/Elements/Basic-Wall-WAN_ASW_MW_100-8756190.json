@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcWall with the name 'Basic Wall:WAN_ASW_MW_100:8756190'. It is made of a material named 'Mauerwerk - ohne Dämmeigenschaften' with a thickness of 0.1 meters. The wall is non-bearing, exterior, and part of the facade.",
+    "Preliminary Selection": "Mauersteine",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 101,
+      "prompt_tokens": 1537,
+      "total_tokens": 1638,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.945,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009705
+  }
+}

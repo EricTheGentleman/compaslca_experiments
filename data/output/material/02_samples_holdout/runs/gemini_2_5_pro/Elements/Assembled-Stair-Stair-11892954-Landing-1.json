@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Bauelement ist ein Innenpodest ('Assembled Stair:Stair:11892954 Landing 1', 'IfcSlab', ObjectType: 'Non-Monolithic Landing:Podest (nicht massiv)', IsExternal: 'False'). Das explizit genannte Material ist 'Gitterrost'.",
+    "Preliminary Selection": [
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromstahlblech blank",
+      "Aluminiumblech, blank"
+    ],
+    "Matched Materials": [
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromstahlblech blank",
+      "Aluminiumblech, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1283,
+      "completion_tokens": 186,
+      "total_tokens": 1469,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 37.835,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00346375
+  }
+}

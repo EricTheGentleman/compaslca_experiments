@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element: IfcCovering (Floor), Name: 'BBA_BE-DÄ_120-Schmutzstreifen', Main material: 'Standard - Fußboden-Schmutzabstreifer', Layer thickness: 25 mm, Function: Interior floor covering, Category: Bodenbelag (floor finish), No explicit material type (e.g. textile, metal, rubber) given, but 'Schmutzabstreifer' indicates entrance mat or dirt-trapping mat.",
+    "Preliminary Selection": [
+      "Teppich Kunstfaser getuftet",
+      "Teppich Nadelfilz",
+      "Teppich Naturfaser"
+    ],
+    "Matched Materials": [
+      "Teppich Nadelfilz",
+      "Teppich Kunstfaser getuftet"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 165,
+      "prompt_tokens": 2035,
+      "total_tokens": 2200,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.869,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.00539
+  }
+}

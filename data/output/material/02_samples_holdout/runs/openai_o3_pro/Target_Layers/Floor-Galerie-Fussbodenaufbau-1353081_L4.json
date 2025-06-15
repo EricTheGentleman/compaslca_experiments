@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Ziel-Lage 4: Trittschalldämmung Flumroc 341, 30 mm dick, Bestandteil eines Innenbodenaufbaus (IfcSlab). Flumroc ist eine Marke für Steinwolle-Dämmstoffe zur Trittschalldämmung.",
+    "Preliminary Selection": [
+      "Steinwolle, Flumroc",
+      "Steinwolle",
+      "Glaswolle"
+    ],
+    "Matched Materials": [
+      "Steinwolle, Flumroc",
+      "Steinwolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1518,
+      "completion_tokens": 631,
+      "total_tokens": 2149,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 52.017,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.08084
+  }
+}

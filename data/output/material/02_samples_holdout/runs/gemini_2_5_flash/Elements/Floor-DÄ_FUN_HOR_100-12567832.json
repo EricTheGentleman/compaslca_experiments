@@ -1,0 +1,57 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine IfcSlab, die als „Floor“-Element fungiert. Die Kerninformationen deuten auf eine Dämmschicht hin, die explizit als „Dämmung - hart-horizontal“ beschrieben wird, mit einer Dicke von 10 cm. Mehrere Psets bestätigen die Funktion als „Daemmung“ und die Eigenschaft „hart“ (rigid). Das Element ist als tragend („LoadBearing“ und „Structural“) und für den Einsatz „unter Terrain“ gekennzeichnet, was auf eine druckfeste Dämmung hinweist.",
+    "Preliminary Selection": [
+      "Blähperlit",
+      "Blähvermiculit",
+      "Korkplatte",
+      "Phenolharz (PF)",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Schaumglas",
+      "Schaumglas, GLAPOR",
+      "Schaumglasschotter",
+      "Schaumglasschotter, Misapor"
+    ],
+    "Matched Materials": [
+      "Korkplatte",
+      "Phenolharz (PF)",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Schaumglas",
+      "Schaumglas, GLAPOR"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1853,
+      "completion_tokens": 396,
+      "total_tokens": 2249,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 14.273,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.00166395
+  }
+}

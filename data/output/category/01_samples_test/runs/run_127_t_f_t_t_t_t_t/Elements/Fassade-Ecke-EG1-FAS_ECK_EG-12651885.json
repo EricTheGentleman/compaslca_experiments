@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcWall named 'Fassade Ecke EG1:FAS_ECK_EG' made of Aluminum. It has a volume of 0.0237 cubic meters and is categorized under 'Columns' in the property sets.",
+    "Preliminary Selection": "Metallbaustoffe",
+    "Matched Category": "Metallbaustoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 85,
+      "prompt_tokens": 1403,
+      "total_tokens": 1488,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.74,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008715
+  }
+}

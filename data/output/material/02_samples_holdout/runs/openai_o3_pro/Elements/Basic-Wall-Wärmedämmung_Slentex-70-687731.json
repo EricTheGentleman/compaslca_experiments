@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase 'Basic Wall: Wärmedämmung_Slentex 70' with a single 70 mm thick layer of 'Wärmedämmung Slentex Aerogel'; exterior, non-bearing insulation wall; very low U-value (0.143 W/m²K) typical for aerogel high-performance insulation.",
+    "Preliminary Selection": [
+      "Aerogel-Vlies",
+      "Polyurethan (PUR/PIR)"
+    ],
+    "Matched Materials": [
+      "Aerogel-Vlies"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1411,
+      "completion_tokens": 565,
+      "total_tokens": 1976,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 87.437,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.07342
+  }
+}

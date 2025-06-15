@@ -1,0 +1,17 @@
+{
+    "name": "Geländer-Kern-6-OG2-GEL_TREP_6OG-14099961",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Stahlprofil, blank"
+    ],
+    "reason": [
+        "only viable match for steel railing"
+    ],
+    "Type": "IfcRailing",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

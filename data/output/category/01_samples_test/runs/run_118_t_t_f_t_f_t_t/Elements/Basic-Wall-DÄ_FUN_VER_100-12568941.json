@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall with the name 'Basic Wall:DÄ_FUN_VER_100'. It has a material layer named 'Dämmung - hart', which indicates it is a type of insulation. The wall is categorized as an exterior, non-bearing wall with thermal transmittance properties.",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 82,
+      "prompt_tokens": 1864,
+      "total_tokens": 1946,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1792
+      }
+    },
+    "processing_time": 2.355,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01096
+  }
+}

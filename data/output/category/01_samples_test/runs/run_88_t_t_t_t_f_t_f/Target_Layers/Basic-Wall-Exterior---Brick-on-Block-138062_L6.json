@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material Name: Plasterboard, Element Type: IfcWallStandardCase, Other Materials: Brick, Concrete Block, Insulation",
+    "Matched Category": "Mörtel und Putze"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 51,
+      "prompt_tokens": 1507,
+      "total_tokens": 1558,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1408
+      }
+    },
+    "processing_time": 0.921,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008555
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall with the material 'Betonfertigteil' (precast concrete) and a secondary layer of 'Dämmung - weich' (soft insulation). The wall is categorized as 'Basic Wall: WAN_ASW_DÄ-BET_300' and is non-load-bearing, external, and has a fire rating of REI 60.",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 106,
+      "prompt_tokens": 1781,
+      "total_tokens": 1887,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.534,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.011025
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Zielmaterial ist 'Putz' (2cm dick) auf einer Außenwand ('IfcWallStandardCase', 'IsExternal': 'True', 'Location Line': 'Finish Face: Exterior', 'Construction.Function': 'Exterior'). Die Wandkonstruktion ('WAN_ASW_DÄ-PU_300') beinhaltet eine 28cm dicke Schicht 'Dämmung - weich', was auf ein Wärmedämmverbundsystem (WDVS) hindeutet. Das Bauteil ist als 'Fassadenbekleidung' klassifiziert.",
+    "Preliminary Selection": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Weisszementputz",
+      "Zementputz",
+      "Wärmedämmputz EPS"
+    ],
+    "Matched Materials": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Weisszementputz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1853,
+      "completion_tokens": 317,
+      "total_tokens": 2170,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 38.913,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00548625
+  }
+}

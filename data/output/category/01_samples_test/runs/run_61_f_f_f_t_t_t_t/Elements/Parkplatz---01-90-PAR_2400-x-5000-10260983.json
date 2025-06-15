@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a parking element with a material named 'Farbe - Straßenmarkierung weiß', which translates to 'paint - road marking white'. The element is categorized under 'Parking'.",
+    "Preliminary Selection": "Anstrichstoffe, Beschichtungen",
+    "Matched Category": "Anstrichstoffe, Beschichtungen"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 81,
+      "prompt_tokens": 1227,
+      "total_tokens": 1308,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.803,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.007755
+  }
+}

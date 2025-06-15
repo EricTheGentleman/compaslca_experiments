@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab element named 'Floor:DCH_SUB_100', classified as a 'Floor' but with 'Bauteilklasse' (component class) 'A_Dachbekleidung' (Roof cladding) and 'Bauteilart' (component type) 'Dachabdeckung' (Roof covering). The key material is 'Dachdeckung - Begrünung' (Roof covering - Greenery).",
+    "Preliminary Selection": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "Matched Category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1572,
+      "completion_tokens": 147,
+      "total_tokens": 1719,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 13.318,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.0007503
+  }
+}

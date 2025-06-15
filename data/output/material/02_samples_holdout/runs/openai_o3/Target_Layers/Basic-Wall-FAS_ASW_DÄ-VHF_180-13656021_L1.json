@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Target material layer: \"Putz\" (plaster), 60 mm thick, part of an external non-load-bearing facade wall (IfcWallStandardCase, IsExternal=True, FireRating REI60).",
+    "Preliminary Selection": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Leichtputz mineralisch",
+      "Wärmedämmputz EPS",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Wärmedämmputz EPS"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1705,
+      "completion_tokens": 884,
+      "total_tokens": 2589,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 15.357,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.010482
+  }
+}

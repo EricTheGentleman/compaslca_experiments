@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcWindow, specifically a skylight (Dachfenster) with a dome shape, identified as 'FE Dachkuppel rund:Ø=1200'. Material is not defined, but it mentions 'Glas - Isolierverglasung klar' for dome glass.",
+    "Matched Category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 87,
+      "prompt_tokens": 1256,
+      "total_tokens": 1343,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1152
+      }
+    },
+    "processing_time": 1.983,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00802
+  }
+}

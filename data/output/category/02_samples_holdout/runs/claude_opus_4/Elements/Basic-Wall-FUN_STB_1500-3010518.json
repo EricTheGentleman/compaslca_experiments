@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Wall element (IfcWallStandardCase) with material 'Beton - Ortbeton bewehrt' (reinforced cast-in-place concrete), 1.5m thick, structural/load-bearing, foundation wall (Function: Foundation)",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1769,
+      "completion_tokens": 98,
+      "total_tokens": 1867,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.665,
+    "company": "Anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.033885
+  }
+}

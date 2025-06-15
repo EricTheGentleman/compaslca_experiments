@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material name is 'Dämmung - weich' (soft insulation), thickness 0.06m, part of a multilayer floor slab (IfcSlab) with other layers including metal, bitumen, and wood; element is an exterior roof/floor construction, non-loadbearing, classified as 'A_Dachbekleidung' (roof covering), with 'Bauteilart' as 'Dachabdeckung' (roof covering).",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1438,
+      "completion_tokens": 126,
+      "total_tokens": 1564,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.047,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.003884
+  }
+}

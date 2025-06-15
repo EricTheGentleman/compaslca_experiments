@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall named 'Basic Wall:Technikschnittstelle' made of 'Gipsfaserplatte' (gypsum fiberboard) with a thickness of 0.025 meters. It is categorized as a non-bearing wall and is related to the construction phase 'Zu Bauen'.",
+    "Matched Category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 95,
+      "prompt_tokens": 1101,
+      "total_tokens": 1196,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1024
+      }
+    },
+    "processing_time": 1.945,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.007405
+  }
+}

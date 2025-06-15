@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcWall named 'Basic Wall:WAT_ASW_STB_250' made of 'Beton - Ortbeton bewehrt' (reinforced concrete). It is a load-bearing external wall with a thickness of approximately 25 cm.",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 75,
+      "prompt_tokens": 1763,
+      "total_tokens": 1838,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.64,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.010315
+  }
+}

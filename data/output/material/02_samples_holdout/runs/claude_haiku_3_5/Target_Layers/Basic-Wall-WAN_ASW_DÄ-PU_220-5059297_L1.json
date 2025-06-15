@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Äußere Putzschicht (Layer 1) einer Außenwand mit 20mm Dicke, nicht tragend, außen liegend, mit Dämmung",
+    "Preliminary Selection": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Gips-/Weissputz",
+      "Silikonharzputz",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Weisszementputz",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Silikonharzputz",
+      "Weisszementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2203,
+      "completion_tokens": 215,
+      "total_tokens": 2418,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.628,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0026224
+  }
+}

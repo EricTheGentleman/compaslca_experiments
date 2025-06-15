@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a basic wall with the name 'Holzfassade_Hinterlüftet_Laibung', type 'IfcWallStandardCase', and material 'Holzschalung Vertikal, Nadelholz, schwarz gestrichen'.",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 74,
+      "prompt_tokens": 1411,
+      "total_tokens": 1485,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1408
+      }
+    },
+    "processing_time": 1.331,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008535
+  }
+}

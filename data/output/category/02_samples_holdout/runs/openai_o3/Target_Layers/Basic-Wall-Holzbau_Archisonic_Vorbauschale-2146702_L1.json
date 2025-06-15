@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Wall element with main material layer 'Archisonic Charcoal' 12 mm thick; acoustic panel likely made from PET felt (plastic). Secondary layer MDF (wood).",
+    "Preliminary Selection": "Kunststoffe",
+    "Matched Category": "Kunststoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1135,
+      "completion_tokens": 457,
+      "total_tokens": 1592,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 12.26,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.005926
+  }
+}

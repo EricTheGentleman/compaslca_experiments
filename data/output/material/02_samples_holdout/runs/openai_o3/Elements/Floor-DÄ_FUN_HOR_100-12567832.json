@@ -1,0 +1,51 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab floor element ‘DÄ_FUN_HOR_100’ with a single 100 mm thick layer named ‘Dämmung - hart-horizontal’. Function: rigid horizontal floor insulation located under terrain, load-bearing, moisture-resistant. Requires hard, compressive thermal insulation boards.",
+    "Preliminary Selection": [
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Schaumglas",
+      "Schaumglas, GLAPOR",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ],
+    "Matched Materials": [
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Schaumglas",
+      "Schaumglas, GLAPOR"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1671,
+      "completion_tokens": 1473,
+      "total_tokens": 3144,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 20.886,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.015126
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab (interior floor); description and type indicate 'Gussasphalt 50'; thickness ≈ 50 mm; primary material is cast asphalt",
+    "Preliminary Selection": [
+      "Gussasphalt, 27.5 mm",
+      "Hartbeton einschichtig, 27.5 mm"
+    ],
+    "Matched Materials": [
+      "Gussasphalt, 27.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1703,
+      "completion_tokens": 734,
+      "total_tokens": 2437,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 41.883,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.09278
+  }
+}

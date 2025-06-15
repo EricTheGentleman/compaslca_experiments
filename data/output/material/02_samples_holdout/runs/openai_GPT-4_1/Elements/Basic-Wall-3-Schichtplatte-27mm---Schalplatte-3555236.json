@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a non-bearing exterior wall ('IfcWallStandardCase') with a single 27mm layer of '3-Schicht-Platte' (3-layer solid wood panel); not structural; material name and type both reference '3-Schichtplatte'.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Furniersperrholz",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 142,
+      "prompt_tokens": 1776,
+      "total_tokens": 1918,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.794,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.004688
+  }
+}

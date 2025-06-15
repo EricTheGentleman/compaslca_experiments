@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Building element is a PV system (photovoltaic/solar panel) from Bauder manufacturer, categorized as Specialty Equipment, with dimensions suggesting a flat panel installation",
+    "Preliminary Selection": "Fenster, Sonnenschutz, Fassadenplatten",
+    "Matched Category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1205,
+      "completion_tokens": 105,
+      "total_tokens": 1310,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.0,
+    "company": "Anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.02595
+  }
+}

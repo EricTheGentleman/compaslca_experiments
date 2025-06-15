@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine nicht-tragende Wand (Structural: False, Structural Usage: Non-bearing) mit einer Dicke von 27mm. Das Material wird explizit als '3-Schicht-Platte' bezeichnet und der Elementtyp weist auf eine 'Schalplatte' hin, was eine Plattenanwendung impliziert.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1934,
+      "completion_tokens": 135,
+      "total_tokens": 2069,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 15.831,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.0007626
+  }
+}

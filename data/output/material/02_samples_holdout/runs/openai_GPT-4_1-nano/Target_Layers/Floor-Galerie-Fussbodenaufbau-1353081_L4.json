@@ -1,0 +1,59 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist ein Bodenaufbau (IfcSlab) mit mehreren Schichten, darunter eine Trittschalldämmung (Flumroc 341) mit 3 cm Dicke. Es befindet sich im Bereich eines Fußbodens in einer Galerie, mit bekannten Materialschichten und Eigenschaften. Die Materialoptionen umfassen Dämmstoffe, insbesondere Schaumstoffe, Mineralwolle, Naturmaterialien und andere Dämmmaterialien.",
+    "Preliminary Selection": [
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Schaumglas",
+      "Schaumglas, GLAPOR",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel"
+    ],
+    "Matched Materials": [
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Schaumglas",
+      "Schaumglas, GLAPOR",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 399,
+      "prompt_tokens": 1519,
+      "total_tokens": 1918,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.583,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0003115
+  }
+}

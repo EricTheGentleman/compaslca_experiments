@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab floor element with material 'Dachdeckung - Begrünung' (roof covering - greening), classified as roof covering/cladding component, external location, 10cm thickness",
+    "Preliminary Selection": "Bodenbeläge",
+    "Matched Category": "Anstrichstoffe, Beschichtungen"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1724,
+      "completion_tokens": 100,
+      "total_tokens": 1824,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.301,
+    "company": "Anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.006672
+  }
+}

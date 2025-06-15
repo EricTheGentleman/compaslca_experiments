@@ -1,0 +1,45 @@
+{
+  "llm_response": {
+    "Key Information Summary": "External wall, non-load-bearing, façade. Target layer: Putz (render/plaster), 60 mm thick, exterior finish. Separate soft insulation layer behind; therefore plaster is primarily a protective/render layer, not main insulation.",
+    "Preliminary Selection": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Zementputz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Leichtputz mineralisch",
+      "Weisszementputz"
+    ],
+    "Matched Materials": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Zementputz",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Kunststoffputz (Dispersionsputz)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1705,
+      "completion_tokens": 903,
+      "total_tokens": 2608,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 92.876,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.10634
+  }
+}

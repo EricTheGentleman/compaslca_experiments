@@ -1,0 +1,17 @@
+{
+    "name": "Floor-Galerie-Fussbodenaufbau-1353081_L4",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Steinwolle, Flumroc"
+    ],
+    "reason": [
+        "very precise semantic match"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

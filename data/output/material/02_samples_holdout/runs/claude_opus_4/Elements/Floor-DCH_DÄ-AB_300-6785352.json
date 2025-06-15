@@ -1,0 +1,51 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab (Dach) mit Material 'Dämmung - weich', 200mm dick. Bauteilklasse: A_Dachbekleidung, Bauteilart: Dachabdeckung. Wärmedurchgangskoeffizient: 0.17 W/m²K. Außenliegend, nicht tragend.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Flachsfasern",
+      "Weichfaserplatte"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Flachsfasern",
+      "Weichfaserplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2224,
+      "completion_tokens": 333,
+      "total_tokens": 2557,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 14.891,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.058335
+  }
+}

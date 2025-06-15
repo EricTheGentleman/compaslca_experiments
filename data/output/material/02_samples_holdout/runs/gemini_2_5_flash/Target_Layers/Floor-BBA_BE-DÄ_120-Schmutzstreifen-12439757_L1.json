@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein IfcCovering namens \"Standard - Fußboden-Schmutzabstreifer\" mit einer Dicke von 25 mm. Es ist als \"Bodenbelag\" und \"Bodenaufbau\" im Innenbereich (Innenausbau) beschrieben und liegt auf einer Betonschicht mit Trittschalldämmung auf.",
+    "Preliminary Selection": [
+      "Teppich Kunstfaser getuftet",
+      "Teppich Nadelfilz",
+      "Teppich Naturfaser"
+    ],
+    "Matched Materials": [
+      "Teppich Kunstfaser getuftet",
+      "Teppich Nadelfilz",
+      "Teppich Naturfaser"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2304,
+      "completion_tokens": 171,
+      "total_tokens": 2475,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 16.556,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.0009441
+  }
+}

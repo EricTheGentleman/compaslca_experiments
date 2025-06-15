@@ -1,0 +1,52 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IFC-Element ist ein Bodenaufbau (Floor:Galerie Fussbodenaufbau) mit mehreren Schichten, darunter eine Schicht namens 'Knauf - Vidiwall' mit 15 mm Dicke. Es ist Teil eines Fußbodens in einer Galerie, mit bekannten Materialfamilien und Eigenschaften. Die Materialoptionen umfassen verschiedene Baustoffe, insbesondere Gipsplatten, Ziegel, Beton und andere.",
+    "Preliminary Selection": [
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gipskartonplatte",
+      "Tonziegel",
+      "Kalksteinplatte",
+      "Keramik-/Steinzeugplatte",
+      "Betongranulat",
+      "Betonziegel",
+      "Faserzement-Dachschindel",
+      "Faserzement-Wellplatte",
+      "Faserzementplatte gross",
+      "Kies gebrochen",
+      "Rundkies",
+      "Sand"
+    ],
+    "Matched Materials": [
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gipskartonplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 255,
+      "prompt_tokens": 1398,
+      "total_tokens": 1653,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.635,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0002418
+  }
+}

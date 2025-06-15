@@ -1,0 +1,17 @@
+{
+    "name": "UnnamedElement",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Stahlprofil, blank"
+    ],
+    "reason": [
+        "Railing made out of steel"
+    ],
+    "Type": "IfcRailing",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "KIT_SmileyWest",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

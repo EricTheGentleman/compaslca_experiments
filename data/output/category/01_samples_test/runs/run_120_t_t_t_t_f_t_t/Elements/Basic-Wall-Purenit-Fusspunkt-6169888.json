@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcWall named 'Basic Wall:Purenit Fusspunkt' with a material layer named 'Purenit'. The wall is categorized as a non-bearing exterior wall and has a specific thickness and volume.",
+    "Matched Category": "Kunststoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 67,
+      "prompt_tokens": 1343,
+      "total_tokens": 1410,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.332,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.008055
+  }
+}

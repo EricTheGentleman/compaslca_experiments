@@ -1,0 +1,53 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Zielmaterial ist 'Putz' (6cm dick) für eine Außenwand ('IsExternal': True, Funktion: Außen). Das Wandelement ('Basic Wall:FAS_ASW_DÄ-VHF_180') ist eine hinterlüftete Fassade mit einer separaten Dämmschicht (12cm 'Dämmung - weich'). Der 'Putz' ist die äußere Oberflächenschicht.",
+    "Preliminary Selection": [
+      "Gips-Kalk-Putz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Lehmputz",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Sumpfkalkputz",
+      "Weisszementputz",
+      "Wärmedämmputz EPS",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Gips-Kalk-Putz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Sumpfkalkputz",
+      "Weisszementputz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1909,
+      "completion_tokens": 355,
+      "total_tokens": 2264,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 50.583,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00593625
+  }
+}

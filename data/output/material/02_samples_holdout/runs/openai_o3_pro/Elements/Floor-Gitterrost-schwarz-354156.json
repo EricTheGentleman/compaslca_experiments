@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab floor element (grid grating). Layer set name: Floor:Gitterrost schwarz. Single material layer named \"Zink Gitter\" with 0.03 m thickness. Exterior, non-structural. Indicates a zinc-coated steel grating.",
+    "Preliminary Selection": [
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Stahlblech, verzinkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1362,
+      "completion_tokens": 552,
+      "total_tokens": 1914,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 58.878,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.0714
+  }
+}

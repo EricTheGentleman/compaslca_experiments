@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine Wand mit dem Namen 'Basic Wall:Holzbau_Archisonic_Vorbauschale', Typ 'IfcWallStandardCase', mit einer Materialschicht 'Archisonic Charcoal' und einer zusätzlichen Schicht MDF. Es befindet sich im Innenausbau, ist nicht tragend, und hat eine Dicke von 12 mm. Die Materialoptionen enthalten Kunststoffe wie Plexiglas, Polyamid, Polycarbonat, Polyester und Polystyrol.",
+    "Preliminary Selection": [
+      "Plexiglas (PMMA, Acrylglas)",
+      "Polycarbonat (PC)",
+      "Polyester (UP) glasfaserverstärkt"
+    ],
+    "Matched Materials": [
+      "Plexiglas (PMMA, Acrylglas)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Kunststoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 165,
+      "prompt_tokens": 1192,
+      "total_tokens": 1357,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.545,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0001852
+  }
+}

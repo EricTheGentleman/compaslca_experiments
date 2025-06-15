@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material Name: Masonry - Grout, Element Name: Floor:Finish Floor - Ceramic Tile, Type: IfcSlab, Other Material: Ceramic Tile",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 55,
+      "prompt_tokens": 1313,
+      "total_tokens": 1368,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.252,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.007665
+  }
+}

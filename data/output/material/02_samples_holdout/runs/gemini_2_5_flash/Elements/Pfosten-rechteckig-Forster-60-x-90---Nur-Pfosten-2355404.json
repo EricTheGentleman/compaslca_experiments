@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcMember, rechteckiger Pfosten (Mullion) für Vorhangfassaden. Das Element ist ein Profil. Das primäre Material ist Stahl mit einer Pulverbeschichtung.",
+    "Preliminary Selection": [
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1387,
+      "completion_tokens": 78,
+      "total_tokens": 1465,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 9.212,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.00048105
+  }
+}

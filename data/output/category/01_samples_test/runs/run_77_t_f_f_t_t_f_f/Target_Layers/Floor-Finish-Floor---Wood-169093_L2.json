@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material Name: Insulation / Thermal Barriers - Semi-rigid insulation, Element Type: IfcSlab, Other Material: Wood - Flooring",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 65,
+      "prompt_tokens": 1168,
+      "total_tokens": 1233,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.126,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00714
+  }
+}

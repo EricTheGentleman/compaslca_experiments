@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a basic wall of type IfcWallStandardCase with material 'Beton - Ortbeton bewehrt'. It is a structural, load-bearing, exterior wall without insulation properties.",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 58,
+      "prompt_tokens": 1694,
+      "total_tokens": 1752,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.453,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00963
+  }
+}

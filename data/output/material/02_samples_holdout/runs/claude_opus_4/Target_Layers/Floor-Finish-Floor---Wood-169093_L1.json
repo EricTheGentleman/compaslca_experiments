@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Wood flooring material, 16mm thick, part of a finish floor system. Classification explicitly states 'Wood Flooring'. This is a floor surface layer, not structural element despite LoadBearing=True for overall slab.",
+    "Preliminary Selection": [
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "3- und 5-Schicht Massivholzplatte"
+    ],
+    "Matched Materials": [
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "3- und 5-Schicht Massivholzplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2173,
+      "completion_tokens": 357,
+      "total_tokens": 2530,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 16.541,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.05937
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Zielmaterial ist ein 'Fußboden-Schmutzabstreifer' mit einer Dicke von 25 mm. Es handelt sich um ein IfcCovering und wird als Bodenbelag verwendet. Die Bezeichnungen 'Schmutzabstreifer' und 'Schmutzstreifen' im Kontext des Elements weisen auf eine Schmutzfangfunktion hin.",
+    "Preliminary Selection": [
+      "Gummigranulat versiegelt, 7.5 mm",
+      "Kautschuk, 2 mm",
+      "Teppich Kunstfaser getuftet",
+      "Teppich Nadelfilz",
+      "Teppich Naturfaser"
+    ],
+    "Matched Materials": [
+      "Teppich Nadelfilz",
+      "Teppich Kunstfaser getuftet",
+      "Teppich Naturfaser",
+      "Gummigranulat versiegelt, 7.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2304,
+      "completion_tokens": 202,
+      "total_tokens": 2506,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 65.577,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.0049
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine Außenwand mit einer 3 cm dicken Dämmung aus weichem Dämmmaterial, vermutlich eine wärmedämmende Schicht, mit Bezug auf Außenlage und Nichttragend. Es handelt sich um eine Wand im Neubau, mit einer Wärmeleitfähigkeit (U-Wert) von 1.1333, und die Dämmung ist als 'Dämmung - weich' bezeichnet.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Steinwolle",
+      "Zellulosefasern",
+      "Polyurethan (PUR/PIR)",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Schaumglas"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle",
+      "Zellulosefasern",
+      "Polyurethan (PUR/PIR)",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Schaumglas"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 234,
+      "prompt_tokens": 1613,
+      "total_tokens": 1847,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.973,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0002549
+  }
+}

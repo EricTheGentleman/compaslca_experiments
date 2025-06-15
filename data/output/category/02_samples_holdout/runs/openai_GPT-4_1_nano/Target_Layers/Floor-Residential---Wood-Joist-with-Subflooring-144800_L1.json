@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material names include 'Wood - Sheathing - plywood' and 'Wood - Dimensional Lumber'; element type is 'IfcSlab' with a focus on wood materials used in flooring; context suggests wooden structural components.",
+    "Preliminary Selection": "Holz und Holzwerkstoffe",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1028,
+      "completion_tokens": 79,
+      "total_tokens": 1107,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.216,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0001344
+  }
+}

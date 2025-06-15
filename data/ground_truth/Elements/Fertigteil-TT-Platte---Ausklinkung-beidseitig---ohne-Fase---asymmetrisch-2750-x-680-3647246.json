@@ -1,0 +1,18 @@
+{
+    "name": "Fertigteil-TT-Platte---Ausklinkung-beidseitig---ohne-Fase---asymmetrisch-2750-x-680-3647246",
+    "category": "Beton",
+    "material_entries": [
+        "Betonfertigteil, hochfester Beton, ab Werk",
+        "Betonfertigteil, Normalbeton, ab Werk"
+    ],
+    "reason": [
+        "Exact semantic match"
+    ],
+    "Type": "IfcBeam",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt31",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 2
+}

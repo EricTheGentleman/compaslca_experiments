@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Zielelement ist eine Schicht aus 'Wood - Sheathing - plywood' mit einer Dicke von 19mm. Es handelt sich um einen Teil eines 'IfcSlab' (Bodenplatte), spezifisch 'Floor:Residential - Wood Joist with Subflooring'. Das Element ist als tragend ('LoadBearing': 'True') und 'Structural Floor Decks' klassifiziert.",
+    "Preliminary Selection": [
+      "Furniersperrholz",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ],
+    "Matched Materials": [
+      "Furniersperrholz",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1743,
+      "completion_tokens": 192,
+      "total_tokens": 1935,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 25.69,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00409875
+  }
+}

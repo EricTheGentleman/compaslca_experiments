@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall named 'Basic Wall:WAT_ASW_STB_250' made of 'Beton - Ortbeton bewehrt' (reinforced concrete) with a thickness of 0.25 meters. It is categorized as a bearing wall and is external. The wall has a net volume of 1.9197 cubic meters and is associated with various property sets indicating its structural and thermal properties.",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 106,
+      "prompt_tokens": 1575,
+      "total_tokens": 1681,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1536
+      }
+    },
+    "processing_time": 3.274,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009995
+  }
+}

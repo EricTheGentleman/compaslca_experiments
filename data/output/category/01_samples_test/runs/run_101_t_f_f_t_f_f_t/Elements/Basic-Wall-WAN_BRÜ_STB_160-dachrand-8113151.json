@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall named 'Basic Wall:WAN_BRÜ_STB_160-dachrand' made of 'Beton - Ortbeton bewehrt' (reinforced concrete). It is categorized as a bearing wall and is external. The wall has a volume of 3.7114 cubic meters and a net side area of 23.196 square meters.",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 96,
+      "prompt_tokens": 1694,
+      "total_tokens": 1790,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.252,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.01039
+  }
+}

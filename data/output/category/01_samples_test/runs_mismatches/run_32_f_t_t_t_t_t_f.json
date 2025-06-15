@@ -1,0 +1,30 @@
+{
+  "Basic-Wall-Purenit-Fusspunkt-6169888.json": {
+    "category": "Wärmedämmstoffe",
+    "matched_category": "Kunststoffe"
+  },
+  "Abdeckblech-gerundet-neu-Abdeckblech-gerundet-neu-6385866.json": {
+    "category": "Metallbaustoffe",
+    "matched_category": "None"
+  },
+  "Basic-Wall-WAN_ASW_MW_225-7610934.json": {
+    "category": "Mauersteine",
+    "matched_category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "Basic-Wall-Innenwandelement-Archisonic-ohne-MDF-3995377.json": {
+    "category": "Kunststoffe",
+    "matched_category": "Wärmedämmstoffe"
+  },
+  "Floor-Finish-Floor---Ceramic-Tile-169772_L2.json": {
+    "category": "Mörtel und Putze",
+    "matched_category": "Bodenbeläge"
+  },
+  "Floor-Galerie-Fussbodenaufbau-1353081_L3.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "matched_category": "Bodenbeläge"
+  },
+  "Floor-Finish-Floor---Ceramic-Tile-169772_L1.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "matched_category": "Bodenbeläge"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Bleche-Fassade_V6-Bleche-Fassade_V6-4910201.json": {
+    "category": "Metallbaustoffe",
+    "matched_category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "TU-DF-1---Rahmenstock-flächenbündig-TUI_ZAR_STA_MÖ---1100-x-2200_EI-30-10129091.json": {
+    "category": "Türen",
+    "matched_category": "Metallbaustoffe"
+  },
+  "Floor-DCH_SUB_100-14297034.json": {
+    "category": "None",
+    "matched_category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "Floor-Finish-Floor---Wood-169093_L1.json": {
+    "category": "Holz und Holzwerkstoffe",
+    "matched_category": "Bodenbeläge"
+  },
+  "Floor-AHD_DÄ_150-10969563_L2.json": {
+    "category": "Holz und Holzwerkstoffe",
+    "matched_category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "Basic-Wall-WAN_TWÄ_MW-VS_300---EI60-11586674_L3.json": {
+    "category": "None",
+    "matched_category": "Mauersteine"
+  }
+}

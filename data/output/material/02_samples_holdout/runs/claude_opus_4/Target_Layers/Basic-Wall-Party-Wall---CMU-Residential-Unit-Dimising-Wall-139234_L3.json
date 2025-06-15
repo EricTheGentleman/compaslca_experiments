@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Target layer: Masonry - Concrete Block, 193mm thick. Wall type: Party Wall - CMU Residential Unit. CMU indicates Concrete Masonry Unit. Wall has 7 layers total with concrete block layers at positions 3 and 5.",
+    "Preliminary Selection": [
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims",
+      "Zementstein",
+      "Porenbetonstein"
+    ],
+    "Matched Materials": [
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims",
+      "Zementstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1914,
+      "completion_tokens": 160,
+      "total_tokens": 2074,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 23.027,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.04071
+  }
+}

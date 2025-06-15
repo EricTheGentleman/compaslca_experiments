@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Zielmaterial ist 'Trockenbau - Gipsplatte' (2,5 cm dick) für eine nichttragende Innenwand (IfcWallStandardCase, Leichtbauwand, GK_100) mit Brandschutzanforderung EI30. Die Wandkonstruktion besteht aus Gipsplatten und Dämmung. Der Kontext deutet stark auf Gips-basierte Bauplatten hin.",
+    "Preliminary Selection": [
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gipskartonplatte"
+    ],
+    "Matched Materials": [
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gipskartonplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1932,
+      "completion_tokens": 184,
+      "total_tokens": 2116,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 42.801,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.004255
+  }
+}

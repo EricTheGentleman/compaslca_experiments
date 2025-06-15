@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material Name: Misc. Air Layers - Air Space, Element Type: IfcWallStandardCase, Other Materials: Plasterboard, Metal - Stud Layer, Masonry - Concrete Block, Classification Description: Masonry Structural Walls",
+    "Preliminary Selection": "Mauersteine",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 79,
+      "prompt_tokens": 1603,
+      "total_tokens": 1682,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.637,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009595
+  }
+}

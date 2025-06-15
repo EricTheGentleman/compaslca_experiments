@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Target layer: 'Knauf - Vidiwall', 15 mm thick, part of a multilayer floor (IfcSlab). Knauf Vidiwall is a gypsum-fibre board.",
+    "Preliminary Selection": [
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gipskartonplatte"
+    ],
+    "Matched Materials": [
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gipskartonplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1397,
+      "completion_tokens": 756,
+      "total_tokens": 2153,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 13.191,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.008842
+  }
+}

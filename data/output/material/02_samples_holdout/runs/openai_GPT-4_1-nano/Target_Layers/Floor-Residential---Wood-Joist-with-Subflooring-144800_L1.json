@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine Holz-beschichtete Bodenplatte (Plywood), Teil eines Holzfußbodens mit weiteren Holzmaterialien, vermutlich für tragende oder deckende Zwecke. Es handelt sich um eine Holzschicht mit einer Dicke von 19 mm, umgeben von weiteren Holzmaterialien, wahrscheinlich für Bau- oder Konstruktionszwecke.",
+    "Preliminary Selection": [
+      "Brettschichtholz",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Konstruktionsvollholz",
+      "Holzwolle-Leichtbauplatte, zementgebunden"
+    ],
+    "Matched Materials": [
+      "Brettschichtholz",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Konstruktionsvollholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 241,
+      "prompt_tokens": 1627,
+      "total_tokens": 1868,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.389,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0002591
+  }
+}

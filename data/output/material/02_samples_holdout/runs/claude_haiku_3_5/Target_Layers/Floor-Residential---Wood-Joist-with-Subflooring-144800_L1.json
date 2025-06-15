@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab für Wohnungsboden-Tragwerk, bestehend aus Sperrholz (19mm) und Konstruktionsholz (286mm), tragend, nicht extern",
+    "Preliminary Selection": [
+      "Furniersperrholz",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "OSB Platte, PF-gebunden, Feuchtbereich",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau"
+    ],
+    "Matched Materials": [
+      "Furniersperrholz",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich",
+      "Konstruktionsvollholz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2186,
+      "completion_tokens": 292,
+      "total_tokens": 2478,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 11.366,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0029168
+  }
+}

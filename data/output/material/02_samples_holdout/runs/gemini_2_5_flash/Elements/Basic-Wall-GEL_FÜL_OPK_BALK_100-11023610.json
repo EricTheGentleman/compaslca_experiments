@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine nichttragende Aussenwand, die als Geländerkomponente fungiert. Das Material ist explizit als 'Fassade - Balkon Zinkblech' angegeben.",
+    "Preliminary Selection": [
+      "Titanzinkblech",
+      "Stahlblech, verzinkt"
+    ],
+    "Matched Materials": [
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1889,
+      "completion_tokens": 89,
+      "total_tokens": 1978,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 18.442,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.00059485
+  }
+}

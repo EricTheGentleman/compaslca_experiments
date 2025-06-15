@@ -1,0 +1,57 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IFC-Element ist eine 10 cm dicke, tragende, horizontale Dämmschicht für eine Bodenplatte ('IfcSlab', 'Floor'). Sie befindet sich unter Terrain ('unter Terrain': 'True') und wird als 'Dämmung - hart-horizontal' bzw. 'Dämmung - hart 10cm' beschrieben. Relevante Eigenschaften sind 'LoadBearing': 'True' und 'Structural': 'True'.",
+    "Preliminary Selection": [
+      "Korkplatte",
+      "Phenolharz (PF)",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Schaumglas",
+      "Schaumglas, GLAPOR",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ],
+    "Matched Materials": [
+      "Korkplatte",
+      "Phenolharz (PF)",
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol expandiert, SwissporEPS",
+      "Polystyrol extrudiert (XPS)",
+      "Polystyrol extrudiert, SwissporXPS",
+      "Polyurethan (PUR/PIR)",
+      "Polyurethan, SwissporPIR",
+      "Schaumglas",
+      "Schaumglas, GLAPOR",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1853,
+      "completion_tokens": 363,
+      "total_tokens": 2216,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 38.215,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00594625
+  }
+}

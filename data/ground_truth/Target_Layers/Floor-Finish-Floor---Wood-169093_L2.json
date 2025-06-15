@@ -1,0 +1,28 @@
+{
+    "name": "Floor-Finish-Floor---Wood-169093_L2",
+    "category": "Wärmedämmstoffe",
+    "material_entries": [
+        "Glaswolle",
+        "Glaswolle, Isover, phenolbasiertes Bindemittel",
+        "Glaswolle, Isover, pflanzliches Bindemittel",
+        "Glaswolle, SUPAFIL",
+        "Steinwolle",
+        "Steinwolle, Flumroc",
+        "Zellulosefasern",
+        "Zellulosefasern, Isofloc"
+    ],
+    "reason": [
+        "layer described as semi-rigid insulation",
+        "very small thickness (3mm) indicates thin insulating layer",
+        "probably for thermal decoupling or foot step sound",
+        "therefore must also be compressible (as it is an ifcslab)",
+        "these options are semi-rigid and compressible insulation applications"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 8
+}

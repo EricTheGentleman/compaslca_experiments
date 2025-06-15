@@ -1,0 +1,19 @@
+{
+    "name": "1OG-I-1-1",
+    "category": "Mauersteine",
+    "material_entries": [
+        "Kalksandstein",
+        "Kalksandstein, FBB",
+        "Kalksandstein, Hunziker Kalksandstein AG"
+    ],
+    "reason": [
+        "descriptor says only kalksandstein, so all materials are valid"
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Ambiguous",
+    "Data Structure": "Element",
+    "Model": "KIT_SmileyWest",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 3
+}

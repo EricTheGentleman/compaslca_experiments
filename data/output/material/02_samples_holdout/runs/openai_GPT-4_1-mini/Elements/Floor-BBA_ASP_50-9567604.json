@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab element named 'Floor:BBA_ASP_50' with description 'Gussasphalt 50', category 'Floors', interior non-loadbearing floor slab, thickness 0.05 m, material name 'Default', used under terrain and non-structural.",
+    "Preliminary Selection": [
+      "Gussasphalt, 27.5 mm"
+    ],
+    "Matched Materials": [
+      "Gussasphalt, 27.5 mm"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1704,
+      "completion_tokens": 105,
+      "total_tokens": 1809,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.946,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0008496
+  }
+}

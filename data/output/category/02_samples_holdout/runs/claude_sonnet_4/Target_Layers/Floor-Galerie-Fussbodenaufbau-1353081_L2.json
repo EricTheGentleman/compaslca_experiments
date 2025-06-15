@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material is 'Knauf - Vidiwall' with 15mm thickness, part of a floor assembly. Knauf is a manufacturer known for gypsum-based products and drywall systems. Vidiwall likely refers to a mineral-based panel or plate system.",
+    "Preliminary Selection": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "Matched Category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1534,
+      "completion_tokens": 135,
+      "total_tokens": 1669,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.219,
+    "company": "Anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.006627
+  }
+}

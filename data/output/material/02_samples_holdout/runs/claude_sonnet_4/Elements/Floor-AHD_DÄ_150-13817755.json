@@ -1,0 +1,45 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab vom Typ Floor mit Bezeichnung AHD_DÄ_150, Dicke 0.15m, beschrieben als 'DÄ_100', Wärmedurchgangskoeffizient 0.2429, Layer-Info 'Dämmung - weich 14cm', Innenbereich, nicht tragend, unter Terrain",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Steinwolle",
+      "Zellulosefasern",
+      "Flachsfasern",
+      "Weichfaserplatte",
+      "Polystyrol expandiert (EPS)",
+      "Polyurethan (PUR/PIR)"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Steinwolle",
+      "Zellulosefasern",
+      "Flachsfasern",
+      "Weichfaserplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1996,
+      "completion_tokens": 227,
+      "total_tokens": 2223,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.47,
+    "company": "anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.009393
+  }
+}

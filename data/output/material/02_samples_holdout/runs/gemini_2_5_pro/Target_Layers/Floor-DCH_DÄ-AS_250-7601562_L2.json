@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Bauelement ist eine nicht tragende ('LoadBearing': 'False') Betonschicht namens 'Beton - Überbeton' mit einer Dicke von 0.06m. Es handelt sich um eine Schicht eines IfcSlab (Geschossdecke/Bodenplatte) vom Typ 'Floor:DCH_DÄ-AS_250'. Die Psets deuten auf eine äußere Anwendung ('IsExternal': 'True', 'Lage Aussen': 'True') und möglicherweise unter Terrain ('unter Terrain': 'True') hin. Die Funktion ist 'Bodenunterkonstruktion'.",
+    "Preliminary Selection": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Magerbeton (ohne Bewehrung)",
+      "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+      "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+      "Hochbaubeton (ohne Bewehrung)",
+      "Magerbeton (ohne Bewehrung)",
+      "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2373,
+      "completion_tokens": 405,
+      "total_tokens": 2778,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 36.498,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00701625
+  }
+}

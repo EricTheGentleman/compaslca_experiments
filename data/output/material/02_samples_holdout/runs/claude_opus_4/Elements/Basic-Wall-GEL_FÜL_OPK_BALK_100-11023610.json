@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Balkongeländer aus Zinkblech, 10cm dick, außenliegend, nicht tragend, Funktion: Geländer/Sicherung",
+    "Preliminary Selection": [
+      "Titanzinkblech",
+      "Stahlblech, verzinkt",
+      "Chromnickelstahlblech 18/8 blank",
+      "Aluminiumblech, blank"
+    ],
+    "Matched Materials": [
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2264,
+      "completion_tokens": 127,
+      "total_tokens": 2391,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 28.548,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.043485
+  }
+}

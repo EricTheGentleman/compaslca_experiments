@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor covering with multiple layers including 'Dämmung - Trittschall' (insulation), 'Standard - Fußboden-Schmutzabstreifer' (floor dirt trap), and 'Beton - CT' (concrete). The element is categorized as a floor and has a thickness of 0.12m.",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 92,
+      "prompt_tokens": 1593,
+      "total_tokens": 1685,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1536
+      }
+    },
+    "processing_time": 1.737,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009805
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab element named 'Floor:AHD_DÄ_150' with a target material layer 'Heraklit-Platte' (thickness 0.01 m) and another layer 'Dämmung - weich' (0.14 m). Element is non-loadbearing, interior floor finishing ('Deckenbekleidung'), with total thickness 0.15 m, not structural, used in interior floors.",
+    "Preliminary Selection": [
+      "Hartfaserplatte",
+      "Holzwolle-Leichtbauplatte, zementgebunden",
+      "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ],
+    "Matched Materials": [
+      "Hartfaserplatte",
+      "Holzwolle-Leichtbauplatte, zementgebunden",
+      "Mitteldichte Faserplatte (MDF), UF-gebunden"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2014,
+      "completion_tokens": 192,
+      "total_tokens": 2206,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.405,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0011128
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a floor slab with the name 'Floor:Floor_Holz_40mm', type 'IfcSlab', and no defined material. The reference 'Floor_Holz_40mm' suggests it is made of wood.",
+    "Preliminary Selection": "Holz und Holzwerkstoffe",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 85,
+      "prompt_tokens": 986,
+      "total_tokens": 1071,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.637,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00663
+  }
+}

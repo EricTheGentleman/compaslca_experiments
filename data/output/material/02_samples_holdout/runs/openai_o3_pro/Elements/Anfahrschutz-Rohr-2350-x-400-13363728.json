@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcBuildingElementProxy: Anfahrschutz Rohr (impact protection pipe) for parking area. Material indicated as 'Metall - Zink' in several fields, implying steel element with zinc coating (galvanised). Interior / parking application.",
+    "Preliminary Selection": [
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Stahlblech, verzinkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1248,
+      "completion_tokens": 674,
+      "total_tokens": 1922,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 70.814,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.07888
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an exterior, load-bearing wall (IfcWallStandardCase) made of Brettsperrholz (cross-laminated timber / multi-layer solid wood panel) with a single 140 mm thick layer; structural, category Walls.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1791,
+      "completion_tokens": 695,
+      "total_tokens": 2486,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 11.466,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.009142
+  }
+}

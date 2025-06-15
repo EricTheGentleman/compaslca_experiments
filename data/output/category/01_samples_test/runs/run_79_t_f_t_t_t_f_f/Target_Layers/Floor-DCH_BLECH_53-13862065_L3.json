@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcSlab with a material layer named 'Dachdeckung - Holz'. The element is part of a floor system with other layers including 'Dachdeckung - Blechdach' and 'Dachdeckung - Bitumenbahn'. The element is categorized under 'Floors' and 'A_Dachbekleidung' with a type name 'DCH_BLECH_53'. The material 'Holz' suggests a wooden component.",
+    "Preliminary Selection": "Holz und Holzwerkstoffe",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 134,
+      "prompt_tokens": 1692,
+      "total_tokens": 1826,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.253,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01114
+  }
+}

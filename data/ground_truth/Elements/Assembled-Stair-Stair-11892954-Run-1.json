@@ -1,0 +1,17 @@
+{
+    "name": "Assembled-Stair-Stair-11892954-Run-1",
+    "category": "Metallbaustoffe",
+    "material_entries": [
+        "Stahlprofil, blank"
+    ],
+    "reason": [
+        "for grated stair, this is the best approximation"
+    ],
+    "Type": "IfcStairFlight",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

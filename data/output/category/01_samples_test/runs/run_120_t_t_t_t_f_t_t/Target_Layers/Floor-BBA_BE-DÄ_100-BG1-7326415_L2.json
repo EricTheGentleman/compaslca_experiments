@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcCovering identified as a floor with a material layer for sound insulation (Dämmung - Trittschall) and a concrete layer (Beton - CTF). It is categorized under 'Floors' in its property sets.",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 75,
+      "prompt_tokens": 1673,
+      "total_tokens": 1748,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1536
+      }
+    },
+    "processing_time": 1.332,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009865
+  }
+}

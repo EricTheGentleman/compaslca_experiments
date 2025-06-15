@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material name is 'Beton - Überbeton'; element type is IfcSlab; category in psets is 'Floors'; material layers include 'Beton - Überbeton' and other materials.",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1485,
+      "completion_tokens": 71,
+      "total_tokens": 1556,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 0.92,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0001769
+  }
+}

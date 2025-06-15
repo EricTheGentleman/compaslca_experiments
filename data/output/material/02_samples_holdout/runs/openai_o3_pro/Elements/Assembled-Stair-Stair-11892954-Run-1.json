@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Elementtyp IfcStairFlight (Treppenlauf) mit Bezeichnung \"Stahl_40 mm Auftritt\"; Materialangabe \"Gitterrost-Treppe\" deutet auf tragende Treppenstufen aus Stahlgitter (i.d.R. verzinkter/blanker Stahl); Kategorie: Stairs: Runs; daher hauptsächliches Baumaterial Stahl.",
+    "Preliminary Selection": [
+      "Stahlprofil, blank",
+      "Stahlblech, verzinkt",
+      "Stahlblech, blank"
+    ],
+    "Matched Materials": [
+      "Stahlprofil, blank",
+      "Stahlblech, verzinkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1301,
+      "completion_tokens": 653,
+      "total_tokens": 1954,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 63.069,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.07826
+  }
+}

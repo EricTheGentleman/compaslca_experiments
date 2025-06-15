@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall named 'Basic Wall:Brandschutzplatte' made of a material called '3-Schicht-Platte'. It is categorized as a wall and has a fire rating of EI30, indicating it is likely a fire-resistant wall. The material suggests it may be a type of composite or layered material, but it is not explicitly defined as concrete, wood, or other common materials.",
+    "Matched Category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 114,
+      "prompt_tokens": 1404,
+      "total_tokens": 1518,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.146,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0093
+  }
+}

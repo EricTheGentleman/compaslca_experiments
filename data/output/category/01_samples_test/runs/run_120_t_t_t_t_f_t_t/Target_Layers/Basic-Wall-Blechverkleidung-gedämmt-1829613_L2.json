@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall with multiple layers, including a thermal insulation layer made of 'Wärmedämmung Slentex Aerogel' and steel layers with powder coating. The element is categorized as a non-bearing wall with a focus on thermal resistance.",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 75,
+      "prompt_tokens": 1695,
+      "total_tokens": 1770,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1664
+      }
+    },
+    "processing_time": 2.354,
+    "company": "openai",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.009975
+  }
+}

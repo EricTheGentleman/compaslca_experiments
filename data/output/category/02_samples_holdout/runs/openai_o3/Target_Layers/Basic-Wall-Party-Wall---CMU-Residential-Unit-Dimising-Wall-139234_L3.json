@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Wall with primary layer 'Masonry - Concrete Block' (0.193 m); concrete masonry units used in party wall construction.",
+    "Preliminary Selection": "Mauersteine",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1250,
+      "completion_tokens": 258,
+      "total_tokens": 1508,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.543,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.004564
+  }
+}

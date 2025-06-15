@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcDoor; interior (Construction.Function: Interior); no fire rating; no glass mentioned; designation 'Pfostenstock Falztüre' indicates standard interior wooden door with post frame; dimensions 900 x 2130 mm.",
+    "Preliminary Selection": [
+      "Innentüre, Zimmertüre, Holz, Glaseinsatz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Holzrahmen",
+      "Innentüre, Zimmertüre, Holz, Stahlzarge"
+    ],
+    "Matched Materials": [
+      "Innentüre, Zimmertüre, Holz, Holzrahmen"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1297,
+      "completion_tokens": 653,
+      "total_tokens": 1950,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 15.289,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.007818
+  }
+}

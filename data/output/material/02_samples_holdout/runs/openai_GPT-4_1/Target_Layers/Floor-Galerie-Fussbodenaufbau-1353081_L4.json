@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material layer to be matched: 'Trittschalldämmung Flumroc 341', thickness 0.03m, in a floor build-up (IfcSlab) for an interior floor (Galerie Fussbodenaufbau). The material is a sound insulation layer, likely mineral wool (Flumroc is a known brand for stone wool/rock wool).",
+    "Preliminary Selection": [
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ],
+    "Matched Materials": [
+      "Steinwolle, Flumroc",
+      "Steinwolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 129,
+      "prompt_tokens": 1519,
+      "total_tokens": 1648,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.764,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.00407
+  }
+}

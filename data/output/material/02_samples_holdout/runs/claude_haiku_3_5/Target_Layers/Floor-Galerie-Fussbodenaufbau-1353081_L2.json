@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab vom Typ 'Galerie Fussbodenaufbau', mehrschichtiger Bodenaufbau mit Gipsplatte (Knauf Vidiwall), Bodenbelag, Heizelement und Trittschalldämmung",
+    "Preliminary Selection": [
+      "Gipskartonplatte",
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell"
+    ],
+    "Matched Materials": [
+      "Gipskartonplatte",
+      "Gips-Wandbauplatte / Vollgipsplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1851,
+      "completion_tokens": 195,
+      "total_tokens": 2046,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 12.85,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0022608
+  }
+}

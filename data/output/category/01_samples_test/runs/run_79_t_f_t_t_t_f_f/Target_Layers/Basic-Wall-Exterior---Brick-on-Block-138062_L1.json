@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall with multiple layers, primarily featuring 'Masonry - Brick' as the target material. Other layers include air space, rigid insulation, concrete block, metal stud layer, and plasterboard. The wall is external and non-load bearing.",
+    "Preliminary Selection": "Mauersteine",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 87,
+      "prompt_tokens": 1379,
+      "total_tokens": 1466,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.737,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008635
+  }
+}

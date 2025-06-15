@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Wand (IfcWallStandardCase) mit dem Namen 'KVH Balken 120mm'. Die Materialdaten identifizieren das Material eindeutig als 'Brettschichtholz C24'. Obwohl das Element als 'Non-bearing' (nicht tragend) gekennzeichnet ist, wird das Material in einem anderen Pset als 'Structural Material' ('Brettschichtholz C24') bezeichnet, was die Identifikation als Brettschichtholz bestätigt.",
+    "Preliminary Selection": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz"
+    ],
+    "Matched Materials": [
+      "Balkenschichtholz",
+      "Brettschichtholz",
+      "Brettschichtholz, Produktion Schweiz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1848,
+      "completion_tokens": 190,
+      "total_tokens": 2038,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 10.897,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.0009422
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab with a primary material layer named 'PU Bodenbelag - Sika PS23'. The element is categorized as a floor and is part of the 'Galerie Fussbodenaufbau'. Other material layers include 'Knauf - Vidiwall', 'Knauf - Brio Heizboden 25', and 'Trittschalldämmung Flumroc 341'.",
+    "Preliminary Selection": "Bodenbeläge",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 118,
+      "prompt_tokens": 1461,
+      "total_tokens": 1579,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.843,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009665
+  }
+}

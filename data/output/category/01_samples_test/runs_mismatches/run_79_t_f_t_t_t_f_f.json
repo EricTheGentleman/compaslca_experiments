@@ -1,0 +1,26 @@
+{
+  "Surface-2872326.json": {
+    "category": "None",
+    "matched_category": "Dichtungsbahnen, Schutzfolien"
+  },
+  "Stair-Residential---200mm-Max-Riser-250mm-Tread-151086-1.json": {
+    "category": "None",
+    "matched_category": "Metallbaustoffe"
+  },
+  "Basic-Wall-WAN_ASW_MW_225-7610934.json": {
+    "category": "Mauersteine",
+    "matched_category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "Basic-Wall-Exterior---Brick-on-Block-138062_L6.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "matched_category": "Mörtel und Putze"
+  },
+  "Basic-Wall-Party-Wall---CMU-Residential-Unit-Dimising-Wall-139234_L4.json": {
+    "category": "Mauersteine",
+    "matched_category": "None"
+  },
+  "Floor-Finish-Floor---Ceramic-Tile-169772_L1.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "matched_category": "Bodenbeläge"
+  }
+}

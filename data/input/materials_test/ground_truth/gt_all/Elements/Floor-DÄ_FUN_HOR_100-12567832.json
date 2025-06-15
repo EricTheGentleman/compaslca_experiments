@@ -3,10 +3,20 @@
     "category": "Wärmedämmstoffe",
     "material_entries": [
         "Polystyrol extrudiert (XPS)",
-        "Polystyrol extrudiert, SwissporXPS"
+        "Polystyrol extrudiert, SwissporXPS",
+        "Polystyrol expandiert (EPS)",
+        "Polystyrol expandiert, SwissporEPS",
+        "Polyurethan (PUR/PIR)",
+        "Polyurethan, SwissporPIR",
+        "Schaumglas",
+        "Schaumglas, GLAPOR",
+        "Schaumglasschotter",
+        "Schaumglasschotter, Misapor",
+        "Phenolharz (PF)"
     ],
     "reason": [
-        "specifies xps in objecttype psets"
+        "descriptor says dämmung-hart (horizontal)",
+        "materials fit the rigid for and are suitable for horizontal installation"
     ],
     "Type": "IfcSlab",
     "Matching Scenario": "Precise",

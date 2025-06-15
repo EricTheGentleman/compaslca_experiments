@@ -1,0 +1,51 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Wand (IfcWallStandardCase), deren Name 'WAN_ASW_DÄ-PU_220' auf eine Außenwand mit Dämmung und Putz hindeutet. Die Zielmaterialschicht ist 'Putz' (2cm dick). Mehrere Psets ('Psets Element.IsExternal': True, 'Psets Object Type.Construction.Function': 'Exterior', 'Psets Element.Location Line': 'Finish Face: Exterior') deuten stark darauf hin, dass diese Putzschicht außen liegt, trotz eines widersprüchlichen 'Pset_WallCommon.IsExternal': False. Die Wand enthält eine 20cm Dämmschicht ('Dämmung - weich'), was darauf hindeutet, dass die Putzschicht primär eine Oberflächenfunktion hat und keine Hauptdämmfunktion.",
+    "Preliminary Selection": [
+      "Gips-Kalk-Putz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Sumpfkalkputz",
+      "Weisszementputz",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Gips-Kalk-Putz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Sumpfkalkputz",
+      "Weisszementputz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1845,
+      "completion_tokens": 432,
+      "total_tokens": 2277,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 59.893,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00662625
+  }
+}

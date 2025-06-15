@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab used as exterior roof covering (Bauteilklasse A_Dachbekleidung). Material layer named \"Dachdeckung - Begrünung\" with 0.1 m thickness, indicating green roof substrate/covering.",
+    "Preliminary Selection": "Dichtungsbahnen, Schutzfolien",
+    "Matched Category": "Mineralische Platten, Schüttungen, Steine und Ziegel"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1392,
+      "completion_tokens": 1064,
+      "total_tokens": 2456,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 21.731,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.011296
+  }
+}

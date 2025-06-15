@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcCovering with the name 'Floor:BBA_BL_15-Mieterausbau:11598222'. It is a floor covering with a material named 'Standard - Fußboden'. The category in the property sets is 'Floors', and it is related to interior construction.",
+    "Preliminary Selection": "Bodenbeläge",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 95,
+      "prompt_tokens": 1447,
+      "total_tokens": 1542,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1408
+      }
+    },
+    "processing_time": 1.77,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009135
+  }
+}

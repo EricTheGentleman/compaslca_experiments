@@ -1,0 +1,31 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material name is 'Luftschicht' (air layer) with 2 cm thickness, part of a non-loadbearing interior lightweight wall (Leichtbauwand) with fire rating EI60. Other layers include gypsum board, soft insulation, and sand-lime brick (Kalksandstein). The 'Luftschicht' is an air gap, not a solid masonry material.",
+    "Preliminary Selection": [],
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 101,
+      "prompt_tokens": 1872,
+      "total_tokens": 1973,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.835,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.004552
+  }
+}

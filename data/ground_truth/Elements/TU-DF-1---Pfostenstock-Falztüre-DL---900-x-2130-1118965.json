@@ -1,0 +1,20 @@
+{
+    "name": "TU-DF-1---Pfostenstock-Falztüre-DL---900-x-2130-1118965",
+    "category": "Türen",
+    "material_entries": [
+        "Innentüre, Zimmertüre, Holz, Stahlzarge",
+        "Innentüre, Zimmertüre, Holz, Holzrahmen"
+    ],
+    "reason": [
+        "construction.function = interior",
+        "no specs about it being a functional door for special door, so probably a generic door",
+        "pfostenstock stronlgy implies a wooden door, while pfostenstock could be steel or wood"
+    ],
+    "Type": "IfcDoor",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 2
+}

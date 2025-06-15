@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall with the name 'Basic Wall:WAN_BRÜ_STB_160-dachrand'. It is a standard wall case with a material layer of 'Beton - Ortbeton bewehrt' (reinforced concrete) and a thickness of 0.16 meters. The wall is structural, load-bearing, and external.",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 102,
+      "prompt_tokens": 1993,
+      "total_tokens": 2095,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "processing_time": 1.942,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.012005
+  }
+}

@@ -11,22 +11,29 @@ df = pd.read_csv("data/output/material/01_samples_test/bootstrap/pairwise_CI/F05
 df['positive_CI'] = (df['95%_CI_low'] > 0)
 
 # Sort by ΔF05 and preserve order
-df_sorted = df.sort_values('ΔF05_vs_baseline', ascending=True).reset_index(drop=True)
+df_sorted = df.sort_values('ΔF0.5_vs_baseline', ascending=True).reset_index(drop=True)
 
 ### === PLOT 1: ΔF05 with Confidence Intervals (Bracketed, Colored) === ###
-plt.figure(figsize=(10, 12))
+plt.figure(figsize=(8, 14))
 sns.set_theme(style="whitegrid")
 ax = plt.gca()
 
 def get_color(row):
-    return 'blue' if row['positive_CI'] else 'darkred'
+    ci_low = row['95%_CI_low']
+    ci_high = row['95%_CI_high']
+    if ci_low > 0:
+        return 'blue'         # definitely better than baseline
+    elif ci_high <= 0:
+        return 'red'      # definitely worse than baseline
+    else:
+        return 'darkred'       # uncertain effect
 
 # Plot CIs with bracket caps and central points
 for i, row in df_sorted.iterrows():
     color = get_color(row)
     ci_low = row['95%_CI_low']
     ci_high = row['95%_CI_high']
-    delta = row['ΔF05_vs_baseline']
+    delta = row['ΔF0.5_vs_baseline']
 
     # Line
     ax.plot([ci_low, ci_high], [i, i], color=color, linewidth=2)
@@ -40,21 +47,16 @@ for i, row in df_sorted.iterrows():
     ax.plot(delta, i, 'o', color=color, markersize=4)
 
 # Red vertical baseline at x = 0
-ax.axvline(x=0, color='red', linestyle='--', linewidth=1)
+ax.axvline(x=0, color='green', linestyle='--', linewidth=1.5)
 
 # Y-axis labels
 ax.set_yticks(range(len(df_sorted)))
 ax.set_yticklabels(df_sorted['prompt'])
 
 # Labels and legend
-ax.set_title("ΔF05 vs Baseline with 95% Confidence Intervals")
-ax.set_xlabel("ΔF05 vs Baseline")
+ax.set_title("ΔF0.5 vs Baseline with 95% Confidence Intervals")
+ax.set_xlabel("ΔF0.5 vs Baseline")
 ax.set_ylabel("Run")
-legend_handles = [
-    mpatches.Patch(color='blue', label='CI > 0'),
-    mpatches.Patch(color='darkred', label='CI ≤ 0')
-]
-ax.legend(handles=legend_handles, loc='lower right')
 
 # Save plot
 plt.tight_layout()
@@ -64,7 +66,7 @@ plt.close()
 
 
 ### === PLOT 2: Approximate p-values === ###
-plt.figure(figsize=(4, 12))
+plt.figure(figsize=(2.4, 14))
 sns.set_theme(style="whitegrid")
 ax = plt.gca()
 
@@ -91,17 +93,17 @@ plt.close()
 
 ### === PLOT 3: Configuration Table === ###
 # Extract 6-bit config from prompt (assuming last 6 characters after underscore)
-df_sorted['bitstring'] = df_sorted['prompt'].str.extract(r'_(\d{6})')
+df_sorted['bitstring'] = df_sorted['prompt'].str.extract(r'_(\d{7})')
 
 # Split bits into separate columns
-bit_cols = [f'bit{i}' for i in range(6)]
+bit_cols = [f'bit{i}' for i in range(7)]
 bit_data = df_sorted['bitstring'].apply(lambda x: pd.Series(list(x), index=bit_cols)).astype(int)
 
 # Prepare matrix for visualization
 data_matrix = bit_data.to_numpy()
 
 # Create figure
-fig, ax = plt.subplots(figsize=(6, 12))
+fig, ax = plt.subplots(figsize=(6, 14))
 sns.set_theme(style="whitegrid")
 
 cmap = {0: 'wheat', 1: 'mediumslateblue'}
@@ -117,12 +119,12 @@ for i in range(data_matrix.shape[0]):        # rows (runs)
         ))
 
 # Set limits and ticks
-ax.set_xlim(0, 6)
+ax.set_xlim(0, 7)
 ax.set_ylim(0, len(df_sorted))
 
 # Bit position labels
-ax.set_xticks(np.arange(6) + 0.5)
-ax.set_xticklabels([f'Bit {i+1}' for i in range(6)])
+ax.set_xticks(np.arange(7) + 0.5)
+ax.set_xticklabels([f'Bit {i+1}' for i in range(7)])
 
 # Run labels
 ax.set_yticks(np.arange(len(df_sorted)) + 0.5)

@@ -1,0 +1,43 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab element named 'Floor:DÄ_FUN_HOR_100' with a single material layer 'Dämmung - hart-horizontal' 0.1m thick, categorized as 'Floors', load-bearing, interior, thermal transmittance 0.27, described as 'Daemmung' (insulation), structural and under terrain.",
+    "Preliminary Selection": [
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle",
+      "Glaswolle"
+    ],
+    "Matched Materials": [
+      "Polystyrol expandiert (EPS)",
+      "Polystyrol extrudiert (XPS)",
+      "Polyurethan (PUR/PIR)",
+      "Steinwolle",
+      "Glaswolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1672,
+      "completion_tokens": 193,
+      "total_tokens": 1865,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.866,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0009776
+  }
+}

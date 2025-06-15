@@ -1,0 +1,47 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine Außenwand (Layer Location: Finish Face: Exterior) mit Putzschicht (6cm). Es handelt sich um eine Wand aus Betonfertigteil mit Dämmung, Fire Rating REI 60, und befindet sich im Außenbereich. Die Putzschicht ist wahrscheinlich ein mineralischer Putz, geeignet für Außenwände.",
+    "Preliminary Selection": [
+      "Gips-/Weissputz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Lehmputz",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Wärmedämmputz EPS",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Gips-/Weissputz",
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Wärmedämmputz EPS",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 250,
+      "prompt_tokens": 1706,
+      "total_tokens": 1956,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.558,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0002706
+  }
+}

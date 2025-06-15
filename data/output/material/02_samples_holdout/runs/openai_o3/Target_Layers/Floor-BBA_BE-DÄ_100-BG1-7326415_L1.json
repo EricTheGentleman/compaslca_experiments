@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcCovering as interior floor build-up; main layer 'Beton - CTF' 80 mm described as 'Zementfliessestrich 80' (cement flow screed, non-structural). Therefore lean/low-strength screed concrete required.",
+    "Preliminary Selection": [
+      "Magerbeton (ohne Bewehrung)",
+      "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ],
+    "Matched Materials": [
+      "Magerbeton (ohne Bewehrung)",
+      "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Beton",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2004,
+      "completion_tokens": 749,
+      "total_tokens": 2753,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 12.64,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.01
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcWindow named 'M_Skylight:1180 x 1170mm:1180 x 1170mm:185337', with a frame material of 'Metal - Bronze, Light Brush', located on the roof.",
+    "Preliminary Selection": "Fenster, Sonnenschutz, Fassadenplatten",
+    "Matched Category": "Fenster, Sonnenschutz, Fassadenplatten"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 94,
+      "prompt_tokens": 1087,
+      "total_tokens": 1181,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1024
+      }
+    },
+    "processing_time": 1.842,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.007315
+  }
+}

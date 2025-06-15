@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The target material layer is 'Putz' (plaster/render) with a thickness of 0.02m. It is part of an external IfcWallStandardCase named 'Basic Wall:WAN_ASW_DÄ-PU_300', described as lightweight concrete and classified as facade cladding.",
+    "Preliminary Selection": "Mörtel und Putze",
+    "Matched Category": "Mörtel und Putze"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1622,
+      "completion_tokens": 107,
+      "total_tokens": 1729,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.49,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.0006178
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Target material layer is 'Masonry - Concrete Block' (0.193m thick). The building element is an 'IfcWallStandardCase', identified by its name containing 'CMU' ('...CMU Residential Unit Dimising Wall...'), indicating Concrete Masonry Units. The element's classification description is 'Masonry Structural Walls'.",
+    "Preliminary Selection": [
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims",
+      "Porenbetonstein",
+      "Zementstein"
+    ],
+    "Matched Materials": [
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims",
+      "Porenbetonstein",
+      "Zementstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1615,
+      "completion_tokens": 192,
+      "total_tokens": 1807,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 35.489,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00393875
+  }
+}

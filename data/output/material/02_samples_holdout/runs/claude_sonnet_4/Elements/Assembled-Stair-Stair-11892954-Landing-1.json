@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Treppenpodest (Slab) aus Gitterrost-Material, nicht-massiv, für Innenbereich, Teil einer zusammengesetzten Treppe",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlprofil, blank",
+      "Stahlblech, verzinkt"
+    ],
+    "Matched Materials": [
+      "Stahlblech, blank",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1609,
+      "completion_tokens": 121,
+      "total_tokens": 1730,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.1,
+    "company": "anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.006642
+  }
+}

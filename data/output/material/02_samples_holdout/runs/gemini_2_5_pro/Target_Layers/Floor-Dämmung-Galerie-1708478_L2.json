@@ -1,0 +1,45 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Bauelement ist eine Bodenplatte (IfcSlab), die als 'Floor:Dämmung Galerie' bezeichnet wird und für Wärmedämmung vorgesehen ist. Die Zielmaterialschicht ist explizit als 'Wärmedämmung Mineralwolle' mit einer Wärmeleitfähigkeit von 0.035 W/mK definiert. Der Kontext 'Dämmung' (Isolation) ist durchgängig.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1547,
+      "completion_tokens": 264,
+      "total_tokens": 1811,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 18.867,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00457375
+  }
+}

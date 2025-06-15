@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a standard wall with the name 'Basic Wall:STB 1560', type 'IfcWallStandardCase', and material 'Beton - Ortbeton - bewehrt' with a thickness of 1.56 meters. It is load-bearing and external.",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 85,
+      "prompt_tokens": 1333,
+      "total_tokens": 1418,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.74,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008365
+  }
+}

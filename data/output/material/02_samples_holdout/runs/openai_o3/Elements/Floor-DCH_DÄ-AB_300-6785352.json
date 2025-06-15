@@ -1,0 +1,51 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab (roof cover) named \"Floor:DCH_DÄ+AB_300\"; exterior, non-loadbearing; total thickness 0.30 m with one main layer \"Dämmung – weich\" (soft insulation) 0.20 m; purpose: roof insulation/dachabdeckung.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Aerogel-Vlies",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Flachsfasern",
+      "Flachsfasern, feuerfest"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Aerogel-Vlies"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1688,
+      "completion_tokens": 910,
+      "total_tokens": 2598,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 14.508,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.010656
+  }
+}

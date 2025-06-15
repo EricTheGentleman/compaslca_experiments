@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall with a material layer of MDF (Medium Density Fiberboard) with a thickness of 0.012 meters. The wall is named 'Basic Wall:Holzbau_Archisonic_Vorbauschale' and is of type 'IfcWallStandardCase'.",
+    "Matched Category": "Holz und Holzwerkstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 86,
+      "prompt_tokens": 1424,
+      "total_tokens": 1510,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.536,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.00884
+  }
+}

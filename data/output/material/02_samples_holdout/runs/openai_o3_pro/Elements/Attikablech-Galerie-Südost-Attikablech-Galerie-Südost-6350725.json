@@ -1,0 +1,48 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWall named \"Attikablech\" (parapet flashing / capping sheet). Exterior location, very small thickness (area 1.65 m², volume 0.005 m³). Indicates thin metal sheet for weather-exposed parapet top; needs corrosion-resistant sheet metal. Material not specified.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R",
+      "Aluminiumprofil, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech",
+      "Kupferblech, blank"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromstahlblech blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech",
+      "Kupferblech, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1169,
+      "completion_tokens": 1063,
+      "total_tokens": 2232,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 111.533,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.10842
+  }
+}

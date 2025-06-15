@@ -1,0 +1,20 @@
+{
+    "name": "Basic-Wall-WAN_TWÄ_GK_100---EI30-4246887_L1",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "material_entries": [
+        "Gipskartonplatte",
+        "Gipsfaserplatte",
+        "Gipsfaserplatte Fermacell"
+    ],
+    "reason": [
+        "descriptor says only gipsplatte",
+        "therefore can either be gypsum fiber or gypsum cardboard"
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "zwhatt51",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

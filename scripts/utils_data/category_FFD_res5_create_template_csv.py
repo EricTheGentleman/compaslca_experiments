@@ -3,10 +3,10 @@ from pyDOE2 import ff2n
 
 # === Configuration ===
 output_csv = "data/output/category/01_samples_test/category_test_matrix_FFD_res5.csv"  # Path to save the CSV
-factor_names = ["geo", "ger", "cot", "etr", "isr", "exp"]  # Replace with your custom names
+factor_names = ["geo", "ger", "cot", "etr", "isr", "exp", "mod"]  # Replace with your custom names
 
 # Generate resolution V FFD for 6 factors (32 runs)
-design_matrix = ff2n(6)[::2]
+design_matrix = ff2n(7)[::2]
 bool_matrix = ((design_matrix + 1) / 2).astype(int)  # Convert from -1/1 to 0/1
 
 # Build DataFrame

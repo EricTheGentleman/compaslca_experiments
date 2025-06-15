@@ -1,0 +1,157 @@
+{
+  "Bleche-Fassade_V6-Bleche-Fassade_V6-4910201.json": {
+    "category": "Metallbaustoffe",
+    "mismatches": {
+      "Fenster, Sonnenschutz, Fassadenplatten": 7,
+      "None": 1
+    },
+    "total_runs_with_mismatch": 8
+  },
+  "PV-Anlage_Bauder-ELE_PVA-12550613.json": {
+    "category": "None",
+    "mismatches": {
+      "Fenster, Sonnenschutz, Fassadenplatten": 3,
+      "Metallbaustoffe": 1
+    },
+    "total_runs_with_mismatch": 4
+  },
+  "Floor-DCH_SUB_100-14297034.json": {
+    "category": "None",
+    "mismatches": {
+      "Dichtungsbahnen, Schutzfolien": 4,
+      "Mineralische Platten, Schüttungen, Steine und Ziegel": 2,
+      "Bodenbeläge": 1,
+      "Anstrichstoffe, Beschichtungen": 1,
+      "Wärmedämmstoffe": 1
+    },
+    "total_runs_with_mismatch": 9
+  },
+  "EG-A-1-1.json": {
+    "category": "Beton",
+    "mismatches": {
+      "None": 1,
+      "Mauersteine": 1,
+      "Mineralische Platten, Schüttungen, Steine und Ziegel": 1
+    },
+    "total_runs_with_mismatch": 3
+  },
+  "Basic-Wall-Holzbau_Archisonic_Vorbauschale-2146702_L1.json": {
+    "category": "Kunststoffe",
+    "mismatches": {
+      "Wärmedämmstoffe": 1,
+      "Holz und Holzwerkstoffe": 9
+    },
+    "total_runs_with_mismatch": 10
+  },
+  "Floor-Finish-Floor---Wood-169093_L1.json": {
+    "category": "Holz und Holzwerkstoffe",
+    "mismatches": {
+      "Bodenbeläge": 6
+    },
+    "total_runs_with_mismatch": 6
+  },
+  "Floor-AHD_DÄ_150-10969563_L2.json": {
+    "category": "Holz und Holzwerkstoffe",
+    "mismatches": {
+      "Wärmedämmstoffe": 4,
+      "Mineralische Platten, Schüttungen, Steine und Ziegel": 7
+    },
+    "total_runs_with_mismatch": 11
+  },
+  "Floor-AHD_DÄ_150-13817755.json": {
+    "category": "Wärmedämmstoffe",
+    "mismatches": {
+      "Bodenbeläge": 1
+    },
+    "total_runs_with_mismatch": 1
+  },
+  "Basic-Wall-3-Schichtplatte-27mm---Schalplatte-3555236.json": {
+    "category": "Holz und Holzwerkstoffe",
+    "mismatches": {
+      "Mineralische Platten, Schüttungen, Steine und Ziegel": 1
+    },
+    "total_runs_with_mismatch": 1
+  },
+  "Blechabdeckung-Brüstung-Blechabdeckung-Brüstung-7933804.json": {
+    "category": "Metallbaustoffe",
+    "mismatches": {
+      "None": 1
+    },
+    "total_runs_with_mismatch": 1
+  },
+  "Attikablech-Galerie-Südost-Attikablech-Galerie-Südost-6350725.json": {
+    "category": "Metallbaustoffe",
+    "mismatches": {
+      "None": 1,
+      "Wärmedämmstoffe": 1
+    },
+    "total_runs_with_mismatch": 2
+  },
+  "Attikabrett-Attikabrett-6718052.json": {
+    "category": "Holz und Holzwerkstoffe",
+    "mismatches": {
+      "Bodenbeläge": 2,
+      "None": 1,
+      "Beton": 1
+    },
+    "total_runs_with_mismatch": 4
+  },
+  "Storen_ZIP-SOS_STO_275x395-14112561.json": {
+    "category": "Metallbaustoffe",
+    "mismatches": {
+      "Fenster, Sonnenschutz, Fassadenplatten": 7
+    },
+    "total_runs_with_mismatch": 7
+  },
+  "Floor-Galerie-Fussbodenaufbau-1353081_L4.json": {
+    "category": "Wärmedämmstoffe",
+    "mismatches": {
+      "Bodenbeläge": 1
+    },
+    "total_runs_with_mismatch": 1
+  },
+  "Floor-Galerie-Fussbodenaufbau-1353081_L2.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "mismatches": {
+      "Bodenbeläge": 4
+    },
+    "total_runs_with_mismatch": 4
+  },
+  "Basic-Wall-WAN_TWÄ_MW-VS_300---EI60-11586674_L3.json": {
+    "category": "None",
+    "mismatches": {
+      "Wärmedämmstoffe": 3,
+      "Mauersteine": 2,
+      "Mineralische Platten, Schüttungen, Steine und Ziegel": 1
+    },
+    "total_runs_with_mismatch": 6
+  },
+  "TU-DF-1---Rahmenstock-flächenbündig-TUI_ZAR_STA_MÖ---1100-x-2200_EI-30-10129091.json": {
+    "category": "Türen",
+    "mismatches": {
+      "Metallbaustoffe": 3
+    },
+    "total_runs_with_mismatch": 3
+  },
+  "Floor-BBA_BE-DÄ_100-BG1-7326415_L1.json": {
+    "category": "Beton",
+    "mismatches": {
+      "Bodenbeläge": 1
+    },
+    "total_runs_with_mismatch": 1
+  },
+  "Railing-GEL_FÜL_BALK_GITR-11023613.json": {
+    "category": "Metallbaustoffe",
+    "mismatches": {
+      "None": 1
+    },
+    "total_runs_with_mismatch": 1
+  },
+  "Basic-Wall-WAN_TWÄ_GK_100---EI30-4246887_L1.json": {
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "mismatches": {
+      "Wärmedämmstoffe": 1
+    },
+    "total_runs_with_mismatch": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcCovering with the name 'Floor:BBA_ASP_120:11419651', identified as a floor covering made of asphalt with a thickness of 0.12 meters. It is categorized under 'Floors' and 'Bodenbelag' in the property sets.",
+    "Preliminary Selection": "Bodenbeläge",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 95,
+      "prompt_tokens": 1509,
+      "total_tokens": 1604,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.665,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009445
+  }
+}

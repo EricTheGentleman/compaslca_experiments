@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Exterior, non-load-bearing wall (IfcWallStandardCase). Single material layer named \"Fassade - Balkon Zinkblech\" (zinc sheet), 0.1 m thick. Facade application.",
+    "Preliminary Selection": [
+      "Titanzinkblech",
+      "Stahlblech, verzinkt"
+    ],
+    "Matched Materials": [
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1681,
+      "completion_tokens": 670,
+      "total_tokens": 2351,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 9.315,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.008722
+  }
+}

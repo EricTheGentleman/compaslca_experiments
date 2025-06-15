@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is an IfcBeam named 'IPE Träger Kammerbeton:TRA_IPE-KAB_STA_STB_400:8222212', primarily made of 'Beton - Ortbeton bewehrt' and associated with 'Metall - Baustahl S235'. It is a structural framing element with a fire rating of R 60.",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 92,
+      "prompt_tokens": 1553,
+      "total_tokens": 1645,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1536
+      }
+    },
+    "processing_time": 1.538,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.009605
+  }
+}

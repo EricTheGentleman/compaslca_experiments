@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Floor slab with multiple material layers including sound insulation, PU floor coating, Vidiwall, and heating floor layer. Target layer is Flumroc sound insulation.",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1534,
+      "completion_tokens": 87,
+      "total_tokens": 1621,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.941,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0015752
+  }
+}

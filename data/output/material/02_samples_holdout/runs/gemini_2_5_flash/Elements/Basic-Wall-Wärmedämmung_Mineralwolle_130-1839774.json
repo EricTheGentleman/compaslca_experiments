@@ -1,0 +1,45 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Wand (IfcWall) mit dem Namen 'Wärmedämmung_Mineralwolle_130'. Die Materialdaten geben explizit 'Wärmedämmung Mineralwolle' mit einer Wärmeleitfähigkeit von 0.035 W/mK an. Die Element-Eigenschaftssätze bestätigen, dass es sich um ein nicht-tragendes Bauteil mit hohen thermischen Eigenschaften (U-Wert 0.2615, R-Wert 3.8235) handelt, das als 'Exterior' klassifiziert ist, was alles auf eine Dämmstoffschicht aus Mineralwolle hindeutet.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Glaswolle, SUPAFIL",
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1529,
+      "completion_tokens": 304,
+      "total_tokens": 1833,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 9.606,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.00129335
+  }
+}

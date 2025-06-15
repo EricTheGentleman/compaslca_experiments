@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "M16 Schraube/Bolt aus Stahl, strukturelles Bauelement mit Referenz M16, Volumen 0.0, befestigt an HEA220 Träger",
+    "Preliminary Selection": [
+      "Armierungsstahl",
+      "Armierungsstahl, Stahl Gerlafingen",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Armierungsstahl",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1471,
+      "completion_tokens": 152,
+      "total_tokens": 1623,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.675,
+    "company": "anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.006693
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a floor slab with multiple material layers. The target material layer is 'Dämmung - hart' with a thickness of 0.15 meters. Other layers include 'Umgebung - Asphalt' and 'Beton - Überbeton'. The element is categorized as a floor and is part of the 'A_Unterkonstruktion' class. It is not load-bearing and is external.",
+    "Preliminary Selection": "Wärmedämmstoffe",
+    "Matched Category": "Wärmedämmstoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 120,
+      "prompt_tokens": 1734,
+      "total_tokens": 1854,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.15,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.01107
+  }
+}

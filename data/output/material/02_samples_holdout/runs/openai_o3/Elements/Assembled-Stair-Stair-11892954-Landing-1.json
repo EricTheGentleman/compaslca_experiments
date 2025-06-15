@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an internal stair landing (non-monolithic) modeled as IfcSlab. Declared material is \"Gitterrost\" – a metal bar grating typically made of galvanized or plain structural steel (sometimes stainless).",
+    "Preliminary Selection": [
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank",
+      "Chromstahlblech blank"
+    ],
+    "Matched Materials": [
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1185,
+      "completion_tokens": 625,
+      "total_tokens": 1810,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 12.594,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.00737
+  }
+}

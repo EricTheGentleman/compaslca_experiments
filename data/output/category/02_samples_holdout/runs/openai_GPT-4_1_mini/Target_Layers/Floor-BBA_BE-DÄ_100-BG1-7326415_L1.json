@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcCovering element named Floor:BBA_BE-DÄ_100-BG1 with primary material Beton - CTF (concrete) layer 0.08m thick and secondary layer Dämmung - Trittschall (impact sound insulation) 0.02m thick; categorized under Floors, non-structural, interior floor covering with description 'Zementfliessestrich 80, Trittschalldämmung 20'.",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1373,
+      "completion_tokens": 122,
+      "total_tokens": 1495,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.583,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0007444
+  }
+}

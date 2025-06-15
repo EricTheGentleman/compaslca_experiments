@@ -1,0 +1,19 @@
+{
+    "name": "Floor-Galerie-Fussbodenaufbau-1353081_L3",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "material_entries": [
+        "Gipsfaserplatte",
+        "Gipsfaserplatte Fermacell"
+    ],
+    "reason": [
+        "Knauf materials would be found in this category",
+        "gipsfaserplatte is the best approximation"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Target Layer",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 2
+}

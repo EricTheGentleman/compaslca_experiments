@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Target layer is a masonry wall layer named \"Masonry - Concrete Block\" with 0.193 m thickness inside an IfcWallStandardCase (party wall, masonry structural wall). Therefore the sought material is a concrete / cement-based masonry block.",
+    "Preliminary Selection": [
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims",
+      "Porenbetonstein",
+      "Zementstein"
+    ],
+    "Matched Materials": [
+      "Leichtzementstein, Blähton",
+      "Leichtzementstein, Naturbims",
+      "Zementstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1464,
+      "completion_tokens": 776,
+      "total_tokens": 2240,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 18.554,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.009136
+  }
+}

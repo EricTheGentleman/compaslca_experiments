@@ -1,0 +1,16 @@
+{
+    "name": "Basic-Wall-Party-Wall---CMU-Residential-Unit-Dimising-Wall-139234_L4",
+    "category": "Mauersteine",
+    "material_entries": [],
+    "reason": [
+        "says concrete masonry block, might be in masonry.",
+        "But Air layer describes specific material, but is not present in KBOB"
+    ],
+    "Type": "IfcWallStandardCase",
+    "Matching Scenario": "True Negative",
+    "Data Structure": "Target Layer",
+    "Model": "Duplex",
+    "Design Stage": "Developed Design",
+    "Language": "English",
+    "Material Entries Count": 0
+}

@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWall element named 'Basic Wall:WAN_TWÄ_MW+VS_300 - EI60' described as 'Leichtbauwand 200' with layers: Trockenbau - Gipsplatte (0.03m), Dämmung - weich (0.05m), Luftschicht (0.02m), Mauerwerk - Kalksandstein (0.2m). Non-loadbearing, interior wall with fire rating EI 60, thermal transmittance 0.4192 W/m²K.",
+    "Preliminary Selection": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ],
+    "Matched Materials": [
+      "Kalksandstein",
+      "Kalksandstein, FBB",
+      "Kalksandstein, Hunziker Kalksandstein AG"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1872,
+      "completion_tokens": 190,
+      "total_tokens": 2062,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.446,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0010528
+  }
+}

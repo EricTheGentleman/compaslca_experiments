@@ -1,0 +1,16 @@
+{
+    "name": "PV-Anlage_Bauder-ELE_PVA-12550613",
+    "category": "None",
+    "material_entries": [],
+    "reason": [
+        "cannot be matched to a material (perhaps fassade or metall)",
+        "clear true negative, as there is no pv match"
+    ],
+    "Type": "IfcBuildingElementProxy",
+    "Matching Scenario": "True Negative",
+    "Data Structure": "Element",
+    "Model": "zwhatt41",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 0
+}

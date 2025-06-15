@@ -1,0 +1,48 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is a facade cladding sheet (\"Bleche Fassade\" = sheet metal facade). Type is IfcBuildingElementProxy. No explicit material given (generic \"Material 4\"). Location exterior (facade), so corrosion-resistant metal sheet materials for cladding are appropriate.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Chromstahlblech blank",
+      "Chromstahlblech verzinnt",
+      "Kupferblech, blank",
+      "Messing-/Baubronzeblech",
+      "Stahlblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromnickelstahlblech 18/8 verzinnt",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1217,
+      "completion_tokens": 742,
+      "total_tokens": 1959,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 9.214,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.00837
+  }
+}

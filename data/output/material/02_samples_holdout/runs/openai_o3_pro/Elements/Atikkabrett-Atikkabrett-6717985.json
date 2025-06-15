@@ -1,0 +1,54 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element: IfcSlab named \"Atikkabrett\" (parapet/edge board). Declared material: \"Massivholz\" (solid wood) with no further specification. Non-load-bearing board element, typically executed in softwood spruce/fir/larch.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt, Produktion Schweiz",
+      "Massivholz Buche / Eiche, kammergetrocknet, rau",
+      "Massivholz Buche / Eiche, kammergetrocknet, rau, Produktion Schweiz",
+      "Massivholz Buche / Eiche, luftgetrocknet, rau",
+      "Massivholz Buche / Eiche, luftgetrocknet, rau, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau, Produktion Schweiz",
+      "Massivholz Fichte / Tanne, kammergetr., Vollholzhaus holzpur"
+    ],
+    "Matched Materials": [
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau, Produktion Schweiz",
+      "Massivholz Fichte / Tanne, kammergetr., Vollholzhaus holzpur"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1542,
+      "completion_tokens": 2331,
+      "total_tokens": 3873,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 91.444,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.21732
+  }
+}

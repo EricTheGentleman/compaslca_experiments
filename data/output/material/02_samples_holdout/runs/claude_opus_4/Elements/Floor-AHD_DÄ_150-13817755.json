@@ -1,0 +1,49 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Bodenelement (IfcSlab) mit 150mm Dicke, unter Terrain, nicht tragend, mit Dämmschicht. Beschreibung nennt 'DÄ_100' und Schichten enthalten 'Dämmung - weich 14cm'. Wärmedurchgangskoeffizient U=0.2429 W/m²K deutet auf gute Dämmung hin.",
+    "Preliminary Selection": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc",
+      "Flachsfasern",
+      "Weichfaserplatte"
+    ],
+    "Matched Materials": [
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel",
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Zellulosefasern",
+      "Zellulosefasern, Isofloc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1996,
+      "completion_tokens": 332,
+      "total_tokens": 2328,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 27.887,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.05484
+  }
+}

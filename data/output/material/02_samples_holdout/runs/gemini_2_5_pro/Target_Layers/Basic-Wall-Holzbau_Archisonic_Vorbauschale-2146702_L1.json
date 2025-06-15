@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Zielmaterial ist 'Archisonic Charcoal' mit einer Dicke von 12mm, das als Teil einer 'IfcWallStandardCase' (Wand) in einer 'Holzbau_Archisonic_Vorbauschale' verwendet wird. 'Archisonic' deutet auf ein akustisches Material hin, das häufig aus PET (Polyester) besteht. Die hohe Schallabsorption ('Absorptance': '0.7') stützt diese Annahme.",
+    "Preliminary Selection": [
+      "Polyester (UP) glasfaserverstärkt"
+    ],
+    "Matched Materials": [
+      "Polyester (UP) glasfaserverstärkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Kunststoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1295,
+      "completion_tokens": 152,
+      "total_tokens": 1447,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 26.458,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00313875
+  }
+}

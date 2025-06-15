@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Bolt M16 aus Stahl (Steel), Teil einer Stahlkonstruktion (Host: Beam HE), Strukturmaterial: Stahl, kleine Abmessungen (H:9.9, L:21.0), Verbindungselement",
+    "Preliminary Selection": [
+      "Stahlblech, blank",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Stahlblech, blank",
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1471,
+      "completion_tokens": 131,
+      "total_tokens": 1602,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.455,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.03189
+  }
+}

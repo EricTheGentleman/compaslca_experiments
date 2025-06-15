@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The element is a basic wall made of reinforced sand-lime brick (Kalksandstein bewehrt) with a thickness of 0.145 meters. It is an exterior, non-load-bearing wall with a thermal transmittance of 20.0.",
+    "Matched Category": "Mauersteine"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 74,
+      "prompt_tokens": 1737,
+      "total_tokens": 1811,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1664
+      }
+    },
+    "processing_time": 1.739,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.010165
+  }
+}

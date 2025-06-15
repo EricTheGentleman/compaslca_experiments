@@ -1,0 +1,39 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Bauelement ist ein außenliegender Sonnenschutz ('Storen_ZIP', 'Sonnenschutz', 'Bauteilklasse: A_Sonnenschutz') aus Aluminium. Die Eigenschaft 'Lage Aussen : True' bestätigt die äußere Anwendung. Explizit wird Aluminium als Material genannt (IfcMaterial, Psets Element.Material, Psets Object Type.Gewerbebau.Material), auch für den Rahmen ('Materials and Finishes.Rahmen: Aluminum').",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R",
+      "Aluminiumprofil, blank"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R",
+      "Aluminiumprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1584,
+      "completion_tokens": 196,
+      "total_tokens": 1780,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 31.381,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00394
+  }
+}

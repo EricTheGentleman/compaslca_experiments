@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Bolt element (M16) made of steel; IfcBuildingElementProxy representing a fastening component; no corrosion protection indicated, plain carbon steel likely",
+    "Preliminary Selection": [
+      "Armierungsstahl",
+      "Stahlprofil, blank"
+    ],
+    "Matched Materials": [
+      "Stahlprofil, blank"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1081,
+      "completion_tokens": 460,
+      "total_tokens": 1541,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 12.064,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.005842
+  }
+}

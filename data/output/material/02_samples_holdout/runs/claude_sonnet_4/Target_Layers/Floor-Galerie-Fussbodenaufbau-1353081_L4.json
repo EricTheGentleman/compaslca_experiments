@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Trittschalldämmung Flumroc 341, 30mm dick, Layer 4 in Fußbodenaufbau. Flumroc ist ein Schweizer Steinwollehersteller, 341 ist wahrscheinlich eine Produktbezeichnung für Trittschalldämmung aus Steinwolle.",
+    "Preliminary Selection": [
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ],
+    "Matched Materials": [
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1996,
+      "completion_tokens": 145,
+      "total_tokens": 2141,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.608,
+    "company": "anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.008163
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Floor-OSB-22mm-4937655",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "OSB Platte, PF-gebunden, Feuchtbereich"
+    ],
+    "reason": [
+        "exact match"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

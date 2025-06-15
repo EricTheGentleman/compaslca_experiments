@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcCovering floor element with primary material layer named 'Beton - CTF' (concrete) 0.08 m thick; secondary layer is acoustic insulation. Concrete is the dominant material.",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1372,
+      "completion_tokens": 264,
+      "total_tokens": 1636,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.383,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.004856
+  }
+}

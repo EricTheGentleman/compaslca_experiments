@@ -1,0 +1,19 @@
+{
+    "name": "Beam-Gluelam-90x225-1335823",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "Brettschichtholz",
+        "Brettschichtholz, Produktion Schweiz"
+    ],
+    "reason": [
+        "gluelam translates to glue-laminated-timber, which is brettschichtholz",
+        "exact semantic match"
+    ],
+    "Type": "IfcBeam",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "LTU",
+    "Design Stage": "Technical Design",
+    "Language": "English",
+    "Material Entries Count": 2
+}

@@ -1,0 +1,51 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Element ist eine Bodenplatte (IfcSlab) mit einer Dämmungsschicht aus weicher Dämmung (Materialname: Dämmung - weich), die im Layer Set 'Floor:DCH_DÄ+AB_300' enthalten ist. Es handelt sich um eine nicht tragende, externe Bodenplatte mit einer Dicke von 0,3 m, die im Bereich 'Floors' eingesetzt wird und eine Dämmung mit einer Dicke von 0,2 m aufweist. Die Dämmung ist wahrscheinlich eine weiche, flexible Dämmstoffart, die in der Liste der Materialoptionen vorkommen könnte.",
+    "Preliminary Selection": [
+      "Blähperlit",
+      "Blähvermiculit",
+      "Korkplatte",
+      "Zellulosefasern",
+      "Weichfaserplatte",
+      "Schaumglas",
+      "Schaumglasschotter",
+      "Steinwolle",
+      "Glaswolle"
+    ],
+    "Matched Materials": [
+      "Blähperlit",
+      "Blähvermiculit",
+      "Korkplatte",
+      "Zellulosefasern",
+      "Weichfaserplatte",
+      "Schaumglas",
+      "Schaumglasschotter",
+      "Steinwolle",
+      "Glaswolle"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 268,
+      "prompt_tokens": 1689,
+      "total_tokens": 1957,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.356,
+    "company": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "inference_cost_usd": 0.0002761
+  }
+}

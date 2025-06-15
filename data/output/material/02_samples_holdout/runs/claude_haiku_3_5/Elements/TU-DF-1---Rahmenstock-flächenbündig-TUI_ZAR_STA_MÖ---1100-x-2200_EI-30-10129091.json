@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Innenliegende Brandschutztür (EI 30) mit Stahlzarge, nicht als Fluchttür gekennzeichnet, rechteckig, mit Edelstahl-Oberfläche",
+    "Preliminary Selection": [
+      "Innentüre, Funktionstüre, Holz, Stahlzarge",
+      "Innentüre, Zimmertüre, Holz, Stahlzarge"
+    ],
+    "Matched Materials": [
+      "Innentüre, Funktionstüre, Holz, Stahlzarge"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2386,
+      "completion_tokens": 166,
+      "total_tokens": 2552,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.838,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0025728
+  }
+}

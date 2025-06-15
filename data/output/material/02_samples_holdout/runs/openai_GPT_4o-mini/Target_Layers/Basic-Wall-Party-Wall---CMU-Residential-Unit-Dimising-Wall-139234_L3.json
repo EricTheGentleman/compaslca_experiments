@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine Wand (IfcWallStandardCase) mit dem Material 'Masonry - Concrete Block' und hat eine Dicke von 0.193 m. Es gibt mehrere andere Materialschichten, darunter Platten und Metall. Die Wand ist nicht tragend und ist extern.",
+    "Preliminary Selection": [
+      "Zementstein",
+      "Backstein",
+      "Kalksandstein",
+      "Porenbetonstein"
+    ],
+    "Matched Materials": [
+      "Zementstein",
+      "Backstein",
+      "Kalksandstein",
+      "Porenbetonstein"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 124,
+      "prompt_tokens": 1465,
+      "total_tokens": 1589,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.838,
+    "company": "OpenAI",
+    "model": "gpt-4o-mini",
+    "inference_cost_usd": 0.0011766
+  }
+}

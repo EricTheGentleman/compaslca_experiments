@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is a wall with multiple layers, including a plasterboard layer with a thickness of 0.016 meters. The wall is described as 'Basic Wall:Exterior - Brick on Block' and is of type IfcWallStandardCase. The plasterboard is the target material for inference.",
+    "Preliminary Selection": "Mörtel und Putze",
+    "Matched Category": "Mörtel und Putze"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 99,
+      "prompt_tokens": 1379,
+      "total_tokens": 1478,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 2.256,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.008875
+  }
+}

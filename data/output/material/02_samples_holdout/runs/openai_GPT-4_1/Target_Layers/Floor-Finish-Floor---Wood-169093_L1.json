@@ -1,0 +1,49 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element is an IfcSlab (floor), specifically a finish floor layer with 'Wood - Flooring' as material, thickness 16mm. Classification and naming indicate wood flooring, likely hardwood or engineered wood. No explicit wood species or product type given.",
+    "Preliminary Selection": [
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt, Produktion Schweiz",
+      "Massivholz Buche / Eiche, kammergetrocknet, rau",
+      "Massivholz Buche / Eiche, kammergetrocknet, rau, Produktion Schweiz",
+      "Massivholz Buche / Eiche, luftgetrocknet, rau",
+      "Massivholz Buche / Eiche, luftgetrocknet, rau, Produktion Schweiz",
+      "Furniersperrholz",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich"
+    ],
+    "Matched Materials": [
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt, Produktion Schweiz",
+      "Massivholz Buche / Eiche, kammergetrocknet, rau",
+      "Massivholz Buche / Eiche, kammergetrocknet, rau, Produktion Schweiz",
+      "Massivholz Buche / Eiche, luftgetrocknet, rau",
+      "Massivholz Buche / Eiche, luftgetrocknet, rau, Produktion Schweiz",
+      "Furniersperrholz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "completion_tokens": 364,
+      "prompt_tokens": 1617,
+      "total_tokens": 1981,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.892,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.006146
+  }
+}

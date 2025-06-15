@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Target material: 'Standard - Fußboden-Schmutzabstreifer' (floor dirt scraper/entrance mat), 25mm thick. Building element: IfcCovering type Floor, specifically an entrance mat system ('Schmutzstreifen'). Part of a floor assembly with concrete and insulation layers. Classification: 'Bodenbelag' (floor covering).",
+    "Preliminary Selection": "Bodenbeläge",
+    "Matched Category": "Bodenbeläge"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1898,
+      "completion_tokens": 138,
+      "total_tokens": 2036,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 7.677,
+    "company": "Anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.03882
+  }
+}

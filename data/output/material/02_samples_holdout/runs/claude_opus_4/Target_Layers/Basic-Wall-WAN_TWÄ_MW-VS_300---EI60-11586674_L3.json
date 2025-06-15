@@ -1,0 +1,31 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Luftschicht mit 20mm Dicke als Teil einer Leichtbauwand (WAN_TWÄ_MW+VS_300). Die Wand besteht aus Gipsplatten, Dämmung, Luftschicht und Kalksandstein. Es handelt sich um eine nichttragende Innenwand.",
+    "Preliminary Selection": [],
+    "Matched Materials": []
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mauersteine",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2457,
+      "completion_tokens": 112,
+      "total_tokens": 2569,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 8.644,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.045255
+  }
+}

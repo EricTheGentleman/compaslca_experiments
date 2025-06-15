@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab (interior floor) with non-load-bearing layer named \"Heraklit-Platte\", 10 mm thick; Heraklit boards are cement-bound wood-wool lightweight panels.",
+    "Preliminary Selection": [
+      "Holzwolle-Leichtbauplatte, zementgebunden",
+      "Hartfaserplatte"
+    ],
+    "Matched Materials": [
+      "Holzwolle-Leichtbauplatte, zementgebunden"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2013,
+      "completion_tokens": 490,
+      "total_tokens": 2503,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 57.242,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.07946
+  }
+}

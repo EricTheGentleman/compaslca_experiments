@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Leichtbau-Innenwand, nicht tragend, Feuerwiderstand EI30; Ziel-Lage ist Trockenbau-Gipsplatte 25 mm (Gipskarton-/Gipsfaserplatte).",
+    "Preliminary Selection": [
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gipskartonplatte"
+    ],
+    "Matched Materials": [
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gipskartonplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1732,
+      "completion_tokens": 646,
+      "total_tokens": 2378,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 14.345,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.008632
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcSlab element named 'Floor:Galerie Fussbodenaufbau' with multiple layers including 'Knauf - Vidiwall' (0.015m), 'PU Bodenbelag - Sika PS23' (0.004m), 'Knauf - Brio Heizboden 25' (0.025m), and 'Trittschalldämmung Flumroc 341' (0.03m). Element is a non-structural interior floor with total thickness 0.074m, room bounding, and categorized under Floors.",
+    "Preliminary Selection": [
+      "Gipskartonplatte",
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell"
+    ],
+    "Matched Materials": [
+      "Gipskartonplatte",
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1398,
+      "completion_tokens": 212,
+      "total_tokens": 1610,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 3.819,
+    "company": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "inference_cost_usd": 0.0008984
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element name \"Bleche Fassade\" points to sheet-metal facade cladding; type IfcBuildingElementProxy, category Generic Models, located at entrance level/roof construction; no detailed material given – only that it is a metal sheet for exterior façade use.",
+    "Preliminary Selection": [
+      "Aluminiumblech, blank",
+      "Chromnickelstahlblech 18/8 blank",
+      "Chromstahlblech blank",
+      "Stahlblech, verzinkt",
+      "Kupferblech, blank",
+      "Titanzinkblech"
+    ],
+    "Matched Materials": [
+      "Aluminiumblech, blank",
+      "Stahlblech, verzinkt",
+      "Titanzinkblech"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1217,
+      "completion_tokens": 920,
+      "total_tokens": 2137,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 76.085,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.09794
+  }
+}

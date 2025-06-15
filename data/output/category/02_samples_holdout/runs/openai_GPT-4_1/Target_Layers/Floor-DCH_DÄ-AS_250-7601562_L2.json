@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Main material is 'Beton - Überbeton' (concrete overlay) with 0.06m thickness in a floor (IfcSlab) assembly; other layers are asphalt and rigid insulation.",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1485,
+      "completion_tokens": 70,
+      "total_tokens": 1555,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.241,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.00353
+  }
+}

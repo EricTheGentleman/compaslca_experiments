@@ -1,0 +1,38 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWallStandardCase, Basic Wall '3-Schichtplatte 27mm - Schalplatte'; single layer 0.027 m, material name '3-Schicht-Platte' (dreischichtige Massivholzplatte); non-bearing exterior wall, spruce/pine shuttering panel type.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",
+      "Sperrholz/Multiplex, UF-gebunden, Trockenbereich",
+      "Furniersperrholz"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1775,
+      "completion_tokens": 862,
+      "total_tokens": 2637,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 18.122,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.010446
+  }
+}

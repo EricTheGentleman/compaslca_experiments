@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Material name is 'Putz' (plaster), thickness 0.02m, first layer of a non-loadbearing external wall; other layer is 'Dämmung - weich' (soft insulation); wall type is 'Basic Wall:WAN_ASW_DÄ-PU_220'.",
+    "Preliminary Selection": "Mörtel und Putze",
+    "Matched Category": "Mörtel und Putze"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1440,
+      "completion_tokens": 97,
+      "total_tokens": 1537,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.535,
+    "company": "OpenAI",
+    "model": "gpt-4.1",
+    "inference_cost_usd": 0.003656
+  }
+}

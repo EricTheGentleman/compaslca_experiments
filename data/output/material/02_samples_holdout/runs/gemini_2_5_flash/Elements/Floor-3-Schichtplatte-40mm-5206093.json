@@ -1,0 +1,59 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist eine 40mm dicke „3-Schichtplatte“ vom Typ IfcSlab (Boden). Das Material ist als „Massivholz“ angegeben. Das Element ist als nicht-tragend (`Structural: False`) und für den Innenausbau (`Construction.Function: Interior`) klassifiziert.",
+    "Preliminary Selection": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt, Produktion Schweiz",
+      "Massivholz Buche / Eiche, kammergetrocknet, rau",
+      "Massivholz Buche / Eiche, kammergetrocknet, rau, Produktion Schweiz",
+      "Massivholz Buche / Eiche, luftgetrocknet, rau",
+      "Massivholz Buche / Eiche, luftgetrocknet, rau, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau, Produktion Schweiz"
+    ],
+    "Matched Materials": [
+      "3- und 5-Schicht Massivholzplatte",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt",
+      "Massivholz Buche / Eiche, kammergetrocknet, gehobelt, Produktion Schweiz",
+      "Massivholz Buche / Eiche, kammergetrocknet, rau",
+      "Massivholz Buche / Eiche, kammergetrocknet, rau, Produktion Schweiz",
+      "Massivholz Buche / Eiche, luftgetrocknet, rau",
+      "Massivholz Buche / Eiche, luftgetrocknet, rau, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",
+      "Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",
+      "Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau, Produktion Schweiz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1882,
+      "completion_tokens": 701,
+      "total_tokens": 2583,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 35.494,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.0027358
+  }
+}

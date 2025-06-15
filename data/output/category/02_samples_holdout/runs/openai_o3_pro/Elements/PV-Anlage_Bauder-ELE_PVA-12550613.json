@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "BuildingElementProxy named PV-Anlage (photovoltaic system). No specific material provided; represents rooftop PV equipment.",
+    "Preliminary Selection": "Metallbaustoffe",
+    "Matched Category": "None"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 969,
+      "completion_tokens": 381,
+      "total_tokens": 1350,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 51.593,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.04986
+  }
+}

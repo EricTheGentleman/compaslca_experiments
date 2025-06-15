@@ -1,0 +1,14 @@
+KBOB Category,Average F0.5 Score,Number of Samples
+"Anstrichstoffe, Beschichtungen",0.8333333333333334,1
+Beton,0.7994572504644383,33
+Bodenbeläge,0.6,10
+"Dichtungsbahnen, Schutzfolien",1.0,3
+"Fenster, Sonnenschutz, Fassadenplatten",0.7076054172828367,11
+Holz und Holzwerkstoffe,0.7452945345368619,34
+Kunststoffe,1.0,2
+Mauersteine,0.9285714285714285,12
+Metallbaustoffe,0.686443588241236,39
+"Mineralische Platten, Schüttungen, Steine und Ziegel",0.9207589285714286,8
+Mörtel und Putze,0.9343394062605885,7
+Türen,0.6800065876152832,8
+Wärmedämmstoffe,0.7821807780825712,28

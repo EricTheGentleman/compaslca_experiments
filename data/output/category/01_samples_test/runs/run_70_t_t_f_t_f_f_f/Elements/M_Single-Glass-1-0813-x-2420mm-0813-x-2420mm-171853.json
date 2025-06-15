@@ -1,0 +1,29 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcDoor with single-glass, dimensions 0813 x 2420mm, external, fire-rated, new construction, no specific material defined.",
+    "Matched Category": "Türen"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 50,
+      "prompt_tokens": 1047,
+      "total_tokens": 1097,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1024
+      }
+    },
+    "processing_time": 1.228,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.006235
+  }
+}

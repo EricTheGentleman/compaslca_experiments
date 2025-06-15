@@ -1,0 +1,35 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das IfcBuildingElement ist ein IfcSlab (Floor) namens 'Floor:AHD_DÄ_150' mit dem Material 'Heraklit-Platte' (1 cm Dicke) als eine Schicht. Es ist als 'Deckenbekleidung' (Bauteilklasse) und 'Innenausbau' (Workset) klassifiziert und ist nicht tragend (LoadBearing: False, Structural: False). Eine weitere Schicht ist 'Dämmung - weich'. Eine Heraklit-Platte ist typischerweise eine zementgebundene Holzwolle-Leichtbauplatte.",
+    "Preliminary Selection": [
+      "Holzwolle-Leichtbauplatte, zementgebunden"
+    ],
+    "Matched Materials": [
+      "Holzwolle-Leichtbauplatte, zementgebunden"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Holz und Holzwerkstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2221,
+      "completion_tokens": 187,
+      "total_tokens": 2408,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 9.559,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.00098765
+  }
+}

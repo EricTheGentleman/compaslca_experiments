@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcCovering Element (Bodenbelag) mit Material 'Standard - Fußboden-Schmutzabstreifer', 25mm dick, Teil eines Bodenaufbaus mit Schmutzstreifen-Funktion. Beschreibung deutet auf Zementestrich hin, aber Zielschicht ist der Schmutzabstreifer als oberste Lage.",
+    "Preliminary Selection": [
+      "Gummigranulat versiegelt, 7.5 mm",
+      "Kautschuk, 2 mm",
+      "Teppich Nadelfilz",
+      "Synthetische thermoplastische Beläge (TPO), 2 mm"
+    ],
+    "Matched Materials": [
+      "Gummigranulat versiegelt, 7.5 mm",
+      "Kautschuk, 2 mm",
+      "Teppich Nadelfilz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Bodenbeläge",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2709,
+      "completion_tokens": 233,
+      "total_tokens": 2942,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 6.147,
+    "company": "anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.011622
+  }
+}

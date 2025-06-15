@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcWall named 'Basic Wall:WAT_KWA_STB_785' made of material 'Beton - Ortbeton bewehrt' (reinforced in-situ concrete); structural, load-bearing interior wall.",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 1435,
+      "completion_tokens": 143,
+      "total_tokens": 1578,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 4.825,
+    "company": "Openai",
+    "model": "o3",
+    "inference_cost_usd": 0.004014
+  }
+}

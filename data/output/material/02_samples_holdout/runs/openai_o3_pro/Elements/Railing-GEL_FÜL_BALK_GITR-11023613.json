@@ -1,0 +1,37 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcRailing (balcony railing) located outside; declared material \"Drahtgitter verzinkt\" (galvanized wire mesh) ⇒ galvanized steel is required.",
+    "Preliminary Selection": [
+      "Stahlblech, verzinkt",
+      "Stahlprofil, blank",
+      "Stahlblech, blank"
+    ],
+    "Matched Materials": [
+      "Stahlblech, verzinkt"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Metallbaustoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1174,
+      "completion_tokens": 475,
+      "total_tokens": 1649,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 53.463,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.06148
+  }
+}

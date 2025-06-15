@@ -1,0 +1,17 @@
+{
+    "name": "Floor-3-Schichtplatte-40mm-5206093",
+    "category": "Holz und Holzwerkstoffe",
+    "material_entries": [
+        "3- und 5-Schicht Massivholzplatte"
+    ],
+    "reason": [
+        "exact semantic match"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "HiLo",
+    "Design Stage": "Technical Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

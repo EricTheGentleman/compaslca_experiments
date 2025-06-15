@@ -1,0 +1,22 @@
+{
+    "name": "Floor-Floor_Linoleum_5mm-21756586-2",
+    "category": "Bodenbeläge",
+    "material_entries": [
+        "Linoleum, 2.5 mm"
+    ],
+    "reason": [
+        "name says linoleum, which is a bodenbelag",
+        "semantic match is found in category",
+        "doesnt fit with the description of 5mm",
+        "but that's fine, i match it anyway (its a good approximation)",
+        "technically in an LCA one would have to calculate the impact times 2",
+        "because the impact indicator reference is square meter, not volume"
+    ],
+    "Type": "IfcSlab",
+    "Matching Scenario": "Precise",
+    "Data Structure": "Element",
+    "Model": "zwhatt_xrite",
+    "Design Stage": "Concept Design",
+    "Language": "German",
+    "Material Entries Count": 1
+}

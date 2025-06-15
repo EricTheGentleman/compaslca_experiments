@@ -1,0 +1,49 @@
+{
+  "llm_response": {
+    "Key Information Summary": "External non-loadbearing wall (IfcWallStandardCase) with outermost layer named \"Putz\", 20 mm thick, located on the exterior finish face above a 280 mm soft insulation layer – typical ETICS render / exterior plaster.",
+    "Preliminary Selection": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Zementputz",
+      "Weisszementputz",
+      "Leichtputz mineralisch",
+      "Kunststoffputz (Dispersionsputz)",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Wärmedämmputz EPS",
+      "Baukleber/Einbettmörtel organisch"
+    ],
+    "Matched Materials": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Zementputz",
+      "Weisszementputz",
+      "Leichtputz mineralisch",
+      "Kunststoffputz (Dispersionsputz)",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1661,
+      "completion_tokens": 1008,
+      "total_tokens": 2669,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 77.311,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.11386
+  }
+}

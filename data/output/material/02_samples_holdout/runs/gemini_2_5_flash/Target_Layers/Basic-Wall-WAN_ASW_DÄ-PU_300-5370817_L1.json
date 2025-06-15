@@ -1,0 +1,49 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Das Zielmaterial ist 'Putz' (Render/Putz). Das IfcBuildingElement ist eine 'IfcWallStandardCase', die durch mehrere Kontextinformationen (z.B. 'IsExternal: True', 'Location Line: Finish Face: Exterior', 'Construction.Function: Exterior', 'Gewerbebau.Bauteilart: Fassadenbekleidung') eindeutig als Außenfassadenwand identifiziert wird. Diese 'Putz'-Schicht hat eine Dicke von 0.02m und ist wahrscheinlich eine abschließende Schicht auf einer vorhandenen 'Dämmung - weich' (weiche Dämmung) Schicht.",
+    "Preliminary Selection": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Sumpfkalkputz",
+      "Weisszementputz",
+      "Zementputz"
+    ],
+    "Matched Materials": [
+      "Kalk-Zement/Zement-Kalk-Putz",
+      "Kunststoffputz (Dispersionsputz)",
+      "Leichtputz mineralisch",
+      "Silikatputz (Dispersionssilikatputz)",
+      "Silikonharzputz",
+      "Sumpfkalkputz",
+      "Weisszementputz",
+      "Zementputz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mörtel und Putze",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1853,
+      "completion_tokens": 343,
+      "total_tokens": 2196,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 17.618,
+    "company": "Gemini",
+    "model": "gemini-2.5-flash-preview-05-20",
+    "inference_cost_usd": 0.00147845
+  }
+}

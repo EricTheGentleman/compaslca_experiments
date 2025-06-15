@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcPlate Fassadenelement aus Isolierverglasung, klar, für Aussenfassade, Elementtyp Curtain Panel",
+    "Preliminary Selection": [
+      "Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, ESG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, ESG/VSG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K, Dicke 40 mm",
+      "Isolierverglasung 3-fach, ESG/ESG, Ug-Wert 0.6 W/m2K"
+    ],
+    "Matched Materials": [
+      "Isolierverglasung 2-fach, ESG, Ug-Wert 1.1 W/m2K",
+      "Isolierverglasung 2-fach, ESG/VSG, Ug-Wert 1.1 W/m2K"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Fenster, Sonnenschutz, Fassadenplatten",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2562,
+      "completion_tokens": 346,
+      "total_tokens": 2908,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 7.745,
+    "company": "Anthropic",
+    "model": "claude-3-5-haiku-latest",
+    "inference_cost_usd": 0.0034336
+  }
+}

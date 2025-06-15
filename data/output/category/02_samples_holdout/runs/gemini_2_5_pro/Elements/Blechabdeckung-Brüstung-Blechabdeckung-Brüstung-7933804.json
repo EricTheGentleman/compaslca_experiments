@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Element named \"Blechabdeckung Brüstung\" (sheet metal parapet covering), typed as IfcWall. Material is not defined. The term \"Blech\" (sheet metal) is prominent in its name and object type.",
+    "Preliminary Selection": "Metallbaustoffe",
+    "Matched Category": "Metallbaustoffe"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "prompt_tokens": 979,
+      "completion_tokens": 85,
+      "total_tokens": 1064,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 19.666,
+    "company": "Gemini",
+    "model": "gemini-2.5-pro-preview-05-06",
+    "inference_cost_usd": 0.00207375
+  }
+}

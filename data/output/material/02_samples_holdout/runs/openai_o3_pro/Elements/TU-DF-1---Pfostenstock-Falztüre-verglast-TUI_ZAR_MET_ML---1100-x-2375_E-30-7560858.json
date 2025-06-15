@@ -1,0 +1,36 @@
+{
+  "llm_response": {
+    "Key Information Summary": "IfcDoor; interior (IsExternal=false); frame material steel/metal; glazed (Material: clear glass); fire rating E30; escape door.",
+    "Preliminary Selection": [
+      "Innentüre, Aluminium, Glaseinsatz",
+      "Innentüre, Funktionstüre, Holz, Stahlzarge"
+    ],
+    "Matched Materials": [
+      "Innentüre, Aluminium, Glaseinsatz"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Türen",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1719,
+      "completion_tokens": 538,
+      "total_tokens": 2257,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 77.309,
+    "company": "Openai",
+    "model": "o3-pro-2025-06-10",
+    "inference_cost_usd": 0.07742
+  }
+}

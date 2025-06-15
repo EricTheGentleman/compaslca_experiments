@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Trockenbau-Gipsplatte, 2.5cm dick, Teil einer Innenwand (WAN_TWÄ_GK_100 - EI30) mit Feuerwiderstandsklasse EI 30. Leichtbauwand-Konstruktion für Innenausbau.",
+    "Preliminary Selection": [
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte",
+      "Gipsfaserplatte Fermacell",
+      "Gipskartonplatte"
+    ],
+    "Matched Materials": [
+      "Gipskartonplatte",
+      "Gips-Wandbauplatte / Vollgipsplatte",
+      "Gipsfaserplatte"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 2299,
+      "completion_tokens": 195,
+      "total_tokens": 2494,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 5.047,
+    "company": "anthropic",
+    "model": "claude-sonnet-4-0",
+    "inference_cost_usd": 0.009822
+  }
+}

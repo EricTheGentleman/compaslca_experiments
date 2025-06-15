@@ -1,0 +1,40 @@
+{
+  "llm_response": {
+    "Key Information Summary": "Trittschalldämmung (impact sound insulation) layer in a gallery floor construction, specifically Flumroc 341 product with 30mm thickness. This is layer 4 in a floor assembly that includes PU flooring, Knauf boards, and underfloor heating system.",
+    "Preliminary Selection": [
+      "Steinwolle",
+      "Steinwolle, Flumroc",
+      "Glaswolle",
+      "Glaswolle, Isover, pflanzliches Bindemittel",
+      "Glaswolle, Isover, phenolbasiertes Bindemittel"
+    ],
+    "Matched Materials": [
+      "Steinwolle",
+      "Steinwolle, Flumroc"
+    ]
+  },
+  "llm_metadata": {
+    "matched_type": "material",
+    "category": "Wärmedämmstoffe",
+    "message": "No match found",
+    "token_usage": {
+      "prompt_tokens": 1996,
+      "completion_tokens": 180,
+      "total_tokens": 2176,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 10.005,
+    "company": "anthropic",
+    "model": "claude-opus-4-0",
+    "inference_cost_usd": 0.04344
+  }
+}

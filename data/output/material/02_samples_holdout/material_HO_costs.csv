@@ -1,7 +1,0 @@
-run_name,total_cost,average_cost,total_completion_tokens,average_completion_tokens,total_prompt_tokens,average_prompt_tokens
-run_64_t_t_t_t_t_t,0.85288,0.014215,15128,252.13,110064,1834.4
-run_24_f_t_f_t_t_t,0.77107,0.012851,14827,247.12,94906,1581.77
-run_22_f_t_f_t_f_t,0.63579,0.010597,9203,153.38,90346,1505.77
-run_32_f_t_t_t_t_t,0.78829,0.013138,15118,251.97,97186,1619.77
-run_50_t_t_f_f_f_t,0.59588,0.009931,5968,99.47,95304,1588.4
-run_1_f_f_f_f_f_f,0.48846,0.008141,6540,109.0,71532,1192.2

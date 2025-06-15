@@ -1,0 +1,30 @@
+{
+  "llm_response": {
+    "Key Information Summary": "The IfcBuildingElement is an IfcBeam with the name 'Fertigteil-TT-Platte - Ausklinkung beidseitig - ohne Fase:TRA_RIP_STB_2750 x 480_ohne gabel:2623718'. The material is specified as 'Betonfertigteil', indicating it is a precast concrete element. It is used for structural framing and is load-bearing.",
+    "Preliminary Selection": "Beton",
+    "Matched Category": "Beton"
+  },
+  "llm_metadata": {
+    "matched_type": "category",
+    "message": "Match successful",
+    "token_usage": {
+      "completion_tokens": 117,
+      "prompt_tokens": 1997,
+      "total_tokens": 2114,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "processing_time": 1.74,
+    "company": "openai",
+    "model": "gpt-4o",
+    "inference_cost_usd": 0.012325
+  }
+}
