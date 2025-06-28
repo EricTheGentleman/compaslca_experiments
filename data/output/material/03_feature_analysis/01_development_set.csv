@@ -28,7 +28,6 @@ Floor-AHD_DÄ_160-12312285,Wärmedämmstoffe,IfcSlab,Ambiguous,Element,zwhatt51
 Basic-Wall-Fensterlaibung-40mm-6514187,Holz und Holzwerkstoffe,IfcWallStandardCase,Ambiguous,Element,HiLo,Technical Design,German,4,Basic-Wall-Fensterlaibung-40mm-6514187.json,0.6666666666666666,1.0,0.8,0.7142857142857143
 Basic-Wall-WAN_BRÜ_STB_160-dachrand-8113151,Beton,IfcWallStandardCase,Ambiguous,Element,zwhatt32,Developed Design,German,7,Basic-Wall-WAN_BRÜ_STB_160-dachrand-8113151.json,0.7,1.0,0.8235294117647058,0.7446808510638298
 Geländer-Kern-6-OG2-GEL_TREP_6OG-14099961,Metallbaustoffe,IfcRailing,Precise,Element,zwhatt51,Technical Design,German,1,Geländer-Kern-6-OG2-GEL_TREP_6OG-14099961.json,0.5,1.0,0.6666666666666666,0.5555555555555556
-1072_210525_TreppeInnenRevitExport_MK-1072_210525_TreppeInnenRevitExport_MK-7935324,,IfcBuildingElementProxy,True Negative,Element,HiLo,Technical Design,German,0,,,,,
 Floor-Funicular-Floor-687636_L2,Beton,IfcSlab,Ambiguous,Target Layer,HiLo,Technical Design,German,5,Floor-Funicular-Floor-687636_L2.json,0.3,0.6,0.4,0.3333333333333333
 Floor-OSB-22mm-4937655,Holz und Holzwerkstoffe,IfcSlab,Precise,Element,HiLo,Technical Design,German,1,Floor-OSB-22mm-4937655.json,1.0,1.0,1.0,1.0
 Basic-Wall-FAS_ASW_DÄ-ABD_120-13861927_L3,"Dichtungsbahnen, Schutzfolien",IfcWall,Ambiguous,Target Layer,zwhatt41,Technical Design,German,4,Basic-Wall-FAS_ASW_DÄ-ABD_120-13861927_L3.json,1.0,1.0,1.0,1.0
@@ -92,10 +91,8 @@ STB-Stütze---rechteckig-STZ_RTE_STB_450-x-450-2634854,Beton,IfcColumn,Precise,
 Basic-Roof-Bef-TRP70-1206363_L2,Wärmedämmstoffe,IfcSlab,Ambiguous,Target Layer,LTU,Technical Design,English,6,Basic-Roof-Bef-TRP70-1206363_L2.json,1.0,0.3333333333333333,0.5,0.7142857142857143
 Wall-Foundation-Bearing-Footing---900-x-300-186596,Beton,IfcFooting,Ambiguous,Element,Duplex,Developed Design,English,7,Wall-Foundation-Bearing-Footing---900-x-300-186596.json,0.2727272727272727,0.4285714285714285,0.3333333333333333,0.2941176470588235
 Shell_V12-Shell_V12-5294566,Beton,IfcBuildingElementProxy,Precise,Element,HiLo,Technical Design,German,1,Shell_V12-Shell_V12-5294566.json,1.0,1.0,1.0,1.0
-hlks1-hlks-10122938,,IfcBuildingElementProxy,True Negative,Element,zwhatt32,Developed Design,German,0,,,,,
 M_W-Wide-Flange-W310X60-W310X60-207325,Metallbaustoffe,IfcBeam,Precise,Element,Duplex,Developed Design,English,1,M_W-Wide-Flange-W310X60-W310X60-207325.json,1.0,1.0,1.0,1.0
 Basic-Wall-WAN_TWÄ_MW_150-KS-10152070,Mauersteine,IfcWallStandardCase,Precise,Element,zwhatt32,Developed Design,German,2,Basic-Wall-WAN_TWÄ_MW_150-KS-10152070.json,0.6666666666666666,1.0,0.8,0.7142857142857143
-Surface-2872326,,IfcBuildingElementProxy,True Negative,Element,zwhatt31,Concept Design,German,0,,,,,
 Basic-Wall-WAN_ASW_DÄ-BET_300-5102504_L1,Beton,IfcWallStandardCase,Precise,Target Layer,zwhatt32,Developed Design,German,2,Basic-Wall-WAN_ASW_DÄ-BET_300-5102504_L1.json,1.0,1.0,1.0,1.0
 Basic-Wall-Purenit-Fusspunkt-6169888,Wärmedämmstoffe,IfcWall,Precise,Element,HiLo,Technical Design,German,2,Basic-Wall-Purenit-Fusspunkt-6169888.json,1.0,1.0,1.0,1.0
 M_Skylight-1180-x-1170mm-1180-x-1170mm-185337,"Fenster, Sonnenschutz, Fassadenplatten",IfcWindow,Ambiguous,Element,Duplex,Developed Design,English,4,M_Skylight-1180-x-1170mm-1180-x-1170mm-185337.json,0.3636363636363636,1.0,0.5333333333333333,0.4166666666666667
@@ -123,7 +120,6 @@ Stair-Concrete-716803-1,Beton,IfcStairFlight,Ambiguous,Element,LTU,Technical Des
 UnnamedElement,Metallbaustoffe,IfcRailing,Precise,Element,KIT_SmileyWest,Concept Design,German,1,UnnamedElement.json,0.5,1.0,0.6666666666666666,0.5555555555555556
 Basic-Wall-WAN_TWÄ_GK_100_VS-4246877_L1,"Mineralische Platten, Schüttungen, Steine und Ziegel",IfcWallStandardCase,Ambiguous,Target Layer,zwhatt32,Developed Design,German,4,Basic-Wall-WAN_TWÄ_GK_100_VS-4246877_L1.json,1.0,0.75,0.8571428571428571,0.9375
 Column-Planed-Wood-38x145-946122,Holz und Holzwerkstoffe,IfcColumn,Ambiguous,Element,LTU,Technical Design,English,5,Column-Planed-Wood-38x145-946122.json,1.0,1.0,1.0,1.0
-Stair-Residential---200mm-Max-Riser-250mm-Tread-151086-1,,IfcMember,True Negative,Element,Duplex,Developed Design,English,0,,,,,
 Fassade-Ecke-EG1-FAS_ECK_EG-12651885,Metallbaustoffe,IfcWall,Precise,Element,zwhatt51,Technical Design,German,2,Fassade-Ecke-EG1-FAS_ECK_EG-12651885.json,0.6666666666666666,1.0,0.8,0.7142857142857143
 Systemelement-Profilglas-15----mittig-21414704,"Fenster, Sonnenschutz, Fassadenplatten",IfcPlate,Precise,Element,zwhatt_xrite,Concept Design,German,1,Systemelement-Profilglas-15----mittig-21414704.json,0.3333333333333333,1.0,0.5,0.3846153846153846
 M_Single-Glass-1-0813-x-2420mm-0813-x-2420mm-171853,Türen,IfcDoor,Precise,Element,Duplex,Developed Design,English,2,M_Single-Glass-1-0813-x-2420mm-0813-x-2420mm-171853.json,0.4,1.0,0.5714285714285714,0.4545454545454545

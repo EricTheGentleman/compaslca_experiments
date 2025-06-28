@@ -1,0 +1,13 @@
+
+# === Model Choice ===
+model_config:
+
+  company: "Openai"   # "OpenAI", "Anthropic", "Gemini"
+
+  model: "o3-pro-2025-06-10"
+
+  key: 'YOUR_API_KEY'
+  
+  max_tokens: 2048
+
+  temperature: 0
